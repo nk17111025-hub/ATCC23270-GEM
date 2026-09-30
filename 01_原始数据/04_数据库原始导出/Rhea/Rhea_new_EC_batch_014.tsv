@@ -1,0 +1,13 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:10208	an N-terminal L-alpha-aminoacyl-[protein] + L-arginyl-tRNA(Arg) = an N-terminal L-arginyl-L-aminoacyl-[protein] + tRNA(Arg) + H(+)	EC:2.3.2.8	CHEBI:78597;CHEBI:78513;CHEBI:83562;CHEBI:78442;CHEBI:15378	KEGG:R03862	MetaCyc:ARGINYLTRANSFERASE-RXN
+RHEA:12929	acetyl-CoA + 2-oxoglutarate + H2O = (2R)-homocitrate + CoA + H(+)	EC:2.3.3.14	CHEBI:57288;CHEBI:16810;CHEBI:15377;CHEBI:58884;CHEBI:57287;CHEBI:15378	KEGG:R00271	MetaCyc:HOMOCITRATE-SYNTHASE-RXN
+RHEA:13701	L-homoserine + acetyl-CoA = O-acetyl-L-homoserine + CoA	EC:2.3.1.31	CHEBI:57476;CHEBI:57288;CHEBI:57716;CHEBI:57287	KEGG:R01776	MetaCyc:HOMOSERINE-O-ACETYLTRANSFERASE-RXN
+RHEA:15349	N(2)-acetyl-L-ornithine + L-glutamate = N-acetyl-L-glutamate + L-ornithine	EC:2.3.1.35	CHEBI:57805;CHEBI:29985;CHEBI:44337;CHEBI:46911	KEGG:R02282	MetaCyc:GLUTAMATE-N-ACETYLTRANSFERASE-RXN
+RHEA:19521	acetyl-CoA + phosphate = acetyl phosphate + CoA	EC:2.3.1.8	CHEBI:57288;CHEBI:43474;CHEBI:22191;CHEBI:57287	KEGG:R00230	MetaCyc:PHOSACETYLTRANS-RXN
+RHEA:20633	a (3R)-hydroxyacyl-[ACP] + L-ornithine = a lyso-ornithine lipid + holo-[ACP] + H(+)	EC:2.3.2.30	CHEBI:78827;CHEBI:46911;CHEBI:138482;CHEBI:64479;CHEBI:15378	KEGG:R11801	MetaCyc:RXN-12431
+RHEA:21524	3-methyl-2-oxobutanoate + acetyl-CoA + H2O = (2S)-2-isopropylmalate + CoA + H(+)	EC:2.3.3.13	CHEBI:11851;CHEBI:57288;CHEBI:15377;CHEBI:1178;CHEBI:57287;CHEBI:15378	KEGG:R01213	MetaCyc:2-ISOPROPYLMALATESYN-RXN
+RHEA:22008	L-homoserine + succinyl-CoA = O-succinyl-L-homoserine + CoA	EC:2.3.1.46	CHEBI:57476;CHEBI:57292;CHEBI:57661;CHEBI:57287	KEGG:R01777	MetaCyc:HOMSUCTRAN-RXN
+RHEA:24560	L-serine + acetyl-CoA = O-acetyl-L-serine + CoA	EC:2.3.1.30	CHEBI:33384;CHEBI:57288;CHEBI:58340;CHEBI:57287	KEGG:R00586	MetaCyc:SERINE-O-ACETTRAN-RXN
+RHEA:34075	an acyl phosphate + sn-glycerol 3-phosphate = a 1-acyl-sn-glycero-3-phosphate + phosphate	EC:2.3.1.275	CHEBI:59918;CHEBI:57597;CHEBI:57970;CHEBI:43474		MetaCyc:RXN-9591
+RHEA:50412	N-terminal L-glutamyl-[protein] + L-leucyl-tRNA(Leu) = N-terminal L-leucyl-L-glutamyl-[protein] + tRNA(Leu) + H(+)	EC:2.3.2.29	CHEBI:64721;CHEBI:78494;CHEBI:133041;CHEBI:78442;CHEBI:15378		MetaCyc:RXN-17898
+RHEA:50420	N-terminal L-aspartyl-[protein] + L-leucyl-tRNA(Leu) = N-terminal L-leucyl-L-aspartyl-[protein] + tRNA(Leu) + H(+)	EC:2.3.2.29	CHEBI:64720;CHEBI:78494;CHEBI:133042;CHEBI:78442;CHEBI:15378		MetaCyc:RXN-17899

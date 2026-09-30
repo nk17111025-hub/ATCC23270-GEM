@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-09-25T20:56:26+08:00",
+  "cytred_sbml": "etpcycAox_p + 0.5 h_c + q8h2_c --> etpcycArd_p + 0.5 h_p + q8_c",
+  "cytred_table1": "0.5 h[p] + q8h2[c] + etpcycAox[p]  -> 0.5 h[c] + q8[c] + etpcycArd[p] ",
+  "genuine_mismatches": 1,
+  "mean_r2_coefficient": {
+    "SBML_ORIGINAL": 0.9225207085872575,
+    "TABLE1_CYTRED": 0.9225207085872575,
+    "CYTRED_NO_PROTON": 0.9225207487854947
+  },
+  "tsm_donor_within_fva": {
+    "SBML_ORIGINAL": {
+      "total": 6,
+      "within": 0
+    },
+    "TABLE1_CYTRED": {
+      "total": 6,
+      "within": 0
+    },
+    "CYTRED_NO_PROTON": {
+      "total": 6,
+      "within": 0
+    }
+  },
+  "exact_four_points": [
+    {
+      "idx": 2,
+      "condition": "TTM",
+      "objective": 0.01874701983224369,
+      "donor_uptake_signed": -2.295703571069972,
+      "donor_uptake_magnitude": 2.295703571069972,
+      "o2_uptake_signed": "",
+      "o2_uptake_magnitude": "",
+      "max_sv": 1.7763568394002505e-14,
+      "status": "optimal"
+    },
+    {
+      "idx": 3,
+      "condition": "TSM",
+      "objective": 0.0243711257819168,
+      "donor_uptake_signed": -4.879797992605239,
+      "donor_uptake_magnitude": 4.879797992605239,
+      "o2_uptake_signed": "",
+      "o2_uptake_magnitude": "",
+      "max_sv": 3.552713678800501e-14,
+      "status": "optimal"
+    },
+    {
+      "idx": 19,
+      "condition": "FIM",
+      "objective": 0.016734096040627082,
+      "donor_uptake_signed": -64.65466052697802,
+      "donor_uptake_magnitude": 64.65466052697802,
+      "o2_uptake_signed": -15.371941102948618,
+      "o2_uptake_magnitude": 15.371941102948618,
+      "max_sv": 1.4210854715202004e-14,
+      "status": "optimal"
+    },
+    {
+      "idx": 20,
+      "condition": "FIM",
+      "objective": 0.009127688749432953,
+      "donor_uptake_signed": -43.16390574198801,
+      "donor_uptake_magnitude": 43.16390574198801,
+      "o2_uptake_signed": -10.359126965244702,
+      "o2_uptake_magnitude": 10.359126965244702,
+      "max_sv": 7.105427357601002e-15,
+      "status": "optimal"
+    }
+  ]
+}

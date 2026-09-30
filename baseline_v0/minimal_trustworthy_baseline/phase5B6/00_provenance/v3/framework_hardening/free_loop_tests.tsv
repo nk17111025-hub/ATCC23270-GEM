@@ -1,0 +1,8 @@
+test	solver_status	maximum_flux	tolerance	result
+ATP	OPTIMAL	-0.0	1e-07	PASS
+NADH	OPTIMAL	-0.0	1e-07	PASS
+NADPH	OPTIMAL	-0.0	1e-07	PASS
+q8h2_quinol	OPTIMAL	-0.0	1e-07	PASS
+q8_quinone	OPTIMAL	-0.0	1e-07	PASS
+PMF_generation	OPTIMAL	-0.0	1e-07	PASS
+ATP_synthase_loop	OPTIMAL	-0.0	1e-07	PASS

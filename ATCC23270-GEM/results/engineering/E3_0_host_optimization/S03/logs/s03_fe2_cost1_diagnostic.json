@@ -1,0 +1,15 @@
+{
+  "branch": "S03",
+  "objective_mode": "Fe2_efficiency",
+  "max_cost": 1,
+  "time_limit": 120,
+  "solver": "scip",
+  "seed": 1,
+  "compress": true,
+  "skip_preprocessing_fvas": true,
+  "KO_candidates": 590,
+  "reg_candidates": 234,
+  "status": "error",
+  "runtime_seconds": 110.75481843948364,
+  "designs": []
+}

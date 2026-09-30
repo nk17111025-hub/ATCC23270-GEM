@@ -1,0 +1,6 @@
+﻿当前locus	当前protein ID	旧AFE locus	NCBI当前功能	KEGG KO	KEGG EC	KEGG pathway	BioCyc gene ID	BioCyc reaction ID	2016 GPR反应	2024 GPR反应	旧模型未覆盖功能候选	中央碳分类	有机碳转运分类	FeS_ETC分类	功能判定
+RU820_RS10385	WP_012537080.1	AFE_2250	carbohydrate porin	K07267			AFE_RS10360				是	不适用	当前蛋白与KEGG/反应支持底物类别，具体底物未实证	不适用	候选；需反应、底物和GPR复核
+RU820_RS13875	WP_012607593.1	AFE_2987	peptide ABC transporter substrate-binding protein	K02035		afr02024	AFE_RS13705				是	不适用	当前蛋白与KEGG/反应支持底物类别，具体底物未实证	不适用	候选；需反应、底物和GPR复核
+RU820_RS13900	WP_012537529.1	AFE_2992	peptide ABC transporter substrate-binding protein	K02035		afr02024	AFE_RS13730				是	不适用	当前蛋白与KEGG/反应支持底物类别，具体底物未实证	不适用	候选；需反应、底物和GPR复核
+RU820_RS14015	WP_012537549.1	AFE_3020	PTS sugar transporter subunit IIA	K02793	2.7.1.191	afr00051;afr00520;afr01100;afr02060	AFE_RS13835				是	不适用	当前蛋白与KEGG/反应支持底物类别，具体底物未实证	不适用	候选；需反应、底物和GPR复核
+RU820_RS14030	WP_012537551.1	AFE_3023	PTS sugar transporter subunit IIA	K02806		afr02060	AFE_RS13850				是	不适用	当前蛋白与KEGG/反应支持底物类别，具体底物未实证	不适用	候选；需反应、底物和GPR复核

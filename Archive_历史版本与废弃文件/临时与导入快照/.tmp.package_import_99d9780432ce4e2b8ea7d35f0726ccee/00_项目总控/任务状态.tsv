@@ -1,0 +1,7 @@
+﻿任务	要求执行类型	任务内容	真实状态	依赖	要求模型	实际配置
+A0	Codex	冻结基线与2024论文复原	未启动	原始资料可用	gpt-5.6-luna / high	未配置；未核验
+B1	Work	NCBI同株最新数据	未启动	项目目录可用	gpt-5.6-luna / high	未配置；未核验
+C2	Work	BioCyc菌株PGDB	未启动	项目目录可用	gpt-5.6-luna / high	未配置；未核验
+D3	Work	多数据库交叉注释	未启动	B1+C2完成；A0规范化表可用	gpt-5.6-luna / high	未配置；未核验
+E4	Work	候选差异表	未启动	B1+C2完成；最终需等待D3	gpt-5.6-luna / high	未配置；未核验
+总控	本机会话	最终审计与文件用途表	待接续	A0—E4交付及验收	gpt-5.6-luna / high	未配置；未核验

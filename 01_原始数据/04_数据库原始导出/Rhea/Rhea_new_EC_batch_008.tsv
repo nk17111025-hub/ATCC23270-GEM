@@ -1,0 +1,15 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:11740	2 glutathione + NADP(+) = glutathione disulfide + NADPH + H(+)	EC:1.8.1.7	CHEBI:57925;CHEBI:58349;CHEBI:58297;CHEBI:57783;CHEBI:15378	KEGG:R00115	MetaCyc:GLUTATHIONE-REDUCT-NADPH-RXN
+RHEA:13409	7-aminomethyl-7-carbaguanine + 2 NADP(+) = 7-cyano-7-carbaguanine + 2 NADPH + 3 H(+)	EC:1.7.1.13	CHEBI:58703;CHEBI:58349;CHEBI:45075;CHEBI:57783;CHEBI:15378	KEGG:R07605	MetaCyc:RXN0-4022
+RHEA:13801	hydrogen sulfide + 3 NADP(+) + 3 H2O = sulfite + 3 NADPH + 4 H(+)	EC:1.8.1.2	CHEBI:29919;CHEBI:58349;CHEBI:15377;CHEBI:17359;CHEBI:57783;CHEBI:15378	KEGG:R00858	MetaCyc:SULFITE-REDUCT-RXN
+RHEA:16993	S-disulfanyl-L-cysteinyl-[SoxY protein] + 6 Fe(III)-[cytochrome c] + 3 H2O = S-sulfosulfanyl-L-cysteinyl-[SoxY protein] + 6 Fe(II)-[cytochrome c] + 7 H(+)	EC:1.8.2.6	CHEBI:139319;CHEBI:29034;CHEBI:15377;CHEBI:139321;CHEBI:29033;CHEBI:15378	KEGG:R11971	MetaCyc:RXN-18798
+RHEA:18805	[DsbA protein]-disulfide + [protein]-dithiol = [DsbA protein]-dithiol + [protein]-disulfide	EC:1.8.4.15	CHEBI:50058;CHEBI:29950		MetaCyc:RXN0-7310
+RHEA:19821	(6S)-5-methyl-5,6,7,8-tetrahydrofolate + NAD(+) = (6R)-5,10-methylene-5,6,7,8-tetrahydrofolate + NADH + H(+)	EC:1.5.1.20;EC:1.5.1.54	CHEBI:18608;CHEBI:57540;CHEBI:15636;CHEBI:57945;CHEBI:15378	KEGG:R07168	MetaCyc:RXN-22438
+RHEA:20345	[thioredoxin]-dithiol + NADP(+) = [thioredoxin]-disulfide + NADPH + H(+)	EC:1.8.1.9	CHEBI:29950;CHEBI:58349;CHEBI:50058;CHEBI:57783;CHEBI:15378	KEGG:R02016	MetaCyc:THIOREDOXIN-REDUCT-NADPH-RXN
+RHEA:21976	[thioredoxin]-disulfide + sulfite + AMP + 2 H(+) = adenosine 5'-phosphosulfate + [thioredoxin]-dithiol	EC:1.8.4.10	CHEBI:50058;CHEBI:17359;CHEBI:456215;CHEBI:15378;CHEBI:58243;CHEBI:29950	KEGG:R07176	MetaCyc:RXN-12019
+RHEA:22052	A + NH4(+) + H2O = hydroxylamine + AH2 + H(+)	EC:1.7.99.1	CHEBI:13193;CHEBI:28938;CHEBI:15377;CHEBI:15429;CHEBI:17499;CHEBI:15378	KEGG:R00284	MetaCyc:HYDROXYLAMINE-REDUCTASE-RXN
+RHEA:24164	L-methionyl-[protein] + [thioredoxin]-disulfide + H2O = L-methionyl-(R)-S-oxide-[protein] + [thioredoxin]-dithiol	EC:1.8.4.12	CHEBI:16044;CHEBI:50058;CHEBI:15377;CHEBI:45764;CHEBI:29950	KEGG:R07607	MetaCyc:1.8.4.12-RXN
+RHEA:14217	L-methionyl-[protein] + [thioredoxin]-disulfide + H2O = L-methionyl-(S)-S-oxide-[protein] + [thioredoxin]-dithiol	EC:1.8.4.11	CHEBI:16044;CHEBI:50058;CHEBI:15377;CHEBI:44120;CHEBI:29950	KEGG:R04120	MetaCyc:RXN-8668
+RHEA:18749	[protein]-dithiol + NAD(+) = [protein]-disulfide + NADH + H(+)	EC:1.8.1.8	CHEBI:29950;CHEBI:57540;CHEBI:50058;CHEBI:57945;CHEBI:15378	KEGG:R03913	MetaCyc:1.6.4.4-RXN
+RHEA:18753	[protein]-dithiol + NADP(+) = [protein]-disulfide + NADPH + H(+)	EC:1.8.1.8	CHEBI:29950;CHEBI:58349;CHEBI:50058;CHEBI:57783;CHEBI:15378	KEGG:R03914	MetaCyc:1.6.4.4-RXN
+RHEA:19993	[thioredoxin]-disulfide + L-methionine + H2O = L-methionine (S)-S-oxide + [thioredoxin]-dithiol	EC:1.8.4.11;EC:1.8.4.13	CHEBI:50058;CHEBI:57844;CHEBI:15377;CHEBI:58772;CHEBI:29950	KEGG:R07606	MetaCyc:1.8.4.13-RXN

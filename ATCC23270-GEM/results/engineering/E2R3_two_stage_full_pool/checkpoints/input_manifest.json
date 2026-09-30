@@ -1,0 +1,72 @@
+{
+  "B_WT": 0.052076387102740346,
+  "Fe_WT": 163.7815287437442,
+  "O2_WT": 38.48154267515412,
+  "R_REF": 0.7913449575127987,
+  "Stage1": {
+    "biomass_min": 0.07811458065411052,
+    "glucose_min_uptake": 0.05,
+    "rubisco_max": 0.23740348725383958
+  },
+  "Stage2": {
+    "biomass_min": 0.07811458065411052,
+    "glucose_min_uptake": 0.05,
+    "rubisco_max": 0.07913449575127987
+  },
+  "candidate_variants": 2427,
+  "created_utc": "2026-09-29T12:12:33.537185+00:00",
+  "fingerprint": "6a47044c69e9408352200ba87b45cf8a4e526822a2ecd4ab68c83f3f7940e52c",
+  "fva": "COBRApy flux_variability_analysis; fraction_of_optimum=0; exact explicit Stage1 phenotype constraints; loopless=None",
+  "host_path": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\before final\\updatedv3.1_verified\\updatedv3.1.xml",
+  "inputs": {
+    "E1_pool": "23b45be4333e32f2b6535813d9bb017ef019afa417f3f494267145ad1b6df0d6",
+    "E2R_script": "6877ea8b67a407e47e1ba7e7f89b71f7c0e8fa8323d2f87ddba1c64434ed3620",
+    "E2_script": "858b68b92dfebdb317a0364673f6e2240e9c3ea150860ba1dcee233b5a662594",
+    "config": "8fa939b927a781cc8bc1e1bf17a7458e9012131f9373dfb2790e209a4ed9e534",
+    "donors": {
+      "iCN1361": "c4e418d831f428a93702f2d1b6c62d6fe3538545474f12397640028169d4ce0c",
+      "iJN1463": "d573833328ffae0dfa752a1fa3262ed939ed5862288beab287fca30d0fefb4a1",
+      "iML1515": "b0f9199f048779bb08a14dfa6c09ec56d35b8750d2f99681980d0f098355fbf5"
+    },
+    "host": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+    "script": "60e4ab30adea81827e879a4b67bfba1289636166a815aa89b2e257f1c9c7be9a",
+    "thresholds": {
+      "CO2": [
+        -2.0,
+        0.0
+      ],
+      "Fe_WT": 163.7815287437442,
+      "O2_WT": 38.48154267515412,
+      "bmin": 0.07811458065411052,
+      "glucose_cap": 0.5,
+      "glucose_min": 0.05,
+      "r10": 0.07913449575127987,
+      "r30": 0.23740348725383958
+    }
+  },
+  "mixed_reference": {
+    "biomass": 0.0911667122963128,
+    "co2_flux": -0.5012687066607389,
+    "fe2_flux": -159.17929881937832,
+    "glucose_uptake": -0.5,
+    "o2_flux": -38.48154267515412,
+    "rubisco_flux": 0.7913449575127987,
+    "status": "optimal"
+  },
+  "pfba": "WT: maximize biomass then COBRApy pFBA at exact optimum. Stage1: retain explicit phenotype constraints including biomass >=1.5xB_WT; objective=0 and COBRApy add_pfba(fraction_of_optimum=0) minimize sum of forward/reverse flux without forcing maximum biomass.",
+  "software_versions": {
+    "cobra": "0.32.1",
+    "optlang": "1.9.1",
+    "pyscipopt": "6.2.1",
+    "scipy": "1.18.1",
+    "straindesign": "1.19.1",
+    "swiglpk": "5.0.13"
+  },
+  "solver": {
+    "backend_version": "5.0.13",
+    "configured_tolerances": "<optlang.util.SolverTolerances object at 0x000001FA49B021B0>",
+    "interface": "optlang.glpk_interface",
+    "solver_name": "None"
+  },
+  "tolerance": 1e-08
+}

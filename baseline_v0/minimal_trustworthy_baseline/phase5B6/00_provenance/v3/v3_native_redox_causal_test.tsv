@@ -1,0 +1,5 @@
+case	biomass	glucose_uptake	NDH2_NATIVE	NOX_NATIVE	NADHI	GAPD1	GAPD2	PGK	PDH	acetylCoA_prod	citrate_prod	isocitrate_prod	alphaKG_prod	NADH_prod	NADH_cons	NADPH_prod	NADPH_cons	O2_uptake	Q_to_QH2	QH2_to_Q
+A_pre_edit_v3	-0	-0	0	0	-0	-0	-0	-0	-0	0	0	0	0	0	0	0	0	-4.344	0	0
+B_NDH2_only	-0	-0	0	0	-0	-0	-0	-0	-0	0	0	0	0	0	0	0	0	-4.344	0	0
+C_NOX_only	-0	-0	0	0	-0	-0	-0	-0	-0	0	0	0	0	0	0	0	0	-4.344	0	0
+D_updated_v3	-0	-0	0	0	-0	-0	-0	-0	-0	0	0	0	0	0	0	0	0	-4.344	0	0

@@ -1,0 +1,3409 @@
+{
+  "accessed_utc": "2026-09-24T13:55:14.397967+00:00",
+  "query": "organism_id:243159",
+  "source": "https://rest.uniprot.org/uniprotkb/search",
+  "pages": 7,
+  "total_taxon_entries": 3120,
+  "by_wp": {
+    "WP_009560716.1": [
+      {
+        "accession": "B7J4B0",
+        "entry_name": "B7J4B0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "PAP2 family protein",
+        "ec": "",
+        "interpro": "IPR000326;IPR036938;",
+        "pfam": "PF01569;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4B0/entry"
+      }
+    ],
+    "WP_009560851.1": [
+      {
+        "accession": "B7J453",
+        "entry_name": "B7J453_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Protein translocase subunit SecE",
+        "ec": "",
+        "interpro": "IPR005807;IPR038379;IPR001901;",
+        "pfam": "PF00584;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J453/entry"
+      }
+    ],
+    "WP_009560936.1": [
+      {
+        "accession": "B7J5S6",
+        "entry_name": "RPIA_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI)",
+        "ec": "5.3.1.6",
+        "interpro": "IPR037171;IPR020672;IPR004788;",
+        "pfam": "PF06026;",
+        "active_site": "ACT_SITE 103; /note=\"Proton acceptor\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00170\"",
+        "binding_site": "BINDING 28..31; /ligand=\"substrate\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00170\"; BINDING 81..84; /ligand=\"substrate\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00170\"; BINDING 94..97; /ligand=\"substrate\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00170\"; BINDING 121; /ligand=\"substrate\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00170\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5S6/entry"
+      }
+    ],
+    "WP_009561339.1": [
+      {
+        "accession": "B7J530",
+        "entry_name": "B7J530_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Site-specific recombinase, phage integrase family",
+        "ec": "",
+        "interpro": "IPR044068;IPR011010;IPR013762;IPR002104;IPR010998;IPR004107;IPR050090;",
+        "pfam": "PF02899;PF00589;",
+        "active_site": "ACT_SITE 162; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 186; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 256; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 259; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 282; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 291; /note=\"O-(3'-phospho-DNA)-tyrosine intermediate\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J530/entry"
+      }
+    ],
+    "WP_009561490.1": [
+      {
+        "accession": "B7J4J2",
+        "entry_name": "B7J4J2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "histidine kinase (EC 2.7.13.3)",
+        "ec": "2.7.13.3",
+        "interpro": "IPR003660;IPR036890;IPR003594;IPR005467;IPR003661;IPR036097;IPR050736;IPR004358;",
+        "pfam": "PF00672;PF02518;PF00512;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J2/entry"
+      }
+    ],
+    "WP_009561492.1": [
+      {
+        "accession": "B7J4J1",
+        "entry_name": "B7J4J1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Lipoprotein, putative",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J1/entry"
+      }
+    ],
+    "WP_009561562.1": [
+      {
+        "accession": "B7J5B0",
+        "entry_name": "B7J5B0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Phosphatidylethanolamine N-methyltransferase, putative",
+        "ec": "",
+        "interpro": "IPR041698;IPR029063;",
+        "pfam": "PF13649;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5B0/entry"
+      }
+    ],
+    "WP_009561563.1": [
+      {
+        "accession": "B7J5B1",
+        "entry_name": "B7J5B1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Lipoprotein, putative",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5B1/entry"
+      }
+    ],
+    "WP_009562648.1": [
+      {
+        "accession": "B7J585",
+        "entry_name": "B7J585_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Endoribonuclease L-PSP, putative",
+        "ec": "",
+        "interpro": "IPR006056;IPR019897;IPR035959;IPR006175;",
+        "pfam": "PF01042;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J585/entry"
+      }
+    ],
+    "WP_009562649.1": [
+      {
+        "accession": "B7J586",
+        "entry_name": "B7J586_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DUF1858 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR038062;",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J586/entry"
+      }
+    ],
+    "WP_009562654.1": [
+      {
+        "accession": "B7J5S3",
+        "entry_name": "LEUD_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)",
+        "ec": "4.2.1.33",
+        "interpro": "IPR004431;IPR015928;IPR000573;IPR033940;IPR050075;",
+        "pfam": "PF00694;PF27512;PF27434;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5S3/entry"
+      }
+    ],
+    "WP_009562656.1": [
+      {
+        "accession": "B7J5D7",
+        "entry_name": "B7J5D7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Transporter",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D7/entry"
+      }
+    ],
+    "WP_009562658.1": [
+      {
+        "accession": "B7J5D6",
+        "entry_name": "B7J5D6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Phosphoglycerate mutase family protein",
+        "ec": "",
+        "interpro": "IPR013078;IPR029033;IPR001345;IPR050275;",
+        "pfam": "PF00300;",
+        "active_site": "ACT_SITE 10; /note=\"Tele-phosphohistidine intermediate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR613078-1\"; ACT_SITE 83; /note=\"Proton donor/acceptor\"; /evidence=\"ECO:0000256|PIRSR:PIRSR613078-1\"",
+        "binding_site": "BINDING 9..16; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR613078-2\"; BINDING 59; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR613078-2\"; BINDING 83..86; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR613078-2\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D6/entry"
+      }
+    ],
+    "WP_009562662.1": [
+      {
+        "accession": "B7J5D4",
+        "entry_name": "B7J5D4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "UDP-glucose 6-dehydrogenase (EC 1.1.1.22)",
+        "ec": "1.1.1.22",
+        "interpro": "IPR008927;IPR036291;IPR017476;IPR014027;IPR036220;IPR014026;IPR001732;IPR028357;",
+        "pfam": "PF00984;PF03720;PF03721;",
+        "active_site": "ACT_SITE 262; /note=\"Nucleophile\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-1\"",
+        "binding_site": "BINDING 31; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-3\"; BINDING 36; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-3\"; BINDING 87; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-3\"; BINDING 122; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-3\"; BINDING 154..157; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-2\"; BINDING 157; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-3\"; BINDING 206; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-2\"; BINDING 251..255; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-2\"; BINDING 259; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-2\"; BINDING 265; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-3\"; BINDING 322; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-2\"; BINDING 329; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR500134-3\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D4/entry"
+      }
+    ],
+    "WP_009562800.1": [],
+    "WP_009562802.1": [
+      {
+        "accession": "B7J4E5",
+        "entry_name": "B7J4E5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "lactoylglutathione lyase (EC 4.4.1.5) (Aldoketomutase) (Glyoxalase I) (Ketone-aldehyde mutase) (Methylglyoxalase) (S-D-lactoylglutathione methylglyoxal lyase)",
+        "ec": "4.4.1.5",
+        "interpro": "IPR029068;IPR004360;IPR004361;IPR018146;IPR037523;",
+        "pfam": "PF00903;",
+        "active_site": "ACT_SITE 122; /note=\"Proton donor/acceptor\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604361-1, ECO:0000256|PROSITE-ProRule:PRU01163\"",
+        "binding_site": "BINDING 5; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01163\"; BINDING 56; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"ligand shared between dimeric partners\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604361-3\"; BINDING 56; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01163\"; BINDING 74; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"ligand shared between dimeric partners\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604361-3\"; BINDING 74; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01163\"; BINDING 122; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"ligand shared between dimeric partners\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604361-3\"; BINDING 122; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01163\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E5/entry"
+      }
+    ],
+    "WP_009562805.1": [
+      {
+        "accession": "B7J4E6",
+        "entry_name": "B7J4E6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Pyrimidine/purine nucleoside phosphorylase",
+        "ec": "",
+        "interpro": "IPR009664;IPR014710;IPR011051;",
+        "pfam": "PF06865;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E6/entry"
+      }
+    ],
+    "WP_009562807.1": [
+      {
+        "accession": "B7J4E7",
+        "entry_name": "B7J4E7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase)",
+        "ec": "6.3.4.5",
+        "interpro": "IPR048268;IPR048267;IPR001518;IPR018223;IPR023434;IPR024074;IPR014729;",
+        "pfam": "PF20979;PF00764;",
+        "active_site": "",
+        "binding_site": "BINDING 8..16; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 35; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 86; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 91; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 116; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 118; /ligand=\"L-aspartate\"; /ligand_id=\"ChEBI:CHEBI:29991\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 122; /ligand=\"L-aspartate\"; /ligand_id=\"ChEBI:CHEBI:29991\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 122; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 123; /ligand=\"L-aspartate\"; /ligand_id=\"ChEBI:CHEBI:29991\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 126; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 176; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 185; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 261; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"; BINDING 273; /ligand=\"L-citrulline\"; /ligand_id=\"ChEBI:CHEBI:57743\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00005\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E7/entry"
+      }
+    ],
+    "WP_009562810.1": [
+      {
+        "accession": "B7J4E8",
+        "entry_name": "B7J4E8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Ornithine carbamoyltransferase (EC 2.1.3.3)",
+        "ec": "2.1.3.3",
+        "interpro": "IPR006132;IPR006130;IPR036901;IPR006131;IPR002292;IPR024904;",
+        "pfam": "PF00185;PF02729;",
+        "active_site": "",
+        "binding_site": "BINDING 53..56; /ligand=\"carbamoyl phosphate\"; /ligand_id=\"ChEBI:CHEBI:58228\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 80; /ligand=\"carbamoyl phosphate\"; /ligand_id=\"ChEBI:CHEBI:58228\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 104; /ligand=\"carbamoyl phosphate\"; /ligand_id=\"ChEBI:CHEBI:58228\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 131..134; /ligand=\"carbamoyl phosphate\"; /ligand_id=\"ChEBI:CHEBI:58228\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 163; /ligand=\"L-ornithine\"; /ligand_id=\"ChEBI:CHEBI:46911\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 220; /ligand=\"L-ornithine\"; /ligand_id=\"ChEBI:CHEBI:46911\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 224..225; /ligand=\"L-ornithine\"; /ligand_id=\"ChEBI:CHEBI:46911\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 260..261; /ligand=\"carbamoyl phosphate\"; /ligand_id=\"ChEBI:CHEBI:58228\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"; BINDING 288; /ligand=\"carbamoyl phosphate\"; /ligand_id=\"ChEBI:CHEBI:58228\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01109\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E8/entry"
+      }
+    ],
+    "WP_009562813.1": [
+      {
+        "accession": "B7J4E9",
+        "entry_name": "B7J4E9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Acetylornithine aminotransferase (ACOAT) (EC 2.6.1.11)",
+        "ec": "2.6.1.11",
+        "interpro": "IPR004636;IPR005814;IPR049704;IPR050103;IPR015424;IPR015421;IPR015422;",
+        "pfam": "PF00202;",
+        "active_site": "",
+        "binding_site": "BINDING 94..95; /ligand=\"pyridoxal 5'-phosphate\"; /ligand_id=\"ChEBI:CHEBI:597326\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01107\"; BINDING 126; /ligand=\"pyridoxal 5'-phosphate\"; /ligand_id=\"ChEBI:CHEBI:597326\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01107\"; BINDING 129; /ligand=\"N(2)-acetyl-L-ornithine\"; /ligand_id=\"ChEBI:CHEBI:57805\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01107\"; BINDING 213..216; /ligand=\"pyridoxal 5'-phosphate\"; /ligand_id=\"ChEBI:CHEBI:597326\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01107\"; BINDING 271; /ligand=\"N(2)-acetyl-L-ornithine\"; /ligand_id=\"ChEBI:CHEBI:57805\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01107\"; BINDING 272; /ligand=\"pyridoxal 5'-phosphate\"; /ligand_id=\"ChEBI:CHEBI:597326\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01107\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E9/entry"
+      }
+    ],
+    "WP_009562815.1": [
+      {
+        "accession": "B7J4F0",
+        "entry_name": "B7J4F0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Aspartokinase (EC 2.7.2.4)",
+        "ec": "2.7.2.4",
+        "interpro": "IPR036393;IPR045865;IPR054352;IPR002912;IPR041740;IPR001048;IPR005260;IPR001341;IPR018042;",
+        "pfam": "PF00696;PF01842;PF22468;",
+        "active_site": "",
+        "binding_site": "BINDING 7..10; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000726-1\"; BINDING 47; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000726-1\"; BINDING 74; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000726-1\"; BINDING 173..174; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000726-1\"; BINDING 179; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000726-1\"; BINDING 184; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000726-1\"; BINDING 209..210; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000726-1\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4F0/entry"
+      }
+    ],
+    "WP_009562817.1": [
+      {
+        "accession": "B7J4J5",
+        "entry_name": "B7J4J5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Type III pantothenate kinase (EC 2.7.1.33) (PanK-III) (Pantothenic acid kinase)",
+        "ec": "2.7.1.33",
+        "interpro": "IPR043129;IPR004619;",
+        "pfam": "PF03309;",
+        "active_site": "ACT_SITE 100; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01274\"",
+        "binding_site": "BINDING 5..12; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01274\"; BINDING 91; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01274\"; BINDING 98..101; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01274\"; BINDING 121; /ligand=\"K(+)\"; /ligand_id=\"ChEBI:CHEBI:29103\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01274\"; BINDING 124; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01274\"; BINDING 175; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01274\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J5/entry"
+      }
+    ],
+    "WP_009562995.1": [
+      {
+        "accession": "B7J4G3",
+        "entry_name": "B7J4G3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)",
+        "ec": "1.3.1.9",
+        "interpro": "IPR014358;IPR036291;IPR002347;",
+        "pfam": "PF13561;",
+        "active_site": "ACT_SITE 147; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-1\"; ACT_SITE 157; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-1\"",
+        "binding_site": "BINDING 13; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-3\"; BINDING 19..20; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-3\"; BINDING 40; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-3\"; BINDING 95; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-2\"; BINDING 164; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-3\"; BINDING 193..197; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000094-3\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G3/entry"
+      }
+    ],
+    "WP_009563800.1": [
+      {
+        "accession": "B7J545",
+        "entry_name": "B7J545_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "2,3-bisphosphoglycerate-independent phosphoglycerate mutase (BPG-independent PGAM) (Phosphoglyceromutase) (iPGM) (EC 5.4.2.12)",
+        "ec": "5.4.2.12",
+        "interpro": "IPR017850;IPR011258;IPR006124;IPR036646;IPR005995;",
+        "pfam": "PF06415;PF01676;",
+        "active_site": "ACT_SITE 64; /note=\"Phosphoserine intermediate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-1\"",
+        "binding_site": "BINDING 14; /ligand=\"Mn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29035\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-3\"; BINDING 64; /ligand=\"Mn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29035\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-3\"; BINDING 125; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-2\"; BINDING 155..156; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-2\"; BINDING 186; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-2\"; BINDING 192; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-2\"; BINDING 258..261; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-2\"; BINDING 332; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-2\"; BINDING 399; /ligand=\"Mn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29035\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-3\"; BINDING 403; /ligand=\"Mn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29035\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-3\"; BINDING 440; /ligand=\"Mn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29035\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-3\"; BINDING 441; /ligand=\"Mn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29035\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-3\"; BINDING 459; /ligand=\"Mn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29035\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01038, ECO:0000256|PIRSR:PIRSR001492-3\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J545/entry"
+      }
+    ],
+    "WP_009564695.1": [
+      {
+        "accession": "B7J4G8",
+        "entry_name": "SUCC_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta)",
+        "ec": "6.2.1.5",
+        "interpro": "IPR011761;IPR013650;IPR013815;IPR017866;IPR005811;IPR005809;IPR016102;",
+        "pfam": "PF08442;PF00549;",
+        "active_site": "",
+        "binding_site": "BINDING 46; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 53..55; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 99; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 102; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 107; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 199; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 213; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 264; /ligand=\"substrate\"; /ligand_note=\"ligand shared with subunit alpha\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"; BINDING 321..323; /ligand=\"substrate\"; /ligand_note=\"ligand shared with subunit alpha\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00558\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G8/entry"
+      }
+    ],
+    "WP_009564696.1": [
+      {
+        "accession": "B7J4G9",
+        "entry_name": "B7J4G9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Conserved domain protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G9/entry"
+      }
+    ],
+    "WP_009564831.1": [],
+    "WP_009564993.1": [
+      {
+        "accession": "B7J5A6",
+        "entry_name": "B7J5A6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Cold-shock protein",
+        "ec": "",
+        "interpro": "IPR012156;IPR050181;IPR011129;IPR019844;IPR002059;IPR012340;",
+        "pfam": "PF00313;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5A6/entry"
+      }
+    ],
+    "WP_009565218.1": [
+      {
+        "accession": "B7J4G1",
+        "entry_name": "B7J4G1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G1/entry"
+      }
+    ],
+    "WP_009565431.1": [
+      {
+        "accession": "B7J467",
+        "entry_name": "RL3_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL3 (50S ribosomal protein L3)",
+        "ec": "",
+        "interpro": "IPR000597;IPR019927;IPR019926;IPR009000;",
+        "pfam": "PF00297;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J467/entry"
+      }
+    ],
+    "WP_009565432.1": [
+      {
+        "accession": "B7J468",
+        "entry_name": "RL4_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL4 (50S ribosomal protein L4)",
+        "ec": "",
+        "interpro": "IPR002136;IPR013005;IPR023574;",
+        "pfam": "PF00573;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J468/entry"
+      }
+    ],
+    "WP_009565434.1": [
+      {
+        "accession": "B7J470",
+        "entry_name": "RL2_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL2 (50S ribosomal protein L2)",
+        "ec": "",
+        "interpro": "IPR012340;IPR014722;IPR002171;IPR005880;IPR022669;IPR022671;IPR014726;IPR022666;IPR008991;",
+        "pfam": "PF03947;PF00181;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J470/entry"
+      }
+    ],
+    "WP_009565435.1": [
+      {
+        "accession": "B7J471",
+        "entry_name": "RS19_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS19 (30S ribosomal protein S19)",
+        "ec": "",
+        "interpro": "IPR002222;IPR005732;IPR020934;IPR023575;",
+        "pfam": "PF00203;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J471/entry"
+      }
+    ],
+    "WP_009565436.1": [
+      {
+        "accession": "B7J472",
+        "entry_name": "RL22_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL22 (50S ribosomal protein L22)",
+        "ec": "",
+        "interpro": "IPR001063;IPR005727;IPR047867;IPR018260;IPR036394;",
+        "pfam": "PF00237;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J472/entry"
+      }
+    ],
+    "WP_009565437.1": [],
+    "WP_009566069.1": [
+      {
+        "accession": "B7J4C7",
+        "entry_name": "B7J4C7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Outer membrane protein transport protein, OMPP1/FadL/TodX family",
+        "ec": "",
+        "interpro": "IPR005017;",
+        "pfam": "PF03349;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C7/entry"
+      }
+    ],
+    "WP_009566070.1": [
+      {
+        "accession": "B7J4C6",
+        "entry_name": "B7J4C6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Outer-membrane lipoprotein carrier protein",
+        "ec": "",
+        "interpro": "IPR029046;IPR004564;IPR018323;",
+        "pfam": "PF03548;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C6/entry"
+      }
+    ],
+    "WP_009566072.1": [
+      {
+        "accession": "B7J4C5",
+        "entry_name": "B7J4C5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Thioredoxin reductase (EC 1.8.1.9)",
+        "ec": "1.8.1.9",
+        "interpro": "IPR036188;IPR023753;IPR050097;IPR008255;IPR005982;",
+        "pfam": "PF07992;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C5/entry"
+      }
+    ],
+    "WP_009566205.1": [
+      {
+        "accession": "B7J4H2",
+        "entry_name": "B7J4H2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Nitrogen regulatory protein P-II 1",
+        "ec": "",
+        "interpro": "IPR002187;IPR011322;IPR015867;IPR017918;IPR002332;",
+        "pfam": "PF00543;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H2/entry"
+      }
+    ],
+    "WP_009566207.1": [
+      {
+        "accession": "B7J4H3",
+        "entry_name": "B7J4H3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Outer membrane protein assembly factor BamD",
+        "ec": "",
+        "interpro": "IPR017689;IPR039565;IPR011990;",
+        "pfam": "PF13525;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H3/entry"
+      }
+    ],
+    "WP_009566209.1": [
+      {
+        "accession": "B7J4H6",
+        "entry_name": "B7J4H6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Acireductone dioxygenase (1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase) (DHK-MTPene dioxygenase) (Acireductone dioxygenase (Fe(2+)-requiring)) (ARD') (Fe-ARD) (EC 1.13.11.54) (Acireductone dioxygenase (Ni(2+)-requiring)) (ARD) (Ni-ARD) (EC 1.13.11.53)",
+        "ec": "1.13.11.53; 1.13.11.54",
+        "interpro": "IPR004313;IPR023956;IPR014710;IPR011051;",
+        "pfam": "PF03079;",
+        "active_site": "",
+        "binding_site": "BINDING 100; /ligand=\"Fe(2+)\"; /ligand_id=\"ChEBI:CHEBI:29033\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"; BINDING 100; /ligand=\"Ni(2+)\"; /ligand_id=\"ChEBI:CHEBI:49786\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"; BINDING 102; /ligand=\"Fe(2+)\"; /ligand_id=\"ChEBI:CHEBI:29033\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"; BINDING 102; /ligand=\"Ni(2+)\"; /ligand_id=\"ChEBI:CHEBI:49786\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"; BINDING 106; /ligand=\"Fe(2+)\"; /ligand_id=\"ChEBI:CHEBI:29033\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"; BINDING 106; /ligand=\"Ni(2+)\"; /ligand_id=\"ChEBI:CHEBI:49786\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"; BINDING 145; /ligand=\"Fe(2+)\"; /ligand_id=\"ChEBI:CHEBI:29033\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"; BINDING 145; /ligand=\"Ni(2+)\"; /ligand_id=\"ChEBI:CHEBI:49786\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01682\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H6/entry"
+      }
+    ],
+    "WP_009566261.1": [
+      {
+        "accession": "B7J4H8",
+        "entry_name": "B7J4H8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "HAD-superfamily hydrolase, subfamily IB",
+        "ec": "",
+        "interpro": "IPR050582;IPR036412;IPR023214;",
+        "pfam": "PF12710;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H8/entry"
+      }
+    ],
+    "WP_009566264.1": [
+      {
+        "accession": "B7J4I0",
+        "entry_name": "B7J4I0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "ACT domain protein",
+        "ec": "",
+        "interpro": "IPR045865;IPR002912;IPR050990;",
+        "pfam": "PF13740;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I0/entry"
+      }
+    ],
+    "WP_009566266.1": [
+      {
+        "accession": "B7J4I1",
+        "entry_name": "B7J4I1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase)",
+        "ec": "3.5.1.88",
+        "interpro": "IPR023635;IPR036821;",
+        "pfam": "PF01327;",
+        "active_site": "ACT_SITE 139; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00163\"",
+        "binding_site": "BINDING 96; /ligand=\"Fe cation\"; /ligand_id=\"ChEBI:CHEBI:24875\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00163\"; BINDING 138; /ligand=\"Fe cation\"; /ligand_id=\"ChEBI:CHEBI:24875\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00163\"; BINDING 142; /ligand=\"Fe cation\"; /ligand_id=\"ChEBI:CHEBI:24875\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00163\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I1/entry"
+      }
+    ],
+    "WP_009566268.1": [
+      {
+        "accession": "B7J4I4",
+        "entry_name": "B7J4I4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)",
+        "ec": "4.2.1.46",
+        "interpro": "IPR005888;IPR016040;IPR036291;IPR020904;",
+        "pfam": "PF16363;",
+        "active_site": "ACT_SITE 169; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU10001\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I4/entry"
+      }
+    ],
+    "WP_009566445.1": [],
+    "WP_009566505.1": [
+      {
+        "accession": "B7J452",
+        "entry_name": "B7J452_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Elongation factor Tu (EF-Tu) (EC 3.6.5.3)",
+        "ec": "3.6.5.3",
+        "interpro": "IPR041709;IPR050055;IPR004161;IPR033720;IPR031157;IPR027417;IPR005225;IPR000795;IPR009000;IPR009001;IPR004541;IPR004160;",
+        "pfam": "PF00009;PF03144;PF03143;",
+        "active_site": "",
+        "binding_site": "BINDING 19..26; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00118\"; BINDING 26; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00118\"; BINDING 81..85; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00118\"; BINDING 136..139; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00118\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J452/entry"
+      }
+    ],
+    "WP_009566608.1": [],
+    "WP_009566618.1": [
+      {
+        "accession": "B7J592",
+        "entry_name": "B7J592_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "AMMECR1 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR023473;IPR036071;IPR002733;IPR027485;IPR027623;",
+        "pfam": "PF01871;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J592/entry"
+      }
+    ],
+    "WP_009566620.1": [
+      {
+        "accession": "B7J593",
+        "entry_name": "B7J593_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Radical SAM domain protein",
+        "ec": "",
+        "interpro": "IPR013785;IPR027596;IPR034457;IPR016431;IPR007197;IPR058240;",
+        "pfam": "PF04055;",
+        "active_site": "",
+        "binding_site": "BINDING 89; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_note=\"4Fe-4S-S-AdoMet\"; /evidence=\"ECO:0000256|PIRSR:PIRSR004869-50, ECO:0000256|PROSITE-ProRule:PRU01266\"; BINDING 93; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_note=\"4Fe-4S-S-AdoMet\"; /evidence=\"ECO:0000256|PIRSR:PIRSR004869-50, ECO:0000256|PROSITE-ProRule:PRU01266\"; BINDING 96; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_note=\"4Fe-4S-S-AdoMet\"; /evidence=\"ECO:0000256|PIRSR:PIRSR004869-50, ECO:0000256|PROSITE-ProRule:PRU01266\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J593/entry"
+      }
+    ],
+    "WP_009566813.1": [
+      {
+        "accession": "B7J582",
+        "entry_name": "B7J582_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Guanylate kinase (EC 2.7.4.8) (GMP kinase)",
+        "ec": "2.7.4.8",
+        "interpro": "IPR008145;IPR008144;IPR017665;IPR020590;IPR027417;",
+        "pfam": "PF00625;",
+        "active_site": "",
+        "binding_site": "BINDING 15..22; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00328, ECO:0000256|PROSITE-ProRule:PRU00100\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J582/entry"
+      }
+    ],
+    "WP_009566864.1": [
+      {
+        "accession": "B7J4B7",
+        "entry_name": "B7J4B7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "AhpC/TSA family/glutaredoxin domain protein",
+        "ec": "",
+        "interpro": "IPR011767;IPR002109;IPR011906;IPR014025;IPR037944;IPR013740;IPR036249;IPR013766;",
+        "pfam": "PF00462;PF08534;",
+        "active_site": "ACT_SITE 51; /note=\"Cysteine sulfenic acid (-SOH) intermediate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR637944-1\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4B7/entry"
+      }
+    ],
+    "WP_009566877.1": [
+      {
+        "accession": "B7J4M5",
+        "entry_name": "B7J4M5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Lipoprotein releasing system, ATP-binding protein LolD",
+        "ec": "",
+        "interpro": "IPR003593;IPR003439;IPR017871;IPR015854;IPR017911;IPR027417;",
+        "pfam": "PF00005;",
+        "active_site": "",
+        "binding_site": "BINDING 43..50; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00434\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M5/entry"
+      }
+    ],
+    "WP_009566880.1": [
+      {
+        "accession": "B7J509",
+        "entry_name": "B7J509_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Biopolymer transport protein, ExbD/TolR family",
+        "ec": "",
+        "interpro": "IPR003400;",
+        "pfam": "PF02472;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J509/entry"
+      }
+    ],
+    "WP_009566882.1": [
+      {
+        "accession": "B7J512",
+        "entry_name": "LPXK_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) (Lipid A 4'-kinase)",
+        "ec": "2.7.1.130",
+        "interpro": "IPR003758;IPR027417;",
+        "pfam": "PF02606;",
+        "active_site": "",
+        "binding_site": "BINDING 55..62; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00409\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J512/entry"
+      }
+    ],
+    "WP_009566883.1": [
+      {
+        "accession": "B7J513",
+        "entry_name": "B7J513_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Methyltransferase activator Trm112 homolog",
+        "ec": "",
+        "interpro": "IPR005651;",
+        "pfam": "PF03966;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J513/entry"
+      }
+    ],
+    "WP_009566884.1": [
+      {
+        "accession": "B7J514",
+        "entry_name": "KDSB_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) (CMP-2-keto-3-deoxyoctulosonic acid synthase) (CKS) (CMP-KDO synthase)",
+        "ec": "2.7.7.38",
+        "interpro": "IPR003329;IPR004528;IPR029044;",
+        "pfam": "PF02348;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J514/entry"
+      }
+    ],
+    "WP_009566885.1": [
+      {
+        "accession": "B7J515",
+        "entry_name": "B7J515_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase)",
+        "ec": "3.6.1.1",
+        "interpro": "IPR008162;IPR036649;",
+        "pfam": "PF00719;",
+        "active_site": "",
+        "binding_site": "BINDING 29; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"; BINDING 43; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"; BINDING 55; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"; BINDING 65; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"; BINDING 70; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"; BINDING 70; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"; BINDING 102; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"; BINDING 141; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00209\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J515/entry"
+      }
+    ],
+    "WP_009566960.1": [
+      {
+        "accession": "B7J4C9",
+        "entry_name": "SYS_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase)",
+        "ec": "6.1.1.11",
+        "interpro": "IPR002314;IPR006195;IPR045864;IPR002317;IPR015866;IPR042103;IPR033729;IPR010978;",
+        "pfam": "PF02403;PF00587;",
+        "active_site": "",
+        "binding_site": "BINDING 230..232; /ligand=\"L-serine\"; /ligand_id=\"ChEBI:CHEBI:33384\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00176\"; BINDING 259..261; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00176\"; BINDING 282; /ligand=\"L-serine\"; /ligand_id=\"ChEBI:CHEBI:33384\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00176\"; BINDING 346..349; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00176\"; BINDING 381; /ligand=\"L-serine\"; /ligand_id=\"ChEBI:CHEBI:33384\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00176\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C9/entry"
+      }
+    ],
+    "WP_009566961.1": [
+      {
+        "accession": "B7J4D0",
+        "entry_name": "B7J4D0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Transcriptional antiterminator, Rof",
+        "ec": "",
+        "interpro": "IPR009778;IPR038626;IPR023534;",
+        "pfam": "PF07073;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D0/entry"
+      }
+    ],
+    "WP_009566962.1": [
+      {
+        "accession": "B7J4D1",
+        "entry_name": "B7J4D1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "ErfK/YbiS/YcfS/YnhG family protein",
+        "ec": "",
+        "interpro": "IPR050979;IPR005490;IPR018392;IPR036779;IPR038063;",
+        "pfam": "PF03734;",
+        "active_site": "ACT_SITE 191; /note=\"Proton donor/acceptor\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01373\"; ACT_SITE 207; /note=\"Nucleophile\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01373\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D1/entry"
+      }
+    ],
+    "WP_009567191.1": [],
+    "WP_009567197.1": [
+      {
+        "accession": "B7J4F7",
+        "entry_name": "B7J4F7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Antitoxin",
+        "ec": "",
+        "interpro": "IPR006442;IPR036165;",
+        "pfam": "PF02604;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4F7/entry"
+      }
+    ],
+    "WP_009567200.1": [
+      {
+        "accession": "B7J4F4",
+        "entry_name": "B7J4F4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4F4/entry"
+      }
+    ],
+    "WP_009567208.1": [
+      {
+        "accession": "B7J4K1",
+        "entry_name": "B7J4K1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Rare lipoprotein B, putative",
+        "ec": "",
+        "interpro": "IPR007485;",
+        "pfam": "PF04390;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K1/entry"
+      }
+    ],
+    "WP_009567231.1": [
+      {
+        "accession": "B7J4M0",
+        "entry_name": "B7J4M0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Virulence protein, putative",
+        "ec": "",
+        "interpro": "IPR047976;IPR007159;IPR037914;IPR051734;",
+        "pfam": "PF04014;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M0/entry"
+      }
+    ],
+    "WP_009567232.1": [],
+    "WP_009567244.1": [
+      {
+        "accession": "B7J4L8",
+        "entry_name": "B7J4L8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Phosphoglycerate mutase",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L8/entry"
+      }
+    ],
+    "WP_009567245.1": [],
+    "WP_009567248.1": [
+      {
+        "accession": "B7J4L3",
+        "entry_name": "B7J4L3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "RNA polymerase sigma factor RpoS (Sigma S) (Sigma-38)",
+        "ec": "",
+        "interpro": "IPR014284;IPR000943;IPR009042;IPR007627;IPR007624;IPR007630;IPR013325;IPR013324;IPR012761;IPR050239;IPR036388;",
+        "pfam": "PF00140;PF04542;PF04539;PF04545;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L3/entry"
+      }
+    ],
+    "WP_009567321.1": [
+      {
+        "accession": "B7J4I6",
+        "entry_name": "B7J4I6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I6/entry"
+      }
+    ],
+    "WP_009567322.1": [
+      {
+        "accession": "B7J4I7",
+        "entry_name": "B7J4I7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DUF3579 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR021969;",
+        "pfam": "PF12112;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I7/entry"
+      }
+    ],
+    "WP_009567323.1": [
+      {
+        "accession": "B7J4I8",
+        "entry_name": "B7J4I8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9) (UDP-glucose pyrophosphorylase)",
+        "ec": "2.7.7.9",
+        "interpro": "IPR005771;IPR005835;IPR029044;",
+        "pfam": "PF00483;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I8/entry"
+      }
+    ],
+    "WP_009567324.1": [
+      {
+        "accession": "B7J4I9",
+        "entry_name": "B7J4I9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DUF502 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR007462;",
+        "pfam": "PF04367;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I9/entry"
+      }
+    ],
+    "WP_009567336.1": [],
+    "WP_009567337.1": [
+      {
+        "accession": "B7J4D3",
+        "entry_name": "B7J4D3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Transcription termination/antitermination protein NusA",
+        "ec": "",
+        "interpro": "IPR010995;IPR060101;IPR015946;IPR058582;IPR059158;IPR009019;IPR012340;IPR059258;IPR036555;IPR003029;IPR010213;IPR025249;IPR013735;IPR030842;IPR010214;",
+        "pfam": "PF14520;PF13184;PF26594;PF08529;PF00575;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D3/entry"
+      }
+    ],
+    "WP_009567340.1": [
+      {
+        "accession": "B7J4D6",
+        "entry_name": "B7J4D6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase)",
+        "ec": "5.4.99.25",
+        "interpro": "IPR020103;IPR002501;IPR015947;IPR036974;IPR014780;IPR015240;IPR032819;",
+        "pfam": "PF09157;PF16198;PF01509;",
+        "active_site": "ACT_SITE 41; /note=\"Nucleophile\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01080\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D6/entry"
+      }
+    ],
+    "WP_009567341.1": [
+      {
+        "accession": "B7J4D7",
+        "entry_name": "RS15_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS15 (30S ribosomal protein S15)",
+        "ec": "",
+        "interpro": "IPR000589;IPR005290;IPR009068;",
+        "pfam": "PF00312;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D7/entry"
+      }
+    ],
+    "WP_009567344.1": [
+      {
+        "accession": "B7J4E0",
+        "entry_name": "B7J4E0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Hydroxyacylglutathione hydrolase (EC 3.1.2.6) (Glyoxalase II) (Glx II)",
+        "ec": "3.1.2.6",
+        "interpro": "IPR001018;IPR035680;IPR050110;IPR032282;IPR017782;IPR001279;IPR036866;",
+        "pfam": "PF16123;PF00753;",
+        "active_site": "",
+        "binding_site": "BINDING 52; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"; BINDING 54; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"; BINDING 56; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"; BINDING 57; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"; BINDING 106; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"; BINDING 123; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"; BINDING 123; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"; BINDING 161; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01374\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E0/entry"
+      }
+    ],
+    "WP_009567345.1": [
+      {
+        "accession": "B7J4E1",
+        "entry_name": "B7J4E1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Methyltransferase type 11 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR013216;IPR029063;",
+        "pfam": "PF08241;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E1/entry"
+      }
+    ],
+    "WP_009567346.1": [
+      {
+        "accession": "B7J4E2",
+        "entry_name": "RNH_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Ribonuclease H (RNase H) (EC 3.1.26.4)",
+        "ec": "3.1.26.4",
+        "interpro": "IPR050092;IPR012337;IPR002156;IPR036397;IPR022892;",
+        "pfam": "PF00075;",
+        "active_site": "",
+        "binding_site": "BINDING 11; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00042\"; BINDING 11; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"2\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00042\"; BINDING 49; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00042\"; BINDING 71; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00042\"; BINDING 135; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"2\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00042\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E2/entry"
+      }
+    ],
+    "WP_009567465.1": [
+      {
+        "accession": "B7J566",
+        "entry_name": "B7J566_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Branched-chain-amino-acid aminotransferase (BCAT) (EC 2.6.1.42)",
+        "ec": "2.6.1.42",
+        "interpro": "IPR001544;IPR018300;IPR036038;IPR005785;IPR043132;IPR043131;IPR033939;IPR050571;",
+        "pfam": "PF01063;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J566/entry"
+      }
+    ],
+    "WP_009567466.1": [
+      {
+        "accession": "B7J565",
+        "entry_name": "B7J565_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Zinc finger CHCC-type domain-containing protein",
+        "ec": "",
+        "interpro": "IPR019401;",
+        "pfam": "PF10276;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J565/entry"
+      }
+    ],
+    "WP_009567530.1": [
+      {
+        "accession": "B7J532",
+        "entry_name": "B7J532_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J532/entry"
+      }
+    ],
+    "WP_009567579.1": [
+      {
+        "accession": "B7J562",
+        "entry_name": "CH10_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Co-chaperonin GroES (10 kDa chaperonin) (Chaperonin-10) (Cpn10)",
+        "ec": "",
+        "interpro": "IPR020818;IPR037124;IPR018369;IPR011032;",
+        "pfam": "PF00166;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J562/entry"
+      }
+    ],
+    "WP_009567592.1": [
+      {
+        "accession": "B7J5C1",
+        "entry_name": "B7J5C1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Cation ABC transporter, permease protein, putative",
+        "ec": "",
+        "interpro": "IPR037294;IPR001626;",
+        "pfam": "PF00950;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5C1/entry"
+      }
+    ],
+    "WP_009567595.1": [],
+    "WP_009567632.1": [
+      {
+        "accession": "B7J523",
+        "entry_name": "B7J523_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "PhnB-like domain-containing protein",
+        "ec": "",
+        "interpro": "IPR009725;IPR011008;IPR029068;IPR028973;",
+        "pfam": "PF06983;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J523/entry"
+      }
+    ],
+    "WP_009567633.1": [
+      {
+        "accession": "B7J522",
+        "entry_name": "B7J522_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "SnoaL-like domain-containing protein",
+        "ec": "",
+        "interpro": "IPR032710;IPR037401;",
+        "pfam": "PF12680;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J522/entry"
+      }
+    ],
+    "WP_009567635.1": [
+      {
+        "accession": "B7J519",
+        "entry_name": "B7J519_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Conserved domain protein",
+        "ec": "",
+        "interpro": "IPR009959;IPR032710;",
+        "pfam": "PF07366;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J519/entry"
+      }
+    ],
+    "WP_009567636.1": [],
+    "WP_009567639.1": [],
+    "WP_009568279.1": [
+      {
+        "accession": "B7J4A2",
+        "entry_name": "B7J4A2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Small ribosomal subunit protein uS11",
+        "ec": "",
+        "interpro": "IPR001971;IPR019981;IPR018102;IPR036967;",
+        "pfam": "PF00411;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A2/entry"
+      }
+    ],
+    "WP_009568280.1": [
+      {
+        "accession": "B7J4A1",
+        "entry_name": "RS13_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS13 (30S ribosomal protein S13)",
+        "ec": "",
+        "interpro": "IPR027437;IPR001892;IPR010979;IPR019980;IPR018269;",
+        "pfam": "PF00416;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A1/entry"
+      }
+    ],
+    "WP_009568281.1": [
+      {
+        "accession": "B7J4A0",
+        "entry_name": "RL36_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein bL36 (50S ribosomal protein L36)",
+        "ec": "",
+        "interpro": "IPR000473;IPR035977;",
+        "pfam": "PF00444;",
+        "active_site": "",
+        "binding_site": "BINDING 11; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00251\"; BINDING 14; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00251\"; BINDING 27; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00251\"; BINDING 32; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00251\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A0/entry"
+      }
+    ],
+    "WP_009568282.1": [
+      {
+        "accession": "B7J499",
+        "entry_name": "B7J499_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Translation initiation factor IF-1",
+        "ec": "",
+        "interpro": "IPR012340;IPR006196;IPR003029;IPR004368;",
+        "pfam": "PF01176;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J499/entry"
+      }
+    ],
+    "WP_009568779.1": [
+      {
+        "accession": "B7J458",
+        "entry_name": "RL7_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein bL12 (50S ribosomal protein L7/L12)",
+        "ec": "",
+        "interpro": "IPR000206;IPR013823;IPR014719;IPR008932;IPR036235;",
+        "pfam": "PF00542;PF16320;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J458/entry"
+      }
+    ],
+    "WP_009568780.1": [
+      {
+        "accession": "B7J457",
+        "entry_name": "RL10_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL10 (50S ribosomal protein L10)",
+        "ec": "",
+        "interpro": "IPR043141;IPR022973;IPR047865;IPR002363;IPR001790;",
+        "pfam": "PF00466;PF27436;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J457/entry"
+      }
+    ],
+    "WP_009568793.1": [
+      {
+        "accession": "B7J481",
+        "entry_name": "RS8_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS8 (30S ribosomal protein S8)",
+        "ec": "",
+        "interpro": "IPR000630;IPR047863;IPR035987;",
+        "pfam": "PF00410;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J481/entry"
+      }
+    ],
+    "WP_009568923.1": [],
+    "WP_009568944.1": [
+      {
+        "accession": "B7J599",
+        "entry_name": "B7J599_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J599/entry"
+      }
+    ],
+    "WP_009568946.1": [
+      {
+        "accession": "B7J5A1",
+        "entry_name": "B7J5A1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DUF4258 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR025354;",
+        "pfam": "PF14076;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5A1/entry"
+      }
+    ],
+    "WP_009568984.1": [
+      {
+        "accession": "B7J4M3",
+        "entry_name": "B7J4M3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS)",
+        "ec": "6.1.1.6",
+        "interpro": "IPR004364;IPR006195;IPR045864;IPR002313;IPR044136;IPR018149;IPR012340;IPR004365;",
+        "pfam": "PF00152;PF01336;",
+        "active_site": "",
+        "binding_site": "BINDING 405; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00252\"; BINDING 412; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00252\"; BINDING 412; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00252\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M3/entry"
+      }
+    ],
+    "WP_009569165.1": [
+      {
+        "accession": "B7J547",
+        "entry_name": "B7J547_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Host attachment protein",
+        "ec": "",
+        "interpro": "IPR019291;",
+        "pfam": "PF10116;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J547/entry"
+      }
+    ],
+    "WP_009569276.1": [
+      {
+        "accession": "B7J483",
+        "entry_name": "RL18_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL18 (50S ribosomal protein L18)",
+        "ec": "",
+        "interpro": "IPR057268;IPR005484;IPR004389;",
+        "pfam": "PF00861;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J483/entry"
+      }
+    ],
+    "WP_009569556.1": [
+      {
+        "accession": "B7J478",
+        "entry_name": "RL24_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL24 (50S ribosomal protein L24)",
+        "ec": "",
+        "interpro": "IPR005824;IPR014722;IPR003256;IPR057264;IPR005825;IPR041988;IPR008991;",
+        "pfam": "PF00467;PF17136;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J478/entry"
+      }
+    ],
+    "WP_009569558.1": [
+      {
+        "accession": "B7J476",
+        "entry_name": "RS17_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS17 (30S ribosomal protein S17)",
+        "ec": "",
+        "interpro": "IPR012340;IPR000266;IPR019984;IPR019979;",
+        "pfam": "PF00366;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J476/entry"
+      }
+    ],
+    "WP_009569559.1": [
+      {
+        "accession": "B7J475",
+        "entry_name": "RL29_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL29 (50S ribosomal protein L29)",
+        "ec": "",
+        "interpro": "IPR001854;IPR018254;IPR036049;",
+        "pfam": "PF00831;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J475/entry"
+      }
+    ],
+    "WP_009569794.1": [
+      {
+        "accession": "B7J4C2",
+        "entry_name": "B7J4C2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "tRNA pseudouridine synthase D (EC 5.4.99.27) (tRNA pseudouridine(13) synthase) (tRNA pseudouridylate synthase D) (tRNA-uridine isomerase D)",
+        "ec": "5.4.99.27",
+        "interpro": "IPR020103;IPR001656;IPR020119;IPR011760;IPR042214;IPR043165;IPR050170;",
+        "pfam": "PF01142;",
+        "active_site": "ACT_SITE 80; /note=\"Nucleophile\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01082\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C2/entry"
+      }
+    ],
+    "WP_009569795.1": [],
+    "WP_010641426.1": [
+      {
+        "accession": "B7J462",
+        "entry_name": "RS12_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS12 (30S ribosomal protein S12)",
+        "ec": "",
+        "interpro": "IPR012340;IPR006032;IPR005679;",
+        "pfam": "PF00164;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J462/entry"
+      }
+    ],
+    "WP_012535980.1": [
+      {
+        "accession": "B7J6Q3",
+        "entry_name": "B7J6Q3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "General secretion pathway protein A, putative",
+        "ec": "",
+        "interpro": "IPR003593;IPR049945;IPR052026;IPR027417;",
+        "pfam": "PF13401;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J6Q3/entry"
+      }
+    ],
+    "WP_012535982.1": [
+      {
+        "accession": "B7J528",
+        "entry_name": "B7J528_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Site-specific recombinase, phage integrase family",
+        "ec": "",
+        "interpro": "IPR044068;IPR011010;IPR013762;IPR002104;IPR010998;IPR004107;IPR050090;",
+        "pfam": "PF02899;PF00589;",
+        "active_site": "ACT_SITE 264; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 289; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 359; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 362; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 385; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 394; /note=\"O-(3'-phospho-DNA)-tyrosine intermediate\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J528/entry"
+      }
+    ],
+    "WP_012535983.1": [
+      {
+        "accession": "B7J529",
+        "entry_name": "B7J529_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Site-specific recombinase, phage integrase family",
+        "ec": "",
+        "interpro": "IPR011010;IPR013762;IPR002104;IPR050090;",
+        "pfam": "PF00589;",
+        "active_site": "ACT_SITE 144; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 169; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 245; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 248; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 279; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"; ACT_SITE 288; /note=\"O-(3'-phospho-DNA)-tyrosine intermediate\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01246\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J529/entry"
+      }
+    ],
+    "WP_012536079.1": [
+      {
+        "accession": "B7J454",
+        "entry_name": "B7J454_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Transcription termination/antitermination protein NusG",
+        "ec": "",
+        "interpro": "IPR005824;IPR047050;IPR006645;IPR036735;IPR043425;IPR014722;IPR001062;IPR015869;IPR008991;",
+        "pfam": "PF00467;PF02357;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J454/entry"
+      }
+    ],
+    "WP_012536080.1": [
+      {
+        "accession": "B7J455",
+        "entry_name": "RL11_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL11 (50S ribosomal protein L11)",
+        "ec": "",
+        "interpro": "IPR000911;IPR006519;IPR020783;IPR036769;IPR020785;IPR020784;IPR036796;",
+        "pfam": "PF00298;PF03946;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J455/entry"
+      }
+    ],
+    "WP_012536081.1": [
+      {
+        "accession": "B7J456",
+        "entry_name": "RL1_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL1 (50S ribosomal protein L1)",
+        "ec": "",
+        "interpro": "IPR005878;IPR002143;IPR023674;IPR028364;IPR016095;IPR023673;",
+        "pfam": "PF00687;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J456/entry"
+      }
+    ],
+    "WP_012536082.1": [
+      {
+        "accession": "B7J460",
+        "entry_name": "RPOB_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta)",
+        "ec": "2.7.7.6",
+        "interpro": "IPR042107;IPR019462;IPR015712;IPR007120;IPR037033;IPR010243;IPR007121;IPR007644;IPR007642;IPR007645;IPR007641;IPR014724;",
+        "pfam": "PF04563;PF04561;PF04565;PF10385;PF00562;PF04560;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J460/entry"
+      }
+    ],
+    "WP_012536084.1": [
+      {
+        "accession": "B7J463",
+        "entry_name": "RS7_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS7 (30S ribosomal protein S7)",
+        "ec": "",
+        "interpro": "IPR000235;IPR005717;IPR020606;IPR023798;IPR036823;",
+        "pfam": "PF00177;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J463/entry"
+      }
+    ],
+    "WP_012536085.1": [
+      {
+        "accession": "B7J464",
+        "entry_name": "EFG_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Elongation factor G (EF-G)",
+        "ec": "",
+        "interpro": "IPR041095;IPR009022;IPR035647;IPR047872;IPR035649;IPR000640;IPR004161;IPR031157;IPR027417;IPR020568;IPR014721;IPR005225;IPR000795;IPR009000;IPR004540;IPR005517;",
+        "pfam": "PF00679;PF14492;PF03764;PF00009;PF03144;",
+        "active_site": "",
+        "binding_site": "BINDING 17..24; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00054\"; BINDING 88..92; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00054\"; BINDING 142..145; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00054\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J464/entry"
+      }
+    ],
+    "WP_012536086.1": [
+      {
+        "accession": "B7J466",
+        "entry_name": "RS10_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS10 (30S ribosomal protein S10)",
+        "ec": "",
+        "interpro": "IPR001848;IPR018268;IPR027486;IPR036838;",
+        "pfam": "PF00338;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J466/entry"
+      }
+    ],
+    "WP_012536087.1": [
+      {
+        "accession": "B7J469",
+        "entry_name": "RL23_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL23 (50S ribosomal protein L23)",
+        "ec": "",
+        "interpro": "IPR012677;IPR013025;IPR012678;",
+        "pfam": "PF00276;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J469/entry"
+      }
+    ],
+    "WP_012536088.1": [
+      {
+        "accession": "B7J474",
+        "entry_name": "RL16_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL16 (50S ribosomal protein L16)",
+        "ec": "",
+        "interpro": "IPR047873;IPR000114;IPR020798;IPR016180;IPR036920;",
+        "pfam": "PF00252;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J474/entry"
+      }
+    ],
+    "WP_012536089.1": [
+      {
+        "accession": "B7J477",
+        "entry_name": "RL14_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL14 (50S ribosomal protein L14)",
+        "ec": "",
+        "interpro": "IPR000218;IPR005745;IPR019972;IPR036853;",
+        "pfam": "PF00238;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J477/entry"
+      }
+    ],
+    "WP_012536090.1": [
+      {
+        "accession": "B7J479",
+        "entry_name": "B7J479_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Large ribosomal subunit protein uL5",
+        "ec": "",
+        "interpro": "IPR002132;IPR020930;IPR031309;IPR020929;IPR022803;IPR031310;",
+        "pfam": "PF00281;PF00673;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J479/entry"
+      }
+    ],
+    "WP_012536091.1": [
+      {
+        "accession": "B7J480",
+        "entry_name": "RS14Z_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS14 (30S ribosomal protein S14 type Z)",
+        "ec": "",
+        "interpro": "IPR001209;IPR023053;IPR018271;IPR043140;",
+        "pfam": "PF00253;",
+        "active_site": "",
+        "binding_site": "BINDING 24; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01364\"; BINDING 27; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01364\"; BINDING 40; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01364\"; BINDING 43; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01364\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J480/entry"
+      }
+    ],
+    "WP_012536092.1": [
+      {
+        "accession": "B7J482",
+        "entry_name": "RL6_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL6 (50S ribosomal protein L6)",
+        "ec": "",
+        "interpro": "IPR000702;IPR036789;IPR020040;IPR019906;IPR002358;",
+        "pfam": "PF00347;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J482/entry"
+      }
+    ],
+    "WP_012536093.1": [
+      {
+        "accession": "B7J484",
+        "entry_name": "RS5_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS5 (30S ribosomal protein S5)",
+        "ec": "",
+        "interpro": "IPR020568;IPR000851;IPR005712;IPR005324;IPR013810;IPR014721;",
+        "pfam": "PF00333;PF03719;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J484/entry"
+      }
+    ],
+    "WP_012536094.1": [
+      {
+        "accession": "B7J485",
+        "entry_name": "RL30_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL30 (50S ribosomal protein L30)",
+        "ec": "",
+        "interpro": "IPR036919;IPR005996;IPR016082;",
+        "pfam": "PF00327;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J485/entry"
+      }
+    ],
+    "WP_012536095.1": [
+      {
+        "accession": "B7J486",
+        "entry_name": "RL15_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein uL15 (50S ribosomal protein L15)",
+        "ec": "",
+        "interpro": "IPR030878;IPR021131;IPR036227;IPR005749;IPR001196;IPR063184;",
+        "pfam": "PF00828;PF29471;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J486/entry"
+      }
+    ],
+    "WP_012536096.1": [
+      {
+        "accession": "B7J487",
+        "entry_name": "B7J487_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Protein translocase subunit SecY",
+        "ec": "",
+        "interpro": "IPR026593;IPR002208;IPR030659;IPR023201;",
+        "pfam": "PF00344;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J487/entry"
+      }
+    ],
+    "WP_012536098.1": [
+      {
+        "accession": "B7J4A3",
+        "entry_name": "RS4_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Small ribosomal subunit protein uS4 (30S ribosomal protein S4)",
+        "ec": "",
+        "interpro": "IPR022801;IPR005709;IPR001912;IPR002942;IPR036986;",
+        "pfam": "PF00163;PF01479;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A3/entry"
+      }
+    ],
+    "WP_012536099.1": [
+      {
+        "accession": "B7J4A4",
+        "entry_name": "B7J4A4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha)",
+        "ec": "2.7.7.6",
+        "interpro": "IPR011262;IPR011263;IPR011773;IPR036603;IPR011260;IPR036643;",
+        "pfam": "PF01000;PF03118;PF01193;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A4/entry"
+      }
+    ],
+    "WP_012536100.1": [
+      {
+        "accession": "B7J4A5",
+        "entry_name": "RL17_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Large ribosomal subunit protein bL17 (50S ribosomal protein L17)",
+        "ec": "",
+        "interpro": "IPR000456;IPR047859;IPR036373;",
+        "pfam": "PF01196;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A5/entry"
+      }
+    ],
+    "WP_012536101.1": [
+      {
+        "accession": "B7J4A6",
+        "entry_name": "B7J4A6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "dUTP diphosphatase (EC 3.6.1.23)",
+        "ec": "3.6.1.23",
+        "interpro": "IPR008181;IPR029054;IPR036157;IPR033704;",
+        "pfam": "PF00692;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A6/entry"
+      }
+    ],
+    "WP_012536102.1": [
+      {
+        "accession": "B7J4A7",
+        "entry_name": "B7J4A7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Coenzyme A biosynthesis bifunctional protein CoaBC (DNA/pantothenate metabolism flavoprotein) (Phosphopantothenoylcysteine synthetase/decarboxylase) (PPCS-PPCDC) [Includes: Phosphopantothenoylcysteine decarboxylase (PPC decarboxylase) (PPC-DC) (EC 4.1.1.36) (CoaC); Phosphopantothenate--cysteine ligase (EC 6.3.2.5) (CoaB) (Phosphopantothenoylcysteine synthetase) (PPC synthetase) (PPC-S)]",
+        "ec": "4.1.1.36; 6.3.2.5",
+        "interpro": "IPR035929;IPR005252;IPR007085;IPR036551;IPR003382;",
+        "pfam": "PF04127;PF02441;",
+        "active_site": "ACT_SITE 167; /note=\"Proton donor\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02225\"",
+        "binding_site": "BINDING 288; /ligand=\"CTP\"; /ligand_id=\"ChEBI:CHEBI:37563\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02225\"; BINDING 298; /ligand=\"CTP\"; /ligand_id=\"ChEBI:CHEBI:37563\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02225\"; BINDING 314..317; /ligand=\"CTP\"; /ligand_id=\"ChEBI:CHEBI:37563\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02225\"; BINDING 333; /ligand=\"CTP\"; /ligand_id=\"ChEBI:CHEBI:37563\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02225\"; BINDING 347; /ligand=\"CTP\"; /ligand_id=\"ChEBI:CHEBI:37563\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02225\"; BINDING 351; /ligand=\"CTP\"; /ligand_id=\"ChEBI:CHEBI:37563\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02225\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A7/entry"
+      }
+    ],
+    "WP_012536103.1": [
+      {
+        "accession": "B7J4A8",
+        "entry_name": "Y358_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "UPF0758 protein AFE_0358",
+        "ec": "",
+        "interpro": "IPR037518;IPR025657;IPR010994;IPR001405;IPR020891;IPR046778;",
+        "pfam": "PF04002;PF20582;",
+        "active_site": "",
+        "binding_site": "BINDING 173; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000255|PROSITE-ProRule:PRU01182\"; BINDING 175; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000255|PROSITE-ProRule:PRU01182\"; BINDING 186; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000255|PROSITE-ProRule:PRU01182\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A8/entry"
+      }
+    ],
+    "WP_012536104.1": [
+      {
+        "accession": "B7J4A9",
+        "entry_name": "B7J4A9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Diacylglycerol kinase (EC 2.7.1.107)",
+        "ec": "2.7.1.107",
+        "interpro": "IPR000829;IPR036945;",
+        "pfam": "PF01219;",
+        "active_site": "ACT_SITE 66; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-1\"",
+        "binding_site": "BINDING 25; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-3\"; BINDING 25; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-4\"; BINDING 66; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-2\"; BINDING 73; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-3\"; BINDING 73; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-4\"; BINDING 82..84; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-3\"; BINDING 91..92; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR600829-3\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4A9/entry"
+      }
+    ],
+    "WP_012536105.1": [],
+    "WP_012536106.1": [
+      {
+        "accession": "B7J4B2",
+        "entry_name": "B7J4B2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "YtxH domain-containing protein",
+        "ec": "",
+        "interpro": "IPR052928;IPR024623;",
+        "pfam": "PF12732;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4B2/entry"
+      }
+    ],
+    "WP_012536107.1": [
+      {
+        "accession": "B7J4B3",
+        "entry_name": "B7J4B3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Peroxiredoxin",
+        "ec": "",
+        "interpro": "IPR032836;IPR027396;",
+        "pfam": "PF13686;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4B3/entry"
+      }
+    ],
+    "WP_012536109.1": [
+      {
+        "accession": "B7J4B5",
+        "entry_name": "B7J4B5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Probable S-methyl-5'-thioinosine phosphorylase (EC 2.4.2.44) (5'-methylthioinosine phosphorylase) (MTI phosphorylase) (MTIP)",
+        "ec": "2.4.2.44",
+        "interpro": "IPR010044;IPR000845;IPR035994;",
+        "pfam": "PF01048;",
+        "active_site": "",
+        "binding_site": "BINDING 10; /ligand=\"phosphate\"; /ligand_id=\"ChEBI:CHEBI:43474\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01963\"; BINDING 52..53; /ligand=\"phosphate\"; /ligand_id=\"ChEBI:CHEBI:43474\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01963\"; BINDING 185; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01963\"; BINDING 186; /ligand=\"phosphate\"; /ligand_id=\"ChEBI:CHEBI:43474\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01963\"; BINDING 209..211; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01963\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4B5/entry"
+      }
+    ],
+    "WP_012536110.1": [
+      {
+        "accession": "B7J4B6",
+        "entry_name": "B7J4B6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Glutathione reductase (EC 1.8.1.7)",
+        "ec": "1.8.1.7",
+        "interpro": "IPR036188;IPR023753;IPR016156;IPR006322;IPR046952;IPR001100;IPR004099;IPR012999;",
+        "pfam": "PF07992;PF02852;",
+        "active_site": "ACT_SITE 438; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000350-2\"",
+        "binding_site": "BINDING 51; /ligand=\"FAD\"; /ligand_id=\"ChEBI:CHEBI:57692\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000350-3\"; BINDING 173..180; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000350-3\"; BINDING 261; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000350-3\"; BINDING 302; /ligand=\"FAD\"; /ligand_id=\"ChEBI:CHEBI:57692\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000350-3\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4B6/entry"
+      }
+    ],
+    "WP_012536111.1": [],
+    "WP_012536113.1": [
+      {
+        "accession": "B7J4C0",
+        "entry_name": "ISPD_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT)",
+        "ec": "2.7.7.60",
+        "interpro": "IPR001228;IPR034683;IPR050088;IPR018294;IPR029044;",
+        "pfam": "PF01128;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C0/entry"
+      }
+    ],
+    "WP_012536114.1": [
+      {
+        "accession": "B7J4C3",
+        "entry_name": "B7J4C3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Transcriptional regulator, MerR family",
+        "ec": "",
+        "interpro": "IPR009061;IPR000551;IPR047057;IPR015358;",
+        "pfam": "PF00376;PF09278;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C3/entry"
+      }
+    ],
+    "WP_012536115.1": [
+      {
+        "accession": "B7J4C4",
+        "entry_name": "B7J4C4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Smr domain protein",
+        "ec": "",
+        "interpro": "IPR002625;IPR036063;",
+        "pfam": "PF01713;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C4/entry"
+      }
+    ],
+    "WP_012536116.1": [
+      {
+        "accession": "B7J4C8",
+        "entry_name": "B7J4C8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Replication-associated recombination protein A",
+        "ec": "",
+        "interpro": "IPR003593;IPR032423;IPR051314;IPR003959;IPR008921;IPR021886;IPR027417;",
+        "pfam": "PF00004;PF16193;PF12002;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4C8/entry"
+      }
+    ],
+    "WP_012536117.1": [
+      {
+        "accession": "B7J4D4",
+        "entry_name": "B7J4D4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Translation initiation factor IF-2",
+        "ec": "",
+        "interpro": "IPR009061;IPR053905;IPR004161;IPR013575;IPR044145;IPR006847;IPR027417;IPR005225;IPR000795;IPR000178;IPR015760;IPR023115;IPR036925;IPR009000;",
+        "pfam": "PF22042;PF00009;PF03144;PF11987;PF08364;PF04760;",
+        "active_site": "",
+        "binding_site": "BINDING 384..391; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00100\"; BINDING 430..434; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00100\"; BINDING 484..487; /ligand=\"GTP\"; /ligand_id=\"ChEBI:CHEBI:37565\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00100\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D4/entry"
+      }
+    ],
+    "WP_012536118.1": [
+      {
+        "accession": "B7J4D5",
+        "entry_name": "RBFA_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Ribosome-binding factor A",
+        "ec": "",
+        "interpro": "IPR015946;IPR000238;IPR023799;IPR020053;",
+        "pfam": "PF02033;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D5/entry"
+      }
+    ],
+    "WP_012536119.1": [],
+    "WP_012536120.1": [
+      {
+        "accession": "B7J4E3",
+        "entry_name": "B7J4E3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DNA polymerase III subunit epsilon (EC 2.7.7.7)",
+        "ec": "2.7.7.7",
+        "interpro": "IPR006054;IPR006309;IPR013520;IPR012337;IPR036397;",
+        "pfam": "PF00929;",
+        "active_site": "ACT_SITE 151; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-1\"",
+        "binding_site": "BINDING 9; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /ligand_label=\"1\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-3\"; BINDING 9; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-2\"; BINDING 11; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /ligand_label=\"1\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-3\"; BINDING 11; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-2\"; BINDING 54; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-2\"; BINDING 59; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-2\"; BINDING 156; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /ligand_label=\"1\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-3\"; BINDING 156; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR606309-2\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4E3/entry"
+      }
+    ],
+    "WP_012536121.1": [],
+    "WP_012536122.1": [
+      {
+        "accession": "B7J4F2",
+        "entry_name": "B7J4F2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Conserved domain protein",
+        "ec": "",
+        "interpro": "IPR052748;IPR006597;IPR011990;",
+        "pfam": "PF08238;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4F2/entry"
+      }
+    ],
+    "WP_012536123.1": [
+      {
+        "accession": "B7J4F6",
+        "entry_name": "B7J4F6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "PIN domain protein",
+        "ec": "",
+        "interpro": "IPR029060;IPR002716;IPR041705;IPR052919;",
+        "pfam": "PF01850;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4F6/entry"
+      }
+    ],
+    "WP_012536124.1": [
+      {
+        "accession": "B7J4F9",
+        "entry_name": "B7J4F9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Pilin, putative",
+        "ec": "",
+        "interpro": "IPR012902;IPR045584;",
+        "pfam": "PF07963;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4F9/entry"
+      }
+    ],
+    "WP_012536126.1": [
+      {
+        "accession": "B7J4G2",
+        "entry_name": "B7J4G2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Transaldolase (EC 2.2.1.2)",
+        "ec": "2.2.1.2",
+        "interpro": "IPR013785;IPR001585;IPR004732;IPR018225;",
+        "pfam": "PF00923;",
+        "active_site": "ACT_SITE 107; /note=\"Proton donor/acceptor\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"; ACT_SITE 138; /note=\"Nucleophile; Schiff-base intermediate with substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"",
+        "binding_site": "BINDING 19; /ligand=\"D-fructose 6-phosphate\"; /ligand_id=\"ChEBI:CHEBI:61527\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"; BINDING 46; /ligand=\"D-fructose 6-phosphate\"; /ligand_id=\"ChEBI:CHEBI:61527\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"; BINDING 138; /ligand=\"D-fructose 6-phosphate\"; /ligand_id=\"ChEBI:CHEBI:61527\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"; BINDING 160; /ligand=\"D-fructose 6-phosphate\"; /ligand_id=\"ChEBI:CHEBI:61527\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"; BINDING 199; /ligand=\"D-fructose 6-phosphate\"; /ligand_id=\"ChEBI:CHEBI:61527\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"; BINDING 204; /ligand=\"D-fructose 6-phosphate\"; /ligand_id=\"ChEBI:CHEBI:61527\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00493\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G2/entry"
+      }
+    ],
+    "WP_012536127.1": [
+      {
+        "accession": "B7J4G4",
+        "entry_name": "B7J4G4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Membrane-bound lytic murein transglycosylase D",
+        "ec": "",
+        "interpro": "IPR018392;IPR036779;IPR063362;IPR023346;IPR000189;IPR008258;",
+        "pfam": "PF01476;PF30403;PF01464;",
+        "active_site": "ACT_SITE 155; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU10071\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G4/entry"
+      }
+    ],
+    "WP_012536128.1": [
+      {
+        "accession": "B7J4G5",
+        "entry_name": "B7J4G5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS)",
+        "ec": "6.1.1.17",
+        "interpro": "IPR045462;IPR020751;IPR001412;IPR008925;IPR004527;IPR000924;IPR020058;IPR049940;IPR033910;IPR014729;",
+        "pfam": "PF19269;PF00749;",
+        "active_site": "",
+        "binding_site": "BINDING 98; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00022\"; BINDING 100; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00022\"; BINDING 125; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00022\"; BINDING 127; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00022\"; BINDING 239; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00022\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G5/entry"
+      }
+    ],
+    "WP_012536129.1": [
+      {
+        "accession": "B7J4G6",
+        "entry_name": "B7J4G6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Aconitate hydratase A (EC 4.2.1.3) (Iron-responsive protein-like) (RNA-binding protein)",
+        "ec": "4.2.1.3",
+        "interpro": "IPR015931;IPR001030;IPR015928;IPR050926;IPR018136;IPR036008;IPR006250;IPR000573;",
+        "pfam": "PF00330;PF00694;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G6/entry"
+      }
+    ],
+    "WP_012536131.1": [
+      {
+        "accession": "B7J4H0",
+        "entry_name": "B7J4H0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)",
+        "ec": "6.2.1.5",
+        "interpro": "IPR017440;IPR033847;IPR003781;IPR005810;IPR036291;IPR005811;IPR016102;",
+        "pfam": "PF02629;PF00549;",
+        "active_site": "ACT_SITE 247; /note=\"Tele-phosphohistidine intermediate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01988, ECO:0000256|PIRSR:PIRSR001553-1\"",
+        "binding_site": "BINDING 17..20; /ligand=\"CoA\"; /ligand_id=\"ChEBI:CHEBI:57287\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01988\"; BINDING 43; /ligand=\"CoA\"; /ligand_id=\"ChEBI:CHEBI:57287\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01988\"; BINDING 96..98; /ligand=\"CoA\"; /ligand_id=\"ChEBI:CHEBI:57287\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01988\"; BINDING 159; /ligand=\"substrate\"; /ligand_note=\"ligand shared with subunit beta\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01988\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H0/entry"
+      }
+    ],
+    "WP_012536132.1": [
+      {
+        "accession": "B7J4H1",
+        "entry_name": "B7J4H1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Glutamine-dependent NAD(+) synthetase (EC 6.3.5.1) (NAD(+) synthase [glutamine-hydrolyzing])",
+        "ec": "6.3.5.1",
+        "interpro": "IPR003010;IPR036526;IPR014445;IPR022310;IPR003694;IPR014729;",
+        "pfam": "PF00795;PF02540;",
+        "active_site": "ACT_SITE 41; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00054\"; ACT_SITE 41; /note=\"Proton acceptor; for glutaminase activity\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; ACT_SITE 107; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00054\"; ACT_SITE 107; /note=\"For glutaminase activity\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; ACT_SITE 143; /note=\"Nucleophile\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00054\"; ACT_SITE 143; /note=\"Nucleophile; for glutaminase activity\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"",
+        "binding_site": "BINDING 113; /ligand=\"L-glutamine\"; /ligand_id=\"ChEBI:CHEBI:58359\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; BINDING 170; /ligand=\"L-glutamine\"; /ligand_id=\"ChEBI:CHEBI:58359\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; BINDING 176; /ligand=\"L-glutamine\"; /ligand_id=\"ChEBI:CHEBI:58359\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; BINDING 286..293; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; BINDING 369; /ligand=\"deamido-NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:58437\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; BINDING 393; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; BINDING 398; /ligand=\"deamido-NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:58437\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"; BINDING 508; /ligand=\"deamido-NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:58437\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02090\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H1/entry"
+      }
+    ],
+    "WP_012536135.1": [],
+    "WP_012536136.1": [
+      {
+        "accession": "B7J4H7",
+        "entry_name": "B7J4H7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Ribulose bisphosphate carboxylase, large subunit 2 (EC 4.1.1.39)",
+        "ec": "4.1.1.39",
+        "interpro": "IPR033966;IPR000685;IPR036376;IPR036422;",
+        "pfam": "PF00016;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H7/entry"
+      }
+    ],
+    "WP_012536138.1": [
+      {
+        "accession": "B7J4H9",
+        "entry_name": "B7J4H9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase) (EC 4.2.1.109)",
+        "ec": "4.2.1.109",
+        "interpro": "IPR050197;IPR001303;IPR036409;IPR017714;",
+        "pfam": "PF00596;",
+        "active_site": "",
+        "binding_site": "BINDING 95; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01677\"; BINDING 97; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01677\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H9/entry"
+      }
+    ],
+    "WP_012536139.1": [
+      {
+        "accession": "B7J4I2",
+        "entry_name": "B7J4I2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Amino acid permease family protein",
+        "ec": "",
+        "interpro": "IPR002293;IPR052962;",
+        "pfam": "PF13520;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I2/entry"
+      }
+    ],
+    "WP_012536140.1": [
+      {
+        "accession": "B7J4I5",
+        "entry_name": "B7J4I5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)",
+        "ec": "1.1.1.133",
+        "interpro": "IPR036291;IPR005913;IPR029903;",
+        "pfam": "PF04321;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4I5/entry"
+      }
+    ],
+    "WP_012536141.1": [
+      {
+        "accession": "B7J4J0",
+        "entry_name": "B7J4J0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Sigma-54 dependent DNA-binding response regulator",
+        "ec": "",
+        "interpro": "IPR003593;IPR058031;IPR011006;IPR009057;IPR002197;IPR027417;IPR001789;IPR002078;IPR025662;IPR025943;IPR025944;",
+        "pfam": "PF25601;PF02954;PF00072;PF00158;",
+        "active_site": "",
+        "binding_site": "BINDING 173..180; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00193\"; BINDING 236..245; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00193\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J0/entry"
+      }
+    ],
+    "WP_012536142.1": [
+      {
+        "accession": "B7J4J3",
+        "entry_name": "B7J4J3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DNA repair protein RecN (Recombination protein N)",
+        "ec": "",
+        "interpro": "IPR004604;IPR027417;IPR003395;",
+        "pfam": "PF02463;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J3/entry"
+      }
+    ],
+    "WP_012536143.1": [],
+    "WP_012536144.1": [
+      {
+        "accession": "B7J4J7",
+        "entry_name": "B7J4J7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Gamma-glutamyl phosphate reductase (GPR) (EC 1.2.1.41) (Glutamate-5-semialdehyde dehydrogenase) (Glutamyl-gamma-semialdehyde dehydrogenase) (GSA dehydrogenase)",
+        "ec": "1.2.1.41",
+        "interpro": "IPR016161;IPR016163;IPR016162;IPR015590;IPR020593;IPR012134;IPR000965;",
+        "pfam": "PF00171;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J7/entry"
+      }
+    ],
+    "WP_012536145.1": [
+      {
+        "accession": "B7J4J9",
+        "entry_name": "B7J4J9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Membrane protein, putative",
+        "ec": "",
+        "interpro": "IPR011701;IPR020846;IPR036259;IPR005829;IPR001958;",
+        "pfam": "PF07690;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J9/entry"
+      }
+    ],
+    "WP_012536146.1": [
+      {
+        "accession": "B7J4K0",
+        "entry_name": "B7J4K0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DNA polymerase III subunit delta (EC 2.7.7.7)",
+        "ec": "2.7.7.7",
+        "interpro": "IPR008921;IPR032780;IPR010372;IPR005790;IPR027417;",
+        "pfam": "PF14840;PF06144;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K0/entry"
+      }
+    ],
+    "WP_012536147.1": [
+      {
+        "accession": "B7J4K2",
+        "entry_name": "B7J4K2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS)",
+        "ec": "6.1.1.4",
+        "interpro": "IPR001412;IPR002300;IPR002302;IPR025709;IPR013155;IPR014729;IPR009080;IPR009008;",
+        "pfam": "PF08264;PF00133;PF13603;",
+        "active_site": "",
+        "binding_site": "BINDING 585; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00049\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K2/entry"
+      }
+    ],
+    "WP_012536148.1": [
+      {
+        "accession": "B7J4K3",
+        "entry_name": "NQOR_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2) (Flavoprotein WrbA) (NAD(P)H:quinone oxidoreductase) (NQO)",
+        "ec": "1.6.5.2",
+        "interpro": "IPR008254;IPR029039;IPR010089;IPR005025;IPR037513;",
+        "pfam": "PF03358;",
+        "active_site": "",
+        "binding_site": "BINDING 10..15; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01017\"; BINDING 12; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01017\"; BINDING 79..81; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01017\"; BINDING 99; /ligand=\"substrate\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01017\"; BINDING 114..120; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01017\"; BINDING 135; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01017\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K3/entry"
+      }
+    ],
+    "WP_012536149.1": [
+      {
+        "accession": "B7J4K4",
+        "entry_name": "B7J4K4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "YceI-like family protein",
+        "ec": "",
+        "interpro": "IPR007372;IPR036761;",
+        "pfam": "PF04264;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K4/entry"
+      }
+    ],
+    "WP_012536151.1": [
+      {
+        "accession": "B7J4K6",
+        "entry_name": "B7J4K6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Formamidopyrimidine-DNA glycosylase, putative",
+        "ec": "",
+        "interpro": "IPR012319;IPR035937;IPR015886;IPR010979;IPR010663;",
+        "pfam": "PF01149;PF06831;PF06827;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K6/entry"
+      }
+    ],
+    "WP_012536152.1": [
+      {
+        "accession": "B7J4K8",
+        "entry_name": "B7J4K8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Cation efflux family protein",
+        "ec": "",
+        "interpro": "IPR002524;IPR027470;IPR036837;IPR058533;IPR027469;IPR050291;",
+        "pfam": "PF01545;PF16916;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K8/entry"
+      }
+    ],
+    "WP_012536153.1": [
+      {
+        "accession": "B7J4K9",
+        "entry_name": "B7J4K9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Glutamine synthetase (EC 6.3.1.2)",
+        "ec": "6.3.1.2",
+        "interpro": "IPR008147;IPR036651;IPR014746;IPR008146;IPR027303;IPR004809;IPR001637;IPR027302;",
+        "pfam": "PF00120;PF03951;",
+        "active_site": "",
+        "binding_site": "BINDING 132; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-3\"; BINDING 134; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-3\"; BINDING 210; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-2\"; BINDING 215; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-3\"; BINDING 223; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-3\"; BINDING 267..268; /ligand=\"L-glutamate\"; /ligand_id=\"ChEBI:CHEBI:29985\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-1\"; BINDING 272; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-3\"; BINDING 274..276; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-2\"; BINDING 324; /ligand=\"L-glutamate\"; /ligand_id=\"ChEBI:CHEBI:29985\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-1\"; BINDING 330; /ligand=\"L-glutamate\"; /ligand_id=\"ChEBI:CHEBI:29985\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-1\"; BINDING 342; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-2\"; BINDING 342; /ligand=\"L-glutamate\"; /ligand_id=\"ChEBI:CHEBI:29985\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-1\"; BINDING 355; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-2\"; BINDING 360; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-3\"; BINDING 362; /ligand=\"L-glutamate\"; /ligand_id=\"ChEBI:CHEBI:29985\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604809-1\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K9/entry"
+      }
+    ],
+    "WP_012536154.1": [],
+    "WP_012536155.1": [
+      {
+        "accession": "B7J4L1",
+        "entry_name": "B7J4L1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase)",
+        "ec": "3.1.3.5",
+        "interpro": "IPR030048;IPR002828;IPR036523;",
+        "pfam": "PF01975;",
+        "active_site": "",
+        "binding_site": "BINDING 9; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00060\"; BINDING 10; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00060\"; BINDING 40; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00060\"; BINDING 93; /ligand=\"a divalent metal cation\"; /ligand_id=\"ChEBI:CHEBI:60240\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00060\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L1/entry"
+      }
+    ],
+    "WP_012536156.1": [
+      {
+        "accession": "B7J4L2",
+        "entry_name": "B7J4L2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77) (L-isoaspartyl protein carboxyl methyltransferase) (Protein L-isoaspartyl methyltransferase) (Protein-beta-aspartate methyltransferase) (PIMT)",
+        "ec": "2.1.1.77",
+        "interpro": "IPR000682;IPR029063;",
+        "pfam": "PF01135;",
+        "active_site": "ACT_SITE 73; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00090\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L2/entry"
+      }
+    ],
+    "WP_012536157.1": [
+      {
+        "accession": "B7J4L4",
+        "entry_name": "B7J4L4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Xcc1710-like domain-containing protein",
+        "ec": "",
+        "interpro": "IPR036748;IPR007523;",
+        "pfam": "PF04430;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L4/entry"
+      }
+    ],
+    "WP_012536158.1": [
+      {
+        "accession": "B7J4L5",
+        "entry_name": "B7J4L5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Aminotransferase, class I/II",
+        "ec": "",
+        "interpro": "IPR004839;IPR050881;IPR015424;IPR015421;IPR015422;",
+        "pfam": "PF00155;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L5/entry"
+      }
+    ],
+    "WP_012536159.1": [
+      {
+        "accession": "B7J4L7",
+        "entry_name": "B7J4L7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Threonine synthase (EC 4.2.3.1)",
+        "ec": "4.2.3.1",
+        "interpro": "IPR050214;IPR000634;IPR004450;IPR026260;IPR001926;IPR036052;",
+        "pfam": "PF00291;",
+        "active_site": "",
+        "binding_site": "BINDING 89; /ligand=\"pyridoxal 5'-phosphate\"; /ligand_id=\"ChEBI:CHEBI:597326\"; /evidence=\"ECO:0000256|PIRSR:PIRSR038945-1\"; BINDING 189..193; /ligand=\"pyridoxal 5'-phosphate\"; /ligand_id=\"ChEBI:CHEBI:597326\"; /evidence=\"ECO:0000256|PIRSR:PIRSR038945-1\"; BINDING 342; /ligand=\"pyridoxal 5'-phosphate\"; /ligand_id=\"ChEBI:CHEBI:597326\"; /evidence=\"ECO:0000256|PIRSR:PIRSR038945-1\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L7/entry"
+      }
+    ],
+    "WP_012536160.1": [
+      {
+        "accession": "B7J4L9",
+        "entry_name": "B7J4L9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Single-stranded-DNA-specific exonuclease RecJ",
+        "ec": "",
+        "interpro": "IPR001667;IPR038763;IPR003156;IPR041122;IPR051673;",
+        "pfam": "PF01368;PF02272;PF17768;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4L9/entry"
+      }
+    ],
+    "WP_012536161.1": [
+      {
+        "accession": "B7J4M4",
+        "entry_name": "B7J4M4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Lipoprotein releasing system transmembrane protein LolC",
+        "ec": "",
+        "interpro": "IPR003838;IPR051447;IPR011925;IPR025857;",
+        "pfam": "PF02687;PF12704;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M4/entry"
+      }
+    ],
+    "WP_012536162.1": [
+      {
+        "accession": "B7J4M6",
+        "entry_name": "B7J4M6_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DUF2062 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR018639;",
+        "pfam": "PF09835;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M6/entry"
+      }
+    ],
+    "WP_012536164.1": [
+      {
+        "accession": "B7J4M8",
+        "entry_name": "B7J4M8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "MotA/TolQ/ExbB proton channel family protein",
+        "ec": "",
+        "interpro": "IPR050790;IPR002898;",
+        "pfam": "PF01618;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M8/entry"
+      }
+    ],
+    "WP_012536165.1": [],
+    "WP_012536166.1": [
+      {
+        "accession": "B7J511",
+        "entry_name": "B7J511_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "3-deoxy-D-manno-octulosonic-acid transferase N-terminal domain-containing protein",
+        "ec": "",
+        "interpro": "IPR007507;",
+        "pfam": "PF04413;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J511/entry"
+      }
+    ],
+    "WP_012536167.1": [
+      {
+        "accession": "B7J516",
+        "entry_name": "B7J516_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J516/entry"
+      }
+    ],
+    "WP_012536168.1": [
+      {
+        "accession": "B7J518",
+        "entry_name": "B7J518_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Bacterial transferase hexapeptide repeat protein",
+        "ec": "",
+        "interpro": "IPR001451;IPR050484;IPR011004;",
+        "pfam": "PF14602;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J518/entry"
+      }
+    ],
+    "WP_012536170.1": [
+      {
+        "accession": "B7J520",
+        "entry_name": "B7J520_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "HNH endonuclease",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J520/entry"
+      }
+    ],
+    "WP_012536171.1": [
+      {
+        "accession": "B7J521",
+        "entry_name": "B7J521_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "CENP-V/GFA domain-containing protein",
+        "ec": "",
+        "interpro": "IPR006913;IPR011057;",
+        "pfam": "PF04828;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J521/entry"
+      }
+    ],
+    "WP_012536172.1": [
+      {
+        "accession": "B7J524",
+        "entry_name": "B7J524_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Conserved domain protein",
+        "ec": "",
+        "interpro": "IPR025427;",
+        "pfam": "PF13711;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J524/entry"
+      }
+    ],
+    "WP_012536176.1": [
+      {
+        "accession": "B7J538",
+        "entry_name": "B7J538_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Protein nucleotidyltransferase YdiU (EC 2.7.7.-) (Protein adenylyltransferase YdiU) (EC 2.7.7.108) (Protein uridylyltransferase YdiU) (EC 2.7.7.-)",
+        "ec": "2.7.7.-; 2.7.7.108",
+        "interpro": "IPR003846;",
+        "pfam": "PF02696;",
+        "active_site": "ACT_SITE 251; /note=\"Proton acceptor\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"",
+        "binding_site": "BINDING 89; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 91; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 92; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 112; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 124; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 125; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 175; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 182; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 252; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 261; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"; BINDING 261; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00692\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J538/entry"
+      }
+    ],
+    "WP_012536177.1": [
+      {
+        "accession": "B7J539",
+        "entry_name": "B7J539_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "ATP-dependent Clp protease, ATP-binding subunit ClpA (EC 3.4.21.92)",
+        "ec": "3.4.21.92",
+        "interpro": "IPR003593;IPR003959;IPR019489;IPR036628;IPR004176;IPR013461;IPR001270;IPR018368;IPR028299;IPR041546;IPR050130;IPR027417;",
+        "pfam": "PF00004;PF07724;PF17871;PF02861;PF10431;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J539/entry"
+      }
+    ],
+    "WP_012536178.1": [],
+    "WP_012536179.1": [
+      {
+        "accession": "B7J541",
+        "entry_name": "B7J541_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "peptidylprolyl isomerase (EC 5.2.1.8)",
+        "ec": "5.2.1.8",
+        "interpro": "IPR046357;IPR000297;IPR023058;IPR050245;IPR027304;",
+        "pfam": "PF13616;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J541/entry"
+      }
+    ],
+    "WP_012536180.1": [
+      {
+        "accession": "B7J542",
+        "entry_name": "B7J542_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme",
+        "ec": "",
+        "interpro": "IPR029062;IPR006287;IPR002818;IPR050325;",
+        "pfam": "PF01965;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J542/entry"
+      }
+    ],
+    "WP_012536181.1": [
+      {
+        "accession": "B7J543",
+        "entry_name": "B7J543_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Carboxy-terminal peptidase (EC 3.4.21.102)",
+        "ec": "3.4.21.102",
+        "interpro": "IPR029045;IPR055210;IPR001478;IPR036034;IPR004447;IPR005151;",
+        "pfam": "PF22694;PF13180;PF03572;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J543/entry"
+      }
+    ],
+    "WP_012536182.1": [
+      {
+        "accession": "B7J544",
+        "entry_name": "B7J544_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "M23/M37 peptidase domain protein",
+        "ec": "",
+        "interpro": "IPR050570;IPR011055;IPR016047;",
+        "pfam": "PF01551;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J544/entry"
+      }
+    ],
+    "WP_012536183.1": [
+      {
+        "accession": "B7J546",
+        "entry_name": "B7J546_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Alpha-1,4 glucan phosphorylase (EC 2.4.1.1)",
+        "ec": "2.4.1.1",
+        "interpro": "IPR011833;IPR000811;IPR035090;",
+        "pfam": "PF00343;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J546/entry"
+      }
+    ],
+    "WP_012536184.1": [
+      {
+        "accession": "B7J548",
+        "entry_name": "B7J548_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Rhodanese-like domain protein",
+        "ec": "",
+        "interpro": "IPR001763;IPR036873;IPR001307;",
+        "pfam": "PF00581;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J548/entry"
+      }
+    ],
+    "WP_012536185.1": [
+      {
+        "accession": "B7J549",
+        "entry_name": "B7J549_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Carbohydrate kinase, PfkB family",
+        "ec": "",
+        "interpro": "IPR002173;IPR011611;IPR029056;",
+        "pfam": "PF00294;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J549/entry"
+      }
+    ],
+    "WP_012536186.1": [
+      {
+        "accession": "B7J550",
+        "entry_name": "B7J550_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Conserved domain protein",
+        "ec": "",
+        "interpro": "IPR027385;IPR011250;",
+        "pfam": "PF13505;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J550/entry"
+      }
+    ],
+    "WP_012536187.1": [
+      {
+        "accession": "B7J551",
+        "entry_name": "METK_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "S-adenosylmethionine synthase (AdoMet synthase) (EC 2.5.1.6) (MAT) (Methionine adenosyltransferase)",
+        "ec": "2.5.1.6",
+        "interpro": "IPR022631;IPR022630;IPR022629;IPR022628;IPR002133;IPR022636;",
+        "pfam": "PF02773;PF02772;PF00438;",
+        "active_site": "",
+        "binding_site": "BINDING 16; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /note=\"in other chain\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 18; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 44; /ligand=\"K(+)\"; /ligand_id=\"ChEBI:CHEBI:29103\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 57; /ligand=\"L-methionine\"; /ligand_id=\"ChEBI:CHEBI:57844\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /note=\"in other chain\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 100; /ligand=\"L-methionine\"; /ligand_id=\"ChEBI:CHEBI:57844\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /note=\"in other chain\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 167..169; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /note=\"in other chain\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 233..234; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /note=\"in other chain\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 242; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 242; /ligand=\"L-methionine\"; /ligand_id=\"ChEBI:CHEBI:57844\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 248..249; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /note=\"in other chain\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 265; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 269; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"; BINDING 273; /ligand=\"L-methionine\"; /ligand_id=\"ChEBI:CHEBI:57844\"; /ligand_note=\"ligand shared between two neighboring subunits\"; /note=\"in other chain\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00086\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J551/entry"
+      }
+    ],
+    "WP_012536188.1": [
+      {
+        "accession": "B7J554",
+        "entry_name": "B7J554_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Methylenetetrahydrofolate reductase (EC 1.5.1.54)",
+        "ec": "1.5.1.54",
+        "interpro": "IPR029041;IPR003171;IPR004620;",
+        "pfam": "PF02219;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J554/entry"
+      }
+    ],
+    "WP_012536189.1": [
+      {
+        "accession": "B7J555",
+        "entry_name": "B7J555_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Phosphoribulokinase (EC 2.7.1.19)",
+        "ec": "2.7.1.19",
+        "interpro": "IPR027417;IPR006082;IPR006083;",
+        "pfam": "PF00485;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J555/entry"
+      }
+    ],
+    "WP_012536190.1": [],
+    "WP_012536191.1": [
+      {
+        "accession": "B7J557",
+        "entry_name": "B7J557_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Conserved domain protein",
+        "ec": "",
+        "interpro": "IPR008532;IPR051608;",
+        "pfam": "PF05670;PF05833;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J557/entry"
+      }
+    ],
+    "WP_012536192.1": [
+      {
+        "accession": "B7J558",
+        "entry_name": "B7J558_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Adenylyl-sulfate kinase (EC 2.7.1.25) (APS kinase) (ATP adenosine-5'-phosphosulfate 3'-phosphotransferase) (Adenosine-5'-phosphosulfate kinase)",
+        "ec": "2.7.1.25",
+        "interpro": "IPR002891;IPR059117;IPR025980;IPR027417;IPR015947;IPR014729;IPR050512;IPR024951;IPR002650;",
+        "pfam": "PF01583;PF01747;PF14306;",
+        "active_site": "ACT_SITE 451; /note=\"Phosphoserine intermediate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00065\"",
+        "binding_site": "BINDING 376..383; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00065\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J558/entry"
+      }
+    ],
+    "WP_012536193.1": [
+      {
+        "accession": "B7J559",
+        "entry_name": "B7J559_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Adenine phosphoribosyltransferase, putative",
+        "ec": "",
+        "interpro": "IPR029057;IPR000836;",
+        "pfam": "PF00156;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J559/entry"
+      }
+    ],
+    "WP_012536194.1": [
+      {
+        "accession": "B7J561",
+        "entry_name": "CH60_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Chaperonin GroEL (EC 5.6.1.7) (60 kDa chaperonin) (Chaperonin-60) (Cpn60)",
+        "ec": "5.6.1.7",
+        "interpro": "IPR018370;IPR001844;IPR002423;IPR027409;IPR027413;IPR027410;",
+        "pfam": "PF00118;",
+        "active_site": "",
+        "binding_site": "BINDING 30..33; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00600\"; BINDING 51; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00600\"; BINDING 87..91; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00600\"; BINDING 415; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00600\"; BINDING 479..481; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00600\"; BINDING 495; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00600\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J561/entry"
+      }
+    ],
+    "WP_012536196.1": [
+      {
+        "accession": "B7J567",
+        "entry_name": "B7J567_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme (ATP:glutamine synthetase adenylyltransferase) (ATase) [Includes: Glutamine synthetase adenylyl-L-tyrosine phosphorylase (EC 2.7.7.89) (Adenylyl removase) (AR) (AT-N); Glutamine synthetase adenylyl transferase (EC 2.7.7.42) (Adenylyl transferase) (AT) (AT-C)]",
+        "ec": "2.7.7.42; 2.7.7.89",
+        "interpro": "IPR023057;IPR005190;IPR043519;IPR013546;",
+        "pfam": "PF08335;PF03710;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J567/entry"
+      }
+    ],
+    "WP_012536197.1": [],
+    "WP_012536198.1": [],
+    "WP_012536199.1": [
+      {
+        "accession": "B7J571",
+        "entry_name": "B7J571_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "ABC transporter, permease/ATP-binding protein",
+        "ec": "",
+        "interpro": "IPR003593;IPR011527;IPR036640;IPR003439;IPR017871;IPR050835;IPR027417;",
+        "pfam": "PF06472;PF00005;",
+        "active_site": "",
+        "binding_site": "BINDING 403..410; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00434\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J571/entry"
+      }
+    ],
+    "WP_012536200.1": [
+      {
+        "accession": "B7J572",
+        "entry_name": "B7J572_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Thioredoxin domain-containing protein",
+        "ec": "",
+        "interpro": "IPR000866;IPR047262;IPR036249;IPR013766;",
+        "pfam": "PF00578;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J572/entry"
+      }
+    ],
+    "WP_012536201.1": [
+      {
+        "accession": "B7J573",
+        "entry_name": "B7J573_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J573/entry"
+      }
+    ],
+    "WP_012536202.1": [
+      {
+        "accession": "B7J574",
+        "entry_name": "B7J574_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II)",
+        "ec": "3.4.23.36",
+        "interpro": "IPR001872;",
+        "pfam": "PF01252;",
+        "active_site": "ACT_SITE 116; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00161\"; ACT_SITE 134; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00161\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J574/entry"
+      }
+    ],
+    "WP_012536204.1": [
+      {
+        "accession": "B7J576",
+        "entry_name": "B7J576_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Riboflavin biosynthesis protein [Includes: Riboflavin kinase (EC 2.7.1.26) (Flavokinase); FMN adenylyltransferase (EC 2.7.7.2) (FAD pyrophosphorylase) (FAD synthase)]",
+        "ec": "2.7.1.26; 2.7.7.2",
+        "interpro": "IPR015864;IPR023468;IPR002606;IPR015865;IPR023465;IPR014729;",
+        "pfam": "PF06574;PF01687;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J576/entry"
+      }
+    ],
+    "WP_012536206.1": [
+      {
+        "accession": "B7J580",
+        "entry_name": "B7J580_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J580/entry"
+      }
+    ],
+    "WP_012536207.1": [
+      {
+        "accession": "B7J581",
+        "entry_name": "B7J581_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "YicC family protein",
+        "ec": "",
+        "interpro": "IPR013551;IPR013527;IPR005229;",
+        "pfam": "PF08340;PF03755;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J581/entry"
+      }
+    ],
+    "WP_012536208.1": [
+      {
+        "accession": "B7J583",
+        "entry_name": "RPOZ_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (EC 2.7.7.6) (RNA polymerase omega subunit) (Transcriptase subunit omega)",
+        "ec": "2.7.7.6",
+        "interpro": "IPR003716;IPR006110;IPR036161;",
+        "pfam": "PF01192;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J583/entry"
+      }
+    ],
+    "WP_012536209.1": [],
+    "WP_012536210.1": [
+      {
+        "accession": "B7J587",
+        "entry_name": "B7J587_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "ATP-dependent DNA helicase RecG (EC 5.6.2.4)",
+        "ec": "5.6.2.4",
+        "interpro": "IPR004609;IPR011545;IPR014001;IPR001650;IPR012340;IPR027417;IPR047112;IPR045562;IPR033454;",
+        "pfam": "PF00270;PF00271;PF19833;PF17191;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J587/entry"
+      }
+    ],
+    "WP_012536211.1": [
+      {
+        "accession": "B7J588",
+        "entry_name": "B7J588_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "ErfK/YbiS/YcfS/YnhG family",
+        "ec": "",
+        "interpro": "IPR050979;IPR005490;IPR038063;",
+        "pfam": "PF03734;",
+        "active_site": "ACT_SITE 179; /note=\"Proton donor/acceptor\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01373\"; ACT_SITE 202; /note=\"Nucleophile\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU01373\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J588/entry"
+      }
+    ],
+    "WP_012536212.1": [
+      {
+        "accession": "B7J589",
+        "entry_name": "B7J589_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Protoporphyrinogen oxidase (EC 1.3.3.4)",
+        "ec": "1.3.3.4",
+        "interpro": "IPR002937;IPR036188;IPR004572;IPR050464;",
+        "pfam": "PF01593;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J589/entry"
+      }
+    ],
+    "WP_012536214.1": [
+      {
+        "accession": "B7J594",
+        "entry_name": "B7J594_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Type I secretion outer membrane protein, TolC family",
+        "ec": "",
+        "interpro": "IPR003423;IPR010130;IPR051906;",
+        "pfam": "PF02321;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J594/entry"
+      }
+    ],
+    "WP_012536216.1": [],
+    "WP_012536217.1": [
+      {
+        "accession": "B7J5A0",
+        "entry_name": "B7J5A0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DUF2283 domain-containing protein",
+        "ec": "",
+        "interpro": "IPR019270;",
+        "pfam": "PF10049;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5A0/entry"
+      }
+    ],
+    "WP_012536220.1": [
+      {
+        "accession": "B7J5A4",
+        "entry_name": "B7J5A4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "MBL fold metallo-hydrolase",
+        "ec": "",
+        "interpro": "IPR036866;",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5A4/entry"
+      }
+    ],
+    "WP_012536221.1": [
+      {
+        "accession": "B7J5A5",
+        "entry_name": "B7J5A5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "ATP-dependent RNA helicase DeaD (EC 3.6.4.13) (Cold-shock DEAD box protein A)",
+        "ec": "3.6.4.13",
+        "interpro": "IPR034415;IPR005580;IPR011545;IPR044742;IPR050547;IPR057325;IPR028618;IPR014001;IPR001650;IPR012677;IPR027417;IPR000629;IPR014014;",
+        "pfam": "PF03880;PF00270;PF25399;PF00271;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5A5/entry"
+      }
+    ],
+    "WP_012536222.1": [
+      {
+        "accession": "B7J5A7",
+        "entry_name": "B7J5A7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Replication restart protein PriA (ATP-dependent DNA helicase PriA) (EC 5.6.2.4) (DNA 3'-5' helicase PriA)",
+        "ec": "5.6.2.4",
+        "interpro": "IPR011545;IPR014001;IPR001650;IPR027417;IPR005259;IPR041222;IPR042115;IPR041236;IPR040498;",
+        "pfam": "PF00270;PF00271;PF17764;PF18074;PF18319;",
+        "active_site": "",
+        "binding_site": "BINDING 428; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"; BINDING 431; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"; BINDING 437; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"; BINDING 440; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"; BINDING 455; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"; BINDING 458; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"; BINDING 468; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"; BINDING 471; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00983\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5A7/entry"
+      }
+    ],
+    "WP_012536223.1": [
+      {
+        "accession": "B7J5A8",
+        "entry_name": "B7J5A8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "4-hydroxybenzoate octaprenyltransferase (EC 2.5.1.39) (4-HB polyprenyltransferase)",
+        "ec": "2.5.1.39",
+        "interpro": "IPR006370;IPR039653;IPR000537;IPR030470;IPR044878;",
+        "pfam": "PF01040;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5A8/entry"
+      }
+    ],
+    "WP_012536224.1": [],
+    "WP_012536225.1": [
+      {
+        "accession": "B7J5B2",
+        "entry_name": "MIAB_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase (EC 2.8.4.3) ((Dimethylallyl)adenosine tRNA methylthiotransferase MiaB) (tRNA-i(6)A37 methylthiotransferase)",
+        "ec": "2.8.4.3",
+        "interpro": "IPR006638;IPR005839;IPR020612;IPR013848;IPR038135;IPR006463;IPR007197;IPR023404;IPR058240;IPR002792;",
+        "pfam": "PF04055;PF01938;PF00919;",
+        "active_site": "",
+        "binding_site": "BINDING 11; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_label=\"1\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01864\"; BINDING 48; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_label=\"1\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01864\"; BINDING 82; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_label=\"1\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01864\"; BINDING 157; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_label=\"2\"; /ligand_note=\"4Fe-4S-S-AdoMet\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01864\"; BINDING 161; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_label=\"2\"; /ligand_note=\"4Fe-4S-S-AdoMet\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01864\"; BINDING 164; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /ligand_label=\"2\"; /ligand_note=\"4Fe-4S-S-AdoMet\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01864\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5B2/entry"
+      }
+    ],
+    "WP_012536226.1": [],
+    "WP_012536227.1": [],
+    "WP_012536228.1": [
+      {
+        "accession": "B7J5B7",
+        "entry_name": "B7J5B7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "PmbA protein",
+        "ec": "",
+        "interpro": "IPR045569;IPR045570;IPR002510;IPR047657;IPR035068;IPR036059;",
+        "pfam": "PF01523;PF19290;PF19289;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5B7/entry"
+      }
+    ],
+    "WP_012536229.1": [
+      {
+        "accession": "B7J5B9",
+        "entry_name": "B7J5B9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Cation ABC transporter, ATP-binding protein, putative",
+        "ec": "",
+        "interpro": "IPR003593;IPR003439;IPR050153;IPR027417;",
+        "pfam": "PF00005;",
+        "active_site": "",
+        "binding_site": "BINDING 38..45; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|PROSITE-ProRule:PRU00434\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5B9/entry"
+      }
+    ],
+    "WP_012536230.1": [],
+    "WP_012536231.1": [
+      {
+        "accession": "B7J5C3",
+        "entry_name": "B7J5C3_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "IPR045445;",
+        "pfam": "PF20112;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5C3/entry"
+      }
+    ],
+    "WP_012536232.1": [
+      {
+        "accession": "B7J5C5",
+        "entry_name": "B7J5C5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "NAD-dependent epimerase/dehydratase family protein",
+        "ec": "",
+        "interpro": "IPR001509;IPR036291;",
+        "pfam": "PF01370;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5C5/entry"
+      }
+    ],
+    "WP_012536234.1": [],
+    "WP_012536235.1": [
+      {
+        "accession": "B7J5C8",
+        "entry_name": "B7J5C8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "IPR045445;",
+        "pfam": "PF20112;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5C8/entry"
+      }
+    ],
+    "WP_012536236.1": [],
+    "WP_012536237.1": [
+      {
+        "accession": "B7J5D1",
+        "entry_name": "B7J5D1_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Glycosyl transferase, group 1",
+        "ec": "",
+        "interpro": "IPR001296;IPR050194;",
+        "pfam": "PF00534;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D1/entry"
+      }
+    ],
+    "WP_012536238.1": [
+      {
+        "accession": "B7J5D2",
+        "entry_name": "B7J5D2_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Glycosyltransferase, group 1",
+        "ec": "",
+        "interpro": "IPR028098;IPR050194;",
+        "pfam": "PF13692;PF13439;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D2/entry"
+      }
+    ],
+    "WP_012536240.1": [
+      {
+        "accession": "B7J5D5",
+        "entry_name": "B7J5D5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Outer membrane protein beta-barrel domain-containing protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D5/entry"
+      }
+    ],
+    "WP_012536241.1": [
+      {
+        "accession": "B7J5D8",
+        "entry_name": "B7J5D8_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "HTH cro/C1-type domain-containing protein",
+        "ec": "",
+        "interpro": "IPR001387;IPR010982;IPR041413;",
+        "pfam": "PF13560;PF17765;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D8/entry"
+      }
+    ],
+    "WP_012536242.1": [
+      {
+        "accession": "B7J5D9",
+        "entry_name": "B7J5D9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Methyltransferase, UbiE/COQ5 family",
+        "ec": "",
+        "interpro": "IPR051052;IPR013216;IPR029063;",
+        "pfam": "PF08241;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5D9/entry"
+      }
+    ],
+    "WP_012536243.1": [
+      {
+        "accession": "B7J5E0",
+        "entry_name": "LEUC_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "3-isopropylmalate dehydratase large subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)",
+        "ec": "4.2.1.33",
+        "interpro": "IPR004430;IPR015931;IPR001030;IPR018136;IPR036008;IPR050067;IPR033941;",
+        "pfam": "PF00330;",
+        "active_site": "",
+        "binding_site": "BINDING 348; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01026\"; BINDING 409; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01026\"; BINDING 412; /ligand=\"[4Fe-4S] cluster\"; /ligand_id=\"ChEBI:CHEBI:49883\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01026\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5E0/entry"
+      }
+    ],
+    "WP_012536244.1": [
+      {
+        "accession": "B7J5S4",
+        "entry_name": "B7J5S4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5S4/entry"
+      }
+    ],
+    "WP_012536245.1": [
+      {
+        "accession": "B7J5S5",
+        "entry_name": "B7J5S5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Pyridoxine/pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5) (PNP/PMP oxidase) (PNPOx) (Pyridoxal 5'-phosphate synthase)",
+        "ec": "1.4.3.5",
+        "interpro": "IPR000659;IPR019740;IPR011576;IPR019576;IPR012349;",
+        "pfam": "PF10590;PF01243;",
+        "active_site": "",
+        "binding_site": "BINDING 11..14; /ligand=\"substrate\"; /evidence=\"ECO:0000256|PIRSR:PIRSR000190-1\"; BINDING 64..69; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-2\"; BINDING 69; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-1\"; BINDING 79..80; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-2\"; BINDING 108; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-2\"; BINDING 126; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-1\"; BINDING 130; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-1\"; BINDING 134; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-1\"; BINDING 143..144; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-2\"; BINDING 188; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-2\"; BINDING 194..196; /ligand=\"substrate\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-1\"; BINDING 198; /ligand=\"FMN\"; /ligand_id=\"ChEBI:CHEBI:58210\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01629, ECO:0000256|PIRSR:PIRSR000190-2\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5S5/entry"
+      }
+    ],
+    "WP_012606540.1": [
+      {
+        "accession": "B7J461",
+        "entry_name": "B7J461_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta')",
+        "ec": "2.7.7.6",
+        "interpro": "IPR045867;IPR012754;IPR000722;IPR006592;IPR007080;IPR007066;IPR042102;IPR007083;IPR007081;IPR044893;IPR038120;",
+        "pfam": "PF04997;PF00623;PF04983;PF05000;PF04998;",
+        "active_site": "",
+        "binding_site": "BINDING 70; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 72; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 85; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 88; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"1\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 460; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 462; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 464; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 801; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 875; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 882; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"; BINDING 885; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_label=\"2\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01322\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J461/entry"
+      }
+    ],
+    "WP_012606542.1": [
+      {
+        "accession": "B7J488",
+        "entry_name": "B7J488_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase)",
+        "ec": "2.7.4.3",
+        "interpro": "IPR006259;IPR000850;IPR033690;IPR007862;IPR027417;",
+        "pfam": "PF00406;PF05191;",
+        "active_site": "",
+        "binding_site": "BINDING 12..17; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 33; /ligand=\"AMP\"; /ligand_id=\"ChEBI:CHEBI:456215\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 38; /ligand=\"AMP\"; /ligand_id=\"ChEBI:CHEBI:456215\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 59..61; /ligand=\"AMP\"; /ligand_id=\"ChEBI:CHEBI:456215\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 87..90; /ligand=\"AMP\"; /ligand_id=\"ChEBI:CHEBI:456215\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 94; /ligand=\"AMP\"; /ligand_id=\"ChEBI:CHEBI:456215\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 129; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 132; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"structural\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 135; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"structural\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 138..139; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 152; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"structural\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 155; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"structural\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 162; /ligand=\"AMP\"; /ligand_id=\"ChEBI:CHEBI:456215\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 173; /ligand=\"AMP\"; /ligand_id=\"ChEBI:CHEBI:456215\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"; BINDING 201; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_00235\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J488/entry"
+      }
+    ],
+    "WP_012606545.1": [
+      {
+        "accession": "B7J4B9",
+        "entry_name": "B7J4B9_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Transcription-repair-coupling factor (TRCF) (EC 3.6.4.-)",
+        "ec": "3.6.4.-",
+        "interpro": "IPR003711;IPR036101;IPR011545;IPR014001;IPR001650;IPR004576;IPR048635;IPR027417;IPR047112;IPR037235;IPR005118;IPR041471;",
+        "pfam": "PF02559;PF00270;PF00271;PF21132;PF03461;PF17757;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4B9/entry"
+      }
+    ],
+    "WP_012606548.1": [
+      {
+        "accession": "B7J4D8",
+        "entry_name": "PNP_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase)",
+        "ec": "2.7.7.8",
+        "interpro": "IPR001247;IPR015847;IPR036345;IPR004087;IPR004088;IPR036612;IPR012340;IPR012162;IPR027408;IPR015848;IPR020568;IPR003029;",
+        "pfam": "PF00013;PF03726;PF01138;PF03725;PF00575;",
+        "active_site": "",
+        "binding_site": "BINDING 482; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01595\"; BINDING 488; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_01595\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4D8/entry"
+      }
+    ],
+    "WP_012606555.1": [
+      {
+        "accession": "B7J4G7",
+        "entry_name": "B7J4G7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)",
+        "ec": "1.1.1.42",
+        "interpro": "IPR019818;IPR004439;IPR024084;",
+        "pfam": "PF00180;",
+        "active_site": "",
+        "binding_site": "BINDING 112; /ligand=\"D-threo-isocitrate\"; /ligand_id=\"ChEBI:CHEBI:15562\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604439-1\"; BINDING 114; /ligand=\"D-threo-isocitrate\"; /ligand_id=\"ChEBI:CHEBI:15562\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604439-1\"; BINDING 118; /ligand=\"D-threo-isocitrate\"; /ligand_id=\"ChEBI:CHEBI:15562\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604439-1\"; BINDING 128; /ligand=\"D-threo-isocitrate\"; /ligand_id=\"ChEBI:CHEBI:15562\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604439-1\"; BINDING 152; /ligand=\"D-threo-isocitrate\"; /ligand_id=\"ChEBI:CHEBI:15562\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604439-1\"; BINDING 319; /ligand=\"Mg(2+)\"; /ligand_id=\"ChEBI:CHEBI:18420\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604439-3\"; BINDING 364; /ligand=\"NADP(+)\"; /ligand_id=\"ChEBI:CHEBI:58349\"; /evidence=\"ECO:0000256|PIRSR:PIRSR604439-2\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4G7/entry"
+      }
+    ],
+    "WP_012606556.1": [
+      {
+        "accession": "B7J4H4",
+        "entry_name": "B7J4H4_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Pseudouridine synthase (EC 5.4.99.-)",
+        "ec": "5.4.99.-",
+        "interpro": "IPR020103;IPR006224;IPR006225;IPR006145;IPR050188;IPR002942;IPR036986;",
+        "pfam": "PF00849;PF01479;",
+        "active_site": "ACT_SITE 139; /evidence=\"ECO:0000256|PIRSR:PIRSR606225-1\"",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4H4/entry"
+      }
+    ],
+    "WP_012606559.1": [
+      {
+        "accession": "B7J4J4",
+        "entry_name": "NADK_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase)",
+        "ec": "2.7.1.23",
+        "interpro": "IPR017438;IPR017437;IPR016064;IPR002504;",
+        "pfam": "PF01513;PF20143;",
+        "active_site": "ACT_SITE 74; /note=\"Proton acceptor\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00361\"",
+        "binding_site": "BINDING 74..75; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00361\"; BINDING 148..149; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00361\"; BINDING 176; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00361\"; BINDING 178; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00361\"; BINDING 189..194; /ligand=\"NAD(+)\"; /ligand_id=\"ChEBI:CHEBI:57540\"; /evidence=\"ECO:0000255|HAMAP-Rule:MF_00361\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4J4/entry"
+      }
+    ],
+    "WP_012606562.1": [
+      {
+        "accession": "B7J4K5",
+        "entry_name": "B7J4K5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "D-alanyl-D-alanine dipeptidase (D-Ala-D-Ala dipeptidase) (EC 3.4.13.22)",
+        "ec": "3.4.13.22",
+        "interpro": "IPR000755;IPR009045;",
+        "pfam": "PF01427;",
+        "active_site": "ACT_SITE 226; /note=\"Proton donor/acceptor\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01924\"",
+        "binding_site": "BINDING 156; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01924\"; BINDING 163; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01924\"; BINDING 229; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /ligand_note=\"catalytic\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_01924\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4K5/entry"
+      }
+    ],
+    "WP_012606567.1": [
+      {
+        "accession": "B7J4M2",
+        "entry_name": "RF2_ACIF2",
+        "reviewed": "reviewed",
+        "protein_names": "Peptide chain release factor 2 (RF-2)",
+        "ec": "",
+        "interpro": "IPR005139;IPR000352;IPR045853;IPR004374;",
+        "pfam": "PF03462;PF00472;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M2/entry"
+      }
+    ],
+    "WP_012606568.1": [
+      {
+        "accession": "B7J4M7",
+        "entry_name": "B7J4M7_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "DNA internalization-related competence protein ComEC/Rec2",
+        "ec": "",
+        "interpro": "IPR004477;IPR052159;",
+        "pfam": "PF03772;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J4M7/entry"
+      }
+    ],
+    "WP_012606573.1": [
+      {
+        "accession": "B7J535",
+        "entry_name": "B7J535_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J535/entry"
+      }
+    ],
+    "WP_012606584.1": [
+      {
+        "accession": "B7J575",
+        "entry_name": "B7J575_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS)",
+        "ec": "6.1.1.5",
+        "interpro": "IPR001412;IPR002300;IPR033708;IPR002301;IPR023585;IPR050081;IPR013155;IPR014729;IPR009080;IPR009008;IPR010663;",
+        "pfam": "PF08264;PF00133;PF06827;",
+        "active_site": "",
+        "binding_site": "BINDING 564; /ligand=\"L-isoleucyl-5'-AMP\"; /ligand_id=\"ChEBI:CHEBI:178002\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02002\"; BINDING 608; /ligand=\"ATP\"; /ligand_id=\"ChEBI:CHEBI:30616\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02002\"; BINDING 900; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02002\"; BINDING 903; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02002\"; BINDING 920; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02002\"; BINDING 923; /ligand=\"Zn(2+)\"; /ligand_id=\"ChEBI:CHEBI:29105\"; /evidence=\"ECO:0000256|HAMAP-Rule:MF_02002\"",
+        "url": "https://www.uniprot.org/uniprotkb/B7J575/entry"
+      }
+    ],
+    "WP_012606589.1": [
+      {
+        "accession": "B7J595",
+        "entry_name": "B7J595_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "aminodeoxychorismate synthase (EC 2.6.1.85)",
+        "ec": "2.6.1.85",
+        "interpro": "IPR005802;IPR005801;IPR015890;IPR019999;",
+        "pfam": "PF00425;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J595/entry"
+      }
+    ],
+    "WP_012606592.1": [
+      {
+        "accession": "B7J598",
+        "entry_name": "B7J598_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Uncharacterized protein",
+        "ec": "",
+        "interpro": "",
+        "pfam": "",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J598/entry"
+      }
+    ],
+    "WP_012606598.1": [
+      {
+        "accession": "B7J5B5",
+        "entry_name": "B7J5B5_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Magnesium and cobalt efflux protein CorC",
+        "ec": "",
+        "interpro": "IPR000644;IPR046342;IPR054115;IPR036318;IPR016169;IPR044751;IPR005170;",
+        "pfam": "PF00571;PF03471;PF21917;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5B5/entry"
+      }
+    ],
+    "WP_012606601.1": [
+      {
+        "accession": "B7J5C0",
+        "entry_name": "B7J5C0_ACIF2",
+        "reviewed": "unreviewed",
+        "protein_names": "Cation ABC transporter, permease protein, putative",
+        "ec": "",
+        "interpro": "IPR037294;IPR001626;",
+        "pfam": "PF00950;",
+        "active_site": "",
+        "binding_site": "",
+        "url": "https://www.uniprot.org/uniprotkb/B7J5C0/entry"
+      }
+    ],
+    "WP_041645281.1": [],
+    "WP_041645297.1": [],
+    "WP_041838681.1": [],
+    "WP_080513172.1": [],
+    "WP_111122554.1": [],
+    "WP_146235837.1": [],
+    "WP_155644734.1": [],
+    "WP_180830472.1": [],
+    "WP_198293661.1": [],
+    "WP_225487405.1": [],
+    "WP_225487406.1": [],
+    "WP_225487407.1": [],
+    "WP_225487408.1": [],
+    "WP_225487409.1": [],
+    "WP_225487644.1": [],
+    "WP_225487645.1": [],
+    "WP_226834132.1": [],
+    "WP_226834140.1": [],
+    "WP_226834174.1": [],
+    "WP_374058762.1": []
+  }
+}

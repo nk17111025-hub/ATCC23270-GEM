@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/xmlquery
+查询: [c:r<-GCF_000021485^^reactions,c<-r^right,c isa compounds]
+detail: full
+获取时间: 2026-09-23T08:41:00.5033808+08:00
+HTTP状态: 200
+Content-Type: text/xml
+结果条数: 2822（含反应侧重复项）
+文件大小: 9253940
+SHA256: 483548200FD34859E715F15C5CDAF1FF8A651B65A9035F2645244C3621CD1525
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\GCF_000021485_compounds_right_network_full_20260923_083853.headers.txt

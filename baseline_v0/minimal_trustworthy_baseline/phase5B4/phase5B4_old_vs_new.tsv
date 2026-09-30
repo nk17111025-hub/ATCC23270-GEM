@@ -1,0 +1,15 @@
+question	phase5B-3C old model	phase5B-4 v2	changed
+native glucose route	CBB (glucose->PPP->RuBP->Rubisco->3PG)	CBB (same)	NO
+maximum biomass (donor/O2<=WT)	0.1019	0.1019	NO
+direct lower glycolysis	not used (PFK/GAPD=0)	not used (same)	NO
+oxidative PPP	not used (G6PDH2=0)	not used (same)	NO
+NADH disposal	limited (NADHI reverse-ETC only)	enabled (NADHI reversible)	YES (capability)
+first blocked precursor	3PG	3PG	NO
+Rubisco dependence	essential	essential	NO
+R25 min intervention	0	0	NO
+R10 min intervention	G6PDH_NAD (1)	G6PDH_NAD (1)	NO
+R0 feasible	no	no	NO
+best added reaction(s)	G6PDH_NAD	G6PDH_NAD	NO
+G6PDH_NAD still useful	yes (R10)	yes (R10)	NO
+ED still preferred	yes (R10)	yes (R10)	NO
+smallest heterologous gap	1 reaction (R10)	1 reaction (R10)	NO

@@ -1,0 +1,4 @@
+tier	reaction_set	target	note
+Tier 1	G6PDH_NAD	R10/R25	only achievable direct-glucose route (ED)
+Tier 2	G6PDH_NAD + PPCK/PPS	R0 (hypothetical)	requires redox re-design; not solved
+Reject	all other R0 candidates	R0	cannot replace Rubisco carboxylation

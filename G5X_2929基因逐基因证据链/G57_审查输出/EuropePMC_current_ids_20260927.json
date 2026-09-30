@@ -1,0 +1,3525 @@
+{
+  "WP_012536907.1": {
+    "query": "WP_012536907.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536907.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09295": {
+    "query": "RU820_RS09295",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09295&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_257245768.1": {
+    "query": "WP_257245768.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_257245768.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09290": {
+    "query": "RU820_RS09290",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09290&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09280": {
+    "query": "RU820_RS09280",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09280&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09285": {
+    "query": "RU820_RS09285",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09285&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607289.1": {
+    "query": "WP_012607289.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607289.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536905.1": {
+    "query": "WP_012536905.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536905.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09300": {
+    "query": "RU820_RS09300",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09300&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536908.1": {
+    "query": "WP_012536908.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536908.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09305": {
+    "query": "RU820_RS09305",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09305&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09320": {
+    "query": "RU820_RS09320",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09320&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536909.1": {
+    "query": "WP_012536909.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536909.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09310": {
+    "query": "RU820_RS09310",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09310&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536910.1": {
+    "query": "WP_012536910.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536910.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567649.1": {
+    "query": "WP_009567649.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567649.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09325": {
+    "query": "RU820_RS09325",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09325&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009565650.1": {
+    "query": "WP_009565650.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009565650.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09335": {
+    "query": "RU820_RS09335",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09335&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09330": {
+    "query": "RU820_RS09330",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09330&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009565651.1": {
+    "query": "WP_009565651.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009565651.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536911.1": {
+    "query": "WP_012536911.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536911.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09340": {
+    "query": "RU820_RS09340",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09340&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536912.1": {
+    "query": "WP_012536912.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536912.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536913.1": {
+    "query": "WP_012536913.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536913.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09350": {
+    "query": "RU820_RS09350",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09350&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_307871269.1": {
+    "query": "WP_307871269.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_307871269.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09345": {
+    "query": "RU820_RS09345",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09345&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09355": {
+    "query": "RU820_RS09355",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09355&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09360": {
+    "query": "RU820_RS09360",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09360&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536915.1": {
+    "query": "WP_012536915.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536915.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536916.1": {
+    "query": "WP_012536916.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536916.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09365": {
+    "query": "RU820_RS09365",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09365&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09375": {
+    "query": "RU820_RS09375",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09375&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536919.1": {
+    "query": "WP_012536919.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536919.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536917.1": {
+    "query": "WP_012536917.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536917.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09380": {
+    "query": "RU820_RS09380",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09380&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09370": {
+    "query": "RU820_RS09370",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09370&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607292.1": {
+    "query": "WP_012607292.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607292.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536920.1": {
+    "query": "WP_012536920.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536920.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536921.1": {
+    "query": "WP_012536921.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536921.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09385": {
+    "query": "RU820_RS09385",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09385&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536922.1": {
+    "query": "WP_012536922.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536922.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09390": {
+    "query": "RU820_RS09390",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09390&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09395": {
+    "query": "RU820_RS09395",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09395&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561000.1": {
+    "query": "WP_009561000.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561000.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09400": {
+    "query": "RU820_RS09400",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09400&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536923.1": {
+    "query": "WP_012536923.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536923.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09405": {
+    "query": "RU820_RS09405",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09405&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09415": {
+    "query": "RU820_RS09415",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09415&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566498.1": {
+    "query": "WP_009566498.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566498.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09410": {
+    "query": "RU820_RS09410",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09410&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536925.1": {
+    "query": "WP_012536925.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536925.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09420": {
+    "query": "RU820_RS09420",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09420&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607294.1": {
+    "query": "WP_012607294.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607294.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566496.1": {
+    "query": "WP_009566496.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566496.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09425": {
+    "query": "RU820_RS09425",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09425&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09430": {
+    "query": "RU820_RS09430",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09430&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536926.1": {
+    "query": "WP_012536926.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536926.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607299.1": {
+    "query": "WP_012607299.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607299.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536928.1": {
+    "query": "WP_012536928.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536928.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09435": {
+    "query": "RU820_RS09435",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09435&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09440": {
+    "query": "RU820_RS09440",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09440&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09450": {
+    "query": "RU820_RS09450",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09450&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536929.1": {
+    "query": "WP_012536929.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536929.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536930.1": {
+    "query": "WP_012536930.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536930.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09455": {
+    "query": "RU820_RS09455",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09455&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09460": {
+    "query": "RU820_RS09460",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09460&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009564632.1": {
+    "query": "WP_009564632.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009564632.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536932.1": {
+    "query": "WP_012536932.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536932.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09465": {
+    "query": "RU820_RS09465",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09465&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536933.1": {
+    "query": "WP_012536933.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536933.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09470": {
+    "query": "RU820_RS09470",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09470&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536934.1": {
+    "query": "WP_012536934.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536934.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09475": {
+    "query": "RU820_RS09475",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09475&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536936.1": {
+    "query": "WP_012536936.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536936.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09485": {
+    "query": "RU820_RS09485",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09485&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536935.1": {
+    "query": "WP_012536935.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536935.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09490": {
+    "query": "RU820_RS09490",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09490&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536937.1": {
+    "query": "WP_012536937.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536937.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09495": {
+    "query": "RU820_RS09495",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09495&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561802.1": {
+    "query": "WP_009561802.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561802.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09500": {
+    "query": "RU820_RS09500",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09500&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536939.1": {
+    "query": "WP_012536939.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536939.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536938.1": {
+    "query": "WP_012536938.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536938.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09505": {
+    "query": "RU820_RS09505",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09505&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09510": {
+    "query": "RU820_RS09510",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09510&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09515": {
+    "query": "RU820_RS09515",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09515&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_225487043.1": {
+    "query": "WP_225487043.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_225487043.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_225487044.1": {
+    "query": "WP_225487044.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_225487044.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09520": {
+    "query": "RU820_RS09520",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09520&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09525": {
+    "query": "RU820_RS09525",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09525&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536942.1": {
+    "query": "WP_012536942.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536942.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "A one-step route for the conversion of Cd waste into CdS quantum dots by <i>Acidithiobacillus</i> sp. <i>via</i> unique biosynthesis pathways.",
+        "doi": "10.1039/d4cb00195h",
+        "pmid": "39802632",
+        "year": "2025"
+      }
+    ]
+  },
+  "WP_012607305.1": {
+    "query": "WP_012607305.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607305.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09530": {
+    "query": "RU820_RS09530",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09530&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536945.1": {
+    "query": "WP_012536945.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536945.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09535": {
+    "query": "RU820_RS09535",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09535&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536944.1": {
+    "query": "WP_012536944.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536944.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09540": {
+    "query": "RU820_RS09540",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09540&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536946.1": {
+    "query": "WP_012536946.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536946.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09545": {
+    "query": "RU820_RS09545",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09545&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567136.1": {
+    "query": "WP_009567136.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567136.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536947.1": {
+    "query": "WP_012536947.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536947.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09555": {
+    "query": "RU820_RS09555",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09555&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09550": {
+    "query": "RU820_RS09550",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09550&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536949.1": {
+    "query": "WP_012536949.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536949.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09560": {
+    "query": "RU820_RS09560",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09560&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536948.1": {
+    "query": "WP_012536948.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536948.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09565": {
+    "query": "RU820_RS09565",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09565&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009564641.1": {
+    "query": "WP_009564641.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009564641.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09570": {
+    "query": "RU820_RS09570",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09570&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536950.1": {
+    "query": "WP_012536950.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536950.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536951.1": {
+    "query": "WP_012536951.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536951.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09575": {
+    "query": "RU820_RS09575",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09575&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09580": {
+    "query": "RU820_RS09580",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09580&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567445.1": {
+    "query": "WP_009567445.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567445.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09585": {
+    "query": "RU820_RS09585",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09585&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536952.1": {
+    "query": "WP_012536952.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536952.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09590": {
+    "query": "RU820_RS09590",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09590&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536953.1": {
+    "query": "WP_012536953.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536953.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536954.1": {
+    "query": "WP_012536954.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536954.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536955.1": {
+    "query": "WP_012536955.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536955.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09600": {
+    "query": "RU820_RS09600",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09600&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09595": {
+    "query": "RU820_RS09595",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09595&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09605": {
+    "query": "RU820_RS09605",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09605&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536956.1": {
+    "query": "WP_012536956.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536956.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_225487046.1": {
+    "query": "WP_225487046.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_225487046.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09610": {
+    "query": "RU820_RS09610",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09610&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09615": {
+    "query": "RU820_RS09615",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09615&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_226833834.1": {
+    "query": "WP_226833834.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_226833834.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536959.1": {
+    "query": "WP_012536959.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536959.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09620": {
+    "query": "RU820_RS09620",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09620&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09625": {
+    "query": "RU820_RS09625",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09625&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536960.1": {
+    "query": "WP_012536960.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536960.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09630": {
+    "query": "RU820_RS09630",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09630&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567699.1": {
+    "query": "WP_009567699.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567699.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09635": {
+    "query": "RU820_RS09635",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09635&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09640": {
+    "query": "RU820_RS09640",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09640&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567700.1": {
+    "query": "WP_009567700.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567700.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09645": {
+    "query": "RU820_RS09645",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09645&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_157293215.1": {
+    "query": "WP_157293215.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_157293215.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567117.1": {
+    "query": "WP_009567117.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567117.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09650": {
+    "query": "RU820_RS09650",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09650&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536962.1": {
+    "query": "WP_012536962.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536962.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536963.1": {
+    "query": "WP_012536963.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536963.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09655": {
+    "query": "RU820_RS09655",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09655&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09660": {
+    "query": "RU820_RS09660",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09660&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09665": {
+    "query": "RU820_RS09665",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09665&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536964.1": {
+    "query": "WP_012536964.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536964.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536965.1": {
+    "query": "WP_012536965.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536965.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09670": {
+    "query": "RU820_RS09670",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09670&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607314.1": {
+    "query": "WP_012607314.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607314.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09680": {
+    "query": "RU820_RS09680",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09680&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536966.1": {
+    "query": "WP_012536966.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536966.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536967.1": {
+    "query": "WP_012536967.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536967.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09685": {
+    "query": "RU820_RS09685",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09685&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09690": {
+    "query": "RU820_RS09690",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09690&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_074874203.1": {
+    "query": "WP_074874203.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_074874203.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09695": {
+    "query": "RU820_RS09695",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09695&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_148208624.1": {
+    "query": "WP_148208624.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_148208624.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09700": {
+    "query": "RU820_RS09700",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09700&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536969.1": {
+    "query": "WP_012536969.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536969.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09710": {
+    "query": "RU820_RS09710",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09710&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_041647398.1": {
+    "query": "WP_041647398.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041647398.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09715": {
+    "query": "RU820_RS09715",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09715&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536971.1": {
+    "query": "WP_012536971.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536971.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536972.1": {
+    "query": "WP_012536972.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536972.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09720": {
+    "query": "RU820_RS09720",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09720&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09725": {
+    "query": "RU820_RS09725",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09725&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536973.1": {
+    "query": "WP_012536973.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536973.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536974.1": {
+    "query": "WP_012536974.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536974.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09730": {
+    "query": "RU820_RS09730",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09730&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09735": {
+    "query": "RU820_RS09735",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09735&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_325064125.1": {
+    "query": "WP_325064125.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_325064125.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_229129717.1": {
+    "query": "WP_229129717.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_229129717.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09745": {
+    "query": "RU820_RS09745",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09745&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09740": {
+    "query": "RU820_RS09740",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09740&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09750": {
+    "query": "RU820_RS09750",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09750&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_041646221.1": {
+    "query": "WP_041646221.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041646221.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536979.1": {
+    "query": "WP_012536979.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536979.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09755": {
+    "query": "RU820_RS09755",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09755&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536980.1": {
+    "query": "WP_012536980.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536980.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536981.1": {
+    "query": "WP_012536981.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536981.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09760": {
+    "query": "RU820_RS09760",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09760&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09765": {
+    "query": "RU820_RS09765",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09765&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536982.1": {
+    "query": "WP_012536982.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536982.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09770": {
+    "query": "RU820_RS09770",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09770&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536983.1": {
+    "query": "WP_012536983.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536983.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09775": {
+    "query": "RU820_RS09775",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09775&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536984.1": {
+    "query": "WP_012536984.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536984.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607322.1": {
+    "query": "WP_012607322.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607322.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09785": {
+    "query": "RU820_RS09785",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09785&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09780": {
+    "query": "RU820_RS09780",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09780&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536985.1": {
+    "query": "WP_012536985.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536985.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536986.1": {
+    "query": "WP_012536986.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536986.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09795": {
+    "query": "RU820_RS09795",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09795&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09790": {
+    "query": "RU820_RS09790",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09790&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536987.1": {
+    "query": "WP_012536987.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536987.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566461.1": {
+    "query": "WP_009566461.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566461.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09800": {
+    "query": "RU820_RS09800",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09800&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09805": {
+    "query": "RU820_RS09805",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09805&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536988.1": {
+    "query": "WP_012536988.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536988.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09810": {
+    "query": "RU820_RS09810",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09810&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536989.1": {
+    "query": "WP_012536989.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536989.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09815": {
+    "query": "RU820_RS09815",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09815&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_226833836.1": {
+    "query": "WP_226833836.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_226833836.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607324.1": {
+    "query": "WP_012607324.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607324.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09820": {
+    "query": "RU820_RS09820",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09820&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09825": {
+    "query": "RU820_RS09825",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09825&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536992.1": {
+    "query": "WP_012536992.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536992.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09830": {
+    "query": "RU820_RS09830",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09830&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536993.1": {
+    "query": "WP_012536993.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536993.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09840": {
+    "query": "RU820_RS09840",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09840&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536995.1": {
+    "query": "WP_012536995.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536995.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09845": {
+    "query": "RU820_RS09845",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09845&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567455.1": {
+    "query": "WP_009567455.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567455.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09850": {
+    "query": "RU820_RS09850",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09850&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_257246597.1": {
+    "query": "WP_257246597.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_257246597.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09855": {
+    "query": "RU820_RS09855",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09855&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536996.1": {
+    "query": "WP_012536996.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536996.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09860": {
+    "query": "RU820_RS09860",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09860&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566247.1": {
+    "query": "WP_009566247.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566247.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09865": {
+    "query": "RU820_RS09865",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09865&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566245.1": {
+    "query": "WP_009566245.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566245.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09870": {
+    "query": "RU820_RS09870",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09870&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_225487052.1": {
+    "query": "WP_225487052.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_225487052.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09875": {
+    "query": "RU820_RS09875",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09875&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566240.1": {
+    "query": "WP_009566240.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566240.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09880": {
+    "query": "RU820_RS09880",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09880&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536999.1": {
+    "query": "WP_012536999.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536999.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09885": {
+    "query": "RU820_RS09885",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09885&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537000.1": {
+    "query": "WP_012537000.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537000.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09890": {
+    "query": "RU820_RS09890",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09890&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537001.1": {
+    "query": "WP_012537001.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537001.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09895": {
+    "query": "RU820_RS09895",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09895&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009564309.1": {
+    "query": "WP_009564309.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009564309.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09900": {
+    "query": "RU820_RS09900",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09900&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607327.1": {
+    "query": "WP_012607327.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607327.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09910": {
+    "query": "RU820_RS09910",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09910&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537003.1": {
+    "query": "WP_012537003.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537003.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09915": {
+    "query": "RU820_RS09915",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09915&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_236608965.1": {
+    "query": "WP_236608965.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_236608965.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09920": {
+    "query": "RU820_RS09920",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09920&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537004.1": {
+    "query": "WP_012537004.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537004.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09925": {
+    "query": "RU820_RS09925",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09925&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567014.1": {
+    "query": "WP_009567014.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567014.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537005.1": {
+    "query": "WP_012537005.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537005.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09930": {
+    "query": "RU820_RS09930",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09930&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09935": {
+    "query": "RU820_RS09935",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09935&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567059.1": {
+    "query": "WP_009567059.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567059.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09940": {
+    "query": "RU820_RS09940",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09940&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567060.1": {
+    "query": "WP_009567060.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567060.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09945": {
+    "query": "RU820_RS09945",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09945&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537006.1": {
+    "query": "WP_012537006.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537006.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09950": {
+    "query": "RU820_RS09950",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09950&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537007.1": {
+    "query": "WP_012537007.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537007.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09955": {
+    "query": "RU820_RS09955",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09955&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537008.1": {
+    "query": "WP_012537008.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537008.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09960": {
+    "query": "RU820_RS09960",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09960&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_041646305.1": {
+    "query": "WP_041646305.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041646305.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09965": {
+    "query": "RU820_RS09965",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09965&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537010.1": {
+    "query": "WP_012537010.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537010.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09970": {
+    "query": "RU820_RS09970",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09970&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537011.1": {
+    "query": "WP_012537011.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537011.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09975": {
+    "query": "RU820_RS09975",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09975&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537012.1": {
+    "query": "WP_012537012.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537012.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09980": {
+    "query": "RU820_RS09980",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09980&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537013.1": {
+    "query": "WP_012537013.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537013.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09985": {
+    "query": "RU820_RS09985",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09985&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537014.1": {
+    "query": "WP_012537014.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537014.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537015.1": {
+    "query": "WP_012537015.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537015.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09990": {
+    "query": "RU820_RS09990",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09990&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS09995": {
+    "query": "RU820_RS09995",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS09995&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537016.1": {
+    "query": "WP_012537016.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537016.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10000": {
+    "query": "RU820_RS10000",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10000&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10005": {
+    "query": "RU820_RS10005",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10005&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561663.1": {
+    "query": "WP_009561663.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561663.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537017.1": {
+    "query": "WP_012537017.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537017.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10010": {
+    "query": "RU820_RS10010",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10010&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537020.1": {
+    "query": "WP_012537020.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537020.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10015": {
+    "query": "RU820_RS10015",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10015&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537021.1": {
+    "query": "WP_012537021.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537021.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10020": {
+    "query": "RU820_RS10020",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10020&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607330.1": {
+    "query": "WP_012607330.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607330.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537023.1": {
+    "query": "WP_012537023.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537023.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10025": {
+    "query": "RU820_RS10025",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10025&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10030": {
+    "query": "RU820_RS10030",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10030&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_226833838.1": {
+    "query": "WP_226833838.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_226833838.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10035": {
+    "query": "RU820_RS10035",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10035&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537025.1": {
+    "query": "WP_012537025.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537025.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10040": {
+    "query": "RU820_RS10040",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10040&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009560702.1": {
+    "query": "WP_009560702.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009560702.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10045": {
+    "query": "RU820_RS10045",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10045&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537027.1": {
+    "query": "WP_012537027.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537027.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10050": {
+    "query": "RU820_RS10050",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10050&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537028.1": {
+    "query": "WP_012537028.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537028.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537029.1": {
+    "query": "WP_012537029.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537029.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10055": {
+    "query": "RU820_RS10055",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10055&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10060": {
+    "query": "RU820_RS10060",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10060&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10065": {
+    "query": "RU820_RS10065",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10065&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607334.1": {
+    "query": "WP_012607334.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607334.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537031.1": {
+    "query": "WP_012537031.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537031.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10070": {
+    "query": "RU820_RS10070",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10070&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537032.1": {
+    "query": "WP_012537032.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537032.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537033.1": {
+    "query": "WP_012537033.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537033.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10075": {
+    "query": "RU820_RS10075",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10075&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10085": {
+    "query": "RU820_RS10085",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10085&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537034.1": {
+    "query": "WP_012537034.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537034.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10080": {
+    "query": "RU820_RS10080",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10080&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_157293223.1": {
+    "query": "WP_157293223.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_157293223.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10090": {
+    "query": "RU820_RS10090",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10090&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10095": {
+    "query": "RU820_RS10095",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10095&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537036.1": {
+    "query": "WP_012537036.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537036.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537035.1": {
+    "query": "WP_012537035.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537035.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537037.1": {
+    "query": "WP_012537037.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537037.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10100": {
+    "query": "RU820_RS10100",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10100&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10105": {
+    "query": "RU820_RS10105",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10105&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537038.1": {
+    "query": "WP_012537038.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537038.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10110": {
+    "query": "RU820_RS10110",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10110&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561052.1": {
+    "query": "WP_009561052.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561052.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10115": {
+    "query": "RU820_RS10115",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10115&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_225487053.1": {
+    "query": "WP_225487053.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_225487053.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567470.1": {
+    "query": "WP_009567470.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567470.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10120": {
+    "query": "RU820_RS10120",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10120&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10125": {
+    "query": "RU820_RS10125",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10125&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567471.1": {
+    "query": "WP_009567471.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567471.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10130": {
+    "query": "RU820_RS10130",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10130&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607340.1": {
+    "query": "WP_012607340.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607340.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_226833839.1": {
+    "query": "WP_226833839.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_226833839.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10135": {
+    "query": "RU820_RS10135",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10135&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537042.1": {
+    "query": "WP_012537042.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537042.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10140": {
+    "query": "RU820_RS10140",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10140&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10145": {
+    "query": "RU820_RS10145",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10145&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537043.1": {
+    "query": "WP_012537043.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537043.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10150": {
+    "query": "RU820_RS10150",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10150&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567357.1": {
+    "query": "WP_009567357.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567357.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10155": {
+    "query": "RU820_RS10155",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10155&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537044.1": {
+    "query": "WP_012537044.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537044.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10160": {
+    "query": "RU820_RS10160",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10160&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009568772.1": {
+    "query": "WP_009568772.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009568772.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10165": {
+    "query": "RU820_RS10165",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10165&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537045.1": {
+    "query": "WP_012537045.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537045.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10170": {
+    "query": "RU820_RS10170",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10170&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567190.1": {
+    "query": "WP_009567190.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567190.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10175": {
+    "query": "RU820_RS10175",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10175&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607345.1": {
+    "query": "WP_012607345.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607345.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10180": {
+    "query": "RU820_RS10180",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10180&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537047.1": {
+    "query": "WP_012537047.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537047.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10185": {
+    "query": "RU820_RS10185",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10185&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537048.1": {
+    "query": "WP_012537048.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537048.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10190": {
+    "query": "RU820_RS10190",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10190&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10195": {
+    "query": "RU820_RS10195",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10195&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537049.1": {
+    "query": "WP_012537049.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537049.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537050.1": {
+    "query": "WP_012537050.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537050.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10200": {
+    "query": "RU820_RS10200",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10200&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537051.1": {
+    "query": "WP_012537051.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537051.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10205": {
+    "query": "RU820_RS10205",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10205&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537052.1": {
+    "query": "WP_012537052.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537052.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10210": {
+    "query": "RU820_RS10210",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10210&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_180830382.1": {
+    "query": "WP_180830382.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_180830382.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10215": {
+    "query": "RU820_RS10215",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10215&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009560977.1": {
+    "query": "WP_009560977.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009560977.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10220": {
+    "query": "RU820_RS10220",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10220&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10225": {
+    "query": "RU820_RS10225",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10225&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537054.1": {
+    "query": "WP_012537054.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537054.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10235": {
+    "query": "RU820_RS10235",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10235&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537055.1": {
+    "query": "WP_012537055.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537055.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10240": {
+    "query": "RU820_RS10240",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10240&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009565188.1": {
+    "query": "WP_009565188.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009565188.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537056.1": {
+    "query": "WP_012537056.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537056.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10245": {
+    "query": "RU820_RS10245",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10245&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009565186.1": {
+    "query": "WP_009565186.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009565186.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10250": {
+    "query": "RU820_RS10250",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10250&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537057.1": {
+    "query": "WP_012537057.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537057.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10255": {
+    "query": "RU820_RS10255",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10255&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537058.1": {
+    "query": "WP_012537058.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537058.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10260": {
+    "query": "RU820_RS10260",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10260&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009565185.1": {
+    "query": "WP_009565185.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009565185.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10265": {
+    "query": "RU820_RS10265",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10265&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537059.1": {
+    "query": "WP_012537059.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537059.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10270": {
+    "query": "RU820_RS10270",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10270&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537060.1": {
+    "query": "WP_012537060.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537060.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10275": {
+    "query": "RU820_RS10275",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10275&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537062.1": {
+    "query": "WP_012537062.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537062.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537061.1": {
+    "query": "WP_012537061.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537061.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10280": {
+    "query": "RU820_RS10280",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10280&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10285": {
+    "query": "RU820_RS10285",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10285&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537063.1": {
+    "query": "WP_012537063.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537063.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10290": {
+    "query": "RU820_RS10290",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10290&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537064.1": {
+    "query": "WP_012537064.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537064.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10295": {
+    "query": "RU820_RS10295",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10295&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537065.1": {
+    "query": "WP_012537065.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537065.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10300": {
+    "query": "RU820_RS10300",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10300&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537066.1": {
+    "query": "WP_012537066.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537066.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10305": {
+    "query": "RU820_RS10305",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10305&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009569096.1": {
+    "query": "WP_009569096.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009569096.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10310": {
+    "query": "RU820_RS10310",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10310&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009569097.1": {
+    "query": "WP_009569097.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009569097.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10315": {
+    "query": "RU820_RS10315",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10315&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537067.1": {
+    "query": "WP_012537067.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537067.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10320": {
+    "query": "RU820_RS10320",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10320&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009569099.1": {
+    "query": "WP_009569099.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009569099.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10325": {
+    "query": "RU820_RS10325",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10325&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537068.1": {
+    "query": "WP_012537068.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537068.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10330": {
+    "query": "RU820_RS10330",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10330&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537069.1": {
+    "query": "WP_012537069.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537069.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10335": {
+    "query": "RU820_RS10335",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10335&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_423364961.1": {
+    "query": "WP_423364961.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_423364961.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10340": {
+    "query": "RU820_RS10340",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10340&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537071.1": {
+    "query": "WP_012537071.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537071.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537072.1": {
+    "query": "WP_012537072.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537072.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10345": {
+    "query": "RU820_RS10345",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10345&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10350": {
+    "query": "RU820_RS10350",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10350&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537073.1": {
+    "query": "WP_012537073.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537073.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10355": {
+    "query": "RU820_RS10355",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10355&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566795.1": {
+    "query": "WP_009566795.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566795.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607358.1": {
+    "query": "WP_012607358.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607358.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10360": {
+    "query": "RU820_RS10360",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10360&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10365": {
+    "query": "RU820_RS10365",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10365&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10370": {
+    "query": "RU820_RS10370",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10370&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_225487057.1": {
+    "query": "WP_225487057.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_225487057.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607360.1": {
+    "query": "WP_012607360.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607360.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10375": {
+    "query": "RU820_RS10375",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10375&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537078.1": {
+    "query": "WP_012537078.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537078.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537079.1": {
+    "query": "WP_012537079.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537079.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10380": {
+    "query": "RU820_RS10380",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10380&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10385": {
+    "query": "RU820_RS10385",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10385&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537080.1": {
+    "query": "WP_012537080.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537080.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10390": {
+    "query": "RU820_RS10390",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10390&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537081.1": {
+    "query": "WP_012537081.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537081.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537082.1": {
+    "query": "WP_012537082.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537082.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10395": {
+    "query": "RU820_RS10395",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10395&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10400": {
+    "query": "RU820_RS10400",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10400&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537083.1": {
+    "query": "WP_012537083.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537083.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10405": {
+    "query": "RU820_RS10405",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10405&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10410": {
+    "query": "RU820_RS10410",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10410&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009568258.1": {
+    "query": "WP_009568258.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009568258.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537084.1": {
+    "query": "WP_012537084.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537084.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10415": {
+    "query": "RU820_RS10415",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10415&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009562360.1": {
+    "query": "WP_009562360.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009562360.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009562361.1": {
+    "query": "WP_009562361.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009562361.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10420": {
+    "query": "RU820_RS10420",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10420&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10425": {
+    "query": "RU820_RS10425",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10425&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009562362.1": {
+    "query": "WP_009562362.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009562362.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10430": {
+    "query": "RU820_RS10430",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10430&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537086.1": {
+    "query": "WP_012537086.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537086.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561285.1": {
+    "query": "WP_009561285.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561285.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10435": {
+    "query": "RU820_RS10435",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10435&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537087.1": {
+    "query": "WP_012537087.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537087.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10440": {
+    "query": "RU820_RS10440",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10440&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10445": {
+    "query": "RU820_RS10445",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10445&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537088.1": {
+    "query": "WP_012537088.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537088.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10450": {
+    "query": "RU820_RS10450",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10450&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537089.1": {
+    "query": "WP_012537089.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537089.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10455": {
+    "query": "RU820_RS10455",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10455&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567670.1": {
+    "query": "WP_009567670.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567670.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10460": {
+    "query": "RU820_RS10460",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10460&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561437.1": {
+    "query": "WP_009561437.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561437.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10465": {
+    "query": "RU820_RS10465",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10465&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10470": {
+    "query": "RU820_RS10470",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10470&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607367.1": {
+    "query": "WP_012607367.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607367.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537091.1": {
+    "query": "WP_012537091.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537091.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10475": {
+    "query": "RU820_RS10475",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10475&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10480": {
+    "query": "RU820_RS10480",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10480&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009564717.1": {
+    "query": "WP_009564717.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009564717.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537092.1": {
+    "query": "WP_012537092.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537092.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10485": {
+    "query": "RU820_RS10485",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10485&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_111122613.1": {
+    "query": "WP_111122613.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_111122613.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10490": {
+    "query": "RU820_RS10490",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10490&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537094.1": {
+    "query": "WP_012537094.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537094.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10495": {
+    "query": "RU820_RS10495",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10495&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537095.1": {
+    "query": "WP_012537095.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537095.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537096.1": {
+    "query": "WP_012537096.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537096.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10500": {
+    "query": "RU820_RS10500",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10500&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10505": {
+    "query": "RU820_RS10505",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10505&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607369.1": {
+    "query": "WP_012607369.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607369.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10510": {
+    "query": "RU820_RS10510",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10510&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561136.1": {
+    "query": "WP_009561136.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561136.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10515": {
+    "query": "RU820_RS10515",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10515&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537098.1": {
+    "query": "WP_012537098.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537098.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566199.1": {
+    "query": "WP_009566199.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566199.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10520": {
+    "query": "RU820_RS10520",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10520&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10525": {
+    "query": "RU820_RS10525",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10525&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537099.1": {
+    "query": "WP_012537099.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537099.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10530": {
+    "query": "RU820_RS10530",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10530&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537100.1": {
+    "query": "WP_012537100.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537100.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537101.1": {
+    "query": "WP_012537101.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537101.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009560733.1": {
+    "query": "WP_009560733.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009560733.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10540": {
+    "query": "RU820_RS10540",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10540&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10535": {
+    "query": "RU820_RS10535",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10535&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10545": {
+    "query": "RU820_RS10545",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10545&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10550": {
+    "query": "RU820_RS10550",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10550&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009560734.1": {
+    "query": "WP_009560734.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009560734.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009560735.1": {
+    "query": "WP_009560735.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009560735.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10555": {
+    "query": "RU820_RS10555",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10555&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009560736.1": {
+    "query": "WP_009560736.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009560736.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009560737.1": {
+    "query": "WP_009560737.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009560737.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10560": {
+    "query": "RU820_RS10560",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10560&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10565": {
+    "query": "RU820_RS10565",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10565&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537102.1": {
+    "query": "WP_012537102.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537102.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10570": {
+    "query": "RU820_RS10570",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10570&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537103.1": {
+    "query": "WP_012537103.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537103.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10575": {
+    "query": "RU820_RS10575",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10575&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10580": {
+    "query": "RU820_RS10580",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10580&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009563788.1": {
+    "query": "WP_009563788.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009563788.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_158303827.1": {
+    "query": "WP_158303827.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_158303827.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10585": {
+    "query": "RU820_RS10585",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10585&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537105.1": {
+    "query": "WP_012537105.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537105.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10590": {
+    "query": "RU820_RS10590",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10590&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10595": {
+    "query": "RU820_RS10595",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10595&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_157293199.1": {
+    "query": "WP_157293199.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_157293199.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009565776.1": {
+    "query": "WP_009565776.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009565776.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10600": {
+    "query": "RU820_RS10600",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10600&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607374.1": {
+    "query": "WP_012607374.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607374.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537106.1": {
+    "query": "WP_012537106.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537106.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10605": {
+    "query": "RU820_RS10605",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10605&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10610": {
+    "query": "RU820_RS10610",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10610&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537107.1": {
+    "query": "WP_012537107.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537107.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537108.1": {
+    "query": "WP_012537108.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537108.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10615": {
+    "query": "RU820_RS10615",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10615&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537109.1": {
+    "query": "WP_012537109.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537109.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10620": {
+    "query": "RU820_RS10620",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10620&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10625": {
+    "query": "RU820_RS10625",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10625&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537110.1": {
+    "query": "WP_012537110.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537110.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10630": {
+    "query": "RU820_RS10630",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10630&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537111.1": {
+    "query": "WP_012537111.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537111.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537112.1": {
+    "query": "WP_012537112.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537112.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10635": {
+    "query": "RU820_RS10635",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10635&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10640": {
+    "query": "RU820_RS10640",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10640&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567932.1": {
+    "query": "WP_009567932.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567932.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10645": {
+    "query": "RU820_RS10645",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10645&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537114.1": {
+    "query": "WP_012537114.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537114.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10650": {
+    "query": "RU820_RS10650",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10650&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_229129720.1": {
+    "query": "WP_229129720.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_229129720.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10655": {
+    "query": "RU820_RS10655",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10655&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567937.1": {
+    "query": "WP_009567937.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567937.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10660": {
+    "query": "RU820_RS10660",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10660&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_225487058.1": {
+    "query": "WP_225487058.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_225487058.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10675": {
+    "query": "RU820_RS10675",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10675&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10670": {
+    "query": "RU820_RS10670",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10670&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537116.1": {
+    "query": "WP_012537116.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537116.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009568083.1": {
+    "query": "WP_009568083.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009568083.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10680": {
+    "query": "RU820_RS10680",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10680&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_041646431.1": {
+    "query": "WP_041646431.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041646431.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10690": {
+    "query": "RU820_RS10690",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10690&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537117.1": {
+    "query": "WP_012537117.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537117.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607383.1": {
+    "query": "WP_012607383.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607383.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10695": {
+    "query": "RU820_RS10695",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10695&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10700": {
+    "query": "RU820_RS10700",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10700&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009566809.1": {
+    "query": "WP_009566809.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009566809.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537119.1": {
+    "query": "WP_012537119.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537119.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10705": {
+    "query": "RU820_RS10705",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10705&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10710": {
+    "query": "RU820_RS10710",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10710&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537120.1": {
+    "query": "WP_012537120.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537120.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10715": {
+    "query": "RU820_RS10715",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10715&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537121.1": {
+    "query": "WP_012537121.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537121.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10720": {
+    "query": "RU820_RS10720",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10720&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537123.1": {
+    "query": "WP_012537123.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537123.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537122.1": {
+    "query": "WP_012537122.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537122.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10730": {
+    "query": "RU820_RS10730",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10730&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10725": {
+    "query": "RU820_RS10725",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10725&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537124.1": {
+    "query": "WP_012537124.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537124.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009561011.1": {
+    "query": "WP_009561011.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009561011.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10740": {
+    "query": "RU820_RS10740",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10740&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10745": {
+    "query": "RU820_RS10745",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10745&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537125.1": {
+    "query": "WP_012537125.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537125.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10750": {
+    "query": "RU820_RS10750",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10750&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537126.1": {
+    "query": "WP_012537126.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537126.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10755": {
+    "query": "RU820_RS10755",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10755&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537127.1": {
+    "query": "WP_012537127.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537127.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10760": {
+    "query": "RU820_RS10760",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10760&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537128.1": {
+    "query": "WP_012537128.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537128.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10770": {
+    "query": "RU820_RS10770",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10770&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537129.1": {
+    "query": "WP_012537129.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537129.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10775": {
+    "query": "RU820_RS10775",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10775&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537130.1": {
+    "query": "WP_012537130.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537130.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10780": {
+    "query": "RU820_RS10780",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10780&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537131.1": {
+    "query": "WP_012537131.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537131.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537132.1": {
+    "query": "WP_012537132.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537132.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10790": {
+    "query": "RU820_RS10790",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10790&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10785": {
+    "query": "RU820_RS10785",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10785&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009564692.1": {
+    "query": "WP_009564692.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009564692.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10795": {
+    "query": "RU820_RS10795",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10795&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537133.1": {
+    "query": "WP_012537133.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537133.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "RU820_RS10800": {
+    "query": "RU820_RS10800",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=RU820_RS10800&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537134.1": {
+    "query": "WP_012537134.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537134.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  }
+}

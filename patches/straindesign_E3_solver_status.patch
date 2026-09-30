@@ -1,0 +1,27 @@
+diff --git a/straindesign/solver_interface.py b/straindesign/solver_interface.py
+index 0462cec..f475849 100644
+--- a/straindesign/solver_interface.py
++++ b/straindesign/solver_interface.py
+@@ -224,7 +224,7 @@ class MILP_LP(object):
+             solution_vector, optimal_value, optimization_status
+         """
+         x, min_cx, status = self.backend.solve()
+-        if status not in [INFEASIBLE, UNBOUNDED, TIME_LIMIT]:  # if solution exists (is not nan), round integers
++        if status not in [INFEASIBLE, UNBOUNDED, TIME_LIMIT, ERROR]:  # preserve the NaN vector on solver failure
+             x = [x[i] if self.vtype[i] == 'C' else int(round(x[i])) for i in range(len(x)) if not isnan(x[i])]
+         return x, min_cx, status
+ 
+diff --git a/straindesign/strainDesignMILP.py b/straindesign/strainDesignMILP.py
+index f63dae2..b31880e 100644
+--- a/straindesign/strainDesignMILP.py
++++ b/straindesign/strainDesignMILP.py
+@@ -278,6 +278,9 @@ class SDMILP(SDProblem, MILP_LP):
+     def solveZ(self) -> Tuple[List, int]:
+         """Solve MILP, and return only binary variables rounded to 5 decimals (should return ints)"""
+         x, opt, status = self.solve()
++        if len(x) <= max(self.idx_z, default=-1):
++            logging.error('MILP solver returned no complete intervention vector (status: %s).', status)
++            return sparse.csr_matrix((0, self.num_z)), x, opt, ERROR
+         z = sparse.csr_matrix([round(x[i], 5) for i in self.idx_z])
+         return z, x, opt, status
+ 

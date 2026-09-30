@@ -1,0 +1,98 @@
+﻿总序号	当前locus	旧AFE	当前product	2026动作	未决点	建议验证实验	论文Source ID	2016关联反应
+1466	RU820_RS07750	AFE_1677	nitric oxide reductase activation protein NorD	证据不足暂缓	当前NorD名称与旧文献CbbO1指称冲突；KEGG K02448/R00294不能直接作为本蛋白催化反应。	核对NorD/CbbO1蛋白身份；分别测相关酶活或复合体功能。	G56-P01	
+1467	RU820_RS07755	AFE_1678	CbbQ/NirQ/NorQ/GpvN family protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。	G56-P01	
+1470	RU820_RS07770	AFE_1682	ferritin-like domain-containing protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1476	RU820_RS07800	AFE_1688	carboxysome shell carbonic anhydrase	证据不足暂缓	CsoS3/Can1为羧酶体壳碳酸酐酶候选；旧HCO3E已有AFE_0287，羧酶体区室与可合并性未证。	纯化CsoS3测CO2/HCO3−转化，并确定羧酶体定位与模型区室。	G56-P01;G56-P05	
+1481	RU820_RS07825	AFE_1693	oxygenase MpaB family protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1482	RU820_RS07830	AFE_1694	VirB8/TrbF family protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1483	RU820_RS07835	AFE_1695	TrbG/VirB9 family P-type conjugative transfer protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1484	RU820_RS07840	AFE_1696	TrbG/VirB9 family P-type conjugative transfer protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1487	RU820_RS07855	AFE_1698	lytic transglycosylase domain-containing protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1499	RU820_RS07920	AFE_1716	phospholipase D-like domain-containing protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1505	RU820_RS07950	AFE_1723	aldo/keto reductase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1515	RU820_RS08000	AFE_1738	DNA topoisomerase 3	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1519	RU820_RS08020	AFE_1742	aldehyde dehydrogenase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1521	RU820_RS08030	AFE_1745	carboxymuconolactone decarboxylase family protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1525	RU820_RS08055	AFE_1750	LexA family protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1536	RU820_RS08115	AFE_1763	glycosyltransferase family 4 protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1539	RU820_RS08130	AFE_1766	class II aldolase/adducin family protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1544	RU820_RS08155	未确认	deoxynucleoside kinase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1545	RU820_RS08160	未确认	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1546	RU820_RS08165	AFE_1774	CCA tRNA nucleotidyltransferase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1547	RU820_RS08170	AFE_1775	polynucleotide adenylyltransferase PcnB	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1548	RU820_RS08175	AFE_1776	glycosyltransferase family 2 protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1555	RU820_RS08210	AFE_1782	APC family permease	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1560	RU820_RS08235	AFE_1787	L-threonylcarbamoyladenylate synthase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1562	RU820_RS08245	AFE_1789	tryptophan--tRNA ligase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1570	RU820_RS08285	AFE_1797	DHA2 family efflux MFS transporter permease subunit	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1576	RU820_RS08315	AFE_1803	NAD(P)/FAD-dependent oxidoreductase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1579	RU820_RS08330	AFE_1808	bifunctional enoyl-CoA hydratase/phosphate acetyltransferase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1580	RU820_RS08335	AFE_1809	MFS transporter	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1582	RU820_RS08345	AFE_1811	dihydrolipoamide acetyltransferase family protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1583	RU820_RS08350	AFE_1812	alpha-ketoacid dehydrogenase subunit beta	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1584	RU820_RS08355	AFE_1813	thiamine pyrophosphate-dependent enzyme	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1585	RU820_RS08360	AFE_1814	carboxymuconolactone decarboxylase family protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1588	RU820_RS08375	AFE_1817	sulfotransferase family protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1593	RU820_RS08400	AFE_1824	DMT family transporter	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1596	RU820_RS08415	AFE_1826	TRZ/ATZ family hydrolase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1597	RU820_RS08420	AFE_1827	lytic murein transglycosylase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1599	RU820_RS08435	AFE_1830	MlaC/ttg2D family ABC transporter substrate-binding protein	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1600	RU820_RS08440	AFE_1831	acyloxyacyl hydrolase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1601	RU820_RS08445	AFE_1832	2OG-Fe(II) oxygenase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1606	RU820_RS08470	未确认	sugar transferase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1607	RU820_RS08480	未确认	sugar transferase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1614	RU820_RS08525	AFE_1847	tellurite resistance/C4-dicarboxylate transporter family protein	证据不足暂缓	45项历史裁决B-005暂缓：C4二羧酸/亚碲酸盐底物、膜侧、方向与耦联均未证。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。	G56-P03	
+1615	RU820_RS08530	AFE_1848	DNA-3-methyladenine glycosylase family protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1617	RU820_RS08540	AFE_1851	glycosyltransferase family 2 protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1620	RU820_RS08555	AFE_1854	NAD(P)/FAD-dependent oxidoreductase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1621	RU820_RS08560	AFE_1855	MFS transporter	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1622	RU820_RS08565	AFE_1856	GMC oxidoreductase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1623	RU820_RS08570	AFE_1857	glucose 1-dehydrogenase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1626	RU820_RS08585	AFE_1861	4a-hydroxytetrahydrobiopterin dehydratase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1632	RU820_RS08615	AFE_1868	transcriptional repressor LexA	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1635	RU820_RS08630	AFE_1871	error-prone DNA polymerase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1636	RU820_RS08635	AFE_1872	thiol:disulfide interchange protein DsbG	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1640	RU820_RS08655	未确认	polyphosphate kinase 1	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1642	RU820_RS08665	AFE_1878	efflux RND transporter permease subunit	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1643	RU820_RS08670	AFE_1879	efflux RND transporter periplasmic adaptor subunit	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1644	RU820_RS08675	AFE_1880	efflux transporter outer membrane subunit	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1647	RU820_RS08690	AFE_1883	phosphoenolpyruvate carboxylase	证据不足暂缓	PPC已存在但2016 GPR为AFE_1810；AFE_1883同工酶能力需独立证据，暂不写OR。	纯化AFE_1883测PEP羧化；遗传扰动区分AFE_1810的贡献。	G56-P03	
+1649	RU820_RS08700	AFE_1885	ribosome rescue GTPase HflX	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1653	RU820_RS08720	未确认	adenylosuccinate synthase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1654	RU820_RS08730	AFE_1891	ribonuclease R	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1655	RU820_RS08735	AFE_1892	polyphosphate kinase 2	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1656	RU820_RS08740	AFE_1893	dihydrolipoyl dehydrogenase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1661	RU820_RS08765	AFE_1898	superoxide dismutase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1667	RU820_RS08795	AFE_1905	phosphate acyltransferase PlsX	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1671	RU820_RS08815	AFE_1909	acyl carrier protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1675	RU820_RS08840	AFE_1914	DNA polymerase III subunit delta' C-terminal domain-containing protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1677	RU820_RS08860	AFE_1919	DNA polymerase III subunit gamma/tau	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1680	RU820_RS08875	AFE_1922	ammonium transporter	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1681	RU820_RS08880	AFE_1923	NAD(P)H-hydrate dehydratase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1684	RU820_RS08895	AFE_1926	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1686	RU820_RS08905	AFE_1928	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1691	RU820_RS08930	AFE_1933	flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1692	RU820_RS08935	AFE_1934	histidine--tRNA ligase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1695	RU820_RS08950	AFE_1937	ribosome biogenesis GTPase Der	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1702	RU820_RS08985	AFE_1945	sulfite exporter TauE/SafE family protein	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1703	RU820_RS08995	AFE_1947	efflux RND transporter permease subunit	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1704	RU820_RS09000	AFE_1948	efflux RND transporter periplasmic adaptor subunit	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1707	RU820_RS09015	AFE_1951	YbhB/YbcL family Raf kinase inhibitor-like protein	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1711	RU820_RS09040	AFE_1956	NAD(P)/FAD-dependent oxidoreductase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1713	RU820_RS09050	AFE_1958	autotransporter assembly complex protein TamA	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1716	RU820_RS09065	AFE_1961	MFS transporter	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1719	RU820_RS09080	未确认	fatty acid desaturase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1721	RU820_RS09090	AFE_1966	NAD-dependent epimerase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1726	RU820_RS09115	AFE_1971	MFS transporter	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1731	RU820_RS09140	AFE_1976	exodeoxyribonuclease VII small subunit	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1732	RU820_RS09145	AFE_1977	MFS transporter	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1733	RU820_RS09150	未确认	energy transducer TonB family protein	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1735	RU820_RS09160	AFE_1980	exodeoxyribonuclease VII large subunit	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1739	RU820_RS09180	AFE_1986	peptidylprolyl isomerase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1745	RU820_RS09210	AFE_1992	TDT family transporter	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1747	RU820_RS09220	AFE_1994	3,4-dihydroxy-2-butanone-4-phosphate synthase	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1750	RU820_RS09235	AFE_1999	acyl-homoserine-lactone synthase	证据不足暂缓	同株及异源表达证实AHL产物范围；各acyl-ACP前体、逐物种反应式和区室仍未定。	测定AfeI对各acyl-ACP底物的产物谱与计量，并定位细胞区室。	G56-P02	
+1753	RU820_RS09250	AFE_2003	glyoxalase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1754	RU820_RS09255	未确认	ABC transporter ATP-binding protein	证据不足暂缓	转运底物、方向、膜侧或能量耦联未由该基因专属证据确定。	同株或异源表达背景测底物摄取/外排、方向与能量依赖，并定位膜侧。		
+1755	RU820_RS09260	AFE_2004	GNAT family N-acetyltransferase	证据不足暂缓	仅有酶名/家族线索，未取得该基因专属精确底物—产物及2016等价反应核对。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		
+1756	RU820_RS09265	AFE_2005	DJ-1/PfpI family protein	证据不足暂缓	数据库候选尚未逐反应证明精确化学式、区室及2016等价状态。	纯化该蛋白或构建定向突变株，测精确底物、产物、计量与方向。		

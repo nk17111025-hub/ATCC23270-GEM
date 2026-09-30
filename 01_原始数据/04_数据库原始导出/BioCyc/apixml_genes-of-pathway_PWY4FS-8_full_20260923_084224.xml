@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/apixml?fn=genes-of-pathway%26id=GCF_000021485:PWY4FS-8%26detail=FULL'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>apixml</service_name>
+    <query>fn=genes-of-pathway&amp;id=GCF_000021485:PWY4FS-8&amp;detail=FULL</query>
+    <num_results>8</num_results>
+    <PGDB orgid='GCF_000021485' version='30.0'>
+      <species datatype='string'>Acidithiobacillus ferrooxidans</species>
+      <strain datatype='string'>ATCC 23270</strain>
+      <sequence-source datatype='string'>GCF_000021485.1</sequence-source>
+      <dblink>
+        <dblink-db>NCBI-TAXONOMY-DB</dblink-db>
+        <dblink-oid>243159</dblink-oid>
+        <dblink-relationship>unification</dblink-relationship>
+        <dblink-URL>http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=243159</dblink-URL>
+      </dblink>
+    </PGDB>
+  </metadata>
+  <Gene ID='GCF_000021485:AFE_RS04360' orgid='GCF_000021485' frameid='AFE_RS04360' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS04360-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04360-MONOMER'/>
+    </product>
+    <transcription-direction datatype='string'>+</transcription-direction>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-364' orgid='GCF_000021485' frameid='TU2G89-364'/>
+    </component-of>
+    <right-end-position datatype='integer'>844660</right-end-position>
+    <accession-2 datatype='string'>AFE_0929</accession-2>
+    <left-end-position datatype='integer'>844172</left-end-position>
+    <accession-1 datatype='string'>AFE_RS04360</accession-1>
+    <synonym datatype='string'>RS04360</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>28.305153</centisome-position>
+  </Gene>
+  <Gene ID='GCF_000021485:AFE_RS04000' orgid='GCF_000021485' frameid='AFE_RS04000' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <transcription-direction datatype='string'>+</transcription-direction>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS04000-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04000-MONOMER'/>
+    </product>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-326' orgid='GCF_000021485' frameid='TU2G89-326'/>
+    </component-of>
+    <right-end-position datatype='integer'>781377</right-end-position>
+    <common-name datatype='string'>pgsA</common-name>
+    <accession-2 datatype='string'>AFE_0854</accession-2>
+    <left-end-position datatype='integer'>780787</left-end-position>
+    <accession-1 datatype='string'>AFE_RS04000</accession-1>
+    <synonym datatype='string'>RS04000</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>26.179848</centisome-position>
+  </Gene>
+  <Gene ID='GCF_000021485:AFE_RS09800' orgid='GCF_000021485' frameid='AFE_RS09800' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+    </product>
+    <transcription-direction datatype='string'>-</transcription-direction>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-837' orgid='GCF_000021485' frameid='TU2G89-837'/>
+    </component-of>
+    <right-end-position datatype='integer'>1881550</right-end-position>
+    <accession-2 datatype='string'>AFE_2126</accession-2>
+    <left-end-position datatype='integer'>1880516</left-end-position>
+    <accession-1 datatype='string'>AFE_RS09800</accession-1>
+    <synonym datatype='string'>RS09800</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>63.05385</centisome-position>
+  </Gene>
+  <Gene ID='GCF_000021485:AFE_RS00590' orgid='GCF_000021485' frameid='AFE_RS00590' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <transcription-direction datatype='string'>-</transcription-direction>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS00590-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00590-MONOMER'/>
+    </product>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-1541' orgid='GCF_000021485' frameid='TU2G89-1541'/>
+    </component-of>
+    <right-end-position datatype='integer'>115435</right-end-position>
+    <common-name datatype='string'>plsY</common-name>
+    <accession-2 datatype='string'>AFE_0125</accession-2>
+    <left-end-position datatype='integer'>114839</left-end-position>
+    <accession-1 datatype='string'>AFE_RS00590</accession-1>
+    <synonym datatype='string'>RS00590</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>3.8505607</centisome-position>
+  </Gene>
+  <Gene ID='GCF_000021485:AFE_RS00280' orgid='GCF_000021485' frameid='AFE_RS00280' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS00280-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00280-MONOMER'/>
+    </product>
+    <transcription-direction datatype='string'>+</transcription-direction>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-29' orgid='GCF_000021485' frameid='TU2G89-29'/>
+    </component-of>
+    <right-end-position datatype='integer'>62012</right-end-position>
+    <accession-2 datatype='string'>AFE_0058</accession-2>
+    <left-end-position datatype='integer'>61401</left-end-position>
+    <accession-1 datatype='string'>AFE_RS00280</accession-1>
+    <synonym datatype='string'>RS00280</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>2.0587802</centisome-position>
+  </Gene>
+  <Gene ID='GCF_000021485:AFE_RS03445' orgid='GCF_000021485' frameid='AFE_RS03445' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS03445-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03445-MONOMER'/>
+    </product>
+    <transcription-direction datatype='string'>+</transcription-direction>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-281' orgid='GCF_000021485' frameid='TU2G89-281'/>
+    </component-of>
+    <right-end-position datatype='integer'>653033</right-end-position>
+    <accession-2 datatype='string'>AFE_0727</accession-2>
+    <left-end-position datatype='integer'>652131</left-end-position>
+    <accession-1 datatype='string'>AFE_RS03445</accession-1>
+    <synonym datatype='string'>RS03445</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>21.866003</centisome-position>
+  </Gene>
+  <Gene ID='GCF_000021485:AFE_RS03730' orgid='GCF_000021485' frameid='AFE_RS03730' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS03730-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03730-MONOMER'/>
+    </product>
+    <transcription-direction datatype='string'>+</transcription-direction>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-303' orgid='GCF_000021485' frameid='TU2G89-303'/>
+    </component-of>
+    <right-end-position datatype='integer'>718070</right-end-position>
+    <accession-2 datatype='string'>AFE_0790</accession-2>
+    <left-end-position datatype='integer'>717267</left-end-position>
+    <accession-1 datatype='string'>AFE_RS03730</accession-1>
+    <synonym datatype='string'>RS03730</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>24.050018</centisome-position>
+  </Gene>
+  <Gene ID='GCF_000021485:AFE_RS11835' orgid='GCF_000021485' frameid='AFE_RS11835' detail='full'>
+    <parent>
+      <Gene resource='getxml?GCF_000021485:Unclassified-Genes' orgid='GCF_000021485' frameid='Unclassified-Genes' class='true'/>
+    </parent>
+    <replicon>
+      <Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/>
+    </replicon>
+    <product>
+      <Protein resource='getxml?GCF_000021485:AFE_RS11835-MONOMER' orgid='GCF_000021485' frameid='AFE_RS11835-MONOMER'/>
+    </product>
+    <transcription-direction datatype='string'>+</transcription-direction>
+    <component-of>
+      <Transcription-Unit resource='getxml?GCF_000021485:TU2G89-1045' orgid='GCF_000021485' frameid='TU2G89-1045'/>
+    </component-of>
+    <right-end-position datatype='integer'>2296755</right-end-position>
+    <accession-2 datatype='string'>AFE_2584</accession-2>
+    <left-end-position datatype='integer'>2296027</left-end-position>
+    <accession-1 datatype='string'>AFE_RS11835</accession-1>
+    <synonym datatype='string'>RS11835</synonym>
+    <centisome-position datatype='float' units='CENTISOMES'>76.98596</centisome-position>
+  </Gene>
+</ptools-xml>

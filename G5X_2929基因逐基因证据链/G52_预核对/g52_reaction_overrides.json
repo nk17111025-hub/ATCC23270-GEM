@@ -1,0 +1,94 @@
+{
+  "MTAP": {
+    "action": "撤下该基因GPR",
+    "scope": "底物错配：旧 MTAP 为 methylthioadenosine，当前 WP 为 methylthioinosine"
+  },
+  "TRDR": {
+    "action": "替换2016错误式子候选",
+    "scope": "同株重组蛋白催化实验和论文引物与当前 CDS 双端精确匹配；原式方向及电荷错误；候选 h[c] + nadph[c] + trdox[c] -> nadp[c] + trdrd[c] 配平，待网络核验。"
+  },
+  "CYTAA32": {
+    "action": "撤下该基因GPR",
+    "scope": "当前 WP 为 FadL 外膜转运蛋白；旧文献 AFE_0378 标号冲突"
+  },
+  "EAR4": {
+    "action": "Hold旧式子",
+    "scope": "2016 补表电荷差 +1；核对 ACP 代谢物"
+  },
+  "EAR8": {
+    "action": "Hold旧式子",
+    "scope": "2016 补表电荷差 -1；核对 ACP 代谢物"
+  },
+  "NADS1": {
+    "action": "撤下该基因GPR",
+    "scope": "当前 WP 仅支持 L-glutamine 供氮，旧 NADS1 使用 NH4+"
+  },
+  "NADS2": {
+    "action": "保留候选",
+    "scope": "当前 WP RHEA:24384 与谷氨酰胺供氮式对应"
+  },
+  "DKMPE": {
+    "action": "保留候选",
+    "scope": "Form IV RLP 与 KEGG R07393 指向甲硫氨酸回收途径；同株催化未实测"
+  },
+  "RUBISCO": {
+    "action": "撤下该基因OR分支",
+    "scope": "RU820_RS02105 为 Form IV RLP，缺少 RuBP 羧化证据；此反应其他分支另核"
+  },
+  "NADPPPS": {
+    "action": "Hold该基因GPR",
+    "scope": "SurE 通用核苷酸单磷酸酶注释未指认 NADP 底物"
+  },
+  "THMP": {
+    "action": "Hold该基因GPR",
+    "scope": "SurE 注释未指认硫胺单磷酸底物"
+  },
+  "HETZK": {
+    "action": "撤下该基因GPR",
+    "scope": "当前 WP 为 DJ-1/ThiJ 家族，无 hydroxyethylthiazole kinase 证据"
+  },
+  "MTRP": {
+    "action": "保留低分候选",
+    "scope": "通用 glucan phosphorylase 有注释；maltotetraose 特定链长未实测"
+  },
+  "MTHFR3": {
+    "action": "Hold旧式子并评估改式",
+    "scope": "当前 WP 对应 NADH 辅酶；旧式子 NADPH 且 Reaction Name 误写"
+  },
+  "PRUK": {
+    "action": "保留候选",
+    "scope": "同株 cbbP 转录及蛋白表达；催化化学来自注释"
+  },
+  "ADSK": {
+    "action": "保留候选",
+    "scope": "当前 WP 注释 APS kinase 反应；2012 atpS 论文仅预测该结构域，未测 kinase 活性。"
+  },
+  "SFAT1": {
+    "action": "保留并核正证据等级",
+    "scope": "2012 同株历史 atpS 等位序列重组表达实测 APS+PPi 生成 ATP；与现行 CDS 差 7 nt/4 aa。核心反应可评 4；质子、区室与现行 WP 版本差异单列。"
+  },
+  "SFAT2": {
+    "action": "Hold该基因GPR",
+    "scope": "2012 atpS 论文未测 APS+Pi -> ADP+sulfate，当前 WP 亦无此精确反应对应。"
+  },
+  "OMBQM": {
+    "action": "Hold旧式子",
+    "scope": "2016 补表电荷差 -2；当前 WP 底物仅家族级注释"
+  },
+  "GLUTRS": {
+    "action": "Hold该基因OR分支",
+    "scope": "历史 AFE_0422 在 KEGG 标作 gltX-2；同物种 GluRS2 实验偏好 tRNA(Gln)-UUG，而旧 GLUTRS 使用 tRNA(Glu)；原文蛋白序列与当前 WP 尚未精确对齐。"
+  },
+  "BILG": {
+    "action": "Hold旧式子",
+    "scope": "BCCP 与生物素化 BCCP 缺完整分子式；KEGG 对应两步反应，需核对整体计量。"
+  },
+  "TDSK": {
+    "action": "Hold旧式子",
+    "scope": "两个 AFE 专用 lipid A 代谢物缺结构/式子，无法核对酰链与电荷。"
+  },
+  "PMEAS": {
+    "action": "Hold该基因GPR及旧式子",
+    "scope": "当前 WP 仅为通用 SAM methyltransferase；模型脂质缺式子且具体底物未确认。"
+  }
+}

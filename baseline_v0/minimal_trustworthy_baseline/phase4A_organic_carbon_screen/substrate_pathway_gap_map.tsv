@@ -1,0 +1,55 @@
+substrate	step_index	from_metabolite	to_metabolite	reaction_id	status	confidence	GPR	required_action	comments
+glucose	1	glc-B[e]	glc-B[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+glucose	2	glc-B[e]	glc-B[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+glucose	3	glc-B[c]	g6p-B[c]	BDGK	PRESENT_LOW_CONFIDENCE	1		VERIFY_GENE	BDGK glucokinase-like, confidence 1, no GPR (WATCH item); forward glucose->G6P supported
+glucose	4	g6p-B[c]	f6p-B[c]	PGI1	PRESENT_ACTIVE	2	AFE_2924	none	
+glucose	5	f6p-B[c]	fdp[c]	PFK	PRESENT_ACTIVE	2	AFE_1807	none	
+glucose	6	fdp[c]	g3p[c]	FBA	PRESENT_ACTIVE	2	AFE_1802	none	
+glucose	7	g3p[c]	13dpg[c]	GAPD1	PRESENT_BUT_CLOSED	2	AFE_3251	ENABLE_NATIVE_REACTION_OR_REVERSE_DIRECTION	GAPD1/2 written 13dpg->g3p (gluconeogenic) and irreversible; glycolysis needs reversal
+glucose	8	13dpg[c]	3pg[c]	PGK	PRESENT_BUT_CLOSED	2	AFE_3250	ENABLE_NATIVE_REACTION_OR_REVERSE_DIRECTION	PGK written 3pg->13dpg (gluconeogenic) and irreversible; glycolysis needs reversal
+glucose	9	3pg[c]	2pg[c]	PGM1	PRESENT_ACTIVE	2	(AFE_1815 or AFE_0155 or AFE_0526 or AFE_0621)	none	
+glucose	10	2pg[c]	pep[c]	ENO	PRESENT_ACTIVE	2	(AFE_1800 or AFE_0849)	none	
+glucose	11	pep[c]	pyr[c]	PYK	PRESENT_ACTIVE	2	(AFE_0749 or AFE_1801 or AFE_3249)	none	
+glucose	12	pyr[c]	accoa[c]	PDH	PRESENT_ACTIVE	2	(AFE_3070 and AFE_3069 and AFE_3068)	none	
+glycerol	1	glyc[e]	glyc[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+glycerol	2	glyc[e]	glyc[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+glycerol	3	glyc[c]	glyc3p[c]	GLYK	PRESENT_LOW_CONFIDENCE	1		VERIFY_GENE	
+glycerol	4	glyc3p[c]	dhap[c]	G3PD2	PRESENT_BUT_CLOSED	3	AFE_2126	ENABLE_NATIVE_REACTION_OR_REVERSE_DIRECTION	G3PD2 written DHAP->glyc3p (reduction) and irreversible; glycerol oxidation needs reversal
+glycerol	5	dhap[c]	g3p[c]	TPI	PRESENT_ACTIVE	2	AFE_2633	none	
+glycerol	6	g3p[c]	13dpg[c]	GAPD1	PRESENT_BUT_CLOSED	2	AFE_3251	ENABLE_NATIVE_REACTION_OR_REVERSE_DIRECTION	
+glycerol	7	13dpg[c]	3pg[c]	PGK	PRESENT_BUT_CLOSED	2	AFE_3250	ENABLE_NATIVE_REACTION_OR_REVERSE_DIRECTION	
+glycerol	8	3pg[c]	2pg[c]	PGM1	PRESENT_ACTIVE	2	(AFE_1815 or AFE_0155 or AFE_0526 or AFE_0621)	none	
+glycerol	9	2pg[c]	pep[c]	ENO	PRESENT_ACTIVE	2	(AFE_1800 or AFE_0849)	none	
+glycerol	10	pep[c]	pyr[c]	PYK	PRESENT_ACTIVE	2	(AFE_0749 or AFE_1801 or AFE_3249)	none	
+glycerol	11	pyr[c]	accoa[c]	PDH	PRESENT_ACTIVE	2	(AFE_3070 and AFE_3069 and AFE_3068)	none	
+ethanol	1	etoh[e]	etoh[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+ethanol	2	etoh[e]	etoh[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+ethanol	3	etoh[c]	acald[c]		MISSING_CONVERSION			ADD_ENZYME	
+ethanol	4	acald[c]	accoa[c]		MISSING_CONVERSION			ADD_ENZYME	
+acetate	1	ac[e]	ac[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+acetate	2	ac[e]	ac[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+acetate	3	ac[c]	accoa[c]	ACS	PRESENT_ACTIVE	2	AFE_1969	none	
+fructose	1	fru[e]	fru[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+fructose	2	fru[e]	fru[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+fructose	3	fru[c]	f6p-B[c]		MISSING_CONVERSION			ADD_ENZYME	
+sucrose	1	sucr[e]	sucr[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+sucrose	2	sucr[e]	sucr[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+sucrose	3	sucr[c]	glc-B[c]		MISSING_CONVERSION			ADD_ENZYME	
+lactate	1	lac-L[e]	lac-L[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+lactate	2	lac-L[e]	lac-L[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+lactate	3	lac-L[c]	pyr[c]		MISSING_CONVERSION			ADD_ENZYME	
+pyruvate	1	pyr[e]	pyr[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+pyruvate	2	pyr[e]	pyr[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+pyruvate	3	pyr[c]	accoa[c]	PDH	PRESENT_ACTIVE	2	(AFE_3070 and AFE_3069 and AFE_3068)	none	
+formate	1	for[e]	for[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+formate	2	for[e]	for[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+formate	3	for[c]	10fthf[c]	FTHFL	PRESENT_BUT_CLOSED	2		ENABLE_NATIVE_REACTION_OR_REVERSE_DIRECTION	FTHFL written 10fthf->formate (deformylation) and irreversible; formate->10fthf blocked
+formate	4	10fthf[c]	central-carbon		MISSING_CONVERSION			ADD_ENZYME	
+methanol	1	meoh[e]	meoh[e]		MISSING_EXCHANGE			ADD_EXCHANGE	
+methanol	2	meoh[e]	meoh[c]		MISSING_TRANSPORT			ADD_TRANSPORTER	
+methanol	3	meoh[c]	for[c]		MISSING_CONVERSION			ADD_ENZYME	
+methanol	4	for[c]	central-carbon		MISSING_CONVERSION			ADD_ENZYME	
+4hba	1	4hba[e]	4hba[e]	Ex_4hba[e]	PRESENT_NO_GPR			VERIFY_GENE	
+4hba	2	4hba[e]	4hba[p]	4HBAtex	PRESENT_LOW_CONFIDENCE	1		VERIFY_GENE	
+4hba	3	4hba[p]	4hba[c]	4HBAtpp	PRESENT_LOW_CONFIDENCE	1		VERIFY_GENE	
+4hba	4	4hba[c]	central-carbon		MISSING_CONVERSION			ADD_ENZYME	

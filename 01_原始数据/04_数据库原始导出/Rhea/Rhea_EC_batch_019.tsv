@@ -1,0 +1,11 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:11920	(4aS,6R)-4a-hydroxy-L-erythro-5,6,7,8-tetrahydrobiopterin = (6R)-L-erythro-6,7-dihydrobiopterin + H2O	EC:4.2.1.96	CHEBI:15642;CHEBI:43120;CHEBI:15377	KEGG:R04734	MetaCyc:RXN-7908
+RHEA:13097	a (3R)-hydroxyacyl-[ACP] = a (2E)-enoyl-[ACP] + H2O	EC:4.2.1.59	CHEBI:78827;CHEBI:78784;CHEBI:15377	KEGG:R10208	MetaCyc:3-HYDROXYDECANOYL-ACP-DEHYDR-RXN
+RHEA:18777	an alkylmercury + H(+) = an alkane + Hg(2+)	EC:4.99.1.2	CHEBI:83725;CHEBI:15378;CHEBI:18310;CHEBI:16793	KEGG:R03529	MetaCyc:ALKYLMERCURY-LYASE-RXN
+RHEA:19989	5-(methylsulfanyl)-alpha-D-ribose 1-phosphate = 5-(methylsulfanyl)-D-ribulose 1-phosphate	EC:5.3.1.23	CHEBI:58533;CHEBI:58548	KEGG:R04420	MetaCyc:5.3.1.23-RXN
+RHEA:24020	2-(N(omega)-L-arginino)succinate = fumarate + L-arginine	EC:4.3.2.1	CHEBI:57472;CHEBI:29806;CHEBI:32682	KEGG:R01086	MetaCyc:ARGSUCCINLYA-RXN
+RHEA:34707	alpha-D-ribose 1-methylphosphonate 5-phosphate + AH2 + S-adenosyl-L-methionine = alpha-D-ribose 1,2-cyclic phosphate 5-phosphate + methane + 5'-deoxyadenosine + L-methionine + A + H(+)	EC:4.7.1.1	CHEBI:68686;CHEBI:17499;CHEBI:59789;CHEBI:68687;CHEBI:16183;CHEBI:17319;CHEBI:57844;CHEBI:13193;CHEBI:15378	KEGG:R10204	MetaCyc:RXN0-6734
+RHEA:16853	N(6)-(1,2-dicarboxyethyl)-AMP = fumarate + AMP	EC:4.3.2.2	CHEBI:57567;CHEBI:29806;CHEBI:456215	KEGG:R01083	MetaCyc:AMPSYN-RXN
+RHEA:23920	(2S)-2-[5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamido]succinate = 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide + fumarate	EC:4.3.2.2	CHEBI:58443;CHEBI:58475;CHEBI:29806	KEGG:R04559	MetaCyc:AICARSYN-RXN
+RHEA:24809	(2R)-2,3-dihydroxy-3-methylbutanoate = 3-methyl-2-oxobutanoate + H2O	EC:4.2.1.9	CHEBI:49072;CHEBI:11851;CHEBI:15377	KEGG:R04441	MetaCyc:DIHYDROXYISOVALDEHYDRAT-RXN
+RHEA:27694	(2R,3R)-2,3-dihydroxy-3-methylpentanoate = (S)-3-methyl-2-oxopentanoate + H2O	EC:4.2.1.9	CHEBI:49258;CHEBI:35146;CHEBI:15377	KEGG:R05070	MetaCyc:DIHYDROXYMETVALDEHYDRAT-RXN

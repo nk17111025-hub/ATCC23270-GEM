@@ -1,0 +1,3 @@
+old_gene	current_locus	protein_accession	gene_name	KEGG_KO	function	EC	reaction_id	classification
+AFE_1854	RU820_RS08555	WP_012536802.1	ndh	K03885	NADH:quinone reductase (non-electrogenic)	1.6.5.9	NDH2_NATIVE	NATIVE_MODEL_COMPLETION
+AFE_1803	RU820_RS08315	WP_009568931.1			NADH oxidase (water-forming)	1.6.3.4	NOX_NATIVE	NATIVE_MODEL_COMPLETION_PROVISIONAL

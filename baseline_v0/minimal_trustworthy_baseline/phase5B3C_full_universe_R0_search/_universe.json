@@ -1,0 +1,149 @@
+{
+  "ME1": {
+    "name": "Malic enzyme (NAD)",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "co2[c]": 1.0,
+      "mal-L[c]": -1.0,
+      "nad[c]": -1.0,
+      "nadh[c]": 1.0,
+      "pyr[c]": 1.0
+    }
+  },
+  "ME2": {
+    "name": "Malic enzyme (NADP)",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "co2[c]": 1.0,
+      "mal-L[c]": -1.0,
+      "nadp[c]": -1.0,
+      "nadph[c]": 1.0,
+      "pyr[c]": 1.0
+    }
+  },
+  "PPCK": {
+    "name": "Phosphoenolpyruvate carboxykinase",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "adp[c]": 1.0,
+      "atp[c]": -1.0,
+      "co2[c]": 1.0,
+      "oaa[c]": -1.0,
+      "pep[c]": 1.0
+    }
+  },
+  "ICL": {
+    "name": "Isocitrate lyase",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "glx[c]": 1.0,
+      "icit[c]": -1.0,
+      "succ[c]": 1.0
+    }
+  },
+  "PPS": {
+    "name": "Phosphoenolpyruvate synthase",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "amp[c]": 1.0,
+      "atp[c]": -1.0,
+      "h[c]": 2.0,
+      "h2o[c]": -1.0,
+      "pep[c]": 1.0,
+      "pi[c]": 1.0,
+      "pyr[c]": -1.0
+    }
+  },
+  "GND": {
+    "name": "Phosphogluconate dehydrogenase",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "6pgc[c]": -1.0,
+      "co2[c]": 1.0,
+      "nadp[c]": -1.0,
+      "nadph[c]": 1.0,
+      "ru5p-D[c]": 1.0
+    }
+  },
+  "NADH16": {
+    "name": "NADH dehydrogenase (ubiquinone-8 & 3 protons)",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "h[c]": -1.0,
+      "nad[c]": 1.0,
+      "nadh[c]": -1.0,
+      "q8[c]": -1.0,
+      "q8h2[c]": 1.0
+    }
+  },
+  "PPDK": {
+    "name": "Pyruvate,phosphate dikinase.",
+    "ec": "",
+    "rev": false,
+    "stoich": {
+      "amp[c]": 1.0,
+      "atp[c]": -1.0,
+      "h[c]": 1.0,
+      "pep[c]": 1.0,
+      "pi[c]": -1.0,
+      "ppi[c]": 1.0,
+      "pyr[c]": -1.0
+    }
+  },
+  "G6PDH_NAD": {
+    "name": "glucose-6-phosphate dehydrogenase (NAD)",
+    "ec": "1.1.1.363",
+    "rev": false,
+    "stoich": {
+      "g6p-B[c]": -1,
+      "nad[c]": -1,
+      "6pgl[c]": 1,
+      "nadh[c]": 1,
+      "h[c]": 1
+    }
+  },
+  "PC": {
+    "name": "pyruvate carboxylase",
+    "ec": "6.4.1.1",
+    "rev": false,
+    "stoich": {
+      "pyr[c]": -1,
+      "co2[c]": -1,
+      "atp[c]": -1,
+      "oaa[c]": 1,
+      "adp[c]": 1,
+      "pi[c]": 1,
+      "h[c]": 1
+    }
+  },
+  "PFL": {
+    "name": "pyruvate formate lyase",
+    "ec": "2.3.1.54",
+    "rev": false,
+    "stoich": {
+      "pyr[c]": -1,
+      "coa[c]": -1,
+      "accoa[c]": 1,
+      "for[c]": 1
+    }
+  },
+  "NADHox": {
+    "name": "NADH oxidase",
+    "ec": "1.6.3.4",
+    "rev": false,
+    "stoich": {
+      "nadh[c]": -1,
+      "o2[c]": -1,
+      "h[c]": -1,
+      "nad[c]": 1,
+      "h2o2[c]": 1
+    }
+  }
+}

@@ -1,0 +1,7 @@
+candidate	classification	note
+G6PDH_NAD	TRUE_NETWORK_ADDITION_CANDIDATE	model has only NADP-dependent G6PDH2 (EC 1.1.1.49); NAD-dependent G6PDH (EC 1.1.1.363) absent
+ICL	TRUE_NETWORK_ADDITION_CANDIDATE	MALS present but isocitrate lyase absent (glyoxylate shunt incomplete)
+ME_NADP/ME_NAD	TRUE_NETWORK_ADDITION_CANDIDATE	malic enzyme absent
+PC	TRUE_NETWORK_ADDITION_CANDIDATE	pyruvate carboxylase absent (only ACCOAC)
+PEPCK/PEPS	TRUE_NETWORK_ADDITION_CANDIDATE	PEP synthesis from pyruvate/OAA absent (only PPC PEP->OAA)
+NADHDH	POTENTIAL_MODEL_OMISSION	NADHI exists but only reverse-ETC direction (NAD+->NADH); forward NADH oxidation unidirectional

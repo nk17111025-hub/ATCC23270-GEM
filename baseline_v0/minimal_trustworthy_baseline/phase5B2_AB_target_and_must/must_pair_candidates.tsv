@@ -1,0 +1,3 @@
+pair	type	basis	note
+Ex_glc-B[e] + GLCtpp	MUST-ON pair	glucose uptake requires exchange + transport	single-reaction MUST co-occurrence; no combinatorial MILP run
+PGI1 + BDGK	MUST-UP pair	glucose -> G6P -> F6P requires both	single-reaction MUST co-occurrence; no combinatorial MILP run

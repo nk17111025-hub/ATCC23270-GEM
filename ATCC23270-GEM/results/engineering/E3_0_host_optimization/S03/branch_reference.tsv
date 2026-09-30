@@ -1,0 +1,2 @@
+branch	biomass_optimum	reference_pfba_biomass	glucose	rubisco	fe2	o2	co2_h2co3	KO_candidate_count	UPREG_candidate_count	ACTIVATION_UPREG_candidate_count	fixed_E1_candidate_ids	fixed_search_reaction_ids	worst_case_rubisco	worst_case_fe2	worst_case_o2	worst_case_co2	worst_case_validation_failures
+S03	0.08008985260380629	0.0800898526038041	-0.5	0.07913449575127987	-130.79494312467838	-31.909522392217355	-0.0758605602113353	590	153	81	E1R00732;E1R00741	E1R00732;E1R00741	0.0791344957512799	-158.02163744419406	-38.4815426751541	-0.07586056556040716	

@@ -1,0 +1,11 @@
+reaction_id	name	published_protons	encoded_protons	h_p_reactant	h_p_product	h_c_reactant	h_c_product	match
+ATPS5rpp	ATP synthase (five protons for one ATP) (periplasm)	5.0	5.0	5.0	0	0	4.0	True
+CYTAA31	cytochrome c oxidase, aa3-type	0.0	0	0	0	2.0	0	True
+NADHI	NADH dehydrogenase (ubiquinone-8 & 5 protons) (periplasm)	5.0	5.0	5.0	0	0	6.0	True
+CYTBC1	cytochrome oxidase bc1 (5 protons) (periplasm)	5.0	5.0	5.0	0	0	5.0	True
+CYTAA32	cytochrome c oxidase, aa3-type	1.3	1.3	0	1.3	1.3	0	True
+CYTRED		0.5	0.5	0	0.5	0.5	0	True
+CYTBO3	cytochrome oxidase bo3 (ubiquinol-8: 2.6 protons) (periplasm)	1.8	1.8	0	1.8	1.8	0	True
+CYTBD	cytochrome oxidase bd (ubiquinol-8: 2.6 protons) (periplasm)	1.8	1.8	0	1.8	1.8	0	True
+GAM_(Afe_biomass)	biomass GAM	139	139.1					True
+NGAM_(ATPM)	ATP maintenance	3.475	3.475					True

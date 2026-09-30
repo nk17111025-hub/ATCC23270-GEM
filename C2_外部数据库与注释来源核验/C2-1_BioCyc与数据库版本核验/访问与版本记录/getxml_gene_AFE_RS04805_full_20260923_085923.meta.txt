@@ -1,0 +1,8 @@
+﻿来源: https://websvc.biocyc.org/getxml?id=GCF_000021485:AFE_RS04805&detail=full
+获取时间: 2026-09-23T08:59:25.6292616+08:00
+HTTP状态: 200
+Content-Type: text/xml
+
+文件大小: 1797
+SHA256: 377DFBB7972120B55C97C730363F99EF1FDF975F7946823C98723D8B6A99187D
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\getxml_gene_AFE_RS04805_full_20260923_085923.headers.txt

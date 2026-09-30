@@ -1,0 +1,5 @@
+combination	net_stoichiometry	note
+ACCOAC(reverse)+BIOC1+BIOC2	{}	NET ZERO
+HCO3E(reverse)+RUBISCO	"{""h_c"": 1.0, ""hco3_c"": -1.0, ""rb15bp_c"": -1.0, ""3pg_c"": 2.0}"	canonical CO2 fixation
+ACCOAC(reverse)	"{""atp_c"": 1.0, ""accoa_c"": 1.0, ""hco3_c"": 1.0, ""h_c"": -1.0, ""pi_c"": -1.0, ""adp_c"": -1.0, ""malcoa_c"": -1.0}"	malonyl-CoA decarboxylase-like
+PPC+MDH(reverse)	"{""h2o_c"": -1.0, ""co2_c"": -1.0, ""pep_c"": -1.0, ""pi_c"": 1.0, ""nad_c"": 1.0, ""mal_DASH_L_c"": 1.0, ""nadh_c"": -1.0}"	PEP->OAA->malate

@@ -1,0 +1,60 @@
+{
+  "任务": "A0-2 2024 iATF-ENG 纠正版24场景复现",
+  "来源": {
+    "纠正版补充表": "D:\\嗜酸氧化亚铁硫杆菌\\08_模型基线\\A0-1\\2024补充表_S3S4纠正版.xlsx",
+    "映射表": "D:\\嗜酸氧化亚铁硫杆菌\\08_模型基线\\A0-1\\S3S4_修正映射表.tsv",
+    "A0-1 flag": "D:\\嗜酸氧化亚铁硫杆菌\\08_模型基线\\A0-1\\A0-1_PASS.flag"
+  },
+  "权威顺序": [
+    "Table S1/S2",
+    "论文Methods",
+    "A0-1纠正版S3/S4"
+  ],
+  "固定条件": {
+    "bicarbonate assimilation": "HCO3tex=1; HCO3tpp=1",
+    "NGAM": "ATPM=3.475"
+  },
+  "通路开关": {
+    "TreYZ": "关闭ZZ_TreT1_ADP;ZZ_TreT2_UDP",
+    "TreT-ADP": "关闭ZZ_TreT2_UDP;ZZ_TreYZ",
+    "TreT-UDP": "关闭ZZ_TreT1_ADP;ZZ_TreYZ"
+  },
+  "氮源": {
+    "Table S3": {
+      "氮源判定": "氮气（N2）",
+      "证据": {
+        "Ex_n2[e]": [
+          "-1000",
+          "1000"
+        ],
+        "Ex_nh4[e]": [
+          "0",
+          "0"
+        ]
+      },
+      "判定性质": "根据对应表的边界列判定；S3/S4本身没有显式氮源列"
+    },
+    "Table S4": {
+      "氮源判定": "氨（NH4+）",
+      "证据": {
+        "Ex_n2[e]": [
+          "0",
+          "0"
+        ],
+        "Ex_nh4[e]": [
+          "-1000",
+          "1000"
+        ]
+      },
+      "判定性质": "根据对应表的边界列判定；S3/S4本身没有显式氮源列"
+    }
+  },
+  "模型统计": {
+    "reaction_count": 631,
+    "metabolite_count": 580,
+    "gene_count": 510,
+    "objective": "1.0*R_Ex_bio_e_ - 1.0*R_Ex_bio_e__reverse_69a4d",
+    "stoichiometry_source": "D:\\嗜酸氧化亚铁硫杆菌\\08_模型基线\\A0-1\\2024补充表_S3S4纠正版.xlsx / Table S1"
+  },
+  "场景数": 24
+}

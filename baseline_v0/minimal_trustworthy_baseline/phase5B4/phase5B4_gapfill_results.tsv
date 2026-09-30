@@ -1,0 +1,4 @@
+scenario	min_additions	added_reactions	biomass	note
+R25	0	NONE	0.0994 (G10)	native already feasible
+R10	1	G6PDH_NAD (EC 1.1.1.363)	0.068 (+31%)	ED entry; unchanged from 5B-3A
+R0	NOT_FOUND	>3 (infeasible even with all candidates)	0	NADHI opening does not rescue

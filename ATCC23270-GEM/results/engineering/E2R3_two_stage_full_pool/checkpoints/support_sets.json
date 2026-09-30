@@ -1,0 +1,306 @@
+{
+  "fingerprint": "6a47044c69e9408352200ba87b45cf8a4e526822a2ecd4ab68c83f3f7940e52c",
+  "mandatory_reaction_ids": [],
+  "strategies": [
+    {
+      "reaction_count": 3,
+      "status": "validated",
+      "strategy": "low_pfba_flux_first",
+      "support_set_id": "S01"
+    },
+    {
+      "reaction_count": 4,
+      "status": "validated",
+      "strategy": "high_pfba_flux_first",
+      "support_set_id": "S02"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "candidate_id_ascending",
+      "support_set_id": "S01"
+    },
+    {
+      "reaction_count": 2,
+      "status": "validated",
+      "strategy": "candidate_id_descending",
+      "support_set_id": "S03"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R01605",
+      "support_set_id": "S03"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00406",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00417",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00424",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02085",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02121",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02128",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02163",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02173",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00372",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00374",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00387",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00396",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00398",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00407",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00410",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00412",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00414",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00416",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00418",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02137",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02164",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R02172",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00335",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00337",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00339",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00354",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00355",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00356",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00357",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00359",
+      "support_set_id": "S01"
+    },
+    {
+      "status": "duplicate",
+      "strategy": "forced_pfba_optional_E1R00360",
+      "support_set_id": "S01"
+    }
+  ],
+  "supports": [
+    {
+      "delta_biomass": 0.07836115685516337,
+      "glucose_off": {
+        "biomass": 0.006201070634220194,
+        "co2": -0.23815287423784218,
+        "fe2": -34.60376691423896,
+        "glucose": 0.0,
+        "o2": -8.357556497983,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      },
+      "mandatory_reaction_ids": [],
+      "phenotype": {
+        "biomass": 0.08456222748938357,
+        "co2": -0.2476226633214679,
+        "fe2": -137.81876908458236,
+        "glucose": -0.5,
+        "o2": -33.45388175414446,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      },
+      "reaction_ids": [
+        "E1R01016",
+        "E1R01493",
+        "E1R01642"
+      ],
+      "strategy": "low_pfba_flux_first",
+      "support_set_id": "S01",
+      "validation": {
+        "biomass": 0.08456222748938357,
+        "co2": -0.2476226633214679,
+        "fe2": -137.81876908458236,
+        "glucose": -0.5,
+        "o2": -33.45388175414446,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      }
+    },
+    {
+      "delta_biomass": 0.07387319552715586,
+      "glucose_off": {
+        "biomass": 0.00584591807757693,
+        "co2": -0.2206031546651675,
+        "fe2": -33.678201391740906,
+        "glucose": 0.0,
+        "o2": -8.148506615715696,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      },
+      "mandatory_reaction_ids": [],
+      "phenotype": {
+        "biomass": 0.0797191136047328,
+        "co2": -0.008302154587077707,
+        "fe2": -125.19709665306857,
+        "glucose": -0.5,
+        "o2": -30.603128272421124,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      },
+      "reaction_ids": [
+        "E1R00037",
+        "E1R00038",
+        "E1R01343",
+        "E1R01344"
+      ],
+      "strategy": "high_pfba_flux_first",
+      "support_set_id": "S02",
+      "validation": {
+        "biomass": 0.0797191136047328,
+        "co2": -0.008302154587077707,
+        "fe2": -125.19709665306857,
+        "glucose": -0.5,
+        "o2": -30.603128272421124,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      }
+    },
+    {
+      "delta_biomass": 0.07895062201774068,
+      "glucose_off": {
+        "biomass": 0.006247717662623617,
+        "co2": -0.2399443590545477,
+        "fe2": -34.952249157396345,
+        "glucose": 0.0,
+        "o2": -8.442470093235084,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      },
+      "mandatory_reaction_ids": [],
+      "phenotype": {
+        "biomass": 0.0851983396803643,
+        "co2": -0.2720526296220924,
+        "fe2": -142.57092181111378,
+        "glucose": -0.5,
+        "o2": -34.61182417766851,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      },
+      "reaction_ids": [
+        "E1R00732",
+        "E1R00741"
+      ],
+      "strategy": "candidate_id_descending",
+      "support_set_id": "S03",
+      "validation": {
+        "biomass": 0.0851983396803643,
+        "co2": -0.2720526296220924,
+        "fe2": -142.57092181111378,
+        "glucose": -0.5,
+        "o2": -34.61182417766851,
+        "rubisco": 0.23740348725383958,
+        "status": "optimal"
+      }
+    }
+  ],
+  "terminal": true
+}

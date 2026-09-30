@@ -1,0 +1,4 @@
+check	result	note
+pFBA (L1-min)	passed	parsimonious solution used; no large internal cycle detected
+free ATP/NADH/NADPH	0/0/0	no energy/redox loop
+H2 byproduct	0	no redox-disposal byproduct

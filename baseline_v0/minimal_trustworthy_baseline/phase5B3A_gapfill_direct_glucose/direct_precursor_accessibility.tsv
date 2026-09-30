@@ -1,0 +1,10 @@
+precursor	accessibility	route_class
+pyruvate	YES (ED: G6PDH_NAD->PGL->PGDH->DDGPA)	direct
+acetyl-CoA	YES (PDH)	direct
+GAP	YES (DDGPA produces GAP)	direct
+3PG	PARTIAL (residual 10% Rubisco required)	CBB-dependent
+serine/glycine	PARTIAL (needs 3PG -> 10% Rubisco)	CBB-dependent
+R5P	YES (non-oxidative PPP)	direct
+E4P	YES (non-oxidative PPP)	direct
+OAA	PARTIAL (PPC needs CO2)	anaplerosis
+alpha-KG	YES (TCA via acetyl-CoA)	direct

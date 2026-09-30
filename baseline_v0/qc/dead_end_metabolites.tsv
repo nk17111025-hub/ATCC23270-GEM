@@ -1,0 +1,14 @@
+metabolite_id	compartment	role	producers	consumers	is_boundary
+din_c	c	no_consumer	DADA		False
+dad_DASH_2_c	c	no_producer		DADA	False
+R_c	c	no_consumer	BTS5		False
+RSH_c	c	no_producer		BTS5	False
+bccp_c	c	no_producer		BILG	False
+dcyt_c	c	no_producer		DCYTD	False
+csn_c	c	no_producer		CSND	False
+pppi_c	c	no_consumer	NTPTP1		False
+dgsn_c	c	no_consumer	NTPTP1		False
+urate_c	c	no_consumer	XAND		False
+dhptd_c	c	no_consumer	RHCCE		False
+thymd_c	c	no_producer		TMDK2	False
+ppt_c	c	no_consumer	PPTtpp		False

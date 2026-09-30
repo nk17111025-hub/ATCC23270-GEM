@@ -1,0 +1,16 @@
+item	value
+reaction_1	NDH2_NATIVE
+reaction_1_gene	AFE_1854 -> RU820_RS08555 (WP_012536802.1)
+reaction_1_EC	1.6.5.9
+reaction_1_equation	nadh[c] + h[c] + q8[c] -> nad[c] + q8h2[c]
+reaction_1_class	NATIVE_MODEL_COMPLETION
+reaction_1_mass_charge	BALANCED (residual {} charge 0)
+reaction_2	NOX_NATIVE
+reaction_2_gene	AFE_1803 -> RU820_RS08315 (WP_009568931.1)
+reaction_2_EC	1.6.3.4
+reaction_2_equation	nadh[c] + h[c] + 0.5 o2[c] -> nad[c] + h2o[c]
+reaction_2_class	NATIVE_MODEL_COMPLETION_PROVISIONAL
+reaction_2_mass_charge	BALANCED (residual {} charge 0)
+proton_pumping	NONE (both non-electrogenic)
+PMF_generation	NONE
+status	V3_UPDATED_NATIVE_REDOX

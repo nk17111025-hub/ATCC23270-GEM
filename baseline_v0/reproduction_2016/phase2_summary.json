@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-09-25T18:43:28+08:00",
+  "afe_biomass_xml_bounds": [
+    0.0,
+    1000.0
+  ],
+  "afe_biomass_table1_bounds": [
+    0,
+    0
+  ],
+  "count_recalc": {
+    "FIM": {
+      "exchange": 12,
+      "internal_other": 6,
+      "afe_biomass": 1,
+      "total": 19
+    },
+    "TTM": {
+      "exchange": 13,
+      "internal_other": 5,
+      "afe_biomass": 1,
+      "total": 19
+    },
+    "TSM": {
+      "exchange": 13,
+      "internal_other": 5,
+      "afe_biomass": 1,
+      "total": 19
+    }
+  },
+  "feasible_all": true,
+  "max_sv_max": 4.87424038635319e-07,
+  "htpp_all_zero": true,
+  "mean_r2_pearson": 0.9928995514063959,
+  "mean_r2_coefficient": 0.9225207085872575,
+  "energy_matches": true,
+  "exact": [
+    {
+      "idx": 1,
+      "condition": "FIM",
+      "glpk_objective": 0.10141876388258417,
+      "glpk_exact_objective": 0.10141876388258837,
+      "diff": 4.2049697057677804e-15
+    },
+    {
+      "idx": 10,
+      "condition": "FIM",
+      "glpk_objective": 0.053244851038357494,
+      "glpk_exact_objective": 0.053244851038358895,
+      "diff": 1.4016565685892601e-15
+    },
+    {
+      "idx": 20,
+      "condition": "FIM",
+      "glpk_objective": 0.009128004859520816,
+      "glpk_exact_objective": 0.009127688749432953,
+      "diff": -3.1611008786264216e-07
+    }
+  ]
+}

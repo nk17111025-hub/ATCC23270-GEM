@@ -1,0 +1,45 @@
+{
+  "KI_semantics_positive_control": {
+    "no_KI_status": "infeasible",
+    "passed": true,
+    "selected_KI": [
+      "E1R_SMOKE_KI"
+    ],
+    "solver_status": "optimal"
+  },
+  "api": "SDModule('protect') + compute_strain_designs(solver='scip')",
+  "full_pool_glucose_off": {
+    "co2_flux": -2.0,
+    "fe2_flux": -0.01000000000000026,
+    "glucose_uptake": 0.0,
+    "max_biomass": 0.05374048269501471,
+    "o2_flux": 0.0,
+    "rubisco_flux": 1.16177658259198,
+    "status": "optimal"
+  },
+  "full_pool_phenotype": {
+    "biomass": 0.8073345138899527,
+    "co2_flux": -2.0,
+    "fe2_flux": -0.10823126493208705,
+    "glucose_uptake": -4.67427901279927,
+    "o2_flux": 0.0,
+    "rubisco_flux": 1.16177658259198,
+    "status": "optimal"
+  },
+  "glucose_use_proof": true,
+  "input_fingerprint": "31928a1535576e59d95eddeebb7e8bf2aa8d846f8d54cafff3adac72821ce48c",
+  "ki_cost_entries": 2427,
+  "ko_cost": {},
+  "no_KI_infeasible": true,
+  "no_KI_phenotype": {
+    "status": "infeasible"
+  },
+  "no_KI_phenotype_status": "infeasible",
+  "smoke_pass": true,
+  "solutions": [],
+  "solutions_found": 0,
+  "straindesign_full_pool_status": "optimal",
+  "test_SD_status": "infeasible",
+  "test_runtime_seconds": 4.226058483123779,
+  "viability_threshold": 0.5842069519122025
+}

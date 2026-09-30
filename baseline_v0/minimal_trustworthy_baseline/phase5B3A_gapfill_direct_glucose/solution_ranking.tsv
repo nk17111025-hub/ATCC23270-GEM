@@ -1,0 +1,4 @@
+tier	reaction_set	evidence	note
+Tier 1	G6PDH_NAD (NAD-dependent G6PDH, EC 1.1.1.363)	1 reaction enables R10 (Rubisco<=10%), biomass +31%	enables Entner-Doudoroff pathway with NAD; moderate glucose; PHYSIOLOGY_OK
+Tier 2	NADHDH (NADH:Q oxidoreductase forward)	alone insufficient (zero flux under R10); needs combination	redox-direction candidate; needs pairing with a carbon route
+Tier 2	PEPCK / PEPS (PEP synthesis)	candidate for R0 gluconeogenesis to 3PG	needs >2 reactions for full Rubisco independence

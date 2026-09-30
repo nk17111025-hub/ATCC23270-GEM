@@ -1,0 +1,7 @@
+intervention_type	reaction_id	objective_modes	mode_count	regulatory_constraint
+KO	HCO3tex	CO2_efficiency	1	
+KO	HCO3tpp	CO2_efficiency	1	
+REG		CO2_efficiency	1	HCO3E >= 0.144901475541
+REG		CO2_efficiency	1	HYD3pp >= 0.429635297224
+REG		CO2_efficiency	1	TKT1 <= -0.118536711739
+REG		CO2_efficiency	1	TKT2 >= 0.097719444694

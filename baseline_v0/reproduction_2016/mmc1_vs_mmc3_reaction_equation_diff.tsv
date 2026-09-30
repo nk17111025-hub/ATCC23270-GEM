@@ -1,0 +1,2 @@
+reaction_id	classification	mmc1_equation	mmc3_equation
+CYTRED	PROTON_DIRECTION_MISMATCH	0.5 h[p] + q8h2[c] + etpcycAox[p]  -> 0.5 h[c] + q8[c] + etpcycArd[p] 	etpcycAox_p + 0.5 h_c + q8h2_c --> etpcycArd_p + 0.5 h_p + q8_c

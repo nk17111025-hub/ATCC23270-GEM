@@ -1,0 +1,5 @@
+condition	target	glucose_uptake	donor_frac_WT	o2_frac_WT	co2_uptake	flag
+FIM	D10	-0.367	59% WT Fe2	1.00x WT O2	0.0	PHYSIOLOGY_OK
+FIM	D50	-0.500	76% WT Fe2	1.00x WT O2	0.0	PHYSIOLOGY_OK
+TTM	D50	-0.500	85% WT donor	1.00x WT O2	0.0	PHYSIOLOGY_OK
+TSM	D50	-0.500	85% WT donor	1.00x WT O2	0.0	PHYSIOLOGY_OK

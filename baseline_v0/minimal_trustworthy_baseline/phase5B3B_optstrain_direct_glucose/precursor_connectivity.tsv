@@ -1,0 +1,8 @@
+precursor	connectivity
+pyruvate	direct (ED: G6PDH_NAD->PGL->PGDH->DDGPA)
+acetyl-CoA	direct (PDH)
+GAP	direct (DDGPA)
+R5P	direct (non-oxidative PPP)
+3PG/serine	PARTIAL (needs residual Rubisco)
+OAA	anaplerosis (PPC, needs CO2)
+alpha-KG	direct (TCA)

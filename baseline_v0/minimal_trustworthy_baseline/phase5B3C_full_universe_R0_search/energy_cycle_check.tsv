@@ -1,0 +1,3 @@
+check	result
+free ATP / NADH / NADPH	0 / 0 / 0 (no energy/redox artifact introduced)
+internal loop	none (all candidates are real reactions; R0 remains infeasible)

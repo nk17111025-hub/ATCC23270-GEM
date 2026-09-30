@@ -1,0 +1,2 @@
+scenario	biomass	glucose_uptake	GAPD1	GAPD2	PGK	NADHI	PDH	acetylCoA_net	alphaKG_net
+native_R0	-0	-0	-0	-0	-0	-0	-0	0	0

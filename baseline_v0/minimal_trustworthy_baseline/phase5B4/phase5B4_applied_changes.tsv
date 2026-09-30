@@ -1,0 +1,4 @@
+reaction	field_changed	old_value	new_value	equation	forward_meaning	reverse_meaning	source	evidence_level
+NADHI	LOWER_BOUND	0	-1000	5 h[p] + nad[c] + q8h2[c] -> 6 h[c] + nadh[c] + q8[c]	reverse electron transport (PMF+quinol -> NADH)	respiratory NADH oxidation (NADH + quinone -> NAD+ + quinol)	Phase 5B-4 approved	CURRENT_GENOME_DATABASE_SUPPORTED
+PPC	GPR	AFE_1810	AFE_1883 / RU820_RS08690	co2 + h2o + pep -> h + oaa + pi			Phase 5B-4 approved (metadata)	CURRENT_GENOME_DATABASE_SUPPORTED
+GHMT3	GPR	AFE_0295 (GlyA)	(removed)	nad + thf + gly -> co2 + nadh + mlthf + nh4			Phase 5B-3E verified	VERIFIED_GPR_ERROR_FIXED

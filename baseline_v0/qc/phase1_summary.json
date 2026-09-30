@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-09-25T17:45:30+08:00",
+  "structural": {
+    "reactions": 615,
+    "metabolites": 573,
+    "genes": 0,
+    "compartments": [
+      "p",
+      "c",
+      "e"
+    ],
+    "type_counts": {
+      "internal": 534,
+      "biomass": 1,
+      "transport": 52,
+      "exchange": 28
+    },
+    "exchange_ids": [
+      "Ex_4hba_LSQBKT_e_RSQBKT_",
+      "Ex_bio_LSQBKT_e_RSQBKT_",
+      "Ex_ca2_LSQBKT_e_RSQBKT_",
+      "Ex_cu2_LSQBKT_e_RSQBKT_",
+      "Ex_eps_AFE_LSQBKT_e_RSQBKT_",
+      "Ex_fe2_LSQBKT_e_RSQBKT_",
+      "Ex_fe3_LSQBKT_e_RSQBKT_",
+      "Ex_h2_LSQBKT_e_RSQBKT_",
+      "Ex_h2co3_LSQBKT_e_RSQBKT_",
+      "Ex_h2o_LSQBKT_e_RSQBKT_",
+      "Ex_h2s_LSQBKT_e_RSQBKT_",
+      "Ex_h_LSQBKT_e_RSQBKT_",
+      "Ex_k_LSQBKT_e_RSQBKT_",
+      "Ex_mg2_LSQBKT_e_RSQBKT_",
+      "Ex_mn2_LSQBKT_e_RSQBKT_",
+      "Ex_n2_LSQBKT_e_RSQBKT_",
+      "Ex_na1_LSQBKT_e_RSQBKT_",
+      "Ex_nh4_LSQBKT_e_RSQBKT_",
+      "Ex_o2_LSQBKT_e_RSQBKT_",
+      "Ex_pi_LSQBKT_e_RSQBKT_",
+      "Ex_polypi_LSQBKT_e_RSQBKT_",
+      "Ex_ppt_LSQBKT_e_RSQBKT_",
+      "Ex_s_LSQBKT_e_RSQBKT_",
+      "Ex_so4_LSQBKT_e_RSQBKT_",
+      "Ex_so4aa_LSQBKT_e_RSQBKT_",
+      "Ex_tsul_LSQBKT_e_RSQBKT_",
+      "Ex_ttton_LSQBKT_e_RSQBKT_",
+      "Ex_zn2_LSQBKT_e_RSQBKT_"
+    ],
+    "fixed_ids": [
+      "ATPM",
+      "SCCR"
+    ],
+    "empty_stoichiometry": [],
+    "lb_gt_ub": [],
+    "duplicate_reactions": [],
+    "duplicate_metabolites": []
+  },
+  "balance_counts": {
+    "BALANCED": 529,
+    "CHARGE_IMBALANCED": 19,
+    "NOT_ASSESSABLE": 66,
+    "MASS_AND_CHARGE_IMBALANCED": 1
+  },
+  "gpr": {
+    "non_empty": 461,
+    "empty": 154,
+    "malformed": 0,
+    "unique_genes": 508
+  },
+  "dead_end_metabolites": 13,
+  "blocked": {
+    "fe2": 70,
+    "ttton": 66,
+    "tsul": 66
+  },
+  "numerical": [
+    {
+      "condition": "baseline_untouched",
+      "label": "baseline_untouched",
+      "status": "optimal",
+      "objective": 3.6166297847755096,
+      "max_sv_residual": 3.637978807091713e-12
+    },
+    {
+      "condition": "FIM",
+      "label": "FIM",
+      "status": "optimal",
+      "objective": 0.05207638710274161,
+      "max_sv_residual": 1.4210854715202004e-14
+    },
+    {
+      "condition": "TTM",
+      "label": "TTM",
+      "status": "optimal",
+      "objective": 0.0520763871027412,
+      "max_sv_residual": 8.615330671091215e-14
+    },
+    {
+      "condition": "TSM",
+      "label": "TSM",
+      "status": "optimal",
+      "objective": 0.0520763871027409,
+      "max_sv_residual": 4.218847493575595e-14
+    }
+  ],
+  "exact": [
+    {
+      "condition": "baseline_untouched",
+      "status": "optimal",
+      "objective": 3.6166297847754376
+    },
+    {
+      "condition": "FIM",
+      "status": "optimal",
+      "objective": 0.05207638710274114
+    }
+  ],
+  "cycles": [
+    {
+      "test_id": "internal_cycles_all_exchanges_closed",
+      "description": "FVA with all Ex_ bounds=0; internal reactions able to carry nonzero flux",
+      "status": "POSITIVE",
+      "result": "ACCOAC;ACGS;ACOATA;ACODA;ACPS1;ACPpds;ACS;ADA;ADK1;ADNSE;ADPT;ADSK;ADSL1;ADSR;ADSS;ALDEP;AMALT1;AMPN;ASPTA;ATPM;ATPS5rpp;BDGK;BIOC1;BIOC2;BPNT;CTPS2;CYTD;CYTDK1;CYTDK2;CYTK1;DGPE;DPCOAK;FBA;FBA3;FBP;FDH;FTHFD;FTHFL;FUM;GAP2;GAPD1;GAPD2;GARFT;GART;GHMT2;GHMT3;GLAT;GLBRAN1;GLCP;GLCS1;GLDBRAN2;GLGC;GLNS;GLUSy;GMPS2;GSNK;GUAD;GUAPRT;H2tpp;HCO3E;HCYSMT;HXAND;HXPRT;HYD1pp;HYD3pp;HYD4;Htpp;IMPD;INSK;MACPD;MCOATA;MDH;METAT;MTHFC;MTHFD1;MTHFD2;MTRG;MTRP;NADHI;NADK;NADPPPS;NADTRHD;NDPK1;NDPK2;NDPK3;PAPSR;PFK;PGCD;PGK;PGMT;PGMT2;PPA;PRPPS;PRUK;PSERT;PSP_L;PTPAT;PUNP1;PUNP2;PUNP3;RPE;RPI;RUBISCO;SADT;SBPASE;SFAT1;SFAT2;TALA;TKT1;TKT2;TPI;TRDR;UPPRT;URIDK;URIK1;URIK2;URIP;XPPT",
+      "notes": ""
+    },
+    {
+      "test_id": "free_atp_generation",
+      "description": "All Ex_=0, ATPM relaxed to [0,1000], maximize ATPM",
+      "status": "POSITIVE",
+      "result": "200.00000000000003",
+      "notes": "ATPM bounds changed to [0,1000] in diagnostic copy only"
+    },
+    {
+      "test_id": "free_nadh_generation",
+      "description": "All Ex_=0, temporary demand nadh_c -> [] added, maximize",
+      "status": "NEGATIVE",
+      "result": "0.0",
+      "notes": "temporary demand reaction added to diagnostic copy only"
+    },
+    {
+      "test_id": "free_nadph_generation",
+      "description": "All Ex_=0, temporary demand nadph_c -> [] added, maximize",
+      "status": "NEGATIVE",
+      "result": "0.0",
+      "notes": "temporary demand reaction added to diagnostic copy only"
+    }
+  ],
+  "issues": []
+}

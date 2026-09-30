@@ -1,0 +1,1415 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang='en'><HEAD>
+<meta charset='utf-8'>
+<TITLE>Summary of Acidithiobacillus ferrooxidans ATCC 23270, version 30.0</TITLE>
+<META name='description' content="BioCyc organism database for Acidithiobacillus ferrooxidans ATCC 23270 that integrates genomic data with biochemical reactions, predicted metabolic pathways, and more.">
+<meta http-equiv="Content-Security-Policy" content="
+              frame-src 'self' https://*.ai.sri.com https://hcaptcha.com https://*.hcaptcha.com;
+ ">
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.3.2.min.js"></script>
+<script>
+var $j = jQuery.noConflict();
+</script>
+
+<!-- 
+<link rel="stylesheet" type="text/css" href="/yui/build/assets/skins/sam/skin.css"> 
+<link rel="stylesheet" type="text/css" href="/style.css" >
+
+User web site style sheet customization should use the following file:
+<link rel="stylesheet" type="text/css" href="/userWebsiteCustomization.css">
+
+The previous 4 .css files are combined at web start up time by the Lisp fn publish-combined-static-files generating the following combined.css file. 
+-->
+<link rel="stylesheet"
+      href="https://unpkg.com/purecss@2.0.6/build/grids-min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css">
+<link rel="stylesheet" type="text/css"
+      href="/combined/combined.css">
+<!-- Preload font-awesome font, because it is used in banner-->
+<link rel="preload"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0"
+      as="font" type="font/woff2" crossorigin>
+<style>
+  @font-face {
+  font-family: 'FontAwesome';
+  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block; /* Fixes the Lighthouse warning */
+}
+</style>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- I don't think we need this anymore:
+<script type="text/javascript"
+	src="https://cdnjs.cloudflare.com/ajax/libs/yui/3.17.2/yui/yui-min.js"
+	defer></script>
+
+this has to go early -->
+<script type="text/javascript" src="/yui/build/utilities/utilities.js"></script>
+
+
+<!-- Google tag (gtag.js) For a GA4 property-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NVK8K9ZK0V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NVK8K9ZK0V');
+</script>
+ 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+<!-- css for webgraphics -->
+<link rel="stylesheet" type="text/css" href="/yui/build/fonts/fonts-min.css" />
+
+<script type="text/javascript"
+	src="/webgraphics.js?ts=3994970783"
+	defer></script>
+
+<script TYPE="text/javascript" >  
+var onMenuBarReady = new YAHOO.util.CustomEvent("onMenuBarReady");
+/* This event fires when we change the current organism using the organism
+ * selector, so that subscribers can update the page accordingly.
+ */
+var organismChangedEvent = new YAHOO.util.CustomEvent("organismChanged");
+
+/* If you update the version number here, make sure you also update it in
+   pathwayTools.js (and the minified file)!!!
+ */
+document.addEventListener("DOMContentLoaded", function() {
+  if (typeof(ptoolsJsVersion) == 'undefined' || ptoolsJsVersion !== '29.0') {
+      console.log('reloading because of outdated javascript file');
+      window.location.reload(true);
+  } 
+});
+</script>
+
+<script>
+</script>
+
+
+<script src="https://code.jquery.com/ui/1.14.2/jquery-ui.min.js" defer></script>
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+
+
+
+<!-- Base Pathway Tools JavaScript code -->
+<script type="text/javascript"
+	src="/ptUtils.js?ts=3994970780" 
+	defer></script> 
+
+<script type="text/javascript"
+	src="/pathwayTools-min.js?ts=3996163601"></script> 
+
+
+<template id="sri-footer">
+  <footer class="footer-wide-margin-border-alt-color">
+    <div  class="footer">
+      <div>
+	<a>
+	  &copy;2026 SRI International, 333 Ravenswood Avenue, Menlo Park, CA 94025-3493
+	  SRI International is an independent, nonprofit corporation.
+	</a>
+	<br>
+	<a href="https://biocyc.org/subscription-terms.txt">Terms of Service</a>&nbsp;| 
+	<a href="https://www.sri.com/privacy-policy/">Privacy policy</a>&nbsp;|
+	<a href="/disclaimer.shtml">Disclaimer</a> &nbsp;
+      </div>
+      <img src="/graphics2021/SRI-new-logo.webp" height="62" width="110"
+	   alt='SRI International'>
+    </div>
+  </footer>
+</template>
+
+<template id="changedb-and-quicksearch-template">
+  <!-- begin group db and search -->
+  <!-- Database name and change link -->
+  <div style="display:flex;flex-flow:row wrap;align-items:center;gap:6px 11px;">
+    <button class="changeDBBtn" id="changeDBBtn"
+	    onclick="showChooser(false);"
+	    >
+      Change&nbsp;Current&nbsp;Database
+    </button>
+    <div style="white-space:nowrap;max-width:100vw;overflow:visible;">
+    <span style="vertical-align: middle">Current Database: </span>
+    <i class="searchMenuDatabaseName">
+      <a id="currentDatabaseName" class="dynDBName banner">
+	Acidithiobacillus ferrooxidans ATCC 23270
+      </a>
+    </i>
+    </div>
+  </div>
+  <!-- End Database name and change link -->
+  <!-- Quick Search -->
+  
+  <b>Search in Current Database:&nbsp;</b>
+  <form class="lgSearchMenu" id="qsform"
+	action='/'
+	name=substring 
+	onSubmit="if (this.elements[1].value != '')
+		  {this.action= '/'+orgID()+'/substring-search?type=NIL&amp;object='+this.elements[1].value
+		  } else {
+		  return(false)};">
+    <input id="QSType" name=type type=hidden value="NIL">
+    <span id="QSContainer">
+      <input id="QSTextBox" class="inputQuickSearch"
+	     name="object" size="47" spellcheck="false"
+	     placeholder="Enter a gene, protein, metabolite or pathway..."
+	     aria-label="Search in Current Database: Enter a gene, protein, metabolite or pathway"
+	     data-tippy-content="<p>
+
+The following can be entered in the search box 
+(all searches are conducted within the current organism database unless otherwise indicated):
+<ul>
+<li> A name or synonym for a compound, gene, protein or pathway.  Spaces, punctuation and capitalization are ignored. Examples: pyruvate, trpA<p>
+
+<li> Any substring of one of the above names that is three or more characters in length. Examples: kinase, pyr<p>
+
+<li> A full or partial EC number. Examples: 1.2.1.4, 1.3.99<p>
+
+<li> A full or partial compound InChI-key. Examples: CKLJMWTZIZZHCS-REOHCLBHSA-M, CKLJMWTZIZZHCS<p>
+
+<li> An internal object identifier (case-sensitive) for any compound, gene, protein, pathway, reaction, transcription-unit or schema class. Examples: CPLX0-3661, HEMN-RXN<p>
+
+<li> An identifier (case-sensitive) from another database to which the selected database contains links, such as UniProt, KEGG or ChEBI. Note that our set of links is not complete; even if an external ID search returns no result the object may still be in our database. Examples: P00561, NP_414543, C00047<p>
+
+<li> (MetaCyc only) An organism or taxon name, to find pathways curated to that organism or taxon. Examples: Bacillus, Shigella flexneri.<p>
+
+<li> A locus ID for any gene of any organism on the BioCyc website. Examples: FTU_0031, YPA_0017.<p>
+</ul>
+"
+	     data-tippy-arrow="false"
+	     >
+      <button onclick="qsSubmitFn();"
+	      title="Search"
+	      class="searchButton">
+	<span class='screen-reader-only'>Search</span>
+	<i class="fa fa-search" id='qsIcon'></i>
+      </button>
+    </span>
+  </form>
+  <!-- End Quick Search -->
+  <!-- end group db and search -->
+</template>
+
+<script>
+templateToWebComponent("sri-footer");
+//templateToCustomElement("sri-footer");
+</script>
+<meta name="viewport" content="width=768, initial-scale=1"/>
+
+<!--  Text, Cite includes from Preferences -->
+
+
+<!-- End Text, Cite includes from Preferences -->
+
+</HEAD>
+<BODY ID="body" CLASS="yui-skin-sam yui3-skin-sam GCF_000021485">
+
+<a class="skipLink" href="#mainContent">Skip to main content</a>
+
+<!--next line is used for determining text size for sizing window, tooltips, buttons, etc billingt:Jul-7-2014 -->
+<!-- NEW-LINE from RAB -->
+<!-- display: none is necessary or space will be left on the screen for this invisible area -->
+
+
+<span id='textSizeTestArea' style='visibility: hidden; display: none'></span>
+
+<!-- The top banner, we are in a body -->
+<!-- We need this div to have position:relative in order for the z-index of the menu stacking to work -->
+<div id="topBannerMenu" role='banner'>
+  <div class="top-menubar-cell">
+    <TITLE></TITLE>
+
+<!-- ajaxUpdater defined in pathwayTools.js -->
+<div id='ilogin'>
+</div>
+<script type='text/javascript'>
+ajaxUpdater('ilogin', '/login-area');
+</script>
+
+
+<!-- Begininng temporary message. 
+     See file temporary-message-help.txt in this directory
+     for instructions on how to insert a temporary message -->
+
+ <!-- The set of BioCyc temporary messages must all be inside the following div  -->
+ <div id=biocycTmpMessages>
+   <div class=temporaryMsg>
+
+   </div>
+ </div> 
+
+ <!-- The set of EcoCyc temporary messages must all be inside the following div --> 
+ <div id=ecocycTmpMessages> 
+   <div class=temporaryMsg>
+
+   </div>
+ </div>
+
+ <!-- The set of MetaCyc temporary messages must all be inside the following div --> 
+ <div id=metacycTmpMessages> 
+   <div class=temporaryMsg>
+
+   </div>
+ </div> 
+
+ <!-- The set of HumanCyc temporary messages must all be inside the following div --> 
+ <div id=humancycTmpMessages>
+   <div class=temporaryMsg>
+
+   </div>
+ </div>
+ 
+ <!-- The set of BsubCyc temporary messages must all be inside the following div --> 
+ <div id=bsubcycTmpMessages>
+   <div class=temporaryMsg>
+
+   </div>
+ </div>
+
+
+  <!-- The set of CyanoCyc temporary messages must all be inside the following div --> 
+ <div id=cyanocycTmpMessages>
+   <div class=temporaryMsg>
+   </div>
+ </div>
+
+<script>
+YAHOO.util.Event.onContentReady("body", function() {
+  if (typeof(defaultTypeObjectPage) == 'undefined') {
+      console.log('reloading');
+      window.location.reload(true);
+      }     
+      });
+</script>
+
+
+
+
+
+
+<div class="menubar-wide-margin-border" role="menubar">
+  <div class="pure-g" style="margin-left:auto; margin-right:auto; max-width:1200px;">
+    <div class="pure-u-lg-5-12 pure-u-md-5-12 pure-u-sm-1-1">
+      <!-- BEGIN TOOLS MEGA MENU -->
+      <div class="toolbar-dropdown" role="menuitem">
+	<button class="toolbar-dropbtn">Tools <i class="fa fa-caret-down"></i>
+	</button>
+	<div class="toolbar-dropdown-content" role="menu">
+
+	  <div class="mega-row">
+
+	    <div class="mega-column" id="MegaSearch" role="group">
+	      <h3>Search</h3>
+	      <div class="vl" id="MegaSearchList">
+		<hr>
+		<a href="/gene-search.shtml" role="menuitem">Search Genes, Proteins or RNAs</a>
+		<a href="/pwy-search.shtml" role="menuitem">Search Pathways</a>
+		<a href="/cpd-search.shtml" role="menuitem">Search Compounds</a>
+		<a href="/rxn-search.shtml" role="menuitem">Search Reactions</a>
+		
+		<a id="siteSearchItem" href="/site-search.shtml" role="menuitem">Search DNA or mRNA Sites</a>
+		
+		<a id="growthMediaMenuItem" href="/gm-search.shtml" role="menuitem">Search Growth Media</a>
+		<a href="/query.shtml" role="menuitem">Advanced Search</a>
+		<a id="crossOrgSearch" href="/cross-org-search" role="menuitem">Cross&nbsp;Organism&nbsp;Search</a>
+			
+		<a id="blastMenuItem" class="orgspecific" href="/[ORGID]/blast.html" role="menuitem">BLAST Search Selected Databases</a>
+		
+		
+		<a id="blastAllMenuItem" class="orgspecific" href="/[ORGID]/blast.html?refdb=ALL" role="menuitem"> BLAST All BioCyc</a>
+		
+		
+		<a id="patMatchMenuItem" class="orgspecific" href="/patmatch.shtml?orgid=[ORGID]" role="menuitem">Sequence Pattern Search</a>
+		
+		<a href="/full-text-search.shtml" role="menuitem">Google Search of this Site</a>
+	      </div> <!-- close vl -->
+	    </div>
+
+	    <div class="mega-column" id="MegaGenome" role="group">
+	      <h3>Genome</h3>
+	      <div class="vl">
+		<hr>
+		<a href="/[ORGID]/select-gen-el"            class="orgspecific disable_for_multiorg" role="menuitem">Genome&nbsp;Browser<img src="/new.png"/ height=12 width=31></a>
+		<a href="/[ORGID]/select-gen-el?classic=on" class="orgspecific disable_for_multiorg" role="menuitem">Genome&nbsp;Browser (Old)</a>
+		<a href="/overviewsWeb/genOv.shtml" class="disable_for_multiorg" role="menuitem">Genome&nbsp;Overview</a>
+		<a href="/cgweb" class="disable_for_multiorg" role="menuitem">Circular&nbsp;Genome&nbsp;Viewer</a>
+		<a href="/overviewsWeb/regOv.shtml" class="disable_for_multiorg" role="menuitem">Regulatory&nbsp;Overview</a>
+		<a class="orgspecific" href='/[ORGID]/class-tree?object=Gene-Ontology-Terms' role="menuitem">Browse&nbsp;Gene&nbsp;Ontology</a>
+		<a href="/[ORGID]/select-gen-el?type=MAP-SEQ-COORDS" class="orgspecific disable_for_multiorg" role="menuitem">Map&nbsp;Sequence&nbsp;Coordinates</a>
+		
+		<a href="/[ORGID]/select-gen-el?type=POSTER" class="orgspecific disable_for_multiorg" role="menuitem">Generate&nbsp;Genome&nbsp;Poster</a>
+		
+
+		
+		<h3 style="padding-top: 10px">SmartTables</h3>
+		<hr>
+     		<a class="orgspecific requiresLogin" id="myFavoritesST" href="/group?id=FAVORITES" role="menuitem">My&nbsp;Favorites</a>
+     		<a class="orgspecific requiresLogin" href="/smarttables?orgid=[ORGID]" role="menuitem">My&nbsp;SmartTables</a>
+     		<a class="orgspecific" href="/smarttables?tab=PUBLIC&orgid=[ORGID]" role="menuitem">Public&nbsp;SmartTables</a>
+     		<a class="orgspecific" href="/smarttables?tab=SPECIAL&orgid=[ORGID]" role="menuitem">Special&nbsp;SmartTables</a>
+		
+	      </div> <!-- close vl -->
+	    </div>
+
+	    <div class="mega-column" id="MegaMetabolism" role="group">
+	      <h3>Metabolism</h3>
+	      <div class="vl">
+		<hr>
+		<a class="orgspecific disable_for_multiorg" href="/overviewsWeb/celOv.shtml?orgid=[ORGID]" role="menuitem">Cellular&nbsp;Overview</a>
+		<a href="/fba.shtml" class="disable_for_multiorg" role="menuitem">Run Metabolic Model</a>
+		<a href="/dead-end-form.shtml" role="menuitem">Dead-end&nbsp;Metabolites</a>
+		<a href="/chokepoint-form.shtml" role="menuitem">Chokepoint&nbsp;Reactions</a>
+		
+     		<a href="/meteng" role="menuitem">Metabolic Route Search</a>
+		
+     		<a class="orgspecific"
+     		   href="/MetNetExplorer.shtml?orgid=[ORGID]" role="menuitem">Metabolic Network Explorer</a>
+		<a href="/metabolite-translation-service.shtml" role="menuitem">Metabolite&nbsp;Translation&nbsp;Service</a>
+		<a href="/pathway-collage-info" role="menuitem">Pathway&nbsp;Collages</a>
+		<a class="orgspecific" href='/[ORGID]/class-tree?object=Pathways' role="menuitem">Browse&nbsp;Pathway&nbsp;Ontology</a>
+		<a class="orgspecific" href="/[ORGID]/class-tree?object=EC-Reactions" role="menuitem">Browse&nbsp;Enzyme&nbsp;Commission&nbsp;Ontology</a>
+		<a class="orgspecific" href="/[ORGID]/class-tree?object=Compounds" role="menuitem">Browse&nbsp;Compound&nbsp;Ontology</a>
+		<a class="orgspecific disable_for_multiorg" href="/poster-cellov?orgid=[ORGID]" role="menuitem">Generate&nbsp;Metabolic&nbsp;Map&nbsp;Poster</a>
+	      </div> <!-- close vl -->
+	    </div>
+
+	    <div class="mega-column" id="MegaAnalysis" role="group">
+	      <h3>Analysis</h3>
+	      <hr>
+	      <a href="/comp-genomics" role="menuitem">Comparative&nbsp;Analysis</a>
+	      <a href="/dashboard/genome-dashboard-compare.shtml" role="menuitem">Comparative&nbsp;Genome&nbsp;Dashboard<img src="/new.png"/ height=12 width=31></a>
+	      <a href="/PToolsWebsiteHowto.shtml#omicsDataAnalysis" role="menuitem">Omics&nbsp;Data&nbsp;Analysis</a>
+	      <a class="orgspecific" href="/dashboard/dashboard-intro.shtml?orgid=[ORGID]" role="menuitem">Omics&nbsp;Dashboard</a>
+	      <a class="orgspecific" href="/[ORGID]/organism-summary" role="menuitem">Summary&nbsp;Statistics</a>
+	      <a class="orgspecific" href="/dashboard/genome-dashboard.shtml?orgid=[ORGID]" role="menuitem">Genome&nbsp;Dashboard</a>
+	      <a  href="/cmpd-pwy-coverage.shtml" role="menuitem">Metabolomics&nbsp;Pathway&nbsp;Coverage</a>
+	      <a class="orgspecific" id="WCMBioCyc" href="/wcm-summary?orgid=[ORGID]" role="menuitem">Whole-Cell&nbsp;Model&nbsp;Summary</a>
+	      <a class="orgspecific" id="FuncGeneClusters" href="/[ORGID]/genome-context" role="menuitem">List&nbsp;Functional&nbsp;Gene&nbsp;Clusters</a>
+	      <a class="orgspecific" href="/msa.shtml?organism=[ORGID]&seq=s.gff" role="menuitem">
+		Multiple&nbsp;Sequence&nbsp;Alignment
+	      </a>
+	      <a class="orgspecific" href="/treebuilding.shtml" role="menuitem">
+		Phylogenetic&nbsp;Tree&nbsp;Building<img src="/new.png"/ height=12 width=31>
+		<!--kothari:Dec-5-2025 disabled for this release-->
+	      </a>
+	      <a href="/user-subscriptions.shtml" role="menuitem">Update&nbsp;Notifications</a>
+	      <div class="sub-toolbar-dropdown" role="menuitem">
+		<button class="sub-toolbar-dropbtn" style="color:
+		black;">Reports <i class="fa fa-caret-down"></i>
+		</button>
+		<div class="sub-toolbar-dropdown-content" role="menu">
+		  <div class="sub-vl">
+		    <a class="orgspecific" href="/[ORGID]/release-notes" role="menuitem">History&nbsp;of&nbsp;updates</a>
+		    <a class="orgspecific disable_for_multiorg" href="/[ORGID]/sort-by-score.html" role="menuitem">Pathway&nbsp;evidence&nbsp;(sorted&nbsp;by&nbsp;score)</a>
+		    <a class="orgspecific disable_for_multiorg" href="/[ORGID]/hierarchical.html" role="menuitem">Pathway&nbsp;evidence&nbsp;(sorted&nbsp;by&nbsp;class)</a>
+		    <a class="orgspecific disable_for_multiorg" href="/[ORGID]/missing-rxns.html" role="menuitem">Pathway&nbsp;holes</a>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+      <!-- END OF TOOLS MEGA MENU -->
+
+      <div class="toolbar-dropdown" role="menuitem">
+	<button class="toolbar-dropbtn">Sites <i class="fa fa-caret-down"></i></button>
+	<div class="toolbar-dropdown-content" role="menu">
+	  <a href="https://biocyc.org" role="menuitem">BioCyc</a>
+	  <a href="https://biocyc.org/meta/" role="menuitem">MetaCyc</a>
+	  <a href="https://biocyc.org/ecoli/" role="menuitem">EcoCyc</a>
+	  <a href="https://biocyc.org/human/" role="menuitem">HumanCyc</a>
+	  <a href="https://biocyc.org/bsub/" role="menuitem">BsubCyc</a>
+	  <a href="https://biocyc.org/yeast/" role="menuitem">YeastCyc</a>
+	  <a href="https://cyanocyc.org" role="menuitem">CyanoCyc</a>
+	  <a href="https://biocyc.org/algae/" role="menuitem">Algae</a>
+	  <a href="https://biocyc.org/helicobacter/" role="menuitem">Helicobacter pylori</a>
+	  <a href="https://biocyc.org/listeria/" role="menuitem">Listeria monocytogenes</a>
+	  <a href="https://biocyc.org/mycobacterium/" role="menuitem">Mycobacterium tuberculosis</a>
+	  <a href="https://biocyc.org/clostridium/" role="menuitem">Peptoclostridium difficile</a>
+	  <a href="https://biocyc.org/pseudomonas/" role="menuitem">Pseudomonas</a>
+	  <a href="https://biocyc.org/salmonella/" role="menuitem">Salmonella enterica</a>
+	  <a href="https://biocyc.org/shigella/" role="menuitem">Shigella flexneri</a>
+	  <a href="https://biocyc.org/vibrio/" role="menuitem">Vibrio cholerae</a>
+	</div>
+      </div>
+
+      
+      <div class="toolbar-dropdown" role="menuitem">
+	<button class="toolbar-dropbtn">Pathway Tools <i class="fa fa-caret-down"></i>
+	</button>
+	<div class="toolbar-dropdown-content" role="menu">
+	  <p>
+	    Desktop Application<br>
+	    Bring the power of BioCyc.org securely in-house, with the abilities to create and<br>
+	    edit PGDBs, perform metabolic modeling, and query/update using APIs.
+	  </p>
+	  <a href="https://pathwaytools.com" role="menuitem">More Information<br></a>
+	  <a href="https://biocyc.org/download-bundle.shtml" role="menuitem">Academic Licenses</a>
+	 <a href="https://share.hsforms.com/1qZSgeFYGSVqqSTKohHQITA3ipje" role="menuitem">Commercial Licenses</a>
+       <!----	  <a href="https://share.hsforms.com/13fwJvezjSDyUXl8BRPpkkQ3ipje" role="menuitem">Commercial Licenses</a>--->
+	</div>
+      </div>
+      
+
+      
+
+      <div class="toolbar-dropdown" role="menuitem">
+	<button class="toolbar-dropbtn">Help <i class="fa fa-caret-down"></i>
+	</button>
+	<div class="toolbar-dropdown-content" role="menu">
+	  <a href="/login-help.shtml" role="menuitem">Login/Subscription Problems</a>
+	  <a id="onboard-menu-link" target="_blank" href="/onboard/onboard.shtml" role="menuitem">BioCyc Quick-Start Guide</a>
+	  <div class="sub-toolbar-dropdown" role="menuitem">
+	    <button class="sub-toolbar-dropbtn" style="color:
+		black;">New Users <i class="fa fa-caret-down"></i>
+	    </button>
+	    <div class="sub-toolbar-dropdown-content" role="menu">
+	      <a href="/search-help.shtml" role="menuitem">Quick Guide to Searching BioCyc</a>
+	    <a href="/intro.shtml" role="menuitem">What is BioCyc?</a>
+	    <a href="/webinar.shtml" role="menuitem">BioCyc&nbsp;Video&nbsp;Tutorials</a>
+	  </div>
+	  </div>
+	  
+	  <div class="sub-toolbar-dropdown" role="menuitem">
+	    <button class="sub-toolbar-dropbtn" style="color:
+		black;">In-Depth Guides <i class="fa fa-caret-down"></i>
+	    </button>
+	    <div class="sub-toolbar-dropdown-content" role="menu">
+	      <a href="/PToolsWebsiteHowto.shtml" role="menuitem">BioCyc Website&nbsp;User&nbsp;Guide</a>
+              <a href="/BioCycUserGuide.shtml" role="UserGuide" role="menuitem">Guide&nbsp;to&nbsp;BioCyc Data Content</a>
+
+	      <a href="/metacyc/MetaCycUserGuide.shtml" role="UserGuide" role="menuitem">Guide&nbsp;to&nbsp;MetaCyc Data Content</a>
+
+	      <a href="/glossary.shtml" role="menuitem">Glossary</a>
+	  </div>
+	  </div>
+	  
+	  
+	  
+	  
+	  
+	  	  
+	 
+	  <a href="/publications.shtml" role="menuitem">How&nbsp;to&nbsp;Cite </a>
+	  
+	  <a href="/contact.shtml" role="menuitem">Contact&nbsp;Us/Licensing/Support</a>
+	</div>
+      </div>
+    </div>
+
+    <div class="pure-u-lg-7-12 pure-u-md-7-12 pure-u-sm-1-1" style="height: 49px">
+      <div class="login pure-g" id="loginMenuBar">
+	<!-- ajaxUpdater defined in pathwayTools.js -->
+<div id='subscriptionBanner' style="display:flex;flex-direction:row;justify-content:space-around;gap:8px;width:100%">
+</div>
+<script type='text/javascript'>
+ajaxUpdater('subscriptionBanner', '/subscription-banner');
+</script>
+
+      </div>
+    </div>
+    <!-- Beginning of hidden/visible login overlay -->
+
+    <div style="text-align: left; float: right; position: relative; left: 0;">
+
+      
+    </div>
+  </div>
+</div>
+	
+  </div>
+  <div>
+    <div class="whitespace-wide-margin-border"
+	 style="max-width: 1200px; margin-left: auto; margin-right:
+		auto;display:flex;flex-flow:row wrap;align-items:center;justify-content:space-around">
+      <div id="small-logo">
+	<img src="/graphics2021/BioCyc.svg" alt="BioCyc"
+	     onclick="window.location.href='https://biocyc.org'"
+	     style="visibility:hidden"
+	     >
+      </div>
+      <div>
+	<div style="margin: 20px 0 0 10px;" id="changeDBAndQuickSearch">
+	</div> 
+      </div>
+    </div>
+  </div>
+  <!-- The top menu bar -->
+</div>
+<!-- end topBannerMenu -->
+
+
+<!-- Begin template-require-login-overlay.shtml -->
+
+<!-- End template-require-login-overlay.shtml -->
+	
+
+<!-- Placeholder for popup messages -->
+<div id="msgPopup"></div> 
+
+<!--Fixed Navigation Box-->
+
+<div class="navBox" id="navBox" style="display:none" role="navigation"
+     aria-label="Operations">
+  <div class='navBoxExpansion'>
+    <a href="#" onclick='toggleNavBox()' aria-controls="navBoxBody"
+       aria-expanded=true role="button">
+      <span id="navBoxHide">
+	<img src='/navbox-hide.png' alt='' width='9' height='9'>
+	hide
+      </span>
+      <span id="navBoxShow">
+	<img src='/navbox-show.png' alt='' width='9' height='9'>
+	show operations
+      </span>
+    </a>
+  </div>
+  <div id='navBoxBody'>
+  <br>   
+    <div id='navBoxTitle'>     
+      <div class="navBoxItem"><i><a href="organism-summary" class="dynDBName" ></a></i></div>
+      <div class="navBoxLabel" id='objtypeNavBox'></div>
+      <div class='navBoxItem' id='objnameNavBox'></div>
+    </div>
+    <span class='section1'>OPERATIONS</span>
+    <div id="navBoxOps">
+    </div>
+  </div>
+</div>
+
+<!--End Fixed Navigation Box-->
+
+
+
+<div class="pageContentDynamic" role='main' id="mainContent">
+
+
+
+
+ <p class=ecoparagraph> <table class="titleBox orgSummary" border=0 role=presentation><tr><td  style="text-align:left;vertical-align:top">Tier 3 Uncurated Organism Database<br><font class='header'><i>Acidithiobacillus ferrooxidans</i> ATCC 23270</font>
+</td><td  style="text-align:right;vertical-align:top"><div class='buttons'><button class='ecobutton' onclick='window.location.href="/overviewsWeb/celOv.shtml?orgid=GCF_000021485"' data-tippy-content='The Cellular Overview or Metabolic Map diagram depicts all pathways and other metabolic and transport reactions in this database.'>Metabolic Map</button><button class='ecobutton' onclick='window.location.href="/GCF_000021485/select-gen-el"' data-tippy-content='The Genome Browser shows all the genes and other features on a single replicon.'>Genome Browser</button><button class='ecobutton' onclick='window.location.href="/smarttables?tab=SPECIAL&orgid=GCF_000021485"' data-tippy-content='This predefined set of SmartTables (also known as Special SmartTables) include tables of all genes, all pathways, all transporters, etc. in this database'>Organism SmartTables</button><button class='ecobutton' onclick='window.location.href="/dashboard/genome-dashboard.shtml?orgid=GCF_000021485"' data-tippy-content='The Genome Dashboard provides a graphical summary of the overall biological capabilities of this organism or database, as computed from its genome and pathway annotations.'>Genome Dashboard</button>
+</div></td></tr><tr><td  style="text-align:right;vertical-align:top" colspan=2><span style='display:inline-block'>
+<div class='flexRow'><div class='ecobuttons'><INPUT type=button value="Provide Feedback" onClick="window.open('/feedback.html?' + encodeURIComponent(location), 'bugreport', 'toolbar=no,dependent=yes,height=640,width=620,menubar=no,location=no,scrollbars=yes')" >
+</div></div></span>
+</td></tr></table><div class='flexRow orgSummary leftCol' style='align-items:start'><table class="infoBox2 topTable" border=0><tr><th  class="label" style="text-align:right;vertical-align:top">Database Authors</th><td  class="text" style="text-align:left;vertical-align:top"><div class='authors'><a href="/GCF_000021485/NEW-IMAGE?type=People&object=kaipa" class="People">Pallavi Subhraveti<sup>1</sup></a>, <a href="/GCF_000021485/NEW-IMAGE?type=People&object=midford" class="People">Peter Midford<sup>1</sup></a>, <a href="/GCF_000021485/NEW-IMAGE?type=People&object=keseler" class="People">Ingrid Keseler<sup>1</sup></a>, <a href="/GCF_000021485/NEW-IMAGE?type=People&object=kothari" class="People">Anamika Kothari<sup>1</sup></a>, <a href="/GCF_000021485/NEW-IMAGE?type=People&object=caspi" class="People">Ron Caspi<sup>1</sup></a>, <a href="/GCF_000021485/NEW-IMAGE?type=People&object=pkarp" class="People">Peter D Karp<sup>1</sup></a></div><div class='organizations'><a href="/GCF_000021485/NEW-IMAGE?type=Organizations&object=SRI" class="Organizations"><sup>1</sup>SRI International</a></div></td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">Summary</th><td  class="text" style="text-align:left;vertical-align:top">                              This Pathway/Genome Database (PGDB) was generated on 18-Nov-2021 from the annotated genome of <i>Acidithiobacillus ferrooxidans</i> ATCC 23270, as obtained from RefSeq (see the RefSeq entry for the authors of the original genome sequence).   The PGDB was created computationally by the PathoLogic component of the Pathway Tools software (version 25.5) [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26454094" class="CITATION-REFERENCE" 
+ data-tippy-content=' Karp PD, Latendresse M, Paley SM, Krummenacker M, Ong QD, Billington R, Kothari A, Weaver D, Lee T, Subhraveti P, Spaulding A, Fulcher C, Keseler IM, Caspi R (2016). <strong>&quot;Pathway Tools version 19.0 update: software for pathway/genome informatics and systems biology.&quot;</strong> Brief Bioinform 17(5);877-90. PMID: 26454094'>Karp16</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22675592" class="CITATION-REFERENCE" 
+ data-tippy-content=' Karp PD, Latendresse M, Caspi R (2011). <strong>&quot;The pathway tools pathway prediction algorithm.&quot;</strong> Stand Genomic Sci 5(3);424-9. PMID: 22675592'>Karp11</a>] using MetaCyc version 25.5 [<a href="http://www.ncbi.nlm.nih.gov/pubmed/31586394" class="CITATION-REFERENCE" 
+ data-tippy-content=' Caspi R, Billington R, Keseler IM, Kothari A, Krummenacker M, Midford PE, Ong WK, Paley S, Subhraveti P, Karp PD (2020). <strong>&quot;The MetaCyc database of metabolic pathways and enzymes - a 2019 update.&quot;</strong> Nucleic Acids Res 48(D1);D445-D453. PMID: 31586394'>Caspi20</a>]. It has not undergone any manual curation or review, and  may contain errors.  Development of this PGDB was supported by grant GM080746 from the National Institutes of Health.</td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">Genome</th><td  style="text-align:left;vertical-align:top"><TABLE BORDER=1 CLASS='genomeTable'>
+<TR><TH ALIGN=LEFT CLASS='label'>Replicon</TH><TH ALIGN=LEFT CLASS='label'>Total Genes</TH><TH ALIGN=LEFT CLASS='label'>Protein Genes</TH><TH ALIGN=LEFT CLASS='label'>RNA Genes</TH><TH ALIGN=LEFT CLASS='label'>Other Genes</TH><TH ALIGN=LEFT CLASS='label'>Size (bp)</TH><TH ALIGN=LEFT CLASS='label'>NCBI Link</TH></TR>
+<TR><TD ALIGN=LEFT><A HREF="/genbro/genbro.shtml?orgid=GCF_000021485&replicon=NC_011761&bp-range=1/50000">NC_011761</A></TD><TD ALIGN=RIGHT>3,075</TD><TD ALIGN=RIGHT>2,893</TD><TD ALIGN=RIGHT>92</TD><TD ALIGN=RIGHT>90</TD><TD ALIGN=RIGHT>2,982,397</TD><TD ALIGN=LEFT><A HREF="http://www.ncbi.nlm.nih.gov/nuccore/NC_011761">RefSeq:NC_011761</A></TD></TR>
+<TR CLASS='spacer'><TD ALIGN=LEFT></TD></TR>
+<TR><TD ALIGN=LEFT>Ortholog data available?</TD><TD ALIGN=LEFT>Yes</TD></TR>
+</TABLE>
+Other Genes = Pseudogenes + Truncated Genes
+</td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">Database Contents</th><td  class="dbContents" style="text-align:left;vertical-align:top"><TABLE BORDER=1>
+<TR></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="This class describes functional genes (it excludes, for example, pseudogenes) that code for protein and RNA products.">Genes</span></TD><TD ALIGN=LEFT>3,075</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-GENES&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of all genes. Note that this table may include more than the number of genes listed here, because it also includes pseudogenes and phantom genes.'> SmartTable </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="This class is the root of a classification hierarchy for metabolic 
+pathways.  Its subclasses divide pathways into groups 
+based on their biological functions, and based on the classes 
+of metabolites that they produce and/or consume.">Pathways</span></TD><TD ALIGN=RIGHT>217</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-PATHWAYS&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of all pathways.'> SmartTable </button></TD><TD ALIGN=LEFT><button class='ecobutton_in_table' onClick=location.href='/GCF_000021485/class-tree?object=Pathways' data-tippy-content='Browse the pathway ontology.'> Ontology </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="All chemical reactions that are or should be enzyme-catalyzed, even if no enzyme has been identified. Excludes transport reactions and spontaneous reactions.">Enzymatic Reactions</span></TD><TD ALIGN=RIGHT>1,135</TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="Transport reactions are reactions in which at least one species is transported across a membrane. The species may or may not be chemically modified in the course of the reaction. Typically, transport reactions are catalysed by membrane proteins known as transporters (with the exception of simple diffusion reactions). Transporters can function without an input of energy (facilitated diffusion), or they can be driven by electrochemical potential gradients (secondary transport) or by other energy sources such as light or ATP hydrolysis (primary transport).">Transport Reactions</span></TD><TD ALIGN=RIGHT>31</TD><TD ALIGN=RIGHT> </TD><TD ALIGN=LEFT><button class='ecobutton_in_table' onClick=location.href='/GCF_000021485/class-tree?object=Transport-Reactions' data-tippy-content='Browse the ontology of transport reactions.'> Ontology </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="An instance of this class describes a single protein gene product, that is, a single polypeptide chain synthesized by ribosomal translation of mRNA. Polypeptides may contain post-translational modifications, and may be part of a larger protein or other macromolecular complex. 
+ 
+Shorter polymers of amino acids are classified under peptides.">Polypeptides</span></TD><TD ALIGN=RIGHT>2,897</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-PROTEINS-1&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of all polypeptides.'> SmartTable </button></TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/GCF_000021485/NEW-IMAGE?object=Polypeptides' data-tippy-content='Go to the page for the Polypeptides class'> Class Page </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="An instance of this class defines a multimeric protein complex consisting 
+of multiple aggregated polypeptide chains.  It may be chemically 
+modified.  It may be a homomultimer or a heteromultimer.  Its components 
+may themselves be protein complexes.">Protein Complexes</span></TD><TD ALIGN=RIGHT>7</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-PROTEINS-2&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of all protein complexes'> SmartTable </button></TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/GCF_000021485/NEW-IMAGE?object=Protein-Complexes' data-tippy-content='Go to the page for the Protein-Complexes class'> Class Page </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="For the purposes of being counted here, an enzyme is a protein or complex that catalyzes some reaction that involves chemical change (i.e. reactants and products differ) but is not a transport reaction.">Enzymes</span></TD><TD ALIGN=RIGHT>704</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-PROTEINS-3&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of Enzymes'> SmartTable </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="For the purposes of being counted here, a transporter is a protein or complex that catalyzes a specific transport reaction. Proteins that are annotated as transporters but without any further indication that would link them to a specific transport reaction are not included.">Transporters</span></TD><TD ALIGN=RIGHT>267</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-PROTEINS-6&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of all transporters'> SmartTable </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="This class describes small molecules, that is, chemical compounds that are  
+not macromolecules.  Some subclasses of this class define generic reaction 
+substrates.  Those classes are used as substrates in some reactions as a 
+way of defining reactions that operate on classes of compounds.  Such 
+generic substrates often have class names beginning with a, such as 
+a fatty acid or a 2-oxo acid. 
+">Compounds</span></TD><TD ALIGN=RIGHT>778</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-COMPOUNDS&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of all transporters'> SmartTable </button></TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/GCF_000021485/class-tree?object=Compounds' data-tippy-content='Browse the compound ontology.'> Ontology </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="An instance of this class defines a transcription unit, meaning a set of one 
+or more genes that are transcribed to produce a single messenger RNA.   
+The differences between a transcription unit and an operon 
+are (1) Technically, an operon must include more than one gene.   
+(2) An operon may include more than one promoter.  For operons that 
+include multiple promoters, a transcription unit is defined for each promoter. 
+ 
+A transcription unit should have as its components one or more genes, 
+zero or one promoter, and zero or more terminators.  Transcription factor binding sites 
+need not be components of a transcription unit.  A one-to-one correspondence is 
+defined between a transcription unit and a promoter plus set of genes.  Promoters can 
+be omitted if the transcription start site is unknown, in which case the correspondence 
+is between a transcription unit and a set of genes.  Multiple terminators can be included  
+in a transcription-unit, but typically a separate transcription unit is defined for each  
+different set of transcribed genes (an exception is made for attenuators -- 
+generally no transcription unit is defined for the truncated transcript produced by 
+attenuation, even if it includes the gene for a leader peptide). 
+">Transcription Units</span></TD><TD ALIGN=RIGHT>1,545</TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/smarttable?id=:ALL-TRANSCRIPTION-UNITS&amp;orgid=GCF_000021485' data-tippy-content='Show SmartTable of all transcription units'> SmartTable </button></TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/GCF_000021485/NEW-IMAGE?object=Transcription-Units' data-tippy-content='Go to the page for the Transcription-Units class'> Class Page </button></TD></TR>
+<TR><TD ALIGN=RIGHT><span data-tippy-content="A transfer RNA (tRNA) is is an adaptor molecule made out of RNA that serves as the physical link between the nucleotide sequence of nucleic acids (DNA and RNA) and the amino acid sequence of proteins. 
+ 
+There are many tRNAs, most of which are specific for a particular amino acid. Each tRNA binds its amino acid and contains a three-nucleotide sequence called the anticodon, which forms three base pairs with a matching codon in mRNA during protein biosynthesis. 
+ 
+The amino acid is covalently attached to the 3'-end of the tRNA, which ends with a CCA motif. More specifically, the amino acid is first activated by a dedicated aminoacyl-tRNA synthetase (AARS) to an adenylate form, followed by a transfer of the aminoacyl group to the 2' or 3' hydroxyl group of the terminal ribose of the tRNA. Based on the active site structure, AARSs are grouped into two independently evolved classes . In general, class I and II enzymes attach amino acyl groups to the 2'- and 3'-OH groups, respectively . However, in solution the 2'- or 3'-linked amino acids spontaneously transacylate to the neighboring OH at high rates, resulting in a mixture of 2'- and 3'-linked AA-tRNA isomers .  
+ 
+The bound amino acid is then delivered to the ribosome by proteins called elongation factors (EF-Tu in bacteria, eEF-1 in eukaryotes). The elongation factors stabilize the 3'-isomer, which is preferred by the ribosome during peptide bond formation. 
+ 
+This class encompasses uncharged tRNA molecules. The structure shown here depicts the CCA nucleotides at the 3' end of an uncharged tRNA.">tRNAs</span></TD><TD ALIGN=RIGHT>82</TD><TD ALIGN=RIGHT> </TD><TD ALIGN=RIGHT><button class='ecobutton_in_table' onClick=location.href='/GCF_000021485/NEW-IMAGE?object=All-tRNAs' data-tippy-content='Browse the tRNA ontology. Note that this includes links to both charged and uncharged tRNAs.'> Ontology </button></TD></TR>
+<TR><TD ALIGN=RIGHT>Protein Features</TD><TD ALIGN=RIGHT>4,185</TD></TR>
+</TABLE>
+</td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">Database Version</th><td  class="text" style="text-align:left;vertical-align:top">30.0
+</td></tr></table><div class='flexCol orgSummary rightCol'><table class="infoBox2 topTable" border=0><tr><th  class="label" style="text-align:right;vertical-align:top">Sequence Source</th><td  class="text" style="text-align:left;vertical-align:top">GCF_000021485.1
+</td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">Synonyms</th><td  class="text" style="text-align:left;vertical-align:top">                              Acidithiobacillus ferrooxidans str. ATCC 23270<br>                               Acidithiobacillus ferrooxidans ATCC 23270</td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">Taxonomic Lineage</th><td  class="text" style="text-align:left;vertical-align:top">                              <a href="/GCF_000021485/NEW-IMAGE?object=TAX-131567" class="ORGANISM" 
+ data-tippy-content='<b><i>cellular organisms</i></b><br>NCBI Taxonomy ID: <b>131567</b><br>Rank: <b>no rank</b><br>Lineage:<br>'>cellular organisms</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-2" class="ORGANISM" 
+ data-tippy-content='<b><i>Bacteria &lt;bacteria&gt;</i></b><br>NCBI Taxonomy ID: <b>2</b><br>Rank: <b>superkingdom</b><br>Lineage:<br>  cellular organisms'>Bacteria &lt;bacteria&gt;</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-3379134" class="ORGANISM" 
+ data-tippy-content='<b><i>Pseudomonadati</i></b><br>NCBI Taxonomy ID: <b>3379134</b><br>Rank: <b>kingdom</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;'>Pseudomonadati</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-1224" class="ORGANISM" 
+ data-tippy-content='<b><i>Pseudomonadota</i></b><br>NCBI Taxonomy ID: <b>1224</b><br>Rank: <b>phylum</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;<br>  Pseudomonadati'>Pseudomonadota</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-1807140" class="ORGANISM" 
+ data-tippy-content='<b><i>Acidithiobacillia</i></b><br>NCBI Taxonomy ID: <b>1807140</b><br>Rank: <b>class</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;<br>  Pseudomonadati<br>  Pseudomonadota'>Acidithiobacillia</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-225057" class="ORGANISM" 
+ data-tippy-content='<b><i>Acidithiobacillales</i></b><br>NCBI Taxonomy ID: <b>225057</b><br>Rank: <b>order</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;<br>  Pseudomonadati<br>  Pseudomonadota<br>  Acidithiobacillia'>Acidithiobacillales</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-225058" class="ORGANISM" 
+ data-tippy-content='<b><i>Acidithiobacillaceae</i></b><br>NCBI Taxonomy ID: <b>225058</b><br>Rank: <b>family</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;<br>  Pseudomonadati<br>  Pseudomonadota<br>  Acidithiobacillia<br>  Acidithiobacillales'>Acidithiobacillaceae</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-119977" class="ORGANISM" 
+ data-tippy-content='<b><i>Acidithiobacillus</i></b><br>NCBI Taxonomy ID: <b>119977</b><br>Rank: <b>genus</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;<br>  Pseudomonadati<br>  Pseudomonadota<br>  Acidithiobacillia<br>  Acidithiobacillales<br>  Acidithiobacillaceae'>Acidithiobacillus</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-920" class="ORGANISM" 
+ data-tippy-content='<b><i>Acidithiobacillus ferrooxidans</i></b><br>NCBI Taxonomy ID: <b>920</b><br>Rank: <b>species</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;<br>  Pseudomonadati<br>  Pseudomonadota<br>  Acidithiobacillia<br>  Acidithiobacillales<br>  Acidithiobacillaceae<br>  Acidithiobacillus'>Acidithiobacillus ferrooxidans</a><br>                               <a href="/GCF_000021485/NEW-IMAGE?object=TAX-243159" class="ORGANISM" 
+ data-tippy-content='<b><i>Acidithiobacillus ferrooxidans</i> ATCC 23270</b><br>NCBI Taxonomy ID: <b>243159</b><br>Rank: <b>strain</b><br>Lineage:<br>  cellular organisms<br>  Bacteria &lt;bacteria&gt;<br>  Pseudomonadati<br>  Pseudomonadota<br>  Acidithiobacillia<br>  Acidithiobacillales<br>  Acidithiobacillaceae<br>  Acidithiobacillus<br>  Acidithiobacillus ferrooxidans'>Acidithiobacillus ferrooxidans ATCC 23270</a></td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">Genetic Code Number</th><td  class="text" style="text-align:left;vertical-align:top">                              11 -- Bacterial, Archaeal and Plant Plastid (same as Standard, except for alternate initiation codons)</td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">BIOSAMPLE</th><td  class="text" style="text-align:left;vertical-align:top"><a href="https://www.ncbi.nlm.nih.gov/biosample/SAMN02603974" class="LINK">SAMN02603974</a></td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">NCBI BioProject</th><td  class="text" style="text-align:left;vertical-align:top"><a href="http://www.ncbi.nlm.nih.gov/bioproject/PRJNA224116" class="LINK">PRJNA224116</a></td></tr><tr><th  class="label" style="text-align:right;vertical-align:top">NCBI-Taxonomy</th><td  class="text" style="text-align:left;vertical-align:top"><a href="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=243159" class="LINK">243159</a></td></tr><TR><TH ALIGN=RIGHT CLASS='label'>Annotation Provider</TH><TD ALIGN=LEFT>NCBI RefSeq</TD></TR>
+<TR><TH ALIGN=RIGHT CLASS='label'>Annotation Date</TH><TD ALIGN=LEFT>2021-01-24</TD></TR>
+<TR><TH ALIGN=RIGHT CLASS='label'>Annotation Pipeline</TH><TD ALIGN=LEFT>NCBI Prokaryotic Genome Annotation Pipeline (PGAP)</TD></TR>
+<TR><TH ALIGN=RIGHT CLASS='label'>Annotation Pipeline Version</TH><TD ALIGN=LEFT>5.0</TD></TR>
+<TR><TH ALIGN=RIGHT CLASS='label'>Annotation Comment</TH><TD ALIGN=LEFT>Best-placed reference protein set; GeneMarkS-2+</TD></TR>
+</table></div></div> </p>  <hr>  <p class=ecoparagraph>  <h3>References </h3> 
+ </p> <p class='ecoparagraph reference'>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/31586394" class="CITATION-FRAME" 
+ data-tippy-content='PubMed: 31586394'>  <span class='key'>Caspi20</span>:  Caspi R, Billington R, Keseler IM, Kothari A, Krummenacker M, Midford PE, Ong WK, Paley S, Subhraveti P, Karp PD (2020). <strong>"The MetaCyc database of metabolic pathways and enzymes - a 2019 update."</strong> Nucleic Acids Res 48(D1);D445-D453. PMID: 31586394</a><p class='ecoparagraph reference'>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22675592" class="CITATION-FRAME" 
+ data-tippy-content='PubMed: 22675592'>  <span class='key'>Karp11</span>:  Karp PD, Latendresse M, Caspi R (2011). <strong>"The pathway tools pathway prediction algorithm."</strong> Stand Genomic Sci 5(3);424-9. PMID: 22675592</a><p class='ecoparagraph reference'>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26454094" class="CITATION-FRAME" 
+ data-tippy-content='PubMed: 26454094'>  <span class='key'>Karp16</span>:  Karp PD, Latendresse M, Paley SM, Krummenacker M, Ong QD, Billington R, Kothari A, Weaver D, Lee T, Subhraveti P, Spaulding A, Fulcher C, Keseler IM, Caspi R (2016). <strong>"Pathway Tools version 19.0 update: software for pathway/genome informatics and systems biology."</strong> Brief Bioinform 17(5);877-90. PMID: 26454094</a><hr style='clear:both'><a href='#' onclick="window.open('/feedback.html?' + encodeURIComponent(location), 'bugreport', 'toolbar=no,dependent=yes,height=640,width=620,menubar=no,location=no,scrollbars=yes')" style="padding-left: 15px">Report Errors or Provide Feedback</a>
+
+<br><font size=-1 style="padding-left: 15px">Page generated by <a href="http://pathwaytools.org/" target=_top>Pathway Tools version 30.0</a> (software by SRI International) on Tue Sep 22, 2026, BIOCYC14A.</font><p>
+<!-- end pageContentDynamic -->
+<!-- This is stuff that used to go in the head and now should go towards the end of pages for efficiency -->
+<script TYPE="text/javascript"
+	SRC="/combined/combined-1.js?v=30">
+</script> 
+
+<!-- The style and JavaScript for Pathway Tools Server -->
+  <!-- The following file is generated on the fly by the server -->
+  <script type="text/javascript" src="/get-organisms-fast.js"></script>
+  <script type="text/javascript" src="/get-user-data.js"></script>
+  <!-- User web site JavaScript customization should use the following file --> 
+  <script type="text/javascript"
+	  src="/userWebsiteCustomization.js?ts=3994970768">
+</script> 
+
+  <script type="text/javascript" 
+	  src="/paywall-unhidelogin.js?ts=3994970770">
+  </script>
+
+
+<script type="text/javascript">
+
+/* This code needs to be here to avoid the menu and other Yahoo widgets to flicker
+   on the screen. */
+
+
+// Do this as early as possible to minimize flicker:
+YAHOO.util.Event.onAvailable("body", function () {
+    updateBannerClass();
+});
+
+YAHOO.util.Event.onContentReady("topBannerMenu", function () {
+    /*
+         Instantiate a MenuBar, passing in the id of the HTML element 
+         representing the MenuBar.
+
+
+    var oMenuBar = new YAHOO.widget.MenuBar("pathwayToolsMenubar", 
+                                            {autosubmenudisplay: true, 
+                                             shadow: false, 
+                                             hidedelay: 700
+                                             });
+        OR NOT !!
+    */
+
+
+    // Add dynamically all the menubar commands and menus here if need be.
+    addContextSpecificToolbarMenus();
+
+    // User sites can define this fn in userWebsiteCustomization.js in 
+    // order to programmatically alter the menus.
+    addSiteSpecificMenuItems();
+ 
+    /*
+    onMenuBarReady.fire([]);
+
+    // Render the MenuBar instance
+    oMenuBar.render();
+    $$('.yuimenu').each(Element.show); <!-- re-show menus -->
+    */
+});
+</script>
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css"
+      integrity="sha512-yVvxUQV0QESBt1SyZbNJMAwyKvFTLMyXSyBHDO4BG5t7k/Lw34tyqlSDlKIrIENIzCl+RVUNjmCPG+V/GMesRw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+      media="print" onload="this.media='all'"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js"
+	integrity="sha512-rMGGF4wg1R73ehtnxXBt5mbUfN9JUJwbk21KMlnLZDJh7BkPmeovBuddZCENJddHYYMkCh9hPFnPmS9sspki8g=="
+	crossorigin="anonymous" referrerpolicy="no-referrer"
+	defer></script>
+<script type="text/javascript"
+	src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.11/jstree.min.js"
+	defer></script>
+
+
+
+</div>
+</td>
+<!-- end closing tags from biocyc template-part2of3.shtml -->
+
+<!-- Beginning of BioCyc userFooterCustomization.shtml -->
+<div id="footerNav" class="footer-wide-margin-border"
+     role="navigation" aria-label="footerLinks">
+  <div class="columns">
+    <div class="l-box">
+      <h4 class="content-footer-subhead">General&nbsp;Information</h4>
+      <a href="/intro.shtml">Intro&nbsp;to&nbsp;BioCyc</a>
+      <a href="/Product-summary.shtml#subscriptions">Subscriptions</a>
+      <a href="/biocyc-pgdb-list.shtml" >20,095 Databases</a>
+      <a href="/biocyc-testimonials.shtml">Testimonials</a>
+      <a href="/publications.shtml">Publications</a>
+      <a href="/release-notes.shtml">Update&nbsp;History</a>
+      <a href="/Troubleshoot-guide.shtml">Troubleshooting</a>
+      <a href="/contact.shtml">Contact&nbsp;Us</a>
+      <a href="/about.shtml">About&nbsp;Us</a>
+    </div>
+    <div class="l-box">
+      <h4 class="content-footer-subhead">Data&nbsp;and&nbsp;Services</h4>
+      <a href="/download.shtml">Software/Data&nbsp;Downloads</a>
+      <a href="/web-services.shtml">Web Services&nbsp;&amp;&nbsp;APIs</a>
+      <a href="/linking.shtml">Linking&nbsp;to&nbsp;BioCyc</a>
+      <a href="/posters.shtml">Metabolic&nbsp;and&nbsp;Genome&nbsp;Posters</a>
+      <a href="/request-new-pgdb.shtml">Request&nbsp;New&nbsp;BioCyc&nbsp;Genome</a>
+      <a href="/webinar.shtml"> BioCyc Tutorial Videos </a>
+      <a href="/registry.html"> Registry </a>
+    </div>
+    <div class="l-box">
+      <h4 class="content-footer-subhead">Credits</h4>
+      <a href="/publications.shtml">How&nbsp;to&nbsp;Cite</a>
+      <a href="https://ecocyc.org/advisors.shtml">Advisory&nbsp;Board</a>
+      <a href="https://biocyc.org/credits.shtml">Contributors</a>
+      <a href="/credits.shtml">BioCyc&nbsp;Credits</a>
+      <a href="/funding.shtml">BioCyc&nbsp;Funding&nbsp;Sources</a>
+    </div>
+    <div class="l-box">
+      <h4 class="content-footer-subhead">Follow&nbsp;Us</h4>
+      <a href="http://pathwaytools.blogspot.com">Pathway&nbsp;Tools&nbsp;Blog</a>
+      <a href="/subscribe.shtml">Mailing&nbsp;List</a>
+      <a href="https://biocyc.printify.me/products" target="_blank">Purchase&nbsp;BioCyc&nbsp;Mugs</a>
+    </div>
+  </div>
+</div>
+<sri-footer></sri-footer>
+
+
+<!-- End of BioCyc userFooterCustomization.shtml -->
+
+<div id='orgSelectorDialogCC'></div>
+
+<!-- Multi Organism Chooser Template -->
+
+<div id="multiorgSelectorDialog" style="display:none"
+     class='resizableDialog'
+     role='dialog'
+     aria-modal='true' aria-labeled-by='multiorgSelectorDialogTitle'>
+  <div class="hd"><b id='multiorgSelectorDialogTitle'>Specify List of Organism Databases</b></div>
+  <div class="bd" id="multiorgSelectorBody">
+    <form id="multiorgSelectorForm" action='/'>
+      <div id='legend' style="max-width:900px"></div>
+      <div id='multiorg3columns'>
+        <div>
+          <h3>Select One or More Databases: <span id="multiorgMaxLabel"></span></h3>
+          <div id="multiorgSelectorTabs" class="orgSelectorTabs" style='min-width:504px'>
+            <ul>
+              <li class="selected"><a href="#multiorgNameTab">By Name</a></li>
+              <li><a href="#multiorgTaxTab">By Taxonomy</a></li>
+	      
+	      <li><a href="#multiorgMetadataTab">By Organism Properties</a></li>
+	      
+	      
+              <li><a href="#multiorgSavedTab">My Lists</a></li>
+	      
+            </ul>
+            <div id="multiorgNameTab" class='multiorgselectorTab'>
+	      <div class='orgselectorByNameContents'>
+                
+                <div id="multiorgRightcontent" class='nameACColumn'>
+		  <label id="multiorgFilterOptions" style="display:block;text-align:right;font-size:smaller">
+		    Organism Filter: <select id="multiorgFilter" onChange='updateMultiOrgFilter()'>
+		    </select>
+		  </label>
+                  <div id="multiorgselectorAutoComplete">
+                    <input id="multiorgInput" type="text"
+			   aria-label="Start typing a genus, species and/or strain name"
+			   placeholder="Start typing a genus, species and/or strain name"
+			   spellcheck=false
+			   aria-autocomplete="list"
+			   > 
+                    <div id="multiorgContainer" style="font-style:italic"></div>
+                  </div>
+                  <div id="multiorgnum"></div>
+                </div>
+		<div class="alphabetFilter">
+		  <div class="screen-reader-only">
+		    <h3>Filter organisms by first letter</h3>
+		  </div>
+                    <a href="javascript:alphabetClick('a')">A</a><br>
+                    <a href="javascript:alphabetClick('b')">B</a><br>
+                    <a href="javascript:alphabetClick('c')">C</a><br>
+                    <a href="javascript:alphabetClick('d')">D</a><br>
+                    <a href="javascript:alphabetClick('e')">E</a><br>
+                    <a href="javascript:alphabetClick('f')">F</a><br>
+                    <a href="javascript:alphabetClick('g')">G</a><br>
+                    <a href="javascript:alphabetClick('h')">H</a><br>
+                    <a href="javascript:alphabetClick('i')">I</a><br>
+                    <a href="javascript:alphabetClick('j')">J</a><br>
+                    <a href="javascript:alphabetClick('k')">K</a><br>
+                    <a href="javascript:alphabetClick('l')">L</a><br>
+                    <a href="javascript:alphabetClick('m')">M</a><br>
+                    <a href="javascript:alphabetClick('n')">N</a><br>
+                    <a href="javascript:alphabetClick('o')">O</a><br>
+                    <a href="javascript:alphabetClick('p')">P</a><br>
+                    <a href="javascript:alphabetClick('q')">Q</a><br>
+                    <a href="javascript:alphabetClick('r')">R</a><br>
+                    <a href="javascript:alphabetClick('s')">S</a><br>
+                    <a href="javascript:alphabetClick('t')">T</a><br>
+                    <a href="javascript:alphabetClick('u')">U</a><br>
+                    <a href="javascript:alphabetClick('v')">V</a><br>
+                    <a href="javascript:alphabetClick('w')">W</a><br>
+                    <a href="javascript:alphabetClick('x')">X</a><br>
+                    <a href="javascript:alphabetClick('y')">Y</a><br>
+                    <a href="javascript:alphabetClick('z')">Z</a><br>
+                </div>
+	      </div>
+            </div>
+            <div id="multiorgTaxTab" class='multiorgselectorTab'>
+              <label id="multiorgTaxAutoComplete">
+                <span style="padding-right:5px">Search for taxon in taxonomy tree:
+                </span>
+                <input id="multiorgTaxName" type="text" style="width:360px" />
+                <div id="multiorgTaxContainer"></div>
+              </label>
+              <div id="multiorgTaxTreeContainer" style="min-width:489px;overflow-y:auto;margin-top:12px">
+                <div id="multiorgSelectorTaxTree" class="ygtv-checkbox"></div>
+              </div>
+            </div>
+	    
+	    <div id="multiorgMetadataTab" style="min-width:489px;overflow-y:auto" class='multiorgselectorTab' >
+	      Find organism databases according to:
+	      <ul style="line-height:118%;margin-top:4px">
+		<li>Organism characteristics, e.g. pathogenicity = human
+		<li>Collection metadata, e.g. human microbiome body site = blood
+		<li>Database properties, e.g. # (number) of Genes &lt; 500
+	      </ul>
+	      <div id="mclause0" class="flexRowWrap">
+		<select id="mmdSlot0"
+			onChange='updateMetadataSlot(0, "m")'
+			aria-label='Property for constraint 1'>
+		  <option value=false selected>Select Property</option>
+		</select>
+		<select id="mmdConstraint0"
+			onChange='updateMetadataSlot(0, "m")'
+			aria-label='Operator for constraint 1'>
+		  <option value="c" selected>is</option>
+		  <option value="nc">is not</option>
+		  <option value="a">has any value</option>
+		  <option value="n">has no value</option>
+		</select>
+		<div id="mkeywordInput0" style="display:none" class="flexRow">
+		  <select id="mmdKeywordOp0"
+			  onchange="updateForOp(0, 'mmdKeywordOp0', 'mmdSubstringAC0', 'm')"
+			  aria-label='Operator for constraint 1'>
+		    <option value="enum" selected>Exact Match</option>
+		    <option value="substr">Substring Match</option>
+		  </select>
+		  <div class = "mdSubstringInput" id="mmdSubstringAC0"> 
+		    <input id="mmdKeyword0" type="text"
+			   aria-label='Value for constraint 1'> 
+		    <div id="mmdKWContainer0"></div>
+		  </div>
+		</div>
+		<div id="mnumericInput0" style="display:none" class="flexRow">
+		  <select id="mmdNumOp0"
+			  onchange="updateForOp(0, 'mmdNumOp0', 'mmdNum0', 'm')"
+			  aria-label='Numeric operator for constraint 1'>
+		    <option value="e" selected>= (approx.)</option>
+		    <option value="lt">&lt;</option>
+		    <option value="lte">&le;</option>
+		    <option value="gt">&gt;</option>
+		    <option value="gte">&ge;</option>
+		    <option value="enum">Select Values</option>
+		  </select>
+		  <input id="mmdNum0" type="text"
+			 aria-label='Value for constraint 1'> 
+		</div>
+		<div id="mmdEnumContainer0" style="display:none">
+		  <select id="mmdEnum0" multiple
+			  aria-label='Value for constraint 1'>
+		  </select>
+		</div>    
+	      </div>
+	      <div id="mclause1" style="display:none">
+		<select id="mconnector1"
+			aria-label='Connector for constraint 2'>
+		  <option value='AND' selected>AND</option>
+		  <option value='OR'>OR</option>
+		</select>
+		<input id="mmdDelete1" type="button" value ="Remove Constraint"
+		       onclick='mdRemoveClause(1, "m")'
+		       aria-label='Remove Constraint 2'> 
+		<br>
+		<div class="flexRowWrap">
+		  <select id="mmdSlot1"
+			  onChange='updateMetadataSlot(1, "m")'
+			  aria-label='Property for constraint 2'>
+		    <option value=false selected>Select Property</option>
+		  </select>
+		  <select id="mmdConstraint1"
+			  onChange='updateMetadataSlot(1, "m")'
+			  aria-label='Operator for constraint 2'>
+		    <option value="c" selected>is</option>
+		    <option value="nc">is not</option>
+		    <option value="a">has any value</option>
+		    <option value="n">has no value</option>
+		  </select>
+		  <div id="mkeywordInput1" style="display:none" class="flexRow">
+		    <select id="mmdKeywordOp1"
+			    onchange="updateForOp(1, 'mmdKeywordOp1', 'mmdSubstringAC1', 'm')"
+			    aria-label='Operator for constraint 2'>
+		      <option value="enum" selected>Exact Match</option>
+		      <option value="substr">Substring Match</option>
+		    </select>
+		    <div class = "mdSubstringInput" id="mmdSubstringAC1"> 
+		      <input id="mmdKeyword1" type="text"
+			     aria-label='Value for constraint 2'> 
+		      <div id="mmdKWContainer1"></div>
+		    </div>
+		  </div>
+		  <div id="mnumericInput1" style="display:none"
+			class="flexRow">
+		    <select id="mmdNumOp1"
+			    onchange="updateForOp(1, 'mmdNumOp1', 'mmdNum1', 'm')"
+			    aria-label='Numeric operator for constraint 2'>
+		      <option value="e" selected>= (approx.)</option>
+		      <option value="lt">&lt;</option>
+		      <option value="lte">&le;</option>
+		      <option value="gt">&gt;</option>
+		      <option value="gte">&ge;</option>
+		      <option value="enum">Select Values</option>
+		    </select>
+		    <input id="mmdNum1" type="text"
+			   aria-label='Value for constraint 2'> 
+		  </div>
+		  <div id="mmdEnumContainer1" style="display:none">
+		    <select id="mmdEnum1" multiple
+			    aria-label='Value for constraint 2'>
+		    </select>
+		  </div>
+		</div>
+	      </div>
+	      <div id="mclause2" style="display:none">
+		<select id="mconnector2"
+			aria-label='Connector for constraint 3'>
+		  <option value='and' selected>AND</option>
+		  <option value='or'>OR</option>
+		</select>
+		<input id="mmdDelete2" type="button" value="Remove Constraint"
+		       onclick='mdRemoveClause(2, "m")'
+		       aria-label='Remove Constraint 3'> 
+		<br>
+		<div class="flexRowWrap">
+		  <select id="mmdSlot2"
+			  onChange='updateMetadataSlot(2, "m")'
+			  aria-label='Property for constraint 3'>
+		    <option value=false selected>Select Property</option>
+		  </select>
+		  <select id="mmdConstraint2"
+			  onChange='updateMetadataSlot(2, "m")'
+			  aria-label='Operator for constraint 3'>
+		    <option value="c" selected>is</option>
+		    <option value="nc">is not</option>
+		    <option value="a">has any value</option>
+		    <option value="n">has no value</option>
+		  </select>
+		  <div id="mkeywordInput2" style="display:none" class="flexRow">
+		    <select id="mmdKeywordOp2"
+			    onchange="updateForOp(2, 'mmdKeywordOp2', 'mmdSubstringAC', 'm')"
+			    aria-label='Operator for constraint 3'>
+		      <option value="enum" selected>Exact Match</option>
+		      <option value="substr">Substring Match</option>
+		    </select>
+		    <div class = "mdSubstringInput" id="mmdSubstringAC2"> 
+		      <input id="mmdKeyword2" type="text"
+			     aria-label='Value for constraint 3'> 
+		      <div id="mmdKWContainer2"></div>
+		    </div>
+		  </div>
+		  <div id="mnumericInput2" style="display:none" class="flexRow">
+		    <select id="mmdNumOp2"
+			    onchange="updateForOp(2, 'mmdNumOp2', 'mmdNum2', 'm')"
+			    aria-label='Numeric operator for constraint 3'>
+		      <option value="e" selected>= (approx.)</option>
+		      <option value="lt">&lt;</option>
+		      <option value="lte">&le;</option>
+		      <option value="gt">&gt;</option>
+		      <option value="gte">&ge;</option>
+		      <option value="enum">Select Values</option>
+		    </select>
+		    <input id="mmdNum2" type="text"
+			   aria-label='Value for constraint 3'> 
+		  </div>
+		  <div id="mmdEnumContainer2" style="display:none">
+		    <select id="mmdEnum2" multiple
+			    aria-label='Value for constraint 3'>
+		    </select>
+		  </div>    
+		</div>    
+	      </div>
+	      <div id="mclause3" style="display:none">
+		<select id="mconnector3"
+			aria-label='Connector for constraint 4'>
+		  <option value='and' selected>AND</option>
+		  <option value='or'>OR</option>
+		</select>
+		<input id="mmdDelete3" type="button"
+		       value="Remove Constraint"
+		       onclick='mdRemoveClause(3, "m")'
+		       aria-label='Remove Constraint 4'> 
+		<br>
+		<div class="flexRowWrap">
+		  <select id="mmdSlot3"
+			  onChange='updateMetadataSlot(3, "m")'
+			  aria-label='Property for constraint 4'>
+		    <option value=false selected>Select Property</option>
+		  </select>
+		  <select id="mmdConstraint3"
+			  onChange='updateMetadataSlot(3, "m")'
+			  aria-label='Operator for constraint 4'>
+		    <option value="c" selected>is</option>
+		    <option value="nc">is not</option>
+		    <option value="a">has any value</option>
+		    <option value="n">has no value</option>
+		  </select>
+		  <div id="mkeywordInput3" style="display:none" class="flexRow">
+		    <select id="mmdKeywordOp3"
+			    onchange="updateForOp(3, 'mmdKeywordOp3', 'mmdSubstringAC3', 'm')"
+			    aria-label='Operator for constraint 4'>
+		      <option value="enum" selected>Exact Match</option>
+		      <option value="substr">Substring Match</option>
+		    </select>
+		    <div class = "mdSubstringInput" id="mmdSubstringAC3"> 
+		      <input id="mmdKeyword3" type="text"
+			     aria-label='Value for constraint 4'> 
+		      <div id="mmdKWContainer3"></div>
+		    </div>
+		  </div>
+		  <div id="mnumericInput3" style="display:none" class="flexRow">
+		    <select id="mmdNumOp3"
+			    onchange="updateForOp(3, 'mmdNumOp3', 'mmdNum3', 'm')"
+			    aria-label='Numeric operator for constraint 4'>
+		      <option value="e" selected>= (approx.)</option>
+		      <option value="lt">&lt;</option>
+		      <option value="lte">&le;</option>
+		      <option value="gt">&gt;</option>
+		      <option value="gte">&ge;</option>
+		      <option value="enum">Select Values</option>
+		    </select>
+		    <input id="mmdNum3" type="text"
+			   aria-label='Value for constraint 4'> 
+		  </div>
+		  <div id="mmdEnumContainer3" style="display:none">
+		    <select id="mmdEnum3" multiple
+			    aria-label='Value for constraint 4'>
+		    </select>
+		  </div>    
+		</div>
+	      </div>
+	      <div id="mclause4" style="display:none">
+		<select id="mconnector4"
+			aria-label='Connector for constraint 5'>
+		  <option value='and' selected>AND</option>
+		  <option value='or'>OR</option>
+		</select>
+		<input id="mmdDelete4" type="button"
+		       value = "Remove Constraint"
+		       onclick='mdRemoveClause(4, "m")'
+		       aria-label='Remove Constraint 5'> 
+		<br>
+		<div class="flexRowWrap">
+		  <select id="mmdSlot4" onChange='updateMetadataSlot(4, "m")'
+			  aria-label='Property for constraint 5'>
+		    <option value=false selected>Select Property</option>
+		  </select>
+		  <select id="mmdConstraint4"
+			  onChange='updateMetadataSlot(4, "m")'
+			  aria-label='Operator for constraint 5'>
+		    <option value="c" selected>is</option>
+		    <option value="nc">is not</option>
+		    <option value="a">has any value</option>
+		    <option value="n">has no value</option>
+		  </select>
+		  <div id="mkeywordInput4" style="display:none" class="flexRow">
+		    <select id="mmdKeywordOp4"
+			    onchange="updateForOp(4, 'mmdKeywordOp4', 'mmdSubstringAC4', 'm')"
+			    aria-label='Operator for constraint 5'>
+		      <option value="enum" selected>Exact Match</option>
+		      <option value="substr">Substring Match</option>
+		    </select>
+		    <div class = "mdSubstringInput" id="mmdSubstringAC4"> 
+		      <input id="mmdKeyword4" type="text"
+			     aria-label='Value for constraint 5'> 
+		      <div id="mmdKWContainer4"></div>
+		    </div>
+		  </div>
+		  <div id="mnumericInput4" style="display:none">
+		    <select id="mmdNumOp4"
+			    onchange="updateForOp(4, 'mmdNumOp4', 'mmdNum4', 'm')"
+			    aria-label='Numeric operator for constraint 5'>
+		      <option value="e" selected>= (approx.)</option>
+		      <option value="lt">&lt;</option>
+		      <option value="lte">&le;</option>
+		      <option value="gt">&gt;</option>
+		      <option value="gte">&ge;</option>
+		      <option value="enum">Select Values</option>
+		    </select>
+		    <input id="mmdNum4" type="text"
+			   aria-label='Value for constraint 5'> 
+		  </div>
+		  <div id="mmdEnumContainer4" style="display:none">
+		    <select id="mmdEnum4" multiple
+			    aria-label='Value for constraint 5'>
+		    </select>
+		  </div>    
+		</div>    
+	      </div>
+	      <div id="mclause5" style="display:none">
+		<select id="mconnector5"
+			aria-label='Connector for constraint 6'>
+		  <option value='and' selected>AND</option>
+		  <option value='or'>OR</option>
+		</select>
+		<input id="mmdDelete5" type="button"
+		       value="Remove Constraint"
+		       onclick='mdRemoveClause(5, "m")'
+		       aria-label='Remove Constraint 6'> 
+		<br>
+		<div class="flexRowWrap">
+		  <select id="mmdSlot5" onChange='updateMetadataSlot(5, "m")'
+			  aria-label='Property for constraint 6'>
+		    <option value=false selected>Select Property</option>
+		  </select>
+		  <select id="mmdConstraint5"
+			  onChange='updateMetadataSlot(5, "m")'
+			  aria-label='Operator for constraint 6'>
+		    <option value="c" selected>is</option>
+		    <option value="nc">is not</option>
+		    <option value="a">has any value</option>
+		    <option value="n">has no value</option>
+		  </select>
+		  <div id="mkeywordInput5" style="display:none" class="flexRow">
+		    <select id="mmdKeywordOp5"
+			    onchange="updateForOp(5, 'mmdKeywordOp5', 'mmdSubstringAC5', 'm')"
+			    aria-label='Operator for constraint 6'>
+		      <option value="enum" selected>Exact Match</option>
+		      <option value="substr">Substring Match</option>
+		    </select>
+		    <div class = "mdSubstringInput" id="mmdSubstringAC5"> 
+		      <input id="mmdKeyword5" type="text"
+			     aria-label='Value for constraint 6'> 
+		      <div id="mmdKWContainer5"></div>
+		    </div>
+		  </div>
+		  <div id="mnumericInput5" style="display:none" class="flexRow">
+		    <select id="mmdNumOp5"
+			    onchange="updateForOp(5, 'mmdNumOp5', 'mmdNum5', 'm')"
+			    aria-label='Numeric operator for constraint 6'>
+		      <option value="e" selected>= (approx.)</option>
+		      <option value="lt">&lt;</option>
+		      <option value="lte">&le;</option>
+		      <option value="gt">&gt;</option>
+		      <option value="gte">&ge;</option>
+		      <option value="enum">Select Values</option>
+		    </select>
+		    <input id="mmdNum5" type="text"
+			   aria-label='Value for constraint 6'> 
+		  </div>
+		  <div id="mmdEnumContainer5" style="display:none">
+		    <select id="mmdEnum5" multiple
+			    aria-label='Value for constraint 6'>
+		    </select>
+		  </div> 
+		</div>
+	      </div>
+	      <br>
+	      <div class="flexRow">
+		<input id="maddClause" type="button" value = "Add Constraint" onclick='mdAddClause("m")' style="display:none"> 
+		<input id="mmdSearch" type="button" value = "Find Organisms" onclick = 'processMdQuery(true, "m")'> 
+	      </div>    
+	      <div id="mmdResults" class='yui3-skin-sam'></div>
+	    </div>
+	    
+	    
+            <div id="multiorgSavedTab" class='multiorgselectorTab' style="overflow-y:auto">
+              <div style="padding-bottom:20px">
+		<span>Database lists include both predefined lists and
+                  lists that are saved as SmartTables that you can edit from
+                  your <a href="/smarttables" target="new.window">My
+                  SmartTables</a> page. To add all organisms from a
+                  saved list, check the box next to the list name and
+                  then click the "Add" button.
+		</span>
+	      </div>
+              <div id="multiorgSavedTree" class="ygtv-checkbox"></div>
+              <div class="requiresLogin" style="padding-top:50px">
+                <span class="requiresNoSavedOrglist requiresLogin">
+                  You have no saved database lists
+                </span>
+              </div>
+              <div class="requiresNotLoggedIn" style="padding-top:50px">
+                Log in and reload this page to access your saved database lists.
+              </div>
+            </div>
+	    
+          </div>
+	  <div id="tierKey" style="padding-top:3px">
+	    <span class="tier1">
+	      A colored background indicates a Tier 1 or Tier 2
+	      curated database.
+	    </span>
+	  </div>
+        </div>
+        <div class='buttons flexCol' style="gap:4px;margin:3px;">
+          <div id="multiorgSelectAllRow">
+            <input type="button" id="multiorgSelectAllBtn" class="disableWhenAllSelected" value="Select All" onclick="multiorgSelectAll()">
+          </div>
+          <input type="button" id="multiorgAddToList" class="disableWhenAllSelected" value="Add &rarr;" onclick="addNewSelections()">
+          <input type="button" id="multiorgDeleteFromList" class="disableWhenAllSelected" value="Remove &larr;" onclick="deleteMultiorgOptions(false)">
+          <input type="button" id="multiorgClearAll" value="Clear All" onclick="deleteMultiorgOptions(true)">
+	  <input type="button" id="moveup" value="Up &uarr;" onclick="moveUpOption()">
+	  <input type="button" id="movedown" value="Down &darr;" onclick="moveDownOption()">
+	  
+        </div>
+        <div>
+          <label for="multiorgSelection"><h3>Current Selection</h3></label>
+          <span id="multiNumSelected">0</span> databases or taxa currently selected.
+          <p>
+	    <div id='multiorgSelectionDiv'>
+              <select multiple id="multiorgSelection">
+              </select>
+	    </div>
+	    
+	    <div class="requiresLogin" id="rememberAsST">
+	      <fieldset style="border:none;padding:0">
+	      <legend style="padding-top:3px"> Remember Selection as SmartTable:</legend>
+	      <label>
+		<input type="radio" name="stSave" value="new" checked> Create New
+	      </label>
+	      <label>
+		<input type="radio" name="stSave" value="old"> Update Existing
+	      </label>
+	      <div style="padding-top:3px">
+		<input type="text" id="orglistname" style="width:200px"
+		       placeholder="Enter SmartTable Name"> 
+                <select id="savedOrglistUpdate"
+			class="savedOrglistSelectEl"
+			aria-label="Select an organism SmartTable to update"
+			style="display:none">
+                </select>
+                <input type="button" value="Save"
+		       title="Clicking this button will save or update
+		       the specified organism SmartTable to refer to
+		       the currently selected databases. It will not
+		       close this dialog or submit your choices.  If
+		       no databases are currently selected, clicking
+		       this button will cause the named SmartTable to
+		       be deleted. SmartTables saved here can be
+		       accessed from the My Lists tab.">
+	      </div>
+	      </fieldset>
+	    </div>
+	    <div class="requiresNotLoggedIn" style="padding-top:3px">
+              Note: if you create a user account and log in, you can save your database lists for next time.
+	    </div>
+	    
+          </div>
+      </div>
+    </form>
+  </div>
+</div>
+<script type="text/javascript">
+multiorg_maxOrgs = 70
+</script>
+<!-- End Multi Organism Chooser Template -->
+
+<script type="text/javascript">
+if (forceOrgID && forceOrgID != "DEFAULT") setOrganism(forceOrgID);
+</script>
+
+<link rel="stylesheet"
+      href="https://code.jquery.com/ui/1.14.2/themes/smoothness/jquery-ui.css"
+      media="print" onload="this.media='all'">
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.11/themes/default/style.min.css"
+      media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/jstree-themes/proton/style.css"
+      media="print" onload="this.media='all'">
+
+<script>
+  /* following relates to tooltips for template-top-menubar */
+
+var subTipContent;
+
+  
+  
+subTipContent = "You are not connected to a paid subscription, which limits your access to BioCyc. The EcoCyc database is free.";
+  
+
+  var accelTipContent = "Create a free account and receive one month of free access to BioCyc. Even if your institution already subscribes to BioCyc, you still need to create an account for ongoing access.";
+
+document.addEventListener('DOMContentLoaded', ()=>{
+if (subTipContent) {
+  tippy('#subscribe', {
+    content: subTipContent,
+    theme: 'biocyc',
+    placement: 'bottom',
+    plugins: [hideOnEsc]
+  });
+}
+  
+  tippy('#account', {
+    content: accelTipContent,
+    theme: 'biocyc',
+    placement: 'bottom',
+    plugins: [hideOnEsc]
+  });
+  
+  /* following relates to tooltip for MetaCyc */
+
+  tippy('#metacycRef', {
+    theme: 'biocyc',
+    content: "MetaCyc is a curated database of metabolic enzymes and pathways from all domains of life.",
+    placement: 'right',
+    plugins: [hideOnEsc]
+  });
+});
+</script>
+</BODY>
+</HTML>

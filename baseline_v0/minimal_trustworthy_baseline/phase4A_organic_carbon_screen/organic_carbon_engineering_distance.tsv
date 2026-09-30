@@ -1,0 +1,12 @@
+substrate	A_missing_reactions	B_missing_transport	C_missing_exchange	D_low_confidence_or_noGPR_required	E_direction_reversal_required	F_closed_reactions_to_open	G_dist_to_G6P_F6P	G_dist_to_pyruvate	G_dist_to_acetyl_CoA	G_dist_to_biomass_precursor	native_path_complete	transport_complete	central_connection_complete	distance_notes
+glucose	0	1	1	1	2	2	1			4	FALSE	FALSE	TRUE	reaches G6P/F6P via BDGK+PGI1; lower EMP blocked (GAPD1+PGK written gluconeogenic/irreversible); reaches biomass via upper-EMP + PPP (nucleotides) and glycogen
+glycerol	0	1	1	1	3	3				2	FALSE	FALSE	FALSE	GLYK->glyc3p (1) feeds lipid backbone (G3PAT1/PGSA); G3PD2 written DHAP->glyc3p (irreversible) so glycerol oxidation to DHAP needs direction reversal; no route to pyruvate/acetyl-CoA as-is
+ethanol	2	1	1	0	0	0					FALSE	FALSE	FALSE	no ethanol/acetaldehyde metabolite or enzyme in model
+acetate	0	1	1	0	0	0			1	1	FALSE	FALSE	TRUE	ACS (acetate->acetyl-CoA) is present, active, irreversible forward; no route back to G6P (gluconeogenesis blocked)
+fructose	1	1	1	0	0	0					FALSE	FALSE	FALSE	no free-fructose metabolite; only f6p-B/fdp present
+sucrose	1	1	1	0	0	0					FALSE	FALSE	FALSE	no sucrose metabolite or sucrose-cleavage enzyme
+lactate	1	1	1	0	0	0					FALSE	FALSE	FALSE	no lactate metabolite or lactate dehydrogenase
+pyruvate	0	1	1	0	0	0		0	1	1	FALSE	FALSE	TRUE	already a central metabolite; PDH -> acetyl-CoA present
+formate	1	1	1	1	1	1				1	FALSE	FALSE	FALSE	formate->10fthf (FTHFL) is written in deformylation direction and irreversible (blocked); only oxidation to CO2 (FDH) or formyl donation to purines (GART); no C1 assimilation module
+methanol	2	1	1	0	0	0					FALSE	FALSE	FALSE	no methanol metabolite or methanol dehydrogenase; no C1 assimilation module
+4hba	1	0	0	3	0	0					FALSE	TRUE	FALSE	complete native transport but no catabolic route from 4hba to central carbon (thiamine intermediate)

@@ -1,0 +1,323 @@
+[
+  {
+    "bigg_id": "HEX1",
+    "name": "Hexokinase (D-glucose:ATP)",
+    "mappable": "yes",
+    "stoich": "{\"adp[c]\": 1.0, \"atp[c]\": -1.0, \"g6p-B[c]\": 1.0, \"glc-B[c]\": -1.0, \"h[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PGI",
+    "name": "Glucose-6-phosphate isomerase",
+    "mappable": "yes",
+    "stoich": "{\"f6p-B[c]\": 1.0, \"g6p-B[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PFK",
+    "name": "Phosphofructokinase",
+    "mappable": "yes",
+    "stoich": "{\"adp[c]\": 1.0, \"atp[c]\": -1.0, \"f6p-B[c]\": -1.0, \"fdp[c]\": 1.0, \"h[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "ACONTb",
+    "name": "Aconitase (half-reaction B, Isocitrate hydro-lyase)",
+    "mappable": "no",
+    "unmapped": "acon_C"
+  },
+  {
+    "bigg_id": "SUCD1",
+    "name": "Succinate dehydrogenase",
+    "mappable": "no",
+    "unmapped": "fad,fadh2"
+  },
+  {
+    "bigg_id": "SUCDi",
+    "name": "Succinate dehydrogenase (irreversible)",
+    "mappable": "yes",
+    "stoich": "{\"fum[c]\": 1.0, \"q8[c]\": -1.0, \"q8h2[c]\": 1.0, \"succ[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "FUM",
+    "name": "Fumarase",
+    "mappable": "yes",
+    "stoich": "{\"fum[c]\": -1.0, \"h2o[c]\": -1.0, \"mal-L[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "ME1",
+    "name": "Malic enzyme (NAD)",
+    "mappable": "yes",
+    "stoich": "{\"co2[c]\": 1.0, \"mal-L[c]\": -1.0, \"nad[c]\": -1.0, \"nadh[c]\": 1.0, \"pyr[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "ME2",
+    "name": "Malic enzyme (NADP)",
+    "mappable": "yes",
+    "stoich": "{\"co2[c]\": 1.0, \"mal-L[c]\": -1.0, \"nadp[c]\": -1.0, \"nadph[c]\": 1.0, \"pyr[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PC",
+    "name": "Pyruvate carboxylase",
+    "mappable": "no",
+    "unmapped": "hco3"
+  },
+  {
+    "bigg_id": "PEPCK",
+    "name": "Phosphoenolpyruvate carboxykinase (GTP)",
+    "mappable": "no",
+    "unmapped": "gdp,gtp"
+  },
+  {
+    "bigg_id": "PPC",
+    "name": "Phosphoenolpyruvate carboxylase",
+    "mappable": "yes",
+    "stoich": "{\"co2[c]\": -1.0, \"h[c]\": 1.0, \"h2o[c]\": -1.0, \"oaa[c]\": 1.0, \"pep[c]\": -1.0, \"pi[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PPCK",
+    "name": "Phosphoenolpyruvate carboxykinase",
+    "mappable": "yes",
+    "stoich": "{\"adp[c]\": 1.0, \"atp[c]\": -1.0, \"co2[c]\": 1.0, \"oaa[c]\": -1.0, \"pep[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "ICL",
+    "name": "Isocitrate lyase",
+    "mappable": "yes",
+    "stoich": "{\"glx[c]\": 1.0, \"icit[c]\": -1.0, \"succ[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "MALS",
+    "name": "Malate synthase",
+    "mappable": "yes",
+    "stoich": "{\"accoa[c]\": -1.0, \"coa[c]\": 1.0, \"glx[c]\": -1.0, \"h[c]\": 1.0, \"h2o[c]\": -1.0, \"mal-L[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PPS",
+    "name": "Phosphoenolpyruvate synthase",
+    "mappable": "yes",
+    "stoich": "{\"amp[c]\": 1.0, \"atp[c]\": -1.0, \"h[c]\": 2.0, \"h2o[c]\": -1.0, \"pep[c]\": 1.0, \"pi[c]\": 1.0, \"pyr[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "G6PDH2r",
+    "name": "Glucose 6-phosphate dehydrogenase",
+    "mappable": "yes",
+    "stoich": "{\"6pgl[c]\": 1.0, \"g6p-B[c]\": -1.0, \"h[c]\": 1.0, \"nadp[c]\": -1.0, \"nadph[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PGL",
+    "name": "6-phosphogluconolactonase",
+    "mappable": "yes",
+    "stoich": "{\"6pgc[c]\": 1.0, \"6pgl[c]\": -1.0, \"h[c]\": 1.0, \"h2o[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "GND",
+    "name": "Phosphogluconate dehydrogenase",
+    "mappable": "yes",
+    "stoich": "{\"6pgc[c]\": -1.0, \"co2[c]\": 1.0, \"nadp[c]\": -1.0, \"nadph[c]\": 1.0, \"ru5p-D[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "EDD",
+    "name": "6-phosphogluconate dehydratase",
+    "mappable": "yes",
+    "stoich": "{\"2ddg6p[c]\": 1.0, \"6pgc[c]\": -1.0, \"h2o[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "EDA",
+    "name": "2-dehydro-3-deoxy-phosphogluconate aldolase",
+    "mappable": "yes",
+    "stoich": "{\"2ddg6p[c]\": -1.0, \"g3p[c]\": 1.0, \"pyr[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "TKT1",
+    "name": "Transketolase",
+    "mappable": "yes",
+    "stoich": "{\"g3p[c]\": 1.0, \"r5p[c]\": -1.0, \"s7p[c]\": 1.0, \"xu5p-D[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "TKT2",
+    "name": "Transketolase",
+    "mappable": "yes",
+    "stoich": "{\"e4p[c]\": -1.0, \"f6p-B[c]\": 1.0, \"g3p[c]\": 1.0, \"xu5p-D[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "TALA",
+    "name": "Transaldolase",
+    "mappable": "yes",
+    "stoich": "{\"e4p[c]\": 1.0, \"f6p-B[c]\": 1.0, \"g3p[c]\": -1.0, \"s7p[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "RPI",
+    "name": "Ribose-5-phosphate isomerase",
+    "mappable": "yes",
+    "stoich": "{\"r5p[c]\": -1.0, \"ru5p-D[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "RPE",
+    "name": "Ribulose 5-phosphate 3-epimerase",
+    "mappable": "yes",
+    "stoich": "{\"ru5p-D[c]\": -1.0, \"xu5p-D[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "NADH16",
+    "name": "NADH dehydrogenase (ubiquinone-8 & 3 protons)",
+    "mappable": "yes",
+    "stoich": "{\"h[c]\": -1.0, \"nad[c]\": 1.0, \"nadh[c]\": -1.0, \"q8[c]\": -1.0, \"q8h2[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "NADH17pp",
+    "name": "NADH dehydrogenase (menaquinone-8 & 3 protons) (periplasm)",
+    "mappable": "no",
+    "unmapped": "mql8,mqn8"
+  },
+  {
+    "bigg_id": "CYOOm2",
+    "name": "Cytochromecoxidase,mitochondrialComplexIV",
+    "mappable": "no",
+    "unmapped": "ficytC,focytC"
+  },
+  {
+    "bigg_id": "CYTBO3_4pp",
+    "name": "Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)",
+    "mappable": "yes",
+    "stoich": "{\"h[c]\": 0.0, \"h2o[c]\": 1.0, \"o2[c]\": -0.5, \"q8[c]\": 1.0, \"q8h2[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "GLUDy",
+    "name": "Glutamate dehydrogenase (NADP)",
+    "mappable": "no",
+    "unmapped": "nh4"
+  },
+  {
+    "bigg_id": "GLNS",
+    "name": "Glutamine synthetase",
+    "mappable": "no",
+    "unmapped": "nh4"
+  },
+  {
+    "bigg_id": "GLUSy",
+    "name": "Glutamate synthase (NADPH)",
+    "mappable": "yes",
+    "stoich": "{\"akg[c]\": -1.0, \"gln-L[c]\": -1.0, \"glu-L[c]\": 2.0, \"h[c]\": -1.0, \"nadp[c]\": 1.0, \"nadph[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "ASPTA",
+    "name": "Aspartate transaminase",
+    "mappable": "yes",
+    "stoich": "{\"akg[c]\": -1.0, \"asp-L[c]\": -1.0, \"glu-L[c]\": 1.0, \"oaa[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "ALATA_L",
+    "name": "L-alanine transaminase",
+    "mappable": "yes",
+    "stoich": "{\"akg[c]\": -1.0, \"ala-L[c]\": -1.0, \"glu-L[c]\": 1.0, \"pyr[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "ACONT",
+    "name": "Aconitate hydratase",
+    "mappable": "yes",
+    "stoich": "{\"cit[c]\": -1.0, \"icit[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "F6PA",
+    "name": "Fructose 6-phosphate aldolase",
+    "mappable": "yes",
+    "stoich": "{\"dhap[c]\": 1.0, \"f6p-B[c]\": -1.0, \"g3p[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "F6PP",
+    "name": "D-fructose 6-phosphate phosphatase",
+    "mappable": "no",
+    "unmapped": "fru"
+  },
+  {
+    "bigg_id": "G1PACT",
+    "name": "Glucosamine-1-phosphate N-acetyltransferase",
+    "mappable": "no",
+    "unmapped": "acgam1p,gam1p"
+  },
+  {
+    "bigg_id": "ALCD2x",
+    "name": "Alcohol dehydrogenase (ethanol)",
+    "mappable": "no",
+    "unmapped": "acald,etoh"
+  },
+  {
+    "bigg_id": "ALDD2x",
+    "name": "Aldehyde dehydrogenase (acetaldehyde, NAD)",
+    "mappable": "no",
+    "unmapped": "acald"
+  },
+  {
+    "bigg_id": "ACKr",
+    "name": "Acetate kinase",
+    "mappable": "no",
+    "unmapped": "actp"
+  },
+  {
+    "bigg_id": "PTAr",
+    "name": "Phosphotransacetylase",
+    "mappable": "no",
+    "unmapped": "actp"
+  },
+  {
+    "bigg_id": "LDH_D",
+    "name": "D-lactate dehydrogenase",
+    "mappable": "yes",
+    "stoich": "{\"h[c]\": 1.0, \"lac-D[c]\": -1.0, \"nad[c]\": -1.0, \"nadh[c]\": 1.0, \"pyr[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "GTHOr",
+    "name": "Glutathione oxidoreductase",
+    "mappable": "no",
+    "unmapped": "gthox,gthrd"
+  },
+  {
+    "bigg_id": "PPA",
+    "name": "Inorganic diphosphatase",
+    "mappable": "yes",
+    "stoich": "{\"h[c]\": 1.0, \"h2o[c]\": -1.0, \"pi[c]\": 2.0, \"ppi[c]\": -1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PPKr",
+    "name": "Polyphosphate kinase",
+    "mappable": "yes",
+    "stoich": "{\"adp[c]\": 1.0, \"atp[c]\": -1.0, \"pi[c]\": -1.0, \"ppi[c]\": 1.0}",
+    "reversible": "False"
+  },
+  {
+    "bigg_id": "PPDK",
+    "name": "Pyruvate,phosphate dikinase.",
+    "mappable": "yes",
+    "stoich": "{\"amp[c]\": 1.0, \"atp[c]\": -1.0, \"h[c]\": 1.0, \"pep[c]\": 1.0, \"pi[c]\": -1.0, \"ppi[c]\": 1.0, \"pyr[c]\": -1.0}",
+    "reversible": "False"
+  }
+]

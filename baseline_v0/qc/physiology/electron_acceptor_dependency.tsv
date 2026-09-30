@@ -1,0 +1,7 @@
+condition	scenario	growth	fe3_uptake	note
+FIM	O2_removed_only	0.0	10.311882275422798	
+TTM	O2_removed_only	0.0	0.0	
+TSM	O2_removed_only	0.0	0.0	
+FIM	no_terminal_acceptor	0.0	0.0	
+TTM	no_terminal_acceptor	0.0	0.0	
+TSM	no_terminal_acceptor	0.0	0.0	

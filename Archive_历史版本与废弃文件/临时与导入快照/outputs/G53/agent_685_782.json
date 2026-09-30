@@ -1,0 +1,3928 @@
+[
+  {
+    "seq": 685,
+    "locus": "RU820_RS03540",
+    "protein_accession": "WP_012536317.1",
+    "product": "3-dehydroquinate synthase",
+    "legacy_AFE": "AFE_0733",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01735"
+      },
+      {
+        "database": "EC",
+        "id": "4.2.3.4"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R03083"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "3-DEHYDROQUINATE-SYNTHASE-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:21968"
+      }
+    ],
+    "2016_reaction_ids": [
+      "DHQS"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536317.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536317.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03540",
+      "https://www.kegg.jp/entry/K01735",
+      "https://www.rhea-db.org/rhea/21968",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "DHQS"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "DHQS",
+        "reaction_name": "3-dehydroquinate synthase",
+        "formula": "2dda7p[c]  -> pi[c] + 3dhq[c] ",
+        "confidence": "2",
+        "ec": "4.2.3.4",
+        "pmid": "10737802",
+        "subsystem": "Tyrosine, Tryptophan, and Phenylalanine Metabolism",
+        "gene_reaction_association": "AFE_0733",
+        "gene_protein_reaction_association": "AroB (AFE_0733)",
+        "protein_reaction_association": "AroB",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: DHQS; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 686,
+    "locus": "RU820_RS03545",
+    "protein_accession": "WP_371741701.1",
+    "product": "shikimate kinase",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_371741701.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_371741701.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03545"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 687,
+    "locus": "RU820_RS03550",
+    "protein_accession": "WP_012536319.1",
+    "product": "type IV pilus secretin PilQ",
+    "legacy_AFE": "AFE_0735",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02666"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536319.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536319.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03550",
+      "https://www.kegg.jp/entry/K02666",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 688,
+    "locus": "RU820_RS03555",
+    "protein_accession": "WP_012536320.1",
+    "product": "pilus assembly protein PilP",
+    "legacy_AFE": "AFE_0736",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02665"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536320.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536320.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03555",
+      "https://www.kegg.jp/entry/K02665",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 689,
+    "locus": "RU820_RS03560",
+    "protein_accession": "WP_012536321.1",
+    "product": "type 4a pilus biogenesis protein PilO",
+    "legacy_AFE": "AFE_0737",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02664"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536321.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536321.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03560",
+      "https://www.kegg.jp/entry/K02664",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 690,
+    "locus": "RU820_RS03565",
+    "protein_accession": "WP_012536322.1",
+    "product": "PilN domain-containing protein",
+    "legacy_AFE": "AFE_0738",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02663"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536322.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536322.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03565",
+      "https://www.kegg.jp/entry/K02663",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 691,
+    "locus": "RU820_RS03570",
+    "protein_accession": "WP_012606632.1",
+    "product": "type IV pilus assembly protein PilM",
+    "legacy_AFE": "AFE_0739",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02662"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606632.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606632.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03570",
+      "https://www.kegg.jp/entry/K02662",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 692,
+    "locus": "RU820_RS03575",
+    "protein_accession": "WP_012536323.1",
+    "product": "tRNA adenosine(34) deaminase TadA",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536323.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536323.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03575"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 693,
+    "locus": "RU820_RS03580",
+    "protein_accession": "WP_012536324.1",
+    "product": "secondary thiamine-phosphate synthase enzyme YjbQ",
+    "legacy_AFE": "AFE_0742",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-12610"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-12611"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "THI-P-SYN-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:22328"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:47844"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:47848"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536324.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536324.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03580",
+      "https://www.rhea-db.org/rhea/22328",
+      "https://www.rhea-db.org/rhea/47844",
+      "https://www.rhea-db.org/rhea/47848",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 694,
+    "locus": "RU820_RS03585",
+    "protein_accession": "WP_012536325.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "AFE_0743",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536325.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536325.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03585",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 695,
+    "locus": "RU820_RS03590",
+    "protein_accession": "WP_012536326.1",
+    "product": "endonuclease MutS2",
+    "legacy_AFE": "AFE_0744",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K07456"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536326.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536326.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03590",
+      "https://www.kegg.jp/entry/K07456",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 696,
+    "locus": "RU820_RS03595",
+    "protein_accession": "WP_012536327.1",
+    "product": "biosynthetic-type acetolactate synthase large subunit",
+    "legacy_AFE": "AFE_0745",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01652"
+      },
+      {
+        "database": "EC",
+        "id": "2.2.1.6"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R00006"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R00014"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R00226"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R03050"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04672"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04673"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R08648"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "ACETOLACTSYN-RXN"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "ACETOOHBUTSYN-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:25249"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:27654"
+      }
+    ],
+    "2016_reaction_ids": [
+      "ACHBS",
+      "ACLS"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536327.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536327.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03595",
+      "https://www.kegg.jp/entry/K01652",
+      "https://www.rhea-db.org/rhea/25249",
+      "https://www.rhea-db.org/rhea/27654",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "ACHBS",
+      "ACLS"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "ACHBS",
+        "reaction_name": "2-aceto-2-hydroxybutanoate synthase",
+        "formula": "h[c] + pyr[c] + 2obut[c]  -> co2[c] + 2ahbut[c] ",
+        "confidence": "2",
+        "ec": "2.2.1.6",
+        "pmid": "",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism",
+        "gene_reaction_association": "(AFE_0745 and AFE_0746)",
+        "gene_protein_reaction_association": "( IlvB (AFE_0745) and IlvN (AFE_0746) )",
+        "protein_reaction_association": "( IlvB and IlvN )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "ACLS",
+        "reaction_name": "acetolactate synthase",
+        "formula": "h[c] + 2 pyr[c]  -> alac-S[c] + co2[c] ",
+        "confidence": "2",
+        "ec": "4.1.3.18",
+        "pmid": "",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism",
+        "gene_reaction_association": "(AFE_0745 and AFE_0746)",
+        "gene_protein_reaction_association": "( IlvB (AFE_0745) and IlvN (AFE_0746) )",
+        "protein_reaction_association": "( IlvB and IlvN )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: ACHBS, ACLS; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 697,
+    "locus": "RU820_RS03600",
+    "protein_accession": "WP_012606634.1",
+    "product": "acetolactate synthase small subunit",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606634.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606634.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03600"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 698,
+    "locus": "RU820_RS03605",
+    "protein_accession": "WP_012536329.1",
+    "product": "ketol-acid reductoisomerase",
+    "legacy_AFE": "AFE_0747",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K00053"
+      },
+      {
+        "database": "EC",
+        "id": "1.1.1.86"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R03051"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04439"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04440"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R05068"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R05069"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R05071"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "ACETOLACTREDUCTOISOM-RXN"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "ACETOOHBUTREDUCTOISOM-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:13493"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:22068"
+      }
+    ],
+    "2016_reaction_ids": [
+      "KARA1",
+      "KARA2"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536329.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536329.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03605",
+      "https://www.kegg.jp/entry/K00053",
+      "https://www.rhea-db.org/rhea/13493",
+      "https://www.rhea-db.org/rhea/22068",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "KARA1",
+      "KARA2"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "KARA1",
+        "reaction_name": "ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)",
+        "formula": "nadp[c] + 23dhmb[c]  <=> h[c] + alac-S[c] + nadph[c] ",
+        "confidence": "2",
+        "ec": "1.1.1.86",
+        "pmid": "",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism",
+        "gene_reaction_association": "AFE_0747",
+        "gene_protein_reaction_association": "IlvC (AFE_0747)",
+        "protein_reaction_association": "IlvC",
+        "bounds": {
+          "Fe2+": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "-1000",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "KARA2",
+        "reaction_name": "ketol-acid reductoisomerase (2-Acetolactate)",
+        "formula": "h[c] + nadph[c] + 2ahbut[c]  <=> nadp[c] + 23dhmp[c] ",
+        "confidence": "2",
+        "ec": "1.1.1.86",
+        "pmid": "",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism",
+        "gene_reaction_association": "AFE_0747",
+        "gene_protein_reaction_association": "IlvC (AFE_0747)",
+        "protein_reaction_association": "IlvC",
+        "bounds": {
+          "Fe2+": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "-1000",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: KARA1, KARA2; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 699,
+    "locus": "RU820_RS03610",
+    "protein_accession": "WP_009562365.1",
+    "product": "phosphatidylserine decarboxylase",
+    "legacy_AFE": "AFE_0748",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01613"
+      },
+      {
+        "database": "EC",
+        "id": "4.1.1.65"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R02055"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "PHOSPHASERDECARB-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:20828"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009562365.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009562365.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03610",
+      "https://www.kegg.jp/entry/K01613",
+      "https://www.rhea-db.org/rhea/20828",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 700,
+    "locus": "RU820_RS03615",
+    "protein_accession": "WP_012536330.1",
+    "product": "CDP-diacylglycerol--serine O-phosphatidyltransferase",
+    "legacy_AFE": "AFE_0750",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K17103"
+      },
+      {
+        "database": "EC",
+        "id": "2.7.8.8"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01800"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "PHOSPHASERSYN-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:16913"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536330.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536330.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03615",
+      "https://www.kegg.jp/entry/K17103",
+      "https://www.rhea-db.org/rhea/16913",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 701,
+    "locus": "RU820_RS03620",
+    "protein_accession": "WP_012536331.1",
+    "product": "pyruvate kinase",
+    "legacy_AFE": "AFE_0749",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K00873"
+      },
+      {
+        "database": "EC",
+        "id": "2.7.1.40"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R00200"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R00430"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01138"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01858"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R02320"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "PEPDEPHOS-RXN"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-14117"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-14192"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-14207"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:18157"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:30295"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:30727"
+      }
+    ],
+    "2016_reaction_ids": [
+      "PYK"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536331.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536331.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03620",
+      "https://www.kegg.jp/entry/K00873",
+      "https://www.rhea-db.org/rhea/18157",
+      "https://www.rhea-db.org/rhea/30295",
+      "https://www.rhea-db.org/rhea/30727",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "PYK"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "PYK",
+        "reaction_name": "pyruvate kinase",
+        "formula": "h[c] + adp[c] + pep[c]  -> atp[c] + pyr[c] ",
+        "confidence": "2",
+        "ec": "2.7.1.40",
+        "pmid": "19077236",
+        "subsystem": "Glycolysis/Gluconeogenesis",
+        "gene_reaction_association": "(AFE_0749 or AFE_1801 or AFE_3249)",
+        "gene_protein_reaction_association": "( AFE_0749 (AFE_0749) ) or ( Pyk (AFE_1801) )  or ( PykA (AFE_3249) )",
+        "protein_reaction_association": "( AFE_0749 ) or ( Pyk ) or ( PykA )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: PYK; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 702,
+    "locus": "RU820_RS03625",
+    "protein_accession": "WP_009564668.1",
+    "product": "universal stress protein",
+    "legacy_AFE": "AFE_0751",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009564668.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009564668.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03625",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 703,
+    "locus": "RU820_RS03630",
+    "protein_accession": "WP_012536332.1",
+    "product": "preQ(1) synthase",
+    "legacy_AFE": "AFE_0752",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K09457"
+      },
+      {
+        "database": "EC",
+        "id": "1.7.1.13"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R07605"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN0-4022"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:13409"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536332.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536332.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03630",
+      "https://www.kegg.jp/entry/K09457",
+      "https://www.rhea-db.org/rhea/13409",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 704,
+    "locus": "RU820_RS03635",
+    "protein_accession": "WP_012606636.1",
+    "product": "chromosome segregation protein SMC",
+    "legacy_AFE": "AFE_0753",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03529"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606636.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606636.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03635",
+      "https://www.kegg.jp/entry/K03529",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 705,
+    "locus": "RU820_RS03640",
+    "protein_accession": "WP_012536334.1",
+    "product": "protoglobin domain-containing protein",
+    "legacy_AFE": "AFE_0755",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536334.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536334.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03640",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 706,
+    "locus": "RU820_RS03645",
+    "protein_accession": "WP_012536335.1",
+    "product": "HAD family hydrolase",
+    "legacy_AFE": "AFE_0756",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K28842"
+      },
+      {
+        "database": "EC",
+        "id": "3.1.3.15"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R03013"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:14465"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536335.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536335.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03645",
+      "https://www.kegg.jp/entry/K28842",
+      "https://www.rhea-db.org/rhea/14465",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 707,
+    "locus": "RU820_RS03650",
+    "protein_accession": "WP_012536336.1",
+    "product": "NAD-dependent DNA ligase LigA",
+    "legacy_AFE": "AFE_0757",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01972"
+      },
+      {
+        "database": "EC",
+        "id": "6.5.1.2"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R00382"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "DNA-LIGASE-NAD+-RXN"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536336.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536336.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03650",
+      "https://www.kegg.jp/entry/K01972",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 708,
+    "locus": "RU820_RS03655",
+    "protein_accession": "WP_012606638.1",
+    "product": "ATP synthase F1 subunit epsilon",
+    "legacy_AFE": "AFE_0758",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02114"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "ATPSYN-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:57720"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验; B-021 不能增入主 ATP 合酶 GPR",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606638.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606638.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03655",
+      "https://www.kegg.jp/entry/K02114",
+      "https://www.rhea-db.org/rhea/57720",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 709,
+    "locus": "RU820_RS03660",
+    "protein_accession": "WP_012606639.1",
+    "product": "class I SAM-dependent methyltransferase",
+    "legacy_AFE": "AFE_0759",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606639.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606639.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03660",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 710,
+    "locus": "RU820_RS03665",
+    "protein_accession": "WP_012536339.1",
+    "product": "M48 family metallopeptidase",
+    "legacy_AFE": "AFE_0760",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536339.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536339.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03665",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 711,
+    "locus": "RU820_RS03670",
+    "protein_accession": "WP_012536340.1",
+    "product": "LysR family transcriptional regulator",
+    "legacy_AFE": "AFE_0761",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536340.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536340.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03670",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 712,
+    "locus": "RU820_RS03675",
+    "protein_accession": "WP_012536341.1",
+    "product": "TonB-dependent receptor",
+    "legacy_AFE": "AFE_0763",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02014"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536341.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536341.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03675",
+      "https://www.kegg.jp/entry/K02014",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 713,
+    "locus": "RU820_RS03680",
+    "protein_accession": "WP_012606641.1",
+    "product": "sulfite exporter TauE/SafE family protein",
+    "legacy_AFE": "AFE_0764",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K07090"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606641.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606641.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03680",
+      "https://www.kegg.jp/entry/K07090",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 表中 AFE_0764 没有命中任何 Gene-Reaction/Protein-Reaction association；须确认该 sulfite exporter 是否应有模型运输反应，底物侧、方向、耦联均无本株证据。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 714,
+    "locus": "RU820_RS03685",
+    "protein_accession": "WP_009566568.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "AFE_0765",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566568.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009566568.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03685",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 715,
+    "locus": "RU820_RS03690",
+    "protein_accession": "WP_009566566.1",
+    "product": "MotA/TolQ/ExbB proton channel family protein",
+    "legacy_AFE": "AFE_0768",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03561"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566566.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009566566.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03690",
+      "https://www.kegg.jp/entry/K03561",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 716,
+    "locus": "RU820_RS03695",
+    "protein_accession": "WP_012536342.1",
+    "product": "ExbD/TolR family protein",
+    "legacy_AFE": "AFE_0769",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03559"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536342.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536342.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03695",
+      "https://www.kegg.jp/entry/K03559",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 717,
+    "locus": "RU820_RS03700",
+    "protein_accession": "WP_012536343.1",
+    "product": "energy transducer TonB family protein",
+    "legacy_AFE": "AFE_0770",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03832"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536343.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536343.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03700",
+      "https://www.kegg.jp/entry/K03832",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 718,
+    "locus": "RU820_RS03705",
+    "protein_accession": "WP_012536344.1",
+    "product": "purine-cytosine permease family protein",
+    "legacy_AFE": "AFE_0771",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03457"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536344.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536344.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03705",
+      "https://www.kegg.jp/entry/K03457",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 719,
+    "locus": "RU820_RS03710",
+    "protein_accession": "WP_009567307.1",
+    "product": "amidohydrolase family protein",
+    "legacy_AFE": "AFE_0772",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01487"
+      },
+      {
+        "database": "EC",
+        "id": "3.5.4.3"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01676"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:14665"
+      }
+    ],
+    "2016_reaction_ids": [
+      "GUAD",
+      "XAND"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009567307.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009567307.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03710",
+      "https://www.kegg.jp/entry/K01487",
+      "https://www.rhea-db.org/rhea/14665",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "GUAD",
+      "XAND"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "GUAD",
+        "reaction_name": "Guanine deaminase ",
+        "formula": "h[c] + h2o[c] + gua[c]  -> nh4[c] + xan[c] ",
+        "confidence": "2",
+        "ec": "3.5.4.3",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "AFE_0772",
+        "gene_protein_reaction_association": "AFE_0772 (AFE_0772)",
+        "protein_reaction_association": "AFE_0772",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "XAND",
+        "reaction_name": "xanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + xan[c]  -> h[c] + nadh[c] + urate[c] ",
+        "confidence": "1",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "((AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775) or AFE_0772)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) ) or ( 'AFE_0772 (AFE_0772) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 ) or ( AFE_0772 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: GUAD, XAND; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 720,
+    "locus": "RU820_RS03715",
+    "protein_accession": "WP_012536345.1",
+    "product": "adenosine deaminase",
+    "legacy_AFE": "AFE_0773",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K21053"
+      },
+      {
+        "database": "EC",
+        "id": "3.5.4.2"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01244"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "ADDALT-RXN"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "ADENODEAMIN-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:23688"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:24408"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:28190"
+      }
+    ],
+    "2016_reaction_ids": [
+      "ADA",
+      "DADA"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536345.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536345.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03715",
+      "https://www.kegg.jp/entry/K21053",
+      "https://www.rhea-db.org/rhea/23688",
+      "https://www.rhea-db.org/rhea/24408",
+      "https://www.rhea-db.org/rhea/28190",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "ADA",
+      "DADA"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "ADA",
+        "reaction_name": "Adenosine deaminase",
+        "formula": "h[c] + h2o[c] + adn[c]  <=> ins[c] + nh4[c] ",
+        "confidence": "2",
+        "ec": "3.5.4.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "AFE_0773",
+        "gene_protein_reaction_association": "Add (AFE_0773)",
+        "protein_reaction_association": "Add",
+        "bounds": {
+          "Fe2+": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "-1000",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "DADA",
+        "reaction_name": "Deoxyadenosine deaminase",
+        "formula": "h[c] + h2o[c] + dad-2[c]  -> nh4[c] + din[c] ",
+        "confidence": "2",
+        "ec": "3.5.4.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "AFE_0773",
+        "gene_protein_reaction_association": "Add (AFE_0773)",
+        "protein_reaction_association": "Add",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: ADA, DADA; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 721,
+    "locus": "RU820_RS03720",
+    "protein_accession": "WP_230456334.1",
+    "product": "purine nucleoside permease",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_230456334.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_230456334.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03720"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 722,
+    "locus": "RU820_RS03725",
+    "protein_accession": "WP_012536347.1",
+    "product": "xanthine dehydrogenase family protein molybdopterin-binding subunit",
+    "legacy_AFE": "AFE_0775",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [
+      "HXAND",
+      "XAND"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536347.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536347.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03725",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。",
+      "2016 GPR 将此 AFE 作为 HXAND/XAND 多亚基 AND 复合体一员；逐项已取原行 GPR/式/分数/三介质边界，但该复合体在 ATCC 23270 的亚基必要性、辅因子与反应专属性仍未由同株实验确认。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "HXAND",
+      "XAND"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "HXAND",
+        "reaction_name": "hypoxanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + hxan[c]  <=> h[c] + nadh[c] + xan[c] ",
+        "confidence": "2",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "(AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "-1000",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "XAND",
+        "reaction_name": "xanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + xan[c]  -> h[c] + nadh[c] + urate[c] ",
+        "confidence": "1",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "((AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775) or AFE_0772)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) ) or ( 'AFE_0772 (AFE_0772) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 ) or ( AFE_0772 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: HXAND, XAND; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 723,
+    "locus": "RU820_RS03730",
+    "protein_accession": "WP_012536348.1",
+    "product": "(2Fe-2S)-binding protein",
+    "legacy_AFE": "AFE_0776",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03518"
+      },
+      {
+        "database": "EC",
+        "id": "1.2.5.3"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R11168"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:48880"
+      }
+    ],
+    "2016_reaction_ids": [
+      "HXAND",
+      "XAND"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536348.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536348.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03730",
+      "https://www.kegg.jp/entry/K03518",
+      "https://www.rhea-db.org/rhea/48880",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。",
+      "2016 GPR 将此 AFE 作为 HXAND/XAND 多亚基 AND 复合体一员；逐项已取原行 GPR/式/分数/三介质边界，但该复合体在 ATCC 23270 的亚基必要性、辅因子与反应专属性仍未由同株实验确认。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "HXAND",
+      "XAND"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "HXAND",
+        "reaction_name": "hypoxanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + hxan[c]  <=> h[c] + nadh[c] + xan[c] ",
+        "confidence": "2",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "(AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "-1000",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "XAND",
+        "reaction_name": "xanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + xan[c]  -> h[c] + nadh[c] + urate[c] ",
+        "confidence": "1",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "((AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775) or AFE_0772)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) ) or ( 'AFE_0772 (AFE_0772) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 ) or ( AFE_0772 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: HXAND, XAND; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 724,
+    "locus": "RU820_RS03735",
+    "protein_accession": "WP_012536349.1",
+    "product": "FAD binding domain-containing protein",
+    "legacy_AFE": "AFE_0777",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [
+      "HXAND",
+      "XAND"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536349.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536349.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03735",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。",
+      "2016 GPR 将此 AFE 作为 HXAND/XAND 多亚基 AND 复合体一员；逐项已取原行 GPR/式/分数/三介质边界，但该复合体在 ATCC 23270 的亚基必要性、辅因子与反应专属性仍未由同株实验确认。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "HXAND",
+      "XAND"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "HXAND",
+        "reaction_name": "hypoxanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + hxan[c]  <=> h[c] + nadh[c] + xan[c] ",
+        "confidence": "2",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "(AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "-1000",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "XAND",
+        "reaction_name": "xanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + xan[c]  -> h[c] + nadh[c] + urate[c] ",
+        "confidence": "1",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "((AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775) or AFE_0772)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) ) or ( 'AFE_0772 (AFE_0772) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 ) or ( AFE_0772 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: HXAND, XAND; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 725,
+    "locus": "RU820_RS03740",
+    "protein_accession": "WP_009561037.1",
+    "product": "ureidoglycolate lyase",
+    "legacy_AFE": "AFE_0778",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "MetaCyc reaction",
+        "id": "UREIDOGLYCOLATE-LYASE-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:11304"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009561037.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009561037.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03740",
+      "https://www.rhea-db.org/rhea/11304",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "此位点未在 Alpha 2016 original GPR 中命中；邻近 xanthine dehydrogenase 基因的反应/复合体证据不能自动扩展到此基因。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 726,
+    "locus": "RU820_RS03745",
+    "protein_accession": "WP_012536350.1",
+    "product": "ring-opening amidohydrolase",
+    "legacy_AFE": "AFE_0779",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03383"
+      },
+      {
+        "database": "EC",
+        "id": "3.5.2.15"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R12332"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:70363"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536350.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536350.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03745",
+      "https://www.kegg.jp/entry/K03383",
+      "https://www.rhea-db.org/rhea/70363",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "此位点未在 Alpha 2016 original GPR 中命中；邻近 xanthine dehydrogenase 基因的反应/复合体证据不能自动扩展到此基因。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 727,
+    "locus": "RU820_RS03750",
+    "protein_accession": "WP_012536351.1",
+    "product": "XdhC family protein",
+    "legacy_AFE": "AFE_0780",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K07402"
+      }
+    ],
+    "2016_reaction_ids": [
+      "HXAND",
+      "XAND"
+    ],
+    "decision": "证据不足暂缓：数据库反应候选需与 iMC507 化学式/GPR 精确对照",
+    "reason": "",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536351.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536351.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03750",
+      "https://www.kegg.jp/entry/K07402",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "既有本地索引只有反应/子系统别名，未在本次分段工作中逐项核出 iMC507 原始 Reaction ID；需由总控以原补表复核。",
+      "2016 GPR 将此 AFE 作为 HXAND/XAND 多亚基 AND 复合体一员；逐项已取原行 GPR/式/分数/三介质边界，但该复合体在 ATCC 23270 的亚基必要性、辅因子与反应专属性仍未由同株实验确认。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [
+      "HXAND",
+      "XAND"
+    ],
+    "2016_original_rows": [
+      {
+        "reaction_id": "HXAND",
+        "reaction_name": "hypoxanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + hxan[c]  <=> h[c] + nadh[c] + xan[c] ",
+        "confidence": "2",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "(AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "-1000",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "-1000",
+            "ub": "1000"
+          }
+        }
+      },
+      {
+        "reaction_id": "XAND",
+        "reaction_name": "xanthine dehydrogenase",
+        "formula": "h2o[c] + nad[c] + xan[c]  -> h[c] + nadh[c] + urate[c] ",
+        "confidence": "1",
+        "ec": "1.17.1.4",
+        "pmid": "",
+        "subsystem": "Nucleotide Salvage Pathway",
+        "gene_reaction_association": "((AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775) or AFE_0772)",
+        "gene_protein_reaction_association": "( AFE_0780 (AFE_0780) and AFE_0777 (AFE_0777) and AFE_0776 (AFE_0776) and AFE_0775 (AFE_0775) ) or ( 'AFE_0772 (AFE_0772) )",
+        "protein_reaction_association": "( AFE_0780 and AFE_0777 and AFE_0776 and AFE_0775 ) or ( AFE_0772 )",
+        "bounds": {
+          "Fe2+": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "tetrathionate": {
+            "lb": "0",
+            "ub": "1000"
+          },
+          "sulfur": {
+            "lb": "0",
+            "ub": "1000"
+          }
+        }
+      }
+    ],
+    "d3_aliases_match_note": "Exact string match: HXAND, XAND; chemistry still needs equation-level equivalence review."
+  },
+  {
+    "seq": 728,
+    "locus": "RU820_RS03755",
+    "protein_accession": "WP_009560989.1",
+    "product": "DUF4089 domain-containing protein",
+    "legacy_AFE": "AFE_0781",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560989.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009560989.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03755",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "此位点未在 Alpha 2016 original GPR 中命中；邻近 xanthine dehydrogenase 基因的反应/复合体证据不能自动扩展到此基因。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 729,
+    "locus": "RU820_RS03760",
+    "protein_accession": "WP_012536352.1",
+    "product": "AtzE family amidohydrolase",
+    "legacy_AFE": "AFE_0782",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K19837"
+      },
+      {
+        "database": "EC",
+        "id": "3.5.1.131"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R12333"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536352.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536352.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03760",
+      "https://www.kegg.jp/entry/K19837",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "此位点未在 Alpha 2016 original GPR 中命中；邻近 xanthine dehydrogenase 基因的反应/复合体证据不能自动扩展到此基因。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 730,
+    "locus": "RU820_RS03765",
+    "protein_accession": "WP_012536353.1",
+    "product": "oxalurate catabolism protein HpxZ",
+    "legacy_AFE": "AFE_0783",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536353.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536353.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03765",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 731,
+    "locus": "RU820_RS03770",
+    "protein_accession": "WP_012536354.1",
+    "product": "nucleotidyltransferase family protein",
+    "legacy_AFE": "AFE_0784",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536354.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536354.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03770",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 732,
+    "locus": "RU820_RS03775",
+    "protein_accession": "WP_225487418.1",
+    "product": "gamma-glutamyltransferase",
+    "legacy_AFE": "AFE_0785",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K22602"
+      },
+      {
+        "database": "EC",
+        "id": "3.5.1.126"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R11617"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "GAMMA-GLUTAMYLTRANSFERASE-RXN"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-18092"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-6601"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9157"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN66-336"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:23904"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:51512"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_225487418.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_225487418.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03775",
+      "https://www.kegg.jp/entry/K22602",
+      "https://www.rhea-db.org/rhea/23904",
+      "https://www.rhea-db.org/rhea/51512",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 733,
+    "locus": "RU820_RS03780",
+    "protein_accession": "WP_012536356.1",
+    "product": "HugZ family protein",
+    "legacy_AFE": "AFE_0786",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K07226"
+      },
+      {
+        "database": "EC",
+        "id": "1.14.99.58"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R11816"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R11817"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:52224"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:52228"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536356.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536356.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03780",
+      "https://www.kegg.jp/entry/K07226",
+      "https://www.rhea-db.org/rhea/52224",
+      "https://www.rhea-db.org/rhea/52228",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 734,
+    "locus": "RU820_RS03785",
+    "protein_accession": "WP_012536357.1",
+    "product": "polysaccharide deacetylase family protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536357.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536357.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03785"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 735,
+    "locus": "RU820_RS03790",
+    "protein_accession": "WP_009566700.1",
+    "product": "NAD(P)/FAD-dependent oxidoreductase",
+    "legacy_AFE": "AFE_0788",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-10842"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:26494"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566700.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009566700.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03790",
+      "https://www.rhea-db.org/rhea/26494",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 736,
+    "locus": "RU820_RS03795",
+    "protein_accession": "WP_225487419.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "AFE_0789",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K18240"
+      },
+      {
+        "database": "EC",
+        "id": "4.1.3.40"
+      },
+      {
+        "database": "EC",
+        "id": "4.1.3.45"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01302"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R10597"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:16505"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:38315"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_225487419.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_225487419.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03795",
+      "https://www.kegg.jp/entry/K18240",
+      "https://www.rhea-db.org/rhea/16505",
+      "https://www.rhea-db.org/rhea/38315",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 737,
+    "locus": "RU820_RS03800",
+    "protein_accession": "WP_012536359.1",
+    "product": "lysophospholipid acyltransferase family protein",
+    "legacy_AFE": "AFE_0790",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "MetaCyc reaction",
+        "id": "1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-1623"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:19709"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536359.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536359.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03800",
+      "https://www.rhea-db.org/rhea/19709",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 738,
+    "locus": "RU820_RS03805",
+    "protein_accession": "WP_012536360.1",
+    "product": "glycosyltransferase family 2 protein",
+    "legacy_AFE": "AFE_0792",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536360.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536360.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03805",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 739,
+    "locus": "RU820_RS03810",
+    "protein_accession": "WP_012536361.1",
+    "product": "cation:proton antiporter",
+    "legacy_AFE": "AFE_0791",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K26731"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536361.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536361.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03810",
+      "https://www.kegg.jp/entry/K26731",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 740,
+    "locus": "RU820_RS03815",
+    "protein_accession": "WP_012536362.1",
+    "product": "3-oxoacyl-ACP reductase FabG",
+    "legacy_AFE": "AFE_0793",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K00059"
+      },
+      {
+        "database": "EC",
+        "id": "1.1.1.100"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R02767"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04533"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04534"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04536"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04543"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04566"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04953"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R04964"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R07763"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R10116"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R10120"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R11671"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "3-OXOACYL-ACP-REDUCT-RXN"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-11476"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-11480"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-16630"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9514"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9518"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9524"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9528"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9532"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9536"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9540"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9633"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:17397"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536362.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536362.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03815",
+      "https://www.kegg.jp/entry/K00059",
+      "https://www.rhea-db.org/rhea/17397",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 741,
+    "locus": "RU820_RS03820",
+    "protein_accession": "WP_012536363.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "AFE_0794",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536363.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536363.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03820",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 742,
+    "locus": "RU820_RS03825",
+    "protein_accession": "WP_012536364.1",
+    "product": "beta-ketoacyl synthase chain length factor",
+    "legacy_AFE": "AFE_0795",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536364.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536364.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03825",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 743,
+    "locus": "RU820_RS03830",
+    "protein_accession": "WP_423365384.1",
+    "product": "beta-ketoacyl synthase N-terminal-like domain-containing protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_423365384.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_423365384.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03830"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 744,
+    "locus": "RU820_RS03835",
+    "protein_accession": "WP_012606582.1",
+    "product": "IS110-like element ISAfe3 family transposase",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K07486"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应; 历史映射冲突",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606582.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606582.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03835",
+      "https://www.kegg.jp/entry/K07486"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 745,
+    "locus": "RU820_RS03840",
+    "protein_accession": "WP_423365385.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_423365385.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_423365385.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03840"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 746,
+    "locus": "RU820_RS03845",
+    "protein_accession": "WP_012536366.1",
+    "product": "phosphopantetheine-binding protein",
+    "legacy_AFE": "AFE_0797",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K02078"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R12049"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536366.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536366.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03845",
+      "https://www.kegg.jp/entry/K02078",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 747,
+    "locus": "RU820_RS03850",
+    "protein_accession": "WP_012536367.1",
+    "product": "MMPL family transporter",
+    "legacy_AFE": "AFE_0798",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536367.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536367.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03850",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 748,
+    "locus": "RU820_RS03855",
+    "protein_accession": "WP_012536368.1",
+    "product": "LolA family protein",
+    "legacy_AFE": "AFE_0799",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536368.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536368.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03855",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 749,
+    "locus": "RU820_RS03860",
+    "protein_accession": "WP_012536369.1",
+    "product": "acyl-CoA synthetase",
+    "legacy_AFE": "AFE_0800",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-16380"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-16393"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-7904"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN-9623"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:15421"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536369.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536369.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03860",
+      "https://www.rhea-db.org/rhea/15421",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 750,
+    "locus": "RU820_RS03865",
+    "protein_accession": "WP_074874130.1",
+    "product": "3-hydroxyacyl-ACP dehydratase FabZ family protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_074874130.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_074874130.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03865"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中该 AFE 的 GPR；虽有部分数据库酶/运输候选，具体底物、产物/运输侧、化学计量与 GPR 均未核实。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 751,
+    "locus": "RU820_RS03870",
+    "protein_accession": "WP_012606651.1",
+    "product": "AMP-binding protein",
+    "legacy_AFE": "AFE_0802",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606651.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606651.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03870",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 752,
+    "locus": "RU820_RS03875",
+    "protein_accession": "WP_012536370.1",
+    "product": "membrane protein",
+    "legacy_AFE": "AFE_0803",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536370.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536370.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03875",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 753,
+    "locus": "RU820_RS03880",
+    "protein_accession": "WP_012536371.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "AFE_0804",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536371.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536371.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03880",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 754,
+    "locus": "RU820_RS03885",
+    "protein_accession": "WP_012536372.1",
+    "product": "GH3 family domain-containing protein",
+    "legacy_AFE": "AFE_0805",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536372.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536372.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03885",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 755,
+    "locus": "RU820_RS03890",
+    "protein_accession": "WP_012536373.1",
+    "product": "penicillin acylase family protein",
+    "legacy_AFE": "AFE_0806",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01434"
+      },
+      {
+        "database": "EC",
+        "id": "3.5.1.11"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R02170"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:18693"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536373.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536373.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03890",
+      "https://www.kegg.jp/entry/K01434",
+      "https://www.rhea-db.org/rhea/18693",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 756,
+    "locus": "RU820_RS03895",
+    "protein_accession": "WP_009561607.1",
+    "product": "FAD binding domain-containing protein",
+    "legacy_AFE": "AFE_0808",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K11178"
+      },
+      {
+        "database": "EC",
+        "id": "1.17.1.4"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01768"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R02103"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:16669"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:24670"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009561607.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009561607.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03895",
+      "https://www.kegg.jp/entry/K11178",
+      "https://www.rhea-db.org/rhea/16669",
+      "https://www.rhea-db.org/rhea/24670",
+      "https://doi.org/10.1016/j.meteno.2016.03.003",
+      "https://doi.org/10.3389/fmicb.2019.00592"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Bellenberg 2019 补表检测到该蛋白/相对丰度变化，限表达证据，未验证催化反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 757,
+    "locus": "RU820_RS03900",
+    "protein_accession": "WP_012536374.1",
+    "product": "xanthine dehydrogenase family protein molybdopterin-binding subunit",
+    "legacy_AFE": "AFE_0809",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536374.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536374.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03900",
+      "https://doi.org/10.1016/j.meteno.2016.03.003",
+      "https://doi.org/10.3389/fmicb.2019.00592"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Bellenberg 2019 补表检测到该蛋白/相对丰度变化，限表达证据，未验证催化反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 758,
+    "locus": "RU820_RS03905",
+    "protein_accession": "WP_012536375.1",
+    "product": "(2Fe-2S)-binding protein",
+    "legacy_AFE": "AFE_0810",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K13483"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R01768"
+      },
+      {
+        "database": "KEGG reaction",
+        "id": "R02103"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:16669"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:24670"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536375.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536375.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03905",
+      "https://www.kegg.jp/entry/K13483",
+      "https://www.rhea-db.org/rhea/16669",
+      "https://www.rhea-db.org/rhea/24670",
+      "https://doi.org/10.1016/j.meteno.2016.03.003",
+      "https://doi.org/10.3389/fmicb.2019.00592"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Bellenberg 2019 补表检测到该蛋白/相对丰度变化，限表达证据，未验证催化反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 759,
+    "locus": "RU820_RS03910",
+    "protein_accession": "WP_009561603.1",
+    "product": "MFS transporter",
+    "legacy_AFE": "AFE_0813",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009561603.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009561603.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03910",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 760,
+    "locus": "RU820_RS03915",
+    "protein_accession": "WP_012536377.1",
+    "product": "chloride channel protein",
+    "legacy_AFE": "AFE_0814",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03281"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "TRANS-RXN2G89-2"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536377.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536377.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03915",
+      "https://www.kegg.jp/entry/K03281",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中此 AFE 的 GPR；chloride channel/P-type ATPase 注释不足以确定跨膜方向、离子化学计量或模型反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 761,
+    "locus": "RU820_RS03920",
+    "protein_accession": "WP_012536378.1",
+    "product": "chloride channel protein",
+    "legacy_AFE": "AFE_0815",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03281"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "TRANS-RXN2G89-2"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536378.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536378.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03920",
+      "https://www.kegg.jp/entry/K03281",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中此 AFE 的 GPR；chloride channel/P-type ATPase 注释不足以确定跨膜方向、离子化学计量或模型反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 762,
+    "locus": "RU820_RS03925",
+    "protein_accession": "WP_012536379.1",
+    "product": "LysR family transcriptional regulator",
+    "legacy_AFE": "AFE_0817",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536379.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536379.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03925",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中此 AFE 的 GPR；chloride channel/P-type ATPase 注释不足以确定跨膜方向、离子化学计量或模型反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 763,
+    "locus": "RU820_RS03930",
+    "protein_accession": "WP_009561139.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "AFE_0816",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009561139.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009561139.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03930",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。",
+      "Alpha 2016 original 未命中此 AFE 的 GPR；chloride channel/P-type ATPase 注释不足以确定跨膜方向、离子化学计量或模型反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 764,
+    "locus": "RU820_RS03935",
+    "protein_accession": "WP_012536380.1",
+    "product": "plasma-membrane proton-efflux P-type ATPase",
+    "legacy_AFE": "AFE_0818",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01535"
+      },
+      {
+        "database": "EC",
+        "id": "7.1.2.1"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "3.6.3.6-RXN"
+      },
+      {
+        "database": "Rhea",
+        "id": "RHEA:20852"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536380.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536380.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03935",
+      "https://www.kegg.jp/entry/K01535",
+      "https://www.rhea-db.org/rhea/20852",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。",
+      "Alpha 2016 original 未命中此 AFE 的 GPR；chloride channel/P-type ATPase 注释不足以确定跨膜方向、离子化学计量或模型反应。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 765,
+    "locus": "RU820_RS03940",
+    "protein_accession": "WP_111122532.1",
+    "product": "GIY-YIG nuclease family protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_111122532.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_111122532.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03940"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 766,
+    "locus": "RU820_RS03950",
+    "protein_accession": "WP_009566671.1",
+    "product": "metallophosphoesterase",
+    "legacy_AFE": "AFE_0821",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566671.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009566671.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03950",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 767,
+    "locus": "RU820_RS03955",
+    "protein_accession": "WP_009566670.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "AFE_0822",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566670.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009566670.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03955",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 768,
+    "locus": "RU820_RS03960",
+    "protein_accession": "WP_012536381.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536381.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536381.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03960"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 769,
+    "locus": "RU820_RS03965",
+    "protein_accession": "WP_012536382.1",
+    "product": "type I restriction-modification system subunit M",
+    "legacy_AFE": "AFE_0826",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03427"
+      },
+      {
+        "database": "EC",
+        "id": "2.1.1.72"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536382.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536382.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03965",
+      "https://www.kegg.jp/entry/K03427",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 770,
+    "locus": "RU820_RS03970",
+    "protein_accession": "WP_012606662.1",
+    "product": "ATP-binding protein",
+    "legacy_AFE": "AFE_0827",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03655"
+      },
+      {
+        "database": "EC",
+        "id": "5.6.2.4"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606662.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012606662.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03970",
+      "https://www.kegg.jp/entry/K03655",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 771,
+    "locus": "RU820_RS03975",
+    "protein_accession": "WP_012536384.1",
+    "product": "virulence RhuM family protein",
+    "legacy_AFE": "AFE_0828",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536384.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536384.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03975",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 772,
+    "locus": "RU820_RS03980",
+    "protein_accession": "WP_236608971.1",
+    "product": "restriction endonuclease subunit S",
+    "legacy_AFE": "AFE_0829",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01154"
+      },
+      {
+        "database": "EC",
+        "id": "3.1.21.3"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_236608971.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_236608971.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03980",
+      "https://www.kegg.jp/entry/K01154",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 773,
+    "locus": "RU820_RS03985",
+    "protein_accession": "WP_226834174.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应; 历史映射冲突",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_226834174.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_226834174.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03985"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 774,
+    "locus": "RU820_RS03995",
+    "protein_accession": "WP_009561339.1",
+    "product": "tyrosine-type recombinase/integrase",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应; 历史映射冲突",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009561339.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009561339.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS03995"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 775,
+    "locus": "RU820_RS04000",
+    "protein_accession": "WP_012535983.1",
+    "product": "tyrosine-type recombinase/integrase",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K04763"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应; 历史映射冲突",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012535983.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012535983.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04000",
+      "https://www.kegg.jp/entry/K04763"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 776,
+    "locus": "RU820_RS04005",
+    "protein_accession": "WP_012535982.1",
+    "product": "tyrosine-type recombinase/integrase",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应; 历史映射冲突",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012535982.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012535982.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04005"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 777,
+    "locus": "RU820_RS04015",
+    "protein_accession": "WP_012535980.1",
+    "product": "ExeA family protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应; 历史映射冲突",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012535980.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012535980.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04015"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 778,
+    "locus": "RU820_RS04020",
+    "protein_accession": "WP_009567530.1",
+    "product": "hypothetical protein",
+    "legacy_AFE": "未确认",
+    "mapping_status": "未确认",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "旧 AFE 映射未确认; 未找到精确反应; 历史映射冲突",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009567530.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_009567530.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04020"
+    ],
+    "open_questions": [
+      "旧 AFE 映射未确认；不得以旧位点号相似替代序列映射。",
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 779,
+    "locus": "RU820_RS04025",
+    "protein_accession": "WP_080513175.1",
+    "product": "TrlF family AAA-like ATPase",
+    "legacy_AFE": "AFE_0840",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（当前证据未显示可定义的代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_080513175.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_080513175.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04025",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 780,
+    "locus": "RU820_RS04030",
+    "protein_accession": "WP_012536387.1",
+    "product": "type I restriction endonuclease subunit R",
+    "legacy_AFE": "AFE_0841",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K01153"
+      },
+      {
+        "database": "EC",
+        "id": "3.1.21.3"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "3.1.21.3-RXN"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536387.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536387.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04030",
+      "https://www.kegg.jp/entry/K01153",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 781,
+    "locus": "RU820_RS04035",
+    "protein_accession": "WP_012536388.1",
+    "product": "M48 family metallopeptidase",
+    "legacy_AFE": "AFE_0842",
+    "mapping_status": "已核验",
+    "verified_accessions": [],
+    "2016_reaction_ids": [],
+    "decision": "无需修改（未见代谢反应）",
+    "reason": "未找到精确反应",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536388.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536388.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04035",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "需补查 UniProt/InterPro/Pfam/TCDB 原始条目及同株实验；无精确反应可供评分。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  },
+  {
+    "seq": 782,
+    "locus": "RU820_RS04045",
+    "protein_accession": "WP_012536389.1",
+    "product": "excinuclease ABC subunit UvrB",
+    "legacy_AFE": "AFE_0845",
+    "mapping_status": "已核验",
+    "verified_accessions": [
+      {
+        "database": "KEGG KO",
+        "id": "K03702"
+      },
+      {
+        "database": "MetaCyc reaction",
+        "id": "RXN0-2621"
+      }
+    ],
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "数据库反应与 2016 公式/区室未作精确等价核验",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536389.1",
+      "https://www.uniprot.org/uniprotkb?query=WP_012536389.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/gene/?gene=RU820_RS04045",
+      "https://www.kegg.jp/entry/K03702",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "本次本地索引提供的 accession 仍需逐项核对原始条目、反应式与 iMC507 原补表反应/GPR；不据自动注释新增反应或 GPR。"
+    ],
+    "2016_reaction_aliases_from_prior_index": [],
+    "2016_original_rows": [],
+    "d3_aliases_match_note": "No D3/prior alias; no exact iMC507 reaction/GPR row found for this mapped AFE locus."
+  }
+]

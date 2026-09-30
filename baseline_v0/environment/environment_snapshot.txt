@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-25T17:15:28+08:00",
+  "python_executable": "D:\\嗜酸氧化亚铁硫杆菌\\Archive_历史版本与废弃文件\\A0\\运行环境\\.venv\\Scripts\\python.exe",
+  "python_version": "3.14.6",
+  "python_version_full": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "machine": "AMD64",
+  "processor": "Intel64 Family 6 Model 197 Stepping 2, GenuineIntel",
+  "cobra_version": "0.32.1",
+  "optlang_version": "1.9.1",
+  "python_libsbml_version": "52102",
+  "xlrd_version": "2.0.2",
+  "openpyxl_version": "3.1.5",
+  "swiglpk_version": "n/a",
+  "glpk_version": "5.0",
+  "cobra_solvers_available": [
+    "glpk",
+    "glpk_exact"
+  ],
+  "cobra_config": {
+    "solver": "<module 'optlang.glpk_interface' from 'D:\\\\嗜酸氧化亚铁硫杆菌\\\\Archive_历史版本与废弃文件\\\\A0\\\\运行环境\\\\.venv\\\\Lib\\\\site-packages\\\\optlang\\\\glpk_interface.py'>",
+    "tolerance": "1e-07",
+    "lower_bound": "-1000.0",
+    "upper_bound": "1000.0",
+    "processes": "13"
+  },
+  "solver_tolerances": {
+    "status": "UNKNOWN",
+    "note": "optlang GLPK interface does not expose GLPK primal/dual feasibility tolerance or MILP gap tolerance through cobra.Configuration(). Left UNKNOWN until a direct GLPK probe in Phase 1."
+  }
+}

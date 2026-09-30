@@ -1,0 +1,109 @@
+{
+  "generated_at": "2026-09-26T07:58:19+08:00",
+  "growth": [
+    {
+      "condition": "FIM",
+      "WT_growth": 0.05207638710273946,
+      "HCO3E_KO_growth": "infeasible",
+      "HCO3E_KO_ACCOAC": "n/a",
+      "HCO3E_KO_MACPD": "n/a",
+      "HCO3E_KO_ACOATA": "n/a"
+    },
+    {
+      "condition": "TTM",
+      "WT_growth": 0.05207638540658722,
+      "HCO3E_KO_growth": "infeasible",
+      "HCO3E_KO_ACCOAC": "n/a",
+      "HCO3E_KO_MACPD": "n/a",
+      "HCO3E_KO_ACOATA": "n/a"
+    },
+    {
+      "condition": "TSM",
+      "WT_growth": 0.05207638710274026,
+      "HCO3E_KO_growth": "infeasible",
+      "HCO3E_KO_ACCOAC": "n/a",
+      "HCO3E_KO_MACPD": "n/a",
+      "HCO3E_KO_ACOATA": "n/a"
+    }
+  ],
+  "egc": {
+    "FIM_published_htpp0": 0.0,
+    "FIM_raw_htpp_reversible": 200.0,
+    "TTM_published_htpp0": 0.0,
+    "TTM_raw_htpp_reversible": 200.0,
+    "TSM_published_htpp0": 0.0,
+    "TSM_raw_htpp_reversible": 200.0
+  },
+  "zero_carbon": {
+    "FIM": 0.0,
+    "TTM": 0.0,
+    "TSM": 0.0
+  },
+  "zero_donor": {
+    "FIM": "infeasible",
+    "TTM": "infeasible",
+    "TSM": "infeasible"
+  },
+  "results": {
+    "FIM": {
+      "WT_growth": 0.05207638710273946,
+      "HCO3E_KO_growth": "infeasible",
+      "FVA_MACPD": [
+        0.0,
+        0.0
+      ],
+      "FVA_ACOATA": [
+        0.008986301358451533,
+        0.008986301358435244
+      ],
+      "FVA_RUBISCO": [
+        2.1656977941640925,
+        102.51191434491369
+      ],
+      "FVA_Htpp": [
+        0.0,
+        0.0
+      ]
+    },
+    "TTM": {
+      "WT_growth": 0.05207638540658722,
+      "HCO3E_KO_growth": "infeasible",
+      "FVA_MACPD": [
+        0.0,
+        0.0
+      ],
+      "FVA_ACOATA": [
+        0.008986301358448983,
+        0.008986301358453358
+      ],
+      "FVA_RUBISCO": [
+        2.165697794164016,
+        441.51424488905553
+      ],
+      "FVA_Htpp": [
+        0.0,
+        0.0
+      ]
+    },
+    "TSM": {
+      "WT_growth": 0.05207638710274026,
+      "HCO3E_KO_growth": "infeasible",
+      "FVA_MACPD": [
+        0.0,
+        0.0
+      ],
+      "FVA_ACOATA": [
+        0.008986301206919605,
+        0.008986302247301138
+      ],
+      "FVA_RUBISCO": [
+        2.165697789683751,
+        441.51424499532084
+      ],
+      "FVA_Htpp": [
+        0.0,
+        0.0
+      ]
+    }
+  }
+}

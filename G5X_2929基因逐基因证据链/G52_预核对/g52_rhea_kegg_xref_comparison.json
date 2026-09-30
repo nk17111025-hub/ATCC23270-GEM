@@ -1,0 +1,3867 @@
+{
+  "summary": {
+    "both": 74,
+    "overlap": 70,
+    "different": 4
+  },
+  "rows": [
+    {
+      "locus": "RU820_RS01515",
+      "wp": "WP_009560851.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01520",
+      "wp": "WP_012536079.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01525",
+      "wp": "WP_012536080.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01530",
+      "wp": "WP_012536081.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01535",
+      "wp": "WP_009568780.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01540",
+      "wp": "WP_009568779.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01545",
+      "wp": "WP_012536082.1",
+      "rhea_ids": [
+        "RHEA:21248"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00444"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01550",
+      "wp": "WP_012606540.1",
+      "rhea_ids": [
+        "RHEA:21248"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00444"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01555",
+      "wp": "WP_010641426.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01560",
+      "wp": "WP_012536084.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01565",
+      "wp": "WP_012536085.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01570",
+      "wp": "WP_009566505.1",
+      "rhea_ids": [
+        "RHEA:19669"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00335"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01575",
+      "wp": "WP_012536086.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01580",
+      "wp": "WP_009565431.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01585",
+      "wp": "WP_009565432.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01590",
+      "wp": "WP_012536087.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01595",
+      "wp": "WP_009565434.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01600",
+      "wp": "WP_009565435.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01605",
+      "wp": "WP_009565436.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01610",
+      "wp": "WP_009565437.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01615",
+      "wp": "WP_012536088.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01620",
+      "wp": "WP_009569559.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01625",
+      "wp": "WP_009569558.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01630",
+      "wp": "WP_012536089.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01635",
+      "wp": "WP_009569556.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01640",
+      "wp": "WP_012536090.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01645",
+      "wp": "WP_012536091.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01650",
+      "wp": "WP_009568793.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01655",
+      "wp": "WP_012536092.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01660",
+      "wp": "WP_009569276.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01665",
+      "wp": "WP_012536093.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01670",
+      "wp": "WP_012536094.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01675",
+      "wp": "WP_012536095.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01680",
+      "wp": "WP_012536096.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01685",
+      "wp": "WP_012606542.1",
+      "rhea_ids": [
+        "RHEA:12973"
+      ],
+      "kegg_ids": [
+        "R00127",
+        "R01547",
+        "R11319"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00127"
+      ],
+      "overlap": [
+        "R00127"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01690",
+      "wp": "WP_009568282.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01695",
+      "wp": "WP_009568281.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01700",
+      "wp": "WP_009568280.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01705",
+      "wp": "WP_009568279.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01710",
+      "wp": "WP_012536098.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01715",
+      "wp": "WP_012536099.1",
+      "rhea_ids": [
+        "RHEA:21248"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00444"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01720",
+      "wp": "WP_012536100.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01725",
+      "wp": "WP_012536101.1",
+      "rhea_ids": [
+        "RHEA:10248"
+      ],
+      "kegg_ids": [
+        "R02100",
+        "R11896"
+      ],
+      "rhea_kegg_xrefs": [
+        "R02100"
+      ],
+      "overlap": [
+        "R02100"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01730",
+      "wp": "WP_012536102.1",
+      "rhea_ids": [
+        "RHEA:16793",
+        "RHEA:19397"
+      ],
+      "kegg_ids": [
+        "R03269",
+        "R04231"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03269",
+        "R04231"
+      ],
+      "overlap": [
+        "R03269",
+        "R04231"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01735",
+      "wp": "WP_012536103.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01740",
+      "wp": "WP_012536104.1",
+      "rhea_ids": [
+        "RHEA:10272",
+        "RHEA:23752",
+        "RHEA:28122"
+      ],
+      "kegg_ids": [
+        "R05626"
+      ],
+      "rhea_kegg_xrefs": [
+        "R02240",
+        "R05626"
+      ],
+      "overlap": [
+        "R05626"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01745",
+      "wp": "WP_009560716.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01750",
+      "wp": "WP_012536105.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01755",
+      "wp": "WP_012536106.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01760",
+      "wp": "WP_012536107.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01765",
+      "wp": "WP_180830472.1",
+      "rhea_ids": [
+        "RHEA:17973",
+        "RHEA:25424"
+      ],
+      "kegg_ids": [
+        "R01132",
+        "R01229",
+        "R02142",
+        "R08237",
+        "R08238",
+        "R08245"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01132",
+        "R01229"
+      ],
+      "overlap": [
+        "R01132",
+        "R01229"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01770",
+      "wp": "WP_012536109.1",
+      "rhea_ids": [
+        "RHEA:30643"
+      ],
+      "kegg_ids": [
+        "R09668"
+      ],
+      "rhea_kegg_xrefs": [
+        "R09668"
+      ],
+      "overlap": [
+        "R09668"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01775",
+      "wp": "WP_012536110.1",
+      "rhea_ids": [
+        "RHEA:11740"
+      ],
+      "kegg_ids": [
+        "R00094",
+        "R00115"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00115"
+      ],
+      "overlap": [
+        "R00115"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01780",
+      "wp": "WP_009566864.1",
+      "rhea_ids": [],
+      "kegg_ids": [
+        "R12578"
+      ],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01785",
+      "wp": "WP_012536111.1",
+      "rhea_ids": [
+        "RHEA:21208",
+        "RHEA:24873"
+      ],
+      "kegg_ids": [
+        "R00582"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00582",
+        "R02853"
+      ],
+      "overlap": [
+        "R00582"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01790",
+      "wp": "WP_012606545.1",
+      "rhea_ids": [
+        "RHEA:13065"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00086"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01795",
+      "wp": "WP_012536113.1",
+      "rhea_ids": [
+        "RHEA:13429"
+      ],
+      "kegg_ids": [
+        "R05633"
+      ],
+      "rhea_kegg_xrefs": [
+        "R05633"
+      ],
+      "overlap": [
+        "R05633"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01800",
+      "wp": "WP_009569795.1",
+      "rhea_ids": [
+        "RHEA:23864"
+      ],
+      "kegg_ids": [
+        "R05637"
+      ],
+      "rhea_kegg_xrefs": [
+        "R05637"
+      ],
+      "overlap": [
+        "R05637"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01805",
+      "wp": "WP_009569794.1",
+      "rhea_ids": [
+        "RHEA:42540"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01810",
+      "wp": "WP_012536114.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01815",
+      "wp": "WP_012536115.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01820",
+      "wp": "WP_009566072.1",
+      "rhea_ids": [
+        "RHEA:20345"
+      ],
+      "kegg_ids": [
+        "R02016",
+        "R03596",
+        "R09372"
+      ],
+      "rhea_kegg_xrefs": [
+        "R02016"
+      ],
+      "overlap": [
+        "R02016"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01825",
+      "wp": "WP_041838681.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01830",
+      "wp": "WP_009566070.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01835",
+      "wp": "WP_009566069.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01840",
+      "wp": "WP_012536116.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01845",
+      "wp": "WP_009566960.1",
+      "rhea_ids": [
+        "RHEA:12292",
+        "RHEA:42580"
+      ],
+      "kegg_ids": [
+        "R03662",
+        "R08218"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03662",
+        "R08218"
+      ],
+      "overlap": [
+        "R03662",
+        "R08218"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01850",
+      "wp": "WP_009566961.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01855",
+      "wp": "WP_009566962.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01890",
+      "wp": "WP_009567336.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01895",
+      "wp": "WP_009567337.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01900",
+      "wp": "WP_012536117.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01905",
+      "wp": "WP_012536118.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01910",
+      "wp": "WP_009567340.1",
+      "rhea_ids": [
+        "RHEA:42532"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01915",
+      "wp": "WP_009567341.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01920",
+      "wp": "WP_012606548.1",
+      "rhea_ids": [
+        "RHEA:22096"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R07282"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01925",
+      "wp": "WP_012536119.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01930",
+      "wp": "WP_009567344.1",
+      "rhea_ids": [
+        "RHEA:21864",
+        "RHEA:25245"
+      ],
+      "kegg_ids": [
+        "R01736"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01736",
+        "R04090"
+      ],
+      "overlap": [
+        "R01736"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01935",
+      "wp": "WP_009567345.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01940",
+      "wp": "WP_009567346.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01945",
+      "wp": "WP_012536120.1",
+      "rhea_ids": [
+        "RHEA:22508"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00379"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01950",
+      "wp": "WP_009562800.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01955",
+      "wp": "WP_009562802.1",
+      "rhea_ids": [
+        "RHEA:19069"
+      ],
+      "kegg_ids": [
+        "R02530"
+      ],
+      "rhea_kegg_xrefs": [
+        "R02530"
+      ],
+      "overlap": [
+        "R02530"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01960",
+      "wp": "WP_009562805.1",
+      "rhea_ids": [
+        "RHEA:13233",
+        "RHEA:16037",
+        "RHEA:24388",
+        "RHEA:27638",
+        "RHEA:27642",
+        "RHEA:27646",
+        "RHEA:27738",
+        "RHEA:27742",
+        "RHEA:27750"
+      ],
+      "kegg_ids": [
+        "R01561",
+        "R01570",
+        "R01863",
+        "R01876",
+        "R02147",
+        "R02296",
+        "R02297"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01561",
+        "R01570",
+        "R01863",
+        "R01876",
+        "R01969",
+        "R02147",
+        "R02297",
+        "R02557",
+        "R02748"
+      ],
+      "overlap": [
+        "R01561",
+        "R01570",
+        "R01863",
+        "R01876",
+        "R02147",
+        "R02297"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01965",
+      "wp": "WP_009562807.1",
+      "rhea_ids": [
+        "RHEA:10932"
+      ],
+      "kegg_ids": [
+        "R01954"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01954"
+      ],
+      "overlap": [
+        "R01954"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01970",
+      "wp": "WP_009562810.1",
+      "rhea_ids": [
+        "RHEA:19513"
+      ],
+      "kegg_ids": [
+        "R01398"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01398"
+      ],
+      "overlap": [
+        "R01398"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01975",
+      "wp": "WP_009562813.1",
+      "rhea_ids": [
+        "RHEA:11960",
+        "RHEA:18049"
+      ],
+      "kegg_ids": [
+        "R02283",
+        "R04475"
+      ],
+      "rhea_kegg_xrefs": [
+        "R02283",
+        "R04475"
+      ],
+      "overlap": [
+        "R02283",
+        "R04475"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01980",
+      "wp": "WP_009562815.1",
+      "rhea_ids": [
+        "RHEA:23776"
+      ],
+      "kegg_ids": [
+        "R00480"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00480"
+      ],
+      "overlap": [
+        "R00480"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01985",
+      "wp": "WP_012536121.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01990",
+      "wp": "WP_012536122.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS01995",
+      "wp": "WP_009567200.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02005",
+      "wp": "WP_012536123.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02010",
+      "wp": "WP_009567197.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02015",
+      "wp": "WP_012536124.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02020",
+      "wp": "WP_146235837.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02025",
+      "wp": "WP_009565218.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02030",
+      "wp": "WP_012536126.1",
+      "rhea_ids": [
+        "RHEA:17053"
+      ],
+      "kegg_ids": [
+        "R01827",
+        "R08575"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01827"
+      ],
+      "overlap": [
+        "R01827"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02035",
+      "wp": "WP_009562995.1",
+      "rhea_ids": [
+        "RHEA:10240",
+        "RHEA:22564"
+      ],
+      "kegg_ids": [
+        "R01403",
+        "R01404",
+        "R04429",
+        "R04430",
+        "R04724",
+        "R04725",
+        "R04955",
+        "R04956",
+        "R04958",
+        "R04959",
+        "R04961",
+        "R04962",
+        "R04966",
+        "R04967",
+        "R04969",
+        "R04970",
+        "R07765",
+        "R10118",
+        "R10122",
+        "R11671"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01403",
+        "R01404"
+      ],
+      "overlap": [
+        "R01403",
+        "R01404"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02040",
+      "wp": "WP_012536127.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02045",
+      "wp": "WP_012536128.1",
+      "rhea_ids": [
+        "RHEA:18397",
+        "RHEA:23540"
+      ],
+      "kegg_ids": [
+        "R05578"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03651",
+        "R05578"
+      ],
+      "overlap": [
+        "R05578"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02050",
+      "wp": "WP_012536129.1",
+      "rhea_ids": [
+        "RHEA:10336",
+        "RHEA:17941"
+      ],
+      "kegg_ids": [
+        "R01324",
+        "R01325",
+        "R01900",
+        "R04425"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01324",
+        "R04425"
+      ],
+      "overlap": [
+        "R01324",
+        "R04425"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02055",
+      "wp": "WP_012606555.1",
+      "rhea_ids": [
+        "RHEA:19629"
+      ],
+      "kegg_ids": [
+        "R00267",
+        "R00268",
+        "R01899"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00267"
+      ],
+      "overlap": [
+        "R00267"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02060",
+      "wp": "WP_009564695.1",
+      "rhea_ids": [
+        "RHEA:17661",
+        "RHEA:22120"
+      ],
+      "kegg_ids": [
+        "R00405",
+        "R02404"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00405",
+        "R00432"
+      ],
+      "overlap": [
+        "R00405"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02065",
+      "wp": "WP_009564696.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02070",
+      "wp": "WP_012536131.1",
+      "rhea_ids": [
+        "RHEA:17661",
+        "RHEA:22120"
+      ],
+      "kegg_ids": [
+        "R00405",
+        "R02404"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00405",
+        "R00432"
+      ],
+      "overlap": [
+        "R00405"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02075",
+      "wp": "WP_012536132.1",
+      "rhea_ids": [
+        "RHEA:21188",
+        "RHEA:24384"
+      ],
+      "kegg_ids": [
+        "R00257"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00189",
+        "R00257"
+      ],
+      "overlap": [
+        "R00257"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02080",
+      "wp": "WP_009566205.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02085",
+      "wp": "WP_009566207.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02090",
+      "wp": "WP_012606556.1",
+      "rhea_ids": [
+        "RHEA:42524",
+        "RHEA:48348"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02095",
+      "wp": "WP_012536135.1",
+      "rhea_ids": [
+        "RHEA:11852",
+        "RHEA:13233",
+        "RHEA:24408",
+        "RHEA:27642",
+        "RHEA:27646"
+      ],
+      "kegg_ids": [
+        "R01402",
+        "R01560",
+        "R01561",
+        "R01863",
+        "R02147"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01402",
+        "R01560",
+        "R01561",
+        "R01863",
+        "R02147"
+      ],
+      "overlap": [
+        "R01402",
+        "R01560",
+        "R01561",
+        "R01863",
+        "R02147"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02100",
+      "wp": "WP_009566209.1",
+      "rhea_ids": [
+        "RHEA:14161",
+        "RHEA:24504"
+      ],
+      "kegg_ids": [
+        "R07363",
+        "R07364"
+      ],
+      "rhea_kegg_xrefs": [
+        "R07363",
+        "R07364"
+      ],
+      "overlap": [
+        "R07363",
+        "R07364"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02105",
+      "wp": "WP_012536136.1",
+      "rhea_ids": [
+        "RHEA:18769"
+      ],
+      "kegg_ids": [
+        "R07393"
+      ],
+      "rhea_kegg_xrefs": [
+        "R07393"
+      ],
+      "overlap": [
+        "R07393"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02110",
+      "wp": "WP_009566261.1",
+      "rhea_ids": [
+        "RHEA:14481"
+      ],
+      "kegg_ids": [
+        "R07394"
+      ],
+      "rhea_kegg_xrefs": [
+        "R07394"
+      ],
+      "overlap": [
+        "R07394"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02115",
+      "wp": "WP_012536138.1",
+      "rhea_ids": [
+        "RHEA:15549"
+      ],
+      "kegg_ids": [
+        "R07392"
+      ],
+      "rhea_kegg_xrefs": [
+        "R07392"
+      ],
+      "overlap": [
+        "R07392"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02120",
+      "wp": "WP_009566264.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02125",
+      "wp": "WP_009566266.1",
+      "rhea_ids": [
+        "RHEA:24420"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R05635"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02130",
+      "wp": "WP_012536139.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02135",
+      "wp": "WP_009566268.1",
+      "rhea_ids": [
+        "RHEA:17221"
+      ],
+      "kegg_ids": [
+        "R06513"
+      ],
+      "rhea_kegg_xrefs": [
+        "R06513"
+      ],
+      "overlap": [
+        "R06513"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02140",
+      "wp": "WP_012536140.1",
+      "rhea_ids": [
+        "RHEA:21796"
+      ],
+      "kegg_ids": [
+        "R02777"
+      ],
+      "rhea_kegg_xrefs": [
+        "R02777"
+      ],
+      "overlap": [
+        "R02777"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02145",
+      "wp": "WP_009567321.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02150",
+      "wp": "WP_009567322.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02155",
+      "wp": "WP_009567323.1",
+      "rhea_ids": [
+        "RHEA:19889"
+      ],
+      "kegg_ids": [
+        "R00289"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00289"
+      ],
+      "overlap": [
+        "R00289"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02160",
+      "wp": "WP_009567324.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02165",
+      "wp": "WP_012536141.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02170",
+      "wp": "WP_009561492.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02175",
+      "wp": "WP_009561490.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02180",
+      "wp": "WP_012536142.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02185",
+      "wp": "WP_012606559.1",
+      "rhea_ids": [
+        "RHEA:12260",
+        "RHEA:18629"
+      ],
+      "kegg_ids": [
+        "R00104"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00104",
+        "R00105"
+      ],
+      "overlap": [
+        "R00104"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02190",
+      "wp": "WP_009562817.1",
+      "rhea_ids": [
+        "RHEA:16373"
+      ],
+      "kegg_ids": [
+        "R02971",
+        "R03018",
+        "R04391"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03018"
+      ],
+      "overlap": [
+        "R03018"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02195",
+      "wp": "WP_012536143.1",
+      "rhea_ids": [
+        "RHEA:11756"
+      ],
+      "kegg_ids": [
+        "R01074",
+        "R05145"
+      ],
+      "rhea_kegg_xrefs": [
+        "R04562"
+      ],
+      "overlap": [],
+      "status": "different-granularity-or-chemistry-to-review",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02200",
+      "wp": "WP_012536144.1",
+      "rhea_ids": [
+        "RHEA:19541"
+      ],
+      "kegg_ids": [
+        "R03313"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03313"
+      ],
+      "overlap": [
+        "R03313"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02205",
+      "wp": "WP_012536145.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02210",
+      "wp": "WP_012536146.1",
+      "rhea_ids": [
+        "RHEA:22508"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00379"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02215",
+      "wp": "WP_009567208.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02220",
+      "wp": "WP_012536147.1",
+      "rhea_ids": [
+        "RHEA:11688"
+      ],
+      "kegg_ids": [
+        "R03657"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03657"
+      ],
+      "overlap": [
+        "R03657"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02225",
+      "wp": "WP_012536148.1",
+      "rhea_ids": [
+        "RHEA:46160",
+        "RHEA:46164"
+      ],
+      "kegg_ids": [
+        "R02964",
+        "R03643",
+        "R03816"
+      ],
+      "rhea_kegg_xrefs": [
+        "R07358",
+        "R07359"
+      ],
+      "overlap": [],
+      "status": "different-granularity-or-chemistry-to-review",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02230",
+      "wp": "WP_012536149.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02235",
+      "wp": "WP_012606562.1",
+      "rhea_ids": [
+        "RHEA:20661"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R07651"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02240",
+      "wp": "WP_012536151.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02245",
+      "wp": "WP_009564831.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02250",
+      "wp": "WP_012536152.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02255",
+      "wp": "WP_012536153.1",
+      "rhea_ids": [
+        "RHEA:16169"
+      ],
+      "kegg_ids": [
+        "R00253"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00253"
+      ],
+      "overlap": [
+        "R00253"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02260",
+      "wp": "WP_012536154.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02265",
+      "wp": "WP_012536155.1",
+      "rhea_ids": [
+        "RHEA:12484"
+      ],
+      "kegg_ids": [
+        "R00183",
+        "R00511",
+        "R00963",
+        "R01126",
+        "R01227",
+        "R01562",
+        "R01569",
+        "R01664",
+        "R01877",
+        "R01968",
+        "R02088",
+        "R02102",
+        "R02148",
+        "R02323",
+        "R02370",
+        "R02719",
+        "R03346",
+        "R12958"
+      ],
+      "rhea_kegg_xrefs": [
+        "R07297"
+      ],
+      "overlap": [],
+      "status": "different-granularity-or-chemistry-to-review",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02270",
+      "wp": "WP_012536156.1",
+      "rhea_ids": [
+        "RHEA:12705"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R04190"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02275",
+      "wp": "WP_009567248.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02280",
+      "wp": "WP_012536157.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02285",
+      "wp": "WP_012536158.1",
+      "rhea_ids": [
+        "RHEA:19453"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00258"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02290",
+      "wp": "WP_009567245.1",
+      "rhea_ids": [
+        "RHEA:15757",
+        "RHEA:15761"
+      ],
+      "kegg_ids": [
+        "R01773",
+        "R01775"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01773",
+        "R01775"
+      ],
+      "overlap": [
+        "R01773",
+        "R01775"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02295",
+      "wp": "WP_012536159.1",
+      "rhea_ids": [
+        "RHEA:10840"
+      ],
+      "kegg_ids": [
+        "R01466",
+        "R05086"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01466"
+      ],
+      "overlap": [
+        "R01466"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02300",
+      "wp": "WP_009567244.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02305",
+      "wp": "WP_012536160.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02310",
+      "wp": "WP_009567231.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02315",
+      "wp": "WP_009567232.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02320",
+      "wp": "WP_012606567.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02325",
+      "wp": "WP_009568984.1",
+      "rhea_ids": [
+        "RHEA:20792"
+      ],
+      "kegg_ids": [
+        "R03658"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03658"
+      ],
+      "overlap": [
+        "R03658"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02330",
+      "wp": "WP_012536161.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02335",
+      "wp": "WP_009566877.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02340",
+      "wp": "WP_012536162.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02345",
+      "wp": "WP_012606568.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02350",
+      "wp": "WP_012536164.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02355",
+      "wp": "WP_009566880.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02360",
+      "wp": "WP_012536165.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02365",
+      "wp": "WP_012536166.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02370",
+      "wp": "WP_009566882.1",
+      "rhea_ids": [
+        "RHEA:20700",
+        "RHEA:67840"
+      ],
+      "kegg_ids": [
+        "R04657"
+      ],
+      "rhea_kegg_xrefs": [
+        "R04657"
+      ],
+      "overlap": [
+        "R04657"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02375",
+      "wp": "WP_009566883.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02380",
+      "wp": "WP_009566884.1",
+      "rhea_ids": [
+        "RHEA:23448"
+      ],
+      "kegg_ids": [
+        "R03351",
+        "R11396"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03351"
+      ],
+      "overlap": [
+        "R03351"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02385",
+      "wp": "WP_009566885.1",
+      "rhea_ids": [
+        "RHEA:24576"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00004"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02390",
+      "wp": "WP_012536167.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02395",
+      "wp": "WP_041645281.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02400",
+      "wp": "WP_009567639.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02405",
+      "wp": "WP_012536168.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02410",
+      "wp": "WP_198293661.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02415",
+      "wp": "WP_009567636.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02420",
+      "wp": "WP_009567635.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02425",
+      "wp": "WP_012536170.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02430",
+      "wp": "WP_012536171.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02435",
+      "wp": "WP_009567633.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02440",
+      "wp": "WP_009567632.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02445",
+      "wp": "WP_012536172.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02450",
+      "wp": "WP_226834174.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02460",
+      "wp": "WP_012535982.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02465",
+      "wp": "WP_012535983.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02470",
+      "wp": "WP_009561339.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02480",
+      "wp": "WP_012535980.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02485",
+      "wp": "WP_009567530.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02495",
+      "wp": "WP_225487405.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02500",
+      "wp": "WP_080513172.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02505",
+      "wp": "WP_012606573.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02510",
+      "wp": "WP_225487644.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02515",
+      "wp": "WP_225487406.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02520",
+      "wp": "WP_012536176.1",
+      "rhea_ids": [
+        "RHEA:54288",
+        "RHEA:54292",
+        "RHEA:58120",
+        "RHEA:64604",
+        "RHEA:83887",
+        "RHEA:83891"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02525",
+      "wp": "WP_012536177.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02530",
+      "wp": "WP_012536178.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02535",
+      "wp": "WP_012536179.1",
+      "rhea_ids": [
+        "RHEA:16237"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R04273"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02540",
+      "wp": "WP_012536180.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02545",
+      "wp": "WP_012536181.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02550",
+      "wp": "WP_012536182.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02555",
+      "wp": "WP_009563800.1",
+      "rhea_ids": [
+        "RHEA:15901"
+      ],
+      "kegg_ids": [
+        "R01518"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01518"
+      ],
+      "overlap": [
+        "R01518"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02560",
+      "wp": "WP_012536183.1",
+      "rhea_ids": [
+        "RHEA:41732"
+      ],
+      "kegg_ids": [
+        "R02111"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01821",
+        "R06050"
+      ],
+      "overlap": [],
+      "status": "different-granularity-or-chemistry-to-review",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02565",
+      "wp": "WP_009569165.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02570",
+      "wp": "WP_012536184.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02575",
+      "wp": "WP_012536185.1",
+      "rhea_ids": [
+        "RHEA:20824"
+      ],
+      "kegg_ids": [
+        "R00185"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00185"
+      ],
+      "overlap": [
+        "R00185"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02580",
+      "wp": "WP_012536186.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02585",
+      "wp": "WP_012536187.1",
+      "rhea_ids": [
+        "RHEA:21080"
+      ],
+      "kegg_ids": [
+        "R00177",
+        "R04771"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00177"
+      ],
+      "overlap": [
+        "R00177"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02590",
+      "wp": "WP_009567191.1",
+      "rhea_ids": [
+        "RHEA:21708"
+      ],
+      "kegg_ids": [
+        "R00192"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00192"
+      ],
+      "overlap": [
+        "R00192"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02595",
+      "wp": "WP_012536188.1",
+      "rhea_ids": [
+        "RHEA:19821"
+      ],
+      "kegg_ids": [
+        "R07168"
+      ],
+      "rhea_kegg_xrefs": [
+        "R07168"
+      ],
+      "overlap": [
+        "R07168"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02600",
+      "wp": "WP_012536189.1",
+      "rhea_ids": [
+        "RHEA:19365"
+      ],
+      "kegg_ids": [
+        "R01523"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01523"
+      ],
+      "overlap": [
+        "R01523"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02605",
+      "wp": "WP_012536190.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02610",
+      "wp": "WP_012536191.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02615",
+      "wp": "WP_012536192.1",
+      "rhea_ids": [
+        "RHEA:18133",
+        "RHEA:24152"
+      ],
+      "kegg_ids": [
+        "R00529",
+        "R04929"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00509",
+        "R00529"
+      ],
+      "overlap": [
+        "R00529"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02620",
+      "wp": "WP_012536193.1",
+      "rhea_ids": [
+        "RHEA:16609"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00190"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02625",
+      "wp": "WP_012536194.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02630",
+      "wp": "WP_009567579.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02635",
+      "wp": "WP_225487407.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02640",
+      "wp": "WP_225487408.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02645",
+      "wp": "WP_009567466.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02650",
+      "wp": "WP_009567465.1",
+      "rhea_ids": [
+        "RHEA:18321",
+        "RHEA:24801",
+        "RHEA:24813"
+      ],
+      "kegg_ids": [
+        "R01090",
+        "R01214",
+        "R02199",
+        "R08622",
+        "R08626",
+        "R10991"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01090",
+        "R01214",
+        "R02199"
+      ],
+      "overlap": [
+        "R01090",
+        "R01214",
+        "R02199"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02655",
+      "wp": "WP_012536196.1",
+      "rhea_ids": [
+        "RHEA:18589",
+        "RHEA:43716"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R03473",
+        "R03474"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02660",
+      "wp": "WP_012536197.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02665",
+      "wp": "WP_012536198.1",
+      "rhea_ids": [
+        "RHEA:54532"
+      ],
+      "kegg_ids": [
+        "R12024"
+      ],
+      "rhea_kegg_xrefs": [
+        "R12024"
+      ],
+      "overlap": [
+        "R12024"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02670",
+      "wp": "WP_012536199.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02675",
+      "wp": "WP_012536200.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02680",
+      "wp": "WP_012536201.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02685",
+      "wp": "WP_012536202.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02690",
+      "wp": "WP_012606584.1",
+      "rhea_ids": [
+        "RHEA:11060"
+      ],
+      "kegg_ids": [
+        "R03656"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03656"
+      ],
+      "overlap": [
+        "R03656"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02695",
+      "wp": "WP_012536204.1",
+      "rhea_ids": [
+        "RHEA:14357",
+        "RHEA:17237"
+      ],
+      "kegg_ids": [
+        "R00161",
+        "R00549"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00161",
+        "R00549"
+      ],
+      "overlap": [
+        "R00161",
+        "R00549"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02700",
+      "wp": "WP_009566608.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02705",
+      "wp": "WP_225487409.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02710",
+      "wp": "WP_012536206.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02715",
+      "wp": "WP_012536207.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02720",
+      "wp": "WP_009566813.1",
+      "rhea_ids": [
+        "RHEA:12697",
+        "RHEA:20780"
+      ],
+      "kegg_ids": [
+        "R00332",
+        "R02090",
+        "R12852"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00332",
+        "R02090"
+      ],
+      "overlap": [
+        "R00332",
+        "R02090"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02725",
+      "wp": "WP_012536208.1",
+      "rhea_ids": [
+        "RHEA:21248"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00444"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02730",
+      "wp": "WP_012536209.1",
+      "rhea_ids": [
+        "RHEA:14253",
+        "RHEA:22088",
+        "RHEA:33055"
+      ],
+      "kegg_ids": [
+        "R00336",
+        "R00429"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00336",
+        "R00429"
+      ],
+      "overlap": [
+        "R00336",
+        "R00429"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02735",
+      "wp": "WP_009562648.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02740",
+      "wp": "WP_009562649.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02745",
+      "wp": "WP_012536210.1",
+      "rhea_ids": [
+        "RHEA:13065"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00086"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02750",
+      "wp": "WP_012536211.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02755",
+      "wp": "WP_012536212.1",
+      "rhea_ids": [
+        "RHEA:25576",
+        "RHEA:43436"
+      ],
+      "kegg_ids": [
+        "R03222",
+        "R04178"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03222",
+        "R04178"
+      ],
+      "overlap": [
+        "R03222",
+        "R04178"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02760",
+      "wp": "WP_226834140.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02765",
+      "wp": "WP_111122554.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02770",
+      "wp": "WP_009566618.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02775",
+      "wp": "WP_009566620.1",
+      "rhea_ids": [
+        "RHEA:19225"
+      ],
+      "kegg_ids": [
+        "R04710"
+      ],
+      "rhea_kegg_xrefs": [
+        "R04710"
+      ],
+      "overlap": [
+        "R04710"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02780",
+      "wp": "WP_012536214.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02785",
+      "wp": "WP_012606589.1",
+      "rhea_ids": [
+        "RHEA:11672"
+      ],
+      "kegg_ids": [
+        "R01716"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01716"
+      ],
+      "overlap": [
+        "R01716"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02790",
+      "wp": "WP_012536216.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02800",
+      "wp": "WP_012606592.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02805",
+      "wp": "WP_009568944.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02810",
+      "wp": "WP_012536217.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02815",
+      "wp": "WP_009568946.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02820",
+      "wp": "WP_225487645.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02825",
+      "wp": "WP_041645297.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02835",
+      "wp": "WP_374058762.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02840",
+      "wp": "WP_012536220.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02845",
+      "wp": "WP_012536221.1",
+      "rhea_ids": [
+        "RHEA:13065"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00086"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02850",
+      "wp": "WP_009564993.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02855",
+      "wp": "WP_012536222.1",
+      "rhea_ids": [
+        "RHEA:13065"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R00086"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02860",
+      "wp": "WP_012536223.1",
+      "rhea_ids": [
+        "RHEA:17709",
+        "RHEA:27782",
+        "RHEA:44504",
+        "RHEA:44556",
+        "RHEA:44560",
+        "RHEA:44564"
+      ],
+      "kegg_ids": [
+        "R05000",
+        "R05615"
+      ],
+      "rhea_kegg_xrefs": [
+        "R05000",
+        "R05615",
+        "R05616",
+        "R07273"
+      ],
+      "overlap": [
+        "R05000",
+        "R05615"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02865",
+      "wp": "WP_012536224.1",
+      "rhea_ids": [
+        "RHEA:16505"
+      ],
+      "kegg_ids": [
+        "R01302"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01302"
+      ],
+      "overlap": [
+        "R01302"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02870",
+      "wp": "WP_009561562.1",
+      "rhea_ids": [
+        "RHEA:11164",
+        "RHEA:32735",
+        "RHEA:32739"
+      ],
+      "kegg_ids": [
+        "R01320",
+        "R02056",
+        "R03424"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01320",
+        "R02056",
+        "R03424"
+      ],
+      "overlap": [
+        "R01320",
+        "R02056",
+        "R03424"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02875",
+      "wp": "WP_009561563.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02880",
+      "wp": "WP_012536225.1",
+      "rhea_ids": [
+        "RHEA:37067"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [
+        "R10645"
+      ],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02885",
+      "wp": "WP_012536226.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02890",
+      "wp": "WP_009566445.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02895",
+      "wp": "WP_012606598.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02900",
+      "wp": "WP_012536227.1",
+      "rhea_ids": [
+        "RHEA:48228"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02905",
+      "wp": "WP_012536228.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02910",
+      "wp": "WP_009567595.1",
+      "rhea_ids": [
+        "RHEA:29795"
+      ],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02915",
+      "wp": "WP_012536229.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02920",
+      "wp": "WP_012606601.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02925",
+      "wp": "WP_009567592.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02930",
+      "wp": "WP_012536230.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02935",
+      "wp": "WP_012536231.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02940",
+      "wp": "WP_012536232.1",
+      "rhea_ids": [
+        "RHEA:11404"
+      ],
+      "kegg_ids": [
+        "R01385"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01385"
+      ],
+      "overlap": [
+        "R01385"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02945",
+      "wp": "WP_155644734.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02950",
+      "wp": "WP_012536234.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02955",
+      "wp": "WP_012536235.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02960",
+      "wp": "WP_009568923.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02965",
+      "wp": "WP_012536236.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02970",
+      "wp": "WP_012536237.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02975",
+      "wp": "WP_012536238.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02980",
+      "wp": "WP_226834132.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02985",
+      "wp": "WP_009562662.1",
+      "rhea_ids": [
+        "RHEA:23596"
+      ],
+      "kegg_ids": [
+        "R00286"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00286"
+      ],
+      "overlap": [
+        "R00286"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02990",
+      "wp": "WP_012536240.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS02995",
+      "wp": "WP_009562658.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03000",
+      "wp": "WP_009562656.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03005",
+      "wp": "WP_012536241.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03010",
+      "wp": "WP_012536242.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03015",
+      "wp": "WP_012536243.1",
+      "rhea_ids": [
+        "RHEA:22332",
+        "RHEA:32287",
+        "RHEA:42424"
+      ],
+      "kegg_ids": [
+        "R03896",
+        "R03898",
+        "R03968",
+        "R04001",
+        "R08620",
+        "R08624",
+        "R08628",
+        "R08634",
+        "R08641",
+        "R08645",
+        "R10170"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03896",
+        "R03898",
+        "R10170"
+      ],
+      "overlap": [
+        "R03896",
+        "R03898",
+        "R10170"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03020",
+      "wp": "WP_009562654.1",
+      "rhea_ids": [
+        "RHEA:22332",
+        "RHEA:32287",
+        "RHEA:42424"
+      ],
+      "kegg_ids": [
+        "R03896",
+        "R03898",
+        "R03968",
+        "R04001",
+        "R10170"
+      ],
+      "rhea_kegg_xrefs": [
+        "R03896",
+        "R03898",
+        "R10170"
+      ],
+      "overlap": [
+        "R03896",
+        "R03898",
+        "R10170"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03025",
+      "wp": "WP_012536244.1",
+      "rhea_ids": [],
+      "kegg_ids": [],
+      "rhea_kegg_xrefs": [],
+      "overlap": [],
+      "status": "one-side-or-none",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03030",
+      "wp": "WP_012536245.1",
+      "rhea_ids": [
+        "RHEA:15149",
+        "RHEA:15817"
+      ],
+      "kegg_ids": [
+        "R00277",
+        "R00278",
+        "R01710",
+        "R01711"
+      ],
+      "rhea_kegg_xrefs": [
+        "R00277",
+        "R00278"
+      ],
+      "overlap": [
+        "R00277",
+        "R00278"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    },
+    {
+      "locus": "RU820_RS03035",
+      "wp": "WP_009560936.1",
+      "rhea_ids": [
+        "RHEA:14657"
+      ],
+      "kegg_ids": [
+        "R01056"
+      ],
+      "rhea_kegg_xrefs": [
+        "R01056"
+      ],
+      "overlap": [
+        "R01056"
+      ],
+      "status": "xref-overlap",
+      "boundary": "Shared xref is one annotation chain, not independent experimental confirmation."
+    }
+  ]
+}

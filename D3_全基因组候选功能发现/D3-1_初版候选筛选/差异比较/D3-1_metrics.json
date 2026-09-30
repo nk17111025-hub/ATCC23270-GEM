@@ -1,0 +1,13 @@
+{
+  "model_reactions": 631,
+  "candidates": 45,
+  "conflicts": 37,
+  "bio_gene_product_comparable": 2601,
+  "bio_vs_ncbi_product_text_differences": 778,
+  "bio_reactions": 1313,
+  "rhea_hits": 171,
+  "rhea_queries": 22,
+  "brenda_same_strain_EC_enzyme_records": 49,
+  "brenda_distinct_EC_total": 41,
+  "evidence_status": "BRENDA data acquired via public SPARQL; independent MetaCyc access limited"
+}

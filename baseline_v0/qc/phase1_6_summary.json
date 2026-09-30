@@ -1,0 +1,307 @@
+{
+  "generated_at": "2026-09-25T18:30:05",
+  "diff_counts": {
+    "FIM": 19,
+    "TTM": 19,
+    "TSM": 19
+  },
+  "omitted": {
+    "FIM": [
+      "Afe_biomass_mc507_WT_139p0M",
+      "Htpp",
+      "NH4pp",
+      "PPTtpp",
+      "SO41tpp",
+      "SO42tpp",
+      "SQRED1"
+    ],
+    "TTM": [
+      "Afe_biomass_mc507_WT_139p0M",
+      "Htpp",
+      "NH4pp",
+      "PPTtpp",
+      "SQRED1"
+    ],
+    "TSM": [
+      "Afe_biomass_mc507_WT_139p0M",
+      "Htpp",
+      "NH4pp",
+      "PPTtpp",
+      "SQRED1"
+    ]
+  },
+  "rediagnosis": [
+    {
+      "condition": "FIM",
+      "biomass": 0.05207638710273945,
+      "max_sv": 2.2026824808563106e-13,
+      "Htpp_min": 0.0,
+      "Htpp_max": 0.0,
+      "ATPS5rpp_min": 20.750613601747773,
+      "ATPS5rpp_max": 187.99500630150322,
+      "EGC_atpm_max_with_Htpp_off": 0.0,
+      "blocked_count": 71
+    },
+    {
+      "condition": "TTM",
+      "biomass": 0.052076389647167654,
+      "max_sv": 2.7065277796722853e-09,
+      "Htpp_min": 0.0,
+      "Htpp_max": 0.0,
+      "ATPS5rpp_min": 20.737067491933253,
+      "ATPS5rpp_max": 752.9853444319215,
+      "EGC_atpm_max_with_Htpp_off": 0.0,
+      "blocked_count": 70
+    },
+    {
+      "condition": "TSM",
+      "biomass": 0.05207638710274137,
+      "max_sv": 7.105427357601002e-14,
+      "Htpp_min": 0.0,
+      "Htpp_max": 0.0,
+      "ATPS5rpp_min": 20.737067491934766,
+      "ATPS5rpp_max": 752.9853444319212,
+      "EGC_atpm_max_with_Htpp_off": 0.0,
+      "blocked_count": 70
+    }
+  ],
+  "literal_full_bounds": [
+    {
+      "condition": "FIM",
+      "status": "optimal",
+      "biomass": 0.0
+    },
+    {
+      "condition": "TTM",
+      "status": "optimal",
+      "biomass": 0.0
+    },
+    {
+      "condition": "TSM",
+      "status": "optimal",
+      "biomass": 0.0
+    }
+  ],
+  "table5": [
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.086,
+      "co2": 3.8950000000000005,
+      "growth": 0.10141876388258417,
+      "donor_uptake": -303.9183971331994,
+      "o2_uptake": -71.18127183605208,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 37.11925748940451
+    },
+    {
+      "condition": "TTM",
+      "donor": "s4o6",
+      "mu_reported": 0.02,
+      "co2": 0.7199815837937384,
+      "growth": 0.01874707761450482,
+      "donor_uptake": -2.2957037431589993,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 9.689186614586736
+    },
+    {
+      "condition": "TSM",
+      "donor": "s2o3",
+      "mu_reported": 0.026,
+      "co2": 0.93597605893186,
+      "growth": 0.024371201931765937,
+      "donor_uptake": -4.879798447917155,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 11.55344279554469
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.08,
+      "co2": 3.408125,
+      "growth": 0.0887414183972614,
+      "donor_uptake": -268.1004724915491,
+      "o2_uptake": -62.826581606545474,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 32.91372530322896
+    },
+    {
+      "condition": "TTM",
+      "donor": "s4o6",
+      "mu_reported": 0.029,
+      "co2": 1.0439732965009207,
+      "growth": 0.027183181905848654,
+      "donor_uptake": -3.034832319174814,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 12.485569351323354
+    },
+    {
+      "condition": "TSM",
+      "donor": "s2o3",
+      "mu_reported": 0.039,
+      "co2": 1.40396408839779,
+      "growth": 0.03655668867287559,
+      "donor_uptake": -6.748150936276284,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 15.592661425087888
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.0575,
+      "co2": 2.337,
+      "growth": 0.06085125832955393,
+      "donor_uptake": -189.30103827992062,
+      "o2_uptake": -44.44626310163146,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 23.66155449364288
+    },
+    {
+      "condition": "TTM",
+      "donor": "s4o6",
+      "mu_reported": 0.037,
+      "co2": 1.3319659300184161,
+      "growth": 0.03468199035325526,
+      "donor_uptake": -3.6918355701975827,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 14.971243587728281
+    },
+    {
+      "condition": "TSM",
+      "donor": "s2o3",
+      "mu_reported": 0.051,
+      "co2": 1.835953038674033,
+      "growth": 0.04780490057222197,
+      "donor_uptake": -8.472784422741878,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 19.32117263280724
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.0475,
+      "co2": 2.0448750000000007,
+      "growth": 0.053244851038357494,
+      "donor_uptake": -167.81028349492968,
+      "o2_uptake": -39.43344896392732,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 21.138235181937397
+    },
+    {
+      "condition": "TTM",
+      "donor": "s4o6",
+      "mu_reported": 0.041,
+      "co2": 1.4759622467771638,
+      "growth": 0.038431389440959605,
+      "donor_uptake": -4.020337014688893,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 16.214079728445892
+    },
+    {
+      "condition": "TSM",
+      "donor": "s2o3",
+      "mu_reported": 0.065,
+      "co2": 2.33994014732965,
+      "growth": 0.06092781445479237,
+      "donor_uptake": -10.484856823618353,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 23.671102375146447
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.044,
+      "co2": 1.9475000000000002,
+      "growth": 0.05070938194129287,
+      "donor_uptake": -160.64669856659978,
+      "o2_uptake": -37.76251091802606,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 20.29712874470228
+    },
+    {
+      "condition": "TTM",
+      "donor": "s4o6",
+      "mu_reported": 0.063,
+      "co2": 2.2679419889502763,
+      "growth": 0.05905311352732764,
+      "donor_uptake": -5.827095985172219,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 23.049684041467643
+    },
+    {
+      "condition": "TSM",
+      "donor": "s2o3",
+      "mu_reported": 0.079,
+      "co2": 2.843927255985267,
+      "growth": 0.07405072833736306,
+      "donor_uptake": -12.496929224494897,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 28.02103211748571
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.04,
+      "co2": 1.5580000000000003,
+      "growth": 0.0405675055530356,
+      "donor_uptake": -131.99235885328054,
+      "o2_uptake": -31.07875873442101,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 16.932702995761904
+    },
+    {
+      "condition": "TSM",
+      "donor": "s2o3",
+      "mu_reported": 0.125,
+      "co2": 4.4998848987108655,
+      "growth": 0.11716887395152374,
+      "donor_uptake": -19.108024255946273,
+      "o2_uptake": "",
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 42.31365841374318
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.03,
+      "co2": 1.3048250000000001,
+      "growth": 0.033975285900666716,
+      "donor_uptake": -113.36703803962169,
+      "o2_uptake": -26.734319815077413,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 14.745826258950542
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.019,
+      "co2": 0.6426750000000001,
+      "growth": 0.01673456228004255,
+      "donor_uptake": -64.65500988893486,
+      "o2_uptake": -15.372029478401252,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 9.02637649357155
+    },
+    {
+      "condition": "FIM",
+      "donor": "fe2",
+      "mu_reported": 0.01,
+      "co2": 0.35055000000000003,
+      "growth": 0.009128004859520816,
+      "donor_uptake": -43.16413717421606,
+      "o2_uptake": -10.359185613300635,
+      "Htpp_flux": 0.0,
+      "ATPS5rpp_flux": 6.503033088560669
+    }
+  ]
+}

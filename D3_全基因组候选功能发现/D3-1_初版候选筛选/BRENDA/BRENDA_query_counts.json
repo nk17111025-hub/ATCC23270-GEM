@@ -1,0 +1,14 @@
+{
+  "returned_binding_rows": 5000,
+  "unique_enzymes": 8,
+  "unique_EC": 9,
+  "source_metadata": {
+    "file": "05_BRENDA\\D3-1\\原始响应\\BRENDA_ATCC23270_related_orgs_enzyme_EC_reaction_refs.json",
+    "url": "https://sparql.dsmz.de/api/brenda?query=PREFIX+d3o%3A+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fschema%2F%3E+PREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E+SELECT+DISTINCT+%3Forg+%3ForgName+%3Fenzyme+%3Fec+%3Freaction+%3FreactionName+%3Fref+WHERE+%7B+VALUES+%3Forg+%7B+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F16285%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F17182%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F22717%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F18959%3E+%7D+%3Forg+rdfs%3Alabel+%3ForgName+.+%3Fenzyme+d3o%3AfoundIn+%3Forg+%3B+d3o%3AisClassifiedAs+%3Fec+.+OPTIONAL+%7B+%3Freaction+d3o%3AcatalyzedBy+%3Fenzyme+.+OPTIONAL+%7B+%3Freaction+rdfs%3Alabel+%3FreactionName+%7D+%7D+OPTIONAL+%7B+%3Fenzyme+d3o%3AhasReference+%3Fref+%7D+%7D+LIMIT+5000",
+    "access_time": "2026-09-23T09:44:44.471978+08:00",
+    "version": "DSMZ BRENDA SPARQL prototype; BRENDA site release 2026.1 observed",
+    "bytes": 2283618,
+    "sha256": "a21b95cf270c373302d81883b2a011418571067412889b6f727a4a6db3e908ce",
+    "http_status": 200
+  }
+}

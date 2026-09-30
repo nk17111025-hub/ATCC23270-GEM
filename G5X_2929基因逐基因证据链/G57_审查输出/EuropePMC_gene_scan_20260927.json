@@ -1,0 +1,2202 @@
+{
+  "AFE_2011": {
+    "query": "AFE_2011",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2011&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2013": {
+    "query": "AFE_2013",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2013&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2009": {
+    "query": "AFE_2009",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2009&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2008": {
+    "query": "AFE_2008",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2008&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2012": {
+    "query": "AFE_2012",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2012&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2014": {
+    "query": "AFE_2014",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2014&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2019": {
+    "query": "AFE_2019",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2019&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2017": {
+    "query": "AFE_2017",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2017&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2018": {
+    "query": "AFE_2018",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2018&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Heavy Metal Removal by Bioaccumulation Using Genetically Engineered Microorganisms.",
+        "doi": "10.3389/fbioe.2018.00157",
+        "pmid": "30420950",
+        "pmcid": "PMC6215804",
+        "year": "2018",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "WP_307871269.1": {
+    "query": "WP_307871269.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_307871269.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536911.1": {
+    "query": "WP_012536911.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536911.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2022": {
+    "query": "AFE_2022",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2022&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2021": {
+    "query": "AFE_2021",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2021&format=json&pageSize=20&resultType=core",
+    "hitCount": 2,
+    "papers": [
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Determinants of Copper Resistance in <i>Acidithiobacillus Ferrivorans</i> ACH Isolated from the Chilean Altiplano.",
+        "doi": "10.3390/genes11080844",
+        "pmid": "32722087",
+        "pmcid": "PMC7463520",
+        "year": "2020",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2015": {
+    "query": "AFE_2015",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2015&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2024": {
+    "query": "AFE_2024",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2024&format=json&pageSize=20&resultType=core",
+    "hitCount": 2,
+    "papers": [
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      },
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2026": {
+    "query": "AFE_2026",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2026&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2027": {
+    "query": "AFE_2027",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2027&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2025": {
+    "query": "AFE_2025",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2025&format=json&pageSize=20&resultType=core",
+    "hitCount": 4,
+    "papers": [
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      },
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Development of a markerless gene replacement system for Acidithiobacillus ferrooxidans and construction of a pfkB mutant.",
+        "doi": "10.1128/aem.07230-11",
+        "pmid": "22210219",
+        "pmcid": "PMC3298148",
+        "year": "2012",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2028": {
+    "query": "AFE_2028",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2028&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2032": {
+    "query": "AFE_2032",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2032&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2029": {
+    "query": "AFE_2029",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2029&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2031": {
+    "query": "AFE_2031",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2031&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2033": {
+    "query": "AFE_2033",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2033&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2034": {
+    "query": "AFE_2034",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2034&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2036": {
+    "query": "AFE_2036",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2036&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2035": {
+    "query": "AFE_2035",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2035&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2037": {
+    "query": "AFE_2037",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2037&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2040": {
+    "query": "AFE_2040",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2040&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2041": {
+    "query": "AFE_2041",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2041&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2043": {
+    "query": "AFE_2043",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2043&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2044": {
+    "query": "AFE_2044",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2044&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2047": {
+    "query": "AFE_2047",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2047&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2045": {
+    "query": "AFE_2045",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2045&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009564632.1": {
+    "query": "WP_009564632.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009564632.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2052": {
+    "query": "AFE_2052",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2052&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2050": {
+    "query": "AFE_2050",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2050&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2053": {
+    "query": "AFE_2053",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2053&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2054": {
+    "query": "AFE_2054",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2054&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2056": {
+    "query": "AFE_2056",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2056&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2057": {
+    "query": "AFE_2057",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2057&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2058": {
+    "query": "AFE_2058",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2058&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2059": {
+    "query": "AFE_2059",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2059&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2060": {
+    "query": "AFE_2060",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2060&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2061": {
+    "query": "AFE_2061",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2061&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2062": {
+    "query": "AFE_2062",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2062&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2063": {
+    "query": "AFE_2063",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2063&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607305.1": {
+    "query": "WP_012607305.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607305.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2065": {
+    "query": "AFE_2065",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2065&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2067": {
+    "query": "AFE_2067",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2067&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2068": {
+    "query": "AFE_2068",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2068&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2066": {
+    "query": "AFE_2066",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2066&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2069": {
+    "query": "AFE_2069",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2069&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2070": {
+    "query": "AFE_2070",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2070&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2071": {
+    "query": "AFE_2071",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2071&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2074": {
+    "query": "AFE_2074",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2074&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2072": {
+    "query": "AFE_2072",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2072&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2075": {
+    "query": "AFE_2075",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2075&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2076": {
+    "query": "AFE_2076",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2076&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2078": {
+    "query": "AFE_2078",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2078&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2077": {
+    "query": "AFE_2077",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2077&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2079": {
+    "query": "AFE_2079",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2079&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2080": {
+    "query": "AFE_2080",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2080&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2082": {
+    "query": "AFE_2082",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2082&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2083": {
+    "query": "AFE_2083",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2083&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2084": {
+    "query": "AFE_2084",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2084&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2085": {
+    "query": "AFE_2085",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2085&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2081": {
+    "query": "AFE_2081",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2081&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2086": {
+    "query": "AFE_2086",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2086&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2089": {
+    "query": "AFE_2089",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2089&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2090": {
+    "query": "AFE_2090",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2090&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2091": {
+    "query": "AFE_2091",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2091&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2088": {
+    "query": "AFE_2088",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2088&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536963.1": {
+    "query": "WP_012536963.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536963.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2093": {
+    "query": "AFE_2093",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2093&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2094": {
+    "query": "AFE_2094",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2094&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2095": {
+    "query": "AFE_2095",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2095&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2096": {
+    "query": "AFE_2096",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2096&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_074874203.1": {
+    "query": "WP_074874203.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_074874203.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2097": {
+    "query": "AFE_2097",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2097&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_148208624.1": {
+    "query": "WP_148208624.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_148208624.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012536969.1": {
+    "query": "WP_012536969.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536969.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_041647398.1": {
+    "query": "WP_041647398.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041647398.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2103": {
+    "query": "AFE_2103",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2103&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2104": {
+    "query": "AFE_2104",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2104&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2105": {
+    "query": "AFE_2105",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2105&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2106": {
+    "query": "AFE_2106",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2106&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2107": {
+    "query": "AFE_2107",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2107&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_229129717.1": {
+    "query": "WP_229129717.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_229129717.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2111": {
+    "query": "AFE_2111",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2111&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2112": {
+    "query": "AFE_2112",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2112&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_041646221.1": {
+    "query": "WP_041646221.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041646221.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2113": {
+    "query": "AFE_2113",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2113&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2114": {
+    "query": "AFE_2114",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2114&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2115": {
+    "query": "AFE_2115",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2115&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2116": {
+    "query": "AFE_2116",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2116&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012607322.1": {
+    "query": "WP_012607322.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607322.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2118": {
+    "query": "AFE_2118",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2118&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2119": {
+    "query": "AFE_2119",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2119&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2120": {
+    "query": "AFE_2120",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2120&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2121": {
+    "query": "AFE_2121",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2121&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2122": {
+    "query": "AFE_2122",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2122&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2123": {
+    "query": "AFE_2123",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2123&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2124": {
+    "query": "AFE_2124",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2124&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2125": {
+    "query": "AFE_2125",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2125&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2126": {
+    "query": "AFE_2126",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2126&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Sequencing and bioinformatics analysis of the metal-related genes in Acidithiobacillus ferrooxidans strain DC.",
+        "doi": "10.1007/s12223-013-0244-8",
+        "pmid": "23564605",
+        "pmcid": "",
+        "year": "2013",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2127": {
+    "query": "AFE_2127",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2127&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2129": {
+    "query": "AFE_2129",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2129&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Toxin-antitoxin systems in the mobile genome of Acidithiobacillus ferrooxidans.",
+        "doi": "10.1371/journal.pone.0112226",
+        "pmid": "25384039",
+        "pmcid": "PMC4226512",
+        "year": "2014",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2130": {
+    "query": "AFE_2130",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2130&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Toxin-antitoxin systems in the mobile genome of Acidithiobacillus ferrooxidans.",
+        "doi": "10.1371/journal.pone.0112226",
+        "pmid": "25384039",
+        "pmcid": "PMC4226512",
+        "year": "2014",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "WP_257246597.1": {
+    "query": "WP_257246597.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_257246597.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2132": {
+    "query": "AFE_2132",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2132&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2131": {
+    "query": "AFE_2131",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2131&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2133": {
+    "query": "AFE_2133",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2133&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2134": {
+    "query": "AFE_2134",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2134&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2135": {
+    "query": "AFE_2135",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2135&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2137": {
+    "query": "AFE_2137",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2137&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2136": {
+    "query": "AFE_2136",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2136&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2138": {
+    "query": "AFE_2138",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2138&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2139": {
+    "query": "AFE_2139",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2139&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2140": {
+    "query": "AFE_2140",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2140&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2142": {
+    "query": "AFE_2142",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2142&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2143": {
+    "query": "AFE_2143",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2143&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2144": {
+    "query": "AFE_2144",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2144&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2145": {
+    "query": "AFE_2145",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2145&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2146": {
+    "query": "AFE_2146",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2146&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2147": {
+    "query": "AFE_2147",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2147&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2148": {
+    "query": "AFE_2148",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2148&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2149": {
+    "query": "AFE_2149",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2149&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2150": {
+    "query": "AFE_2150",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2150&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2151": {
+    "query": "AFE_2151",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2151&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2152": {
+    "query": "AFE_2152",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2152&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2153": {
+    "query": "AFE_2153",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2153&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2154": {
+    "query": "AFE_2154",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2154&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2155": {
+    "query": "AFE_2155",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2155&format=json&pageSize=20&resultType=core",
+    "hitCount": 5,
+    "papers": [
+      {
+        "title": "The Catalytic Role of RuBisCO for <i>in situ</i> CO<sub>2</sub> Recycling in <i>Escherichia coli</i>.",
+        "doi": "10.3389/fbioe.2020.543807",
+        "pmid": "33330409",
+        "pmcid": "PMC7734965",
+        "year": "2020",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      },
+      {
+        "title": "Effect of CO<sub>2</sub> Concentration on Uptake and Assimilation of Inorganic Carbon in the Extreme Acidophile <i>Acidithiobacillus ferrooxidans</i>.",
+        "doi": "10.3389/fmicb.2019.00603",
+        "pmid": "31019493",
+        "pmcid": "PMC6458275",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Identification and characterization of multiple rubisco activases in chemoautotrophic bacteria.",
+        "doi": "10.1038/ncomms9883",
+        "pmid": "26567524",
+        "pmcid": "PMC4660213",
+        "year": "2015",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Development of a markerless gene replacement system for Acidithiobacillus ferrooxidans and construction of a pfkB mutant.",
+        "doi": "10.1128/aem.07230-11",
+        "pmid": "22210219",
+        "pmcid": "PMC3298148",
+        "year": "2012",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2157": {
+    "query": "AFE_2157",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2157&format=json&pageSize=20&resultType=core",
+    "hitCount": 4,
+    "papers": [
+      {
+        "title": "The Catalytic Role of RuBisCO for <i>in situ</i> CO<sub>2</sub> Recycling in <i>Escherichia coli</i>.",
+        "doi": "10.3389/fbioe.2020.543807",
+        "pmid": "33330409",
+        "pmcid": "PMC7734965",
+        "year": "2020",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Effect of CO<sub>2</sub> Concentration on Uptake and Assimilation of Inorganic Carbon in the Extreme Acidophile <i>Acidithiobacillus ferrooxidans</i>.",
+        "doi": "10.3389/fmicb.2019.00603",
+        "pmid": "31019493",
+        "pmcid": "PMC6458275",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Identification and characterization of multiple rubisco activases in chemoautotrophic bacteria.",
+        "doi": "10.1038/ncomms9883",
+        "pmid": "26567524",
+        "pmcid": "PMC4660213",
+        "year": "2015",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Extending the models for iron and sulfur oxidation in the extreme acidophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1186/1471-2164-10-394",
+        "pmid": "19703284",
+        "pmcid": "PMC2754497",
+        "year": "2009",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2158": {
+    "query": "AFE_2158",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2158&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Effect of CO<sub>2</sub> Concentration on Uptake and Assimilation of Inorganic Carbon in the Extreme Acidophile <i>Acidithiobacillus ferrooxidans</i>.",
+        "doi": "10.3389/fmicb.2019.00603",
+        "pmid": "31019493",
+        "pmcid": "PMC6458275",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2159": {
+    "query": "AFE_2159",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2159&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2156": {
+    "query": "AFE_2156",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2156&format=json&pageSize=20&resultType=core",
+    "hitCount": 3,
+    "papers": [
+      {
+        "title": "The Catalytic Role of RuBisCO for <i>in situ</i> CO<sub>2</sub> Recycling in <i>Escherichia coli</i>.",
+        "doi": "10.3389/fbioe.2020.543807",
+        "pmid": "33330409",
+        "pmcid": "PMC7734965",
+        "year": "2020",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Effect of CO<sub>2</sub> Concentration on Uptake and Assimilation of Inorganic Carbon in the Extreme Acidophile <i>Acidithiobacillus ferrooxidans</i>.",
+        "doi": "10.3389/fmicb.2019.00603",
+        "pmid": "31019493",
+        "pmcid": "PMC6458275",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Identification and characterization of multiple rubisco activases in chemoautotrophic bacteria.",
+        "doi": "10.1038/ncomms9883",
+        "pmid": "26567524",
+        "pmcid": "PMC4660213",
+        "year": "2015",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2160": {
+    "query": "AFE_2160",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2160&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2163": {
+    "query": "AFE_2163",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2163&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2161": {
+    "query": "AFE_2161",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2161&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2165": {
+    "query": "AFE_2165",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2165&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2166": {
+    "query": "AFE_2166",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2166&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2167": {
+    "query": "AFE_2167",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2167&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2169": {
+    "query": "AFE_2169",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2169&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2170": {
+    "query": "AFE_2170",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2170&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2171": {
+    "query": "AFE_2171",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2171&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2172": {
+    "query": "AFE_2172",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2172&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "The small heat shock proteins from Acidithiobacillus ferrooxidans: gene expression, phylogenetic analysis, and structural modeling.",
+        "doi": "10.1186/1471-2180-11-259",
+        "pmid": "22151959",
+        "pmcid": "PMC3252397",
+        "year": "2011",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2173": {
+    "query": "AFE_2173",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2173&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2175": {
+    "query": "AFE_2175",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2175&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2174": {
+    "query": "AFE_2174",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2174&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2176": {
+    "query": "AFE_2176",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2176&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2177": {
+    "query": "AFE_2177",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2177&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2178": {
+    "query": "AFE_2178",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2178&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2179": {
+    "query": "AFE_2179",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2179&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2181": {
+    "query": "AFE_2181",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2181&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "WP_012537035.1": {
+    "query": "WP_012537035.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537035.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2183": {
+    "query": "AFE_2183",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2183&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2184": {
+    "query": "AFE_2184",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2184&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2185": {
+    "query": "AFE_2185",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2185&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2186": {
+    "query": "AFE_2186",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2186&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2187": {
+    "query": "AFE_2187",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2187&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2188": {
+    "query": "AFE_2188",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2188&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009567471.1": {
+    "query": "WP_009567471.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567471.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2190": {
+    "query": "AFE_2190",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2190&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2192": {
+    "query": "AFE_2192",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2192&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2193": {
+    "query": "AFE_2193",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2193&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2194": {
+    "query": "AFE_2194",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2194&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2195": {
+    "query": "AFE_2195",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2195&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2196": {
+    "query": "AFE_2196",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2196&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009568772.1": {
+    "query": "WP_009568772.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009568772.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2199": {
+    "query": "AFE_2199",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2199&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2200": {
+    "query": "AFE_2200",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2200&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2203": {
+    "query": "AFE_2203",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2203&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2201": {
+    "query": "AFE_2201",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2201&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2204": {
+    "query": "AFE_2204",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2204&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537048.1": {
+    "query": "WP_012537048.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537048.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2205": {
+    "query": "AFE_2205",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2205&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2206": {
+    "query": "AFE_2206",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2206&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2207": {
+    "query": "AFE_2207",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2207&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2210": {
+    "query": "AFE_2210",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2210&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2209": {
+    "query": "AFE_2209",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2209&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2211": {
+    "query": "AFE_2211",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2211&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2214": {
+    "query": "AFE_2214",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2214&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2212": {
+    "query": "AFE_2212",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2212&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2215": {
+    "query": "AFE_2215",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2215&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2217": {
+    "query": "AFE_2217",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2217&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2216": {
+    "query": "AFE_2216",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2216&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2218": {
+    "query": "AFE_2218",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2218&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2220": {
+    "query": "AFE_2220",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2220&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2221": {
+    "query": "AFE_2221",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2221&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2219": {
+    "query": "AFE_2219",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2219&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2222": {
+    "query": "AFE_2222",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2222&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2223": {
+    "query": "AFE_2223",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2223&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2225": {
+    "query": "AFE_2225",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2225&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537065.1": {
+    "query": "WP_012537065.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537065.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2224": {
+    "query": "AFE_2224",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2224&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537066.1": {
+    "query": "WP_012537066.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537066.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2227": {
+    "query": "AFE_2227",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2227&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2228": {
+    "query": "AFE_2228",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2228&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2229": {
+    "query": "AFE_2229",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2229&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2231": {
+    "query": "AFE_2231",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2231&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2232": {
+    "query": "AFE_2232",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2232&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2233": {
+    "query": "AFE_2233",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2233&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2238": {
+    "query": "AFE_2238",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2238&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2235": {
+    "query": "AFE_2235",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2235&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_423364961.1": {
+    "query": "WP_423364961.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_423364961.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2239": {
+    "query": "AFE_2239",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2239&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2240": {
+    "query": "AFE_2240",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2240&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2242": {
+    "query": "AFE_2242",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2242&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2241": {
+    "query": "AFE_2241",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2241&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2245": {
+    "query": "AFE_2245",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2245&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2246": {
+    "query": "AFE_2246",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2246&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2248": {
+    "query": "AFE_2248",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2248&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2250": {
+    "query": "AFE_2250",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2250&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537082.1": {
+    "query": "WP_012537082.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537082.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2251": {
+    "query": "AFE_2251",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2251&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2254": {
+    "query": "AFE_2254",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2254&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2255": {
+    "query": "AFE_2255",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2255&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2256": {
+    "query": "AFE_2256",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2256&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2257": {
+    "query": "AFE_2257",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2257&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2258": {
+    "query": "AFE_2258",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2258&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2259": {
+    "query": "AFE_2259",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2259&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2260": {
+    "query": "AFE_2260",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2260&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2261": {
+    "query": "AFE_2261",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2261&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2263": {
+    "query": "AFE_2263",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2263&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2262": {
+    "query": "AFE_2262",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2262&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2264": {
+    "query": "AFE_2264",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2264&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2265": {
+    "query": "AFE_2265",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2265&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2267": {
+    "query": "AFE_2267",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2267&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2266": {
+    "query": "AFE_2266",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2266&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Periplasmic proteins of the extremophile Acidithiobacillus ferrooxidans: a high throughput proteomics analysis.",
+        "doi": "10.1074/mcp.m700042-mcp200",
+        "pmid": "17911085",
+        "pmcid": "PMC4631397",
+        "year": "2007",
+        "isOpenAccess": "N"
+      }
+    ]
+  },
+  "AFE_2269": {
+    "query": "AFE_2269",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2269&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2270": {
+    "query": "AFE_2270",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2270&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2268": {
+    "query": "AFE_2268",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2268&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2271": {
+    "query": "AFE_2271",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2271&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2272": {
+    "query": "AFE_2272",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2272&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2273": {
+    "query": "AFE_2273",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2273&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2274": {
+    "query": "AFE_2274",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2274&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2275": {
+    "query": "AFE_2275",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2275&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Insights into the Quorum Sensing Regulon of the Acidophilic Acidithiobacillus ferrooxidans Revealed by Transcriptomic in the Presence of an Acyl Homoserine Lactone Superagonist Analog.",
+        "doi": "10.3389/fmicb.2016.01365",
+        "pmid": "27683573",
+        "pmcid": "PMC5021923",
+        "year": "2016",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2276": {
+    "query": "AFE_2276",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2276&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2277": {
+    "query": "AFE_2277",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2277&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2278": {
+    "query": "AFE_2278",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2278&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2279": {
+    "query": "AFE_2279",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2279&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2282": {
+    "query": "AFE_2282",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2282&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2281": {
+    "query": "AFE_2281",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2281&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2283": {
+    "query": "AFE_2283",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2283&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2280": {
+    "query": "AFE_2280",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2280&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2284": {
+    "query": "AFE_2284",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2284&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2285": {
+    "query": "AFE_2285",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2285&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2286": {
+    "query": "AFE_2286",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2286&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2287": {
+    "query": "AFE_2287",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2287&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2288": {
+    "query": "AFE_2288",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2288&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_009563788.1": {
+    "query": "WP_009563788.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009563788.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2292": {
+    "query": "AFE_2292",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2292&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2294": {
+    "query": "AFE_2294",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2294&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2295": {
+    "query": "AFE_2295",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2295&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_158303827.1": {
+    "query": "WP_158303827.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_158303827.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2296": {
+    "query": "AFE_2296",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2296&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2297": {
+    "query": "AFE_2297",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2297&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2299": {
+    "query": "AFE_2299",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2299&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2300": {
+    "query": "AFE_2300",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2300&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2301": {
+    "query": "AFE_2301",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2301&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2302": {
+    "query": "AFE_2302",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2302&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2298": {
+    "query": "AFE_2298",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2298&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2303": {
+    "query": "AFE_2303",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2303&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2304": {
+    "query": "AFE_2304",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2304&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2305": {
+    "query": "AFE_2305",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2305&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2306": {
+    "query": "AFE_2306",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2306&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2307": {
+    "query": "AFE_2307",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2307&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2309": {
+    "query": "AFE_2309",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2309&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2312": {
+    "query": "AFE_2312",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2312&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Enhancement Mechanism of Stibnite Dissolution Mediated by <i>Acidithiobacillus ferrooxidans</i> under Extremely Acidic Condition.",
+        "doi": "10.3390/ijms23073580",
+        "pmid": "35408938",
+        "pmcid": "PMC8998812",
+        "year": "2022",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2313": {
+    "query": "AFE_2313",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2313&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2314": {
+    "query": "AFE_2314",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2314&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2316": {
+    "query": "AFE_2316",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2316&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2318": {
+    "query": "AFE_2318",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2318&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2319": {
+    "query": "AFE_2319",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2319&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2320": {
+    "query": "AFE_2320",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2320&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2321": {
+    "query": "AFE_2321",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2321&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "CRISPR/dCas12a knock-down of Acidithiobacillus ferrooxidans electron transport chain bc&lt;sub&gt;1&lt;/sub&gt; complexes enables enhanced metal sulfide bioleaching.",
+        "doi": "10.1016/j.jbc.2024.107703",
+        "pmid": "39173952",
+        "pmcid": "PMC11421330",
+        "year": "2024",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2322": {
+    "query": "AFE_2322",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2322&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2323": {
+    "query": "AFE_2323",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2323&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "CRISPR/dCas12a knock-down of Acidithiobacillus ferrooxidans electron transport chain bc&lt;sub&gt;1&lt;/sub&gt; complexes enables enhanced metal sulfide bioleaching.",
+        "doi": "10.1016/j.jbc.2024.107703",
+        "pmid": "39173952",
+        "pmcid": "PMC11421330",
+        "year": "2024",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2324": {
+    "query": "AFE_2324",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2324&format=json&pageSize=20&resultType=core",
+    "hitCount": 4,
+    "papers": [
+      {
+        "title": "CRISPR/dCas12a knock-down of Acidithiobacillus ferrooxidans electron transport chain bc&lt;sub&gt;1&lt;/sub&gt; complexes enables enhanced metal sulfide bioleaching.",
+        "doi": "10.1016/j.jbc.2024.107703",
+        "pmid": "39173952",
+        "pmcid": "PMC11421330",
+        "year": "2024",
+        "isOpenAccess": "Y"
+      },
+      {
+        "title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1128/aem.03057-12",
+        "pmid": "23354702",
+        "pmcid": "PMC3623243",
+        "year": "2013",
+        "isOpenAccess": "N"
+      },
+      {
+        "title": "Development of a markerless gene replacement system for Acidithiobacillus ferrooxidans and construction of a pfkB mutant.",
+        "doi": "10.1128/aem.07230-11",
+        "pmid": "22210219",
+        "pmcid": "PMC3298148",
+        "year": "2012",
+        "isOpenAccess": "N"
+      },
+      {
+        "title": "Extending the models for iron and sulfur oxidation in the extreme acidophile Acidithiobacillus ferrooxidans.",
+        "doi": "10.1186/1471-2164-10-394",
+        "pmid": "19703284",
+        "pmcid": "PMC2754497",
+        "year": "2009",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2328": {
+    "query": "AFE_2328",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2328&format=json&pageSize=20&resultType=core",
+    "hitCount": 1,
+    "papers": [
+      {
+        "title": "Proteomics Reveal Enhanced Oxidative Stress Responses and Metabolic Adaptation in <i>Acidithiobacillus ferrooxidans</i> Biofilm Cells on Pyrite.",
+        "doi": "10.3389/fmicb.2019.00592",
+        "pmid": "30984136",
+        "pmcid": "PMC6450195",
+        "year": "2019",
+        "isOpenAccess": "Y"
+      }
+    ]
+  },
+  "AFE_2330": {
+    "query": "AFE_2330",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2330&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2327": {
+    "query": "AFE_2327",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2327&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2333": {
+    "query": "AFE_2333",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2333&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2325": {
+    "query": "AFE_2325",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2325&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2332": {
+    "query": "AFE_2332",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2332&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2337": {
+    "query": "AFE_2337",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2337&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "WP_012537129.1": {
+    "query": "WP_012537129.1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537129.1&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2338": {
+    "query": "AFE_2338",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2338&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2339": {
+    "query": "AFE_2339",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2339&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2342": {
+    "query": "AFE_2342",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2342&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2340": {
+    "query": "AFE_2340",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2340&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  },
+  "AFE_2341": {
+    "query": "AFE_2341",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2341&format=json&pageSize=20&resultType=core",
+    "hitCount": 0,
+    "papers": []
+  }
+}

@@ -1,0 +1,9 @@
+constraint	value
+RUBISCO	0
+RUBISCOX	0
+glucose	(-5.0, 0.0)
+Ex_fe2[e]	(-164.509, 0.0)
+Ex_o2[e]	(-38.6634, 0.0)
+Ex_h2co3[e]	(-1000.0, 0.0)
+biomass_threshold	> 1e-6
+condition	FIM

@@ -1,0 +1,5 @@
+candidate	native_equivalent	classification
+GAPDH_NADP_fwd	GAPD2 (13dpg+NADPH->g3p+NADP, reversible)	MODEL_EQUIVALENT (excluded as non-native)
+G6PDH_NAD	G6PDH2 (NADP only, reversible)	POSSIBLY_NATIVE (NAD isoform missing)
+NADHDH	NADHI (reverse-ETC only, NAD+->NADH)	POTENTIAL_MODEL_OMISSION (direction)
+ICL/ME/PC/PEPCK/PEPS/PPDK/PFL/PGDH6	absent	TRUE_NETWORK_ADDITION / LIKELY_HETEROLOGOUS

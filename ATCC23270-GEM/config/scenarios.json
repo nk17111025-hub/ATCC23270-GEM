@@ -1,0 +1,394 @@
+{
+  "schema_version": "1.0",
+  "objective": "Ex_bio[e]",
+  "source": {
+    "condition_bounds": "D:\\嗜酸氧化亚铁硫杆菌\\baseline_v0\\minimal_trustworthy_baseline\\phase5B6\\00_provenance\\v3\\v3_condition_definition.tsv",
+    "note": "Recovered from the frozen v3 baseline; exchange-only condition bounds."
+  },
+  "conditions": {
+    "FIM": {
+      "donor_exchange": "Ex_fe2[e]",
+      "carbon_source": "H2CO3 (inorganic), fixed at -2",
+      "exchange_bounds": {
+        "Ex_4hba[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_bio[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_ca2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_cu2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_eps_AFE[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_fe2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_fe3[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_h2[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_h2co3[e]": [
+          -2.0,
+          -2.0
+        ],
+        "Ex_h2o[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_h2s[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_h[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_k[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_mg2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_mn2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_n2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_na1[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_nh4[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_o2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_pi[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_polypi[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_ppt[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_s[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_so4[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_so4aa[e]": [
+          -1000.0,
+          0.0
+        ],
+        "Ex_tsul[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_ttton[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_zn2[e]": [
+          -1000.0,
+          1000.0
+        ]
+      }
+    },
+    "TTM": {
+      "donor_exchange": "Ex_ttton[e]",
+      "carbon_source": "H2CO3 (inorganic), fixed at -2",
+      "exchange_bounds": {
+        "Ex_4hba[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_bio[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_ca2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_cu2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_eps_AFE[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_fe2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_fe3[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_h2[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_h2co3[e]": [
+          -2.0,
+          -2.0
+        ],
+        "Ex_h2o[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_h2s[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_h[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_k[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_mg2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_mn2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_n2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_na1[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_nh4[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_o2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_pi[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_polypi[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_ppt[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_s[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_so4[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_so4aa[e]": [
+          -1000.0,
+          0.0
+        ],
+        "Ex_tsul[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_ttton[e]": [
+          -1000.0,
+          0.0
+        ],
+        "Ex_zn2[e]": [
+          -1000.0,
+          1000.0
+        ]
+      }
+    },
+    "TSM": {
+      "donor_exchange": "Ex_tsul[e]",
+      "carbon_source": "H2CO3 (inorganic), fixed at -2",
+      "exchange_bounds": {
+        "Ex_4hba[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_bio[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_ca2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_cu2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_eps_AFE[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_fe2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_fe3[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_h2[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_h2co3[e]": [
+          -2.0,
+          -2.0
+        ],
+        "Ex_h2o[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_h2s[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_h[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_k[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_mg2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_mn2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_n2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_na1[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_nh4[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_o2[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_pi[e]": [
+          -1000.0,
+          1000.0
+        ],
+        "Ex_polypi[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_ppt[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_s[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_so4[e]": [
+          0.0,
+          1000.0
+        ],
+        "Ex_so4aa[e]": [
+          -1000.0,
+          0.0
+        ],
+        "Ex_tsul[e]": [
+          -1000.0,
+          0.0
+        ],
+        "Ex_ttton[e]": [
+          0.0,
+          0.0
+        ],
+        "Ex_zn2[e]": [
+          -1000.0,
+          1000.0
+        ]
+      }
+    }
+  },
+  "perturbations": {
+    "WT": {
+      "Ex_h2co3[e]": [
+        -2.0,
+        -2.0
+      ]
+    },
+    "no_carbon": {
+      "Ex_h2co3[e]": [
+        0.0,
+        0.0
+      ]
+    },
+    "glucose_closed": {
+      "Ex_glc-B[e]": [
+        0.0,
+        0.0
+      ],
+      "Ex_h2co3[e]": [
+        -2.0,
+        -2.0
+      ]
+    }
+  },
+  "perturbation_semantics": {
+    "WT": "condition exchange bounds + CO2 fixed at -2; glucose and donor open",
+    "no_donor": "condition exchange bounds + CO2 fixed at -2; close the condition donor exchange (Fe2/ttton/tsul)",
+    "no_carbon": "condition exchange bounds + CO2 closed (0/0); glucose and donor open",
+    "glucose_closed": "condition exchange bounds + CO2 fixed at -2 + glucose exchange closed (0/0)"
+  }
+}

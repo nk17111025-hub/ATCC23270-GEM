@@ -1,0 +1,58 @@
+candidate_id	name	tier	source	reversible	equation	ec
+BC_GLUTAMIN-RXN		native_omission	BioCyc	False	1.0 gln-L[c] + 1.0 h2o[c] -> 1.0 glu-L[c] + 1.0 nh4[c]	EC-3.5.1.38 T;EC-3.5.1.2 T
+BC_MALIC-NADP-RXN		native_omission	BioCyc	False	1.0 mal-L[c] + 1.0 nadp[c] -> 1.0 co2[c] + 1.0 nadph[c] + 1.0 pyr[c]	EC-1.1.1.40 T
+BC_PEPCARBOX-RXN		native_omission	BioCyc	False	1.0 hco3[c] + 1.0 pep[c] -> 1.0 oaa[c] + 1.0 pi[c]	EC-4.1.1.31 T
+BC_RXN-7609		native_omission	BioCyc	False	1.0 gmp[c] + 1.0 h2o[c] -> 1.0 gsn[c] + 1.0 pi[c]	EC-3.1.3.5
+BC_RXN0-723		native_omission	BioCyc	False	1.0 ctp[c] + 1.0 for[c] + 1.0 h[c] -> 1.0 co2[c] + 1.0 dctp[c] + 1.0 h2o[c]	EC-1.1.98.6
+BC_PPENTOMUT-RXN		native_omission	BioCyc	False	1.0 r1p[c] -> 1.0 r5p[c]	EC-5.4.2.7 T
+BC_TRYPSYN-RXN		native_omission	BioCyc	False	1.0 3ig3p[c] + 1.0 ser-L[c] -> 1.0 g3p[c] + 1.0 h2o[c] + 1.0 trp-L[c]	EC-4.2.1.20 T
+BC_RXN-14093		native_omission	BioCyc	False	1.0 atp[c] + 1.0 dcyt[c] -> 1.0 adp[c] + 1.0 dcmp[c] + 1.0 h[c]	EC-2.7.1.74;EC-2.7.1.145
+BC_RXN-12195		native_omission	BioCyc	False	1.0 ctp[c] + 1.0 h2o[c] -> 1.0 cdp[c] + 1.0 h[c] + 1.0 pi[c]	EC-3.6.1.15
+BC_PYRUVFORMLY-RXN		native_omission	BioCyc	False	1.0 coa[c] + 1.0 pyr[c] -> 1.0 accoa[c] + 1.0 for[c]	EC-2.3.1.54 T
+BC_ASNSYNA-RXN		native_omission	BioCyc	False	1.0 asp-L[c] + 1.0 atp[c] + 1.0 nh4[c] -> 1.0 amp[c] + 1.0 asn-L[c] + 1.0 h[c] + 1.0 ppi[c]	EC-6.3.1.1 T
+BC_RXN-14025		native_omission	BioCyc	False	1.0 h2o[c] + 1.0 ump[c] -> 1.0 pi[c] + 1.0 uri[c]	EC-3.1.3.5
+BC_RXN-12198		native_omission	BioCyc	False	1.0 cdp[c] + 1.0 h2o[c] -> 1.0 cmp[c] + 1.0 h[c] + 1.0 pi[c]	EC-3.6.1.6
+BC_MALATE-DEHYDROGENASE-NADP+-RXN		native_omission	BioCyc	True	1.0 mal-L[c] + 1.0 nadp[c] -> 1.0 h[c] + 1.0 nadph[c] + 1.0 oaa[c]	EC-1.1.1.82 T
+BC_RXN-14026		native_omission	BioCyc	False	1.0 cmp[c] + 1.0 h2o[c] -> 1.0 cytd[c] + 1.0 pi[c]	EC-3.1.3.91 T;EC-3.1.3.5
+BC_RXN0-746		native_omission	BioCyc	False	1.0 for[c] + 1.0 gtp[c] + 1.0 h[c] -> 1.0 co2[c] + 1.0 dgtp[c] + 1.0 h2o[c]	EC-1.1.98.6
+BC_RXN-13698		native_omission	BioCyc	True	1.0 akg[c] + 1.0 ala-L[c] -> 1.0 glu-L[c] + 1.0 pyr[c]	EC-2.6.1.2
+BC_RXN-13158		native_omission	BioCyc	False	1.0 3c2hmp[c] + 1.0 nad[c] -> 1.0 4mop[c] + 1.0 co2[c] + 1.0 nadh[c]	EC-1.1.1.85 T
+BC_AMP-DEPHOSPHORYLATION-RXN		native_omission	BioCyc	False	1.0 amp[c] + 1.0 h2o[c] -> 1.0 adn[c] + 1.0 pi[c]	EC-3.1.3.5
+BC_GLUTDEHYD-RXN		native_omission	BioCyc	False	1.0 akg[c] + 1.0 h[c] + 1.0 nadph[c] + 1.0 nh4[c] -> 1.0 glu-L[c] + 1.0 h2o[c] + 1.0 nadp[c]	EC-1.4.1.4 T
+BC_1.1.1.39-RXN		native_omission	BioCyc	False	1.0 mal-L[c] + 1.0 nad[c] -> 1.0 co2[c] + 1.0 nadh[c] + 1.0 pyr[c]	EC-1.1.1.38 T
+BC_RXN-14192		native_omission	BioCyc	False	1.0 dadp[c] + 1.0 h[c] + 1.0 pep[c] -> 1.0 datp[c] + 1.0 pyr[c]	EC-2.7.1.40
+BC_2-OCTAPRENYLPHENOL-HYDROX-RXN		native_omission	BioCyc	False	1.0 2oph[c] + 1.0 h[c] + 1.0 nadph[c] + 1.0 o2[c] -> 1.0 2ohph[c] + 1.0 h2o[c] + 1.0 nadp[c]	EC-1.14.13.240
+BC_RXN-9952		native_omission	BioCyc	False	1.0 6pgc[c] + 1.0 nadp[c] -> 1.0 co2[c] + 1.0 nadph[c] + 1.0 ru5p-D[c]	EC-1.1.1.44 T
+BC_KETOBUTFORMLY-RXN		native_omission	BioCyc	False	1.0 2obut[c] + 1.0 coa[c] -> 1.0 for[c] + 1.0 ppcoa[c]	EC-2.3.1
+BC_RXN-14118		native_omission	BioCyc	False	1.0 ctp[c] + 1.0 h2o[c] + 1.0 h[c] -> 1.0 nh4[c] + 1.0 utp[c]	EC-3.5.4.13
+BC_RXN0-6491	dihydroorotate dehydrogenase	native_omission	BioCyc	False	1.0 dhor-S[c] + 1.0 q8[c] -> 1.0 orot[c] + 1.0 q8h2[c]	EC-1.3.5.2
+BC_RXN0-724		native_omission	BioCyc	False	1.0 for[c] + 1.0 h[c] + 1.0 utp[c] -> 1.0 co2[c] + 1.0 dutp[c] + 1.0 h2o[c]	EC-1.1.98.6
+BC_XMPXAN-RXN		native_omission	BioCyc	False	1.0 h2o[c] + 1.0 xmp[c] -> 1.0 pi[c] + 1.0 xtsn[c]	EC-3.1.3.5
+BC_RXN-12196		native_omission	BioCyc	False	1.0 h2o[c] + 1.0 utp[c] -> 1.0 h[c] + 1.0 pi[c] + 1.0 udp[c]	EC-3.6.1.15
+BC_RXN-13179		native_omission	BioCyc	False	1.0 nad[c] + 1.0 phthr[c] -> 1.0 amoxoylph[c] + 1.0 co2[c] + 1.0 nadh[c]	EC-1.1.1.262 T
+BC_RXN-8642		native_omission	BioCyc	True	1.0 h[c] + 1.0 osuc[c] -> 1.0 akg[c] + 1.0 co2[c]	
+BC_RXN-19022		native_omission	BioCyc	False	1.0 glu5p[c] -> 1.0 5oxpro[c] + 1.0 h[c] + 1.0 pi[c]	
+BC_RXN-12197		native_omission	BioCyc	False	1.0 h2o[c] + 1.0 udp[c] -> 1.0 h[c] + 1.0 pi[c] + 1.0 ump[c]	EC-3.6.1.6
+BC_RXN0-5462		native_omission	BioCyc	False	1.0 gtp[c] + 1.0 h2o[c] -> 1.0 gdp[c] + 1.0 h[c] + 1.0 pi[c]	EC-3.6.1.15;EC-3.6.1;EC-3.6.5.1 T;EC-3.6.5.2 T;EC-3.6.5.3 T;EC-3.6.5.4 T;EC-3.6.5.5 T;EC-3.6.5.6 T
+BC_RXN0-745		native_omission	BioCyc	False	1.0 atp[c] + 1.0 for[c] + 1.0 h[c] -> 1.0 co2[c] + 1.0 datp[c] + 1.0 h2o[c]	EC-1.1.98.6
+BC_RXN-17900		native_omission	BioCyc	False	1.0 nh4[c] + 1.0 prlp[c] -> 1.0 aicar[c] + 1.0 eig3p[c] + 1.0 h2o[c] + 1.0 h[c]	
+BC_PEPCARBOXYKIN-RXN		native_omission	BioCyc	True	1.0 atp[c] + 1.0 oaa[c] -> 1.0 adp[c] + 1.0 co2[c] + 1.0 pep[c]	EC-4.1.1.49 T
+BC_RXN-14117		native_omission	BioCyc	False	1.0 gdp[c] + 1.0 h[c] + 1.0 pep[c] -> 1.0 gtp[c] + 1.0 pyr[c]	EC-2.7.1.40
+BC_OXALODECARB-RXN		native_omission	BioCyc	False	1.0 h[c] + 1.0 oaa[c] -> 1.0 co2[c] + 1.0 pyr[c]	EC-4.1.1.112 T
+BC_RXN-14207		native_omission	BioCyc	False	1.0 dgdp[c] + 1.0 h[c] + 1.0 pep[c] -> 1.0 dgtp[c] + 1.0 pyr[c]	EC-2.7.1.40
+G6PDH2r_fwd	glucose-6-phosphate dehydrogenase (oxidative)	heterologous	BiGG	False	1 g6p-B[c] + 1 nadp[c] -> 1 6pgl[c] + 1 h[c] + 1 nadph[c]	1.1.1.49
+G6PDH_NAD	glucose-6-phosphate dehydrogenase (NAD)	heterologous	BiGG	False	1 g6p-B[c] + 1 nad[c] -> 1 6pgl[c] + 1 h[c] + 1 nadh[c]	1.1.1.363
+GND	6-phosphogluconate dehydrogenase	heterologous	BiGG	False	1 6pgc[c] + 1 nadp[c] -> 1 co2[c] + 1 nadph[c] + 1 ru5p-D[c]	1.1.1.44
+RPIr	ribose-5-phosphate isomerase (R5P->Ru5P)	heterologous	BiGG	True	1 ru5p-D[c] -> 1 r5p[c]	5.3.1.6
+AKGD	2-oxoglutarate dehydrogenase	heterologous	BiGG	False	1 akg[c] + 1 coa[c] + 1 nad[c] -> 1 co2[c] + 1 nadh[c] + 1 succoa[c]	1.2.1.105
+ME1	malic enzyme (NAD)	heterologous	BiGG	False	1 mal-L[c] + 1 nad[c] -> 1 co2[c] + 1 nadh[c] + 1 pyr[c]	1.1.1.38
+ME2	malic enzyme (NADP)	heterologous	BiGG	False	1 mal-L[c] + 1 nadp[c] -> 1 co2[c] + 1 nadph[c] + 1 pyr[c]	1.1.1.40
+PEPCK	phosphoenolpyruvate carboxykinase (ATP)	heterologous	BiGG	True	1 atp[c] + 1 oaa[c] -> 1 adp[c] + 1 co2[c] + 1 pep[c]	4.1.1.49
+PPS	phosphoenolpyruvate synthase	heterologous	BiGG	False	1 atp[c] + 1 h2o[c] + 1 pyr[c] -> 1 amp[c] + 2 h[c] + 1 pep[c] + 1 pi[c]	2.7.9.2
+ICL	isocitrate lyase	heterologous	BiGG	False	1 icit[c] -> 1 glx[c] + 1 succ[c]	4.1.3.1
+GDH_NADP	glutamate dehydrogenase (NADP)	heterologous	BiGG	False	1 akg[c] + 1 h[c] + 1 nadph[c] + 1 nh4[c] -> 1 glu-L[c] + 1 h2o[c] + 1 nadp[c]	1.4.1.4
+GDH_NAD	glutamate dehydrogenase (NAD)	heterologous	BiGG	False	1 akg[c] + 1 h[c] + 1 nadh[c] + 1 nh4[c] -> 1 glu-L[c] + 1 h2o[c] + 1 nad[c]	1.4.1.2
+THD	NAD(P) transhydrogenase	heterologous	BiGG	True	1 nad[c] + 1 nadph[c] -> 1 nadh[c] + 1 nadp[c]	1.6.1.2
+NOXP	NADPH oxidase (H2O-forming, soluble)	heterologous	BiGG	False	1 h[c] + 1 nadph[c] + 0.5 o2[c] -> 1 h2o[c] + 1 nadp[c]	1.6.3.1
+PFL	pyruvate formate lyase	heterologous	BiGG	False	1 coa[c] + 1 pyr[c] -> 1 accoa[c] + 1 for[c]	2.3.1.54
+PEPCK_GTP	PEP carboxykinase (GTP)	heterologous	BiGG	True	1 gtp[c] + 1 oaa[c] -> 1 co2[c] + 1 gdp[c] + 1 pep[c]	4.1.1.32

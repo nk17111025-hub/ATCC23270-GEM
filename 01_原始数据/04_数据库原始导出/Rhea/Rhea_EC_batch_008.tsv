@@ -1,0 +1,19 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:16609	AMP + diphosphate = 5-phospho-alpha-D-ribose 1-diphosphate + adenine	EC:2.4.2.7	CHEBI:456215;CHEBI:33019;CHEBI:58017;CHEBI:16708	KEGG:R00190	MetaCyc:ADENPRIBOSYLTRAN-RXN
+RHEA:24388	uridine + phosphate = alpha-D-ribose 1-phosphate + uracil	EC:2.4.2.2;EC:2.4.2.3	CHEBI:16704;CHEBI:43474;CHEBI:57720;CHEBI:17568	KEGG:R01876	MetaCyc:URPHOS-RXN
+RHEA:28070	heme b + (2E,6E)-farnesyl diphosphate + H2O = Fe(II)-heme o + diphosphate	EC:2.5.1.141	CHEBI:60344;CHEBI:175763;CHEBI:15377;CHEBI:60530;CHEBI:33019	KEGG:R07411	MetaCyc:HEMEOSYN-RXN
+RHEA:17973	IMP + diphosphate = hypoxanthine + 5-phospho-alpha-D-ribose 1-diphosphate	EC:2.4.2.8	CHEBI:58053;CHEBI:33019;CHEBI:17368;CHEBI:58017	KEGG:R01132	MetaCyc:HYPOXANPRIBOSYLTRAN-RXN
+RHEA:23192	Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-di-trans,octa-cis-undecaprenyl diphosphate + UDP-N-acetyl-alpha-D-glucosamine = beta-D-GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-di-trans,octa-cis-undecaprenyl diphosphate + UDP + H(+)	EC:2.4.1.227	CHEBI:60032;CHEBI:57705;CHEBI:60033;CHEBI:58223;CHEBI:15378	KEGG:R05662	MetaCyc:RXN-8976
+RHEA:25424	GMP + diphosphate = guanine + 5-phospho-alpha-D-ribose 1-diphosphate	EC:2.4.2.8	CHEBI:58115;CHEBI:33019;CHEBI:16235;CHEBI:58017	KEGG:R01229	MetaCyc:GUANPRIBOSYLTRAN-RXN
+RHEA:28066	lipid IVA (E. coli) + CMP-3-deoxy-beta-D-manno-octulosonate = alpha-Kdo-(2->6)-lipid IVA (E. coli) + CMP + H(+)	EC:2.4.99.12	CHEBI:58603;CHEBI:85987;CHEBI:60364;CHEBI:60377;CHEBI:15378	KEGG:R04658	MetaCyc:KDOTRANS-RXN
+RHEA:31227	di-trans,octa-cis-undecaprenyl diphospho-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + UDP-N-acetyl-alpha-D-glucosamine = di-trans,octa-cis-undecaprenyl diphospho-[N-acetyl-alpha-D-glucosaminyl-(1->4)]-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + UDP + H(+)	EC:2.4.1.227	CHEBI:61387;CHEBI:57705;CHEBI:61388;CHEBI:58223;CHEBI:15378	KEGG:R05032	MetaCyc:NACGLCTRANS-RXN
+RHEA:67844	a lipid IVA + CMP-3-deoxy-beta-D-manno-octulosonate = an alpha-Kdo-(2->6)-lipid IVA + CMP + H(+)	EC:2.4.99.12	CHEBI:176425;CHEBI:85987;CHEBI:176428;CHEBI:60377;CHEBI:15378		MetaCyc:RXN-22486
+RHEA:13233	guanosine + phosphate = alpha-D-ribose 1-phosphate + guanine	EC:2.4.2.1;EC:2.4.2.15	CHEBI:16750;CHEBI:43474;CHEBI:57720;CHEBI:16235	KEGG:R02147	MetaCyc:RXN0-5199
+RHEA:19805	a purine D-ribonucleoside + phosphate = a purine nucleobase + alpha-D-ribose 1-phosphate	EC:2.4.2.1	CHEBI:142355;CHEBI:43474;CHEBI:26386;CHEBI:57720	KEGG:R08368	MetaCyc:PNP-RXN
+RHEA:27638	xanthosine + phosphate = alpha-D-ribose 1-phosphate + xanthine	EC:2.4.2.1	CHEBI:18107;CHEBI:43474;CHEBI:57720;CHEBI:17712	KEGG:R02297	MetaCyc:XANTHOSINEPHOSPHORY-RXN
+RHEA:27642	adenosine + phosphate = alpha-D-ribose 1-phosphate + adenine	EC:2.4.2.1	CHEBI:16335;CHEBI:43474;CHEBI:57720;CHEBI:16708	KEGG:R01561	MetaCyc:ADENPHOSPHOR-RXN
+RHEA:27646	inosine + phosphate = alpha-D-ribose 1-phosphate + hypoxanthine	EC:2.4.2.1	CHEBI:17596;CHEBI:43474;CHEBI:57720;CHEBI:17368	KEGG:R01863	MetaCyc:INOPHOSPHOR-RXN
+RHEA:27738	2'-deoxyguanosine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + guanine	EC:2.4.2.1	CHEBI:17172;CHEBI:43474;CHEBI:57259;CHEBI:16235	KEGG:R01969	MetaCyc:DEOXYGUANPHOSPHOR-RXN
+RHEA:27742	2'-deoxyadenosine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + adenine	EC:2.4.2.1	CHEBI:17256;CHEBI:43474;CHEBI:57259;CHEBI:16708	KEGG:R02557	MetaCyc:DEOXYADENPHOSPHOR-RXN
+RHEA:27750	2'-deoxyinosine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + hypoxanthine	EC:2.4.2.1	CHEBI:28997;CHEBI:43474;CHEBI:57259;CHEBI:17368	KEGG:R02748	MetaCyc:DEOXYINOPHOSPHOR-RXN
+RHEA:36431	a purine 2'-deoxy-D-ribonucleoside + phosphate = a purine nucleobase + 2-deoxy-alpha-D-ribose 1-phosphate	EC:2.4.2.1	CHEBI:142361;CHEBI:43474;CHEBI:26386;CHEBI:57259		

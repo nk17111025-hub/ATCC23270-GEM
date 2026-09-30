@@ -1,0 +1,10 @@
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.idea/
+**/.tmp.drivedownload/
+**/.tmp.driveupload/
+*.pyc
+*.pyo
+Thumbs.db

@@ -1,0 +1,52 @@
+{
+  "baseline_original_FIM_WT": {
+    "biomass": 0.673529948005056,
+    "co2_flux": -2.0,
+    "fe2_flux": -1000.0,
+    "glucose_uptake": -3.977833303964595,
+    "o2_flux": -242.00093172816875,
+    "rubisco_flux": 4.143052406221354,
+    "status": "optimal"
+  },
+  "baseline_relaxed_CO2": {
+    "biomass": 0.7302586898902531,
+    "co2_flux": 0.0,
+    "fe2_flux": -1000.0,
+    "glucose_uptake": -4.674279012799309,
+    "o2_flux": -243.495654128335,
+    "rubisco_flux": 2.32355316518396,
+    "status": "optimal"
+  },
+  "donor_files": {
+    "iCN1361": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\ATCC23270-GEM\\external\\reference\\donor_models\\iCN1361.xml",
+    "iJN1463": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\ATCC23270-GEM\\external\\reference\\donor_models\\iJN1463.xml",
+    "iML1515": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\ATCC23270-GEM\\external\\reference\\donor_models\\iML1515.json"
+  },
+  "e1_candidate_rows": 2424,
+  "host_path": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\before final\\updatedv3.1_verified\\updatedv3.1.xml",
+  "host_sha256": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+  "initial_relaxed_baseline_before_uptake_caps": {
+    "biomass": 0.7302586898902687,
+    "co2_flux": 0.0,
+    "fe2_flux": -1000.0,
+    "glucose_uptake": -4.674279012799271,
+    "o2_flux": -243.49565412833485,
+    "rubisco_flux": 2.32355316518405,
+    "status": "optimal"
+  },
+  "reference_biomass": 0.7302586898902531,
+  "reference_rubisco_flux": 2.32355316518396,
+  "search_bound_policy": {
+    "basis": "glucose uptake capped at pre-cap relaxed baseline; oxygen exchange cannot produce O2",
+    "glucose": [
+      -4.674279012799271,
+      0.0
+    ],
+    "oxygen": [
+      -1000.0,
+      0.0
+    ]
+  },
+  "search_candidate_reaction_variants": 2427,
+  "solver_seed": 1
+}

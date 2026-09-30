@@ -1,0 +1,8 @@
+﻿来源: https://websvc.biocyc.org/apixml?fn=genes-of-protein&id=GCF_000021485:AFE_RS04805-MONOMER&detail=none
+获取时间: 2026-09-23T08:59:56.6519686+08:00
+HTTP状态: 200
+Content-Type: text/xml
+
+文件大小: 529
+SHA256: DEF242EFEC26E0DCD13B862AD8FFA6738119C6A05145C438E1259C0A82E44DD6
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\apixml_genes-of-protein_AFE_RS04805-MONOMER_none_20260923_085923.headers.txt

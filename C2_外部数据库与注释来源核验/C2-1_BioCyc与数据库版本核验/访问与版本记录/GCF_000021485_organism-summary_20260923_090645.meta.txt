@@ -1,0 +1,7 @@
+﻿来源: https://biocyc.org/GCF_000021485/organism-summary
+获取时间: 2026-09-23T09:07:52.9892781+08:00
+HTTP状态: 200
+Content-Type: text/html
+文件大小: 77421
+SHA256: 321F5EC1F9FBC0C538D3172EBB5A5B1523750937CC1F727FBAA9E2110F07B181
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\GCF_000021485_organism-summary_20260923_090645.headers.txt

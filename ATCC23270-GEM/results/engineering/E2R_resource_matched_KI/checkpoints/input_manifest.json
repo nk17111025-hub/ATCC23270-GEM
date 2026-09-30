@@ -1,0 +1,44 @@
+{
+  "B_WT": 0.052076387102740346,
+  "E1_rows": 2424,
+  "E2_helper_sha256": "858b68b92dfebdb317a0364673f6e2240e9c3ea150860ba1dcee233b5a662594",
+  "Fe_WT": 163.7815287437442,
+  "KI_positive_control": {
+    "no_KI_status": "infeasible",
+    "passed": true,
+    "selected_KI": [
+      "E1R_SMOKE_KI"
+    ],
+    "solver_status": "optimal"
+  },
+  "O2_WT": 38.48154267515412,
+  "R_REF": 0.7913449575127987,
+  "StrainDesign_source_sha256": "ff2cb1886c719bdc49b9c59356d0b8784e8a5a24b71bde6dd905f1bc1f802ebe",
+  "StrainDesign_version": "1.19.1",
+  "WT": {
+    "biomass": 0.05207638710274067,
+    "co2": -2.0,
+    "fe2": -163.7815287437442,
+    "glucose": 0.0,
+    "o2": -38.48154267515412,
+    "rubisco": 2.165697794164016
+  },
+  "candidate_variants": 2427,
+  "donor_files": {
+    "iCN1361": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\ATCC23270-GEM\\external\\reference\\donor_models\\iCN1361.xml",
+    "iJN1463": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\ATCC23270-GEM\\external\\reference\\donor_models\\iJN1463.xml",
+    "iML1515": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\ATCC23270-GEM\\external\\reference\\donor_models\\iML1515.json"
+  },
+  "fingerprint": "f0961cac81f343d0fe238200e8762fd0773ea156d80b66ff21b7c1cb5c50793b",
+  "host": "D:\\\u55dc\u9178\u6c27\u5316\u4e9a\u94c1\u786b\u6746\u83cc\\before final\\updatedv3.1_verified\\updatedv3.1.xml",
+  "host_sha256": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+  "mixed": {
+    "biomass": 0.0911667122963128,
+    "co2_flux": -0.5012687066607389,
+    "fe2_flux": -159.17929881937832,
+    "glucose_uptake": -0.5,
+    "o2_flux": -38.48154267515412,
+    "rubisco_flux": 0.7913449575127987
+  },
+  "solver": "StrainDesign SCIP, KI-only, ko_cost empty, unit costs, best max_cost=6, seed 1"
+}

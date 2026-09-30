@@ -1,0 +1,5 @@
+来源	官方URL	本地文件	检索日期	菌株/对象	版本或日期	访问状态	SHA256	备注
+BioCyc PGDB摘要页	https://biocyc.org/organism-summary?object=GCF_000021485	原始下载/BioCyc_GCF_000021485_organism-summary.html	2026-09-22	Acidithiobacillus ferrooxidans ATCC 23270 / GCF_000021485.1	BioCyc 30.0；PGDB生成2021-11-18	已取得公开摘要页	037DF90B0ED31F97138406BAB400675F9A26F2B7847CD3AB52CF19B4D04ED84B	含菌株、来源、统计和整理等级
+BioCyc PGDB列表页	https://biocyc.org/biocyc-pgdb-list.shtml	原始下载/BioCyc_pgdb_list.html	2026-09-22	Acidithiobacillus ferrooxidans ATCC 23270	页面发布列表	C9A3FC7F4ACFCEF76510149D0777B5D531460DBD1B6246B0CA7E659BA42F1291	确认菌株出现在官方PGDB列表
+BioCyc下载与许可说明页	https://biocyc.org/download.shtml	原始下载/BioCyc_download_and_license.html	2026-09-22	BioCyc数据文件/API许可说明	页面当前说明	81EB8C37578B829A720F72D61245948FFCFAC08359D8847BE24BED4993A94F30	说明详细数据文件/API需要许可和付费订阅
+BioCyc逐条原始导出	https://websvc.biocyc.org/web-services.shtml	未下载	2026-09-22	AFER243159 / GCF_000021485关联入口	需账户/订阅		未提交凭据，未登记为成功下载

@@ -1,0 +1,5 @@
+condition	label	status	objective	max_sv_residual
+baseline_untouched	baseline_untouched	optimal	3.6166297847755096	3.637978807091713e-12
+FIM	FIM	optimal	0.05207638710274161	1.4210854715202004e-14
+TTM	TTM	optimal	0.0520763871027412	8.615330671091215e-14
+TSM	TSM	optimal	0.0520763871027409	4.218847493575595e-14

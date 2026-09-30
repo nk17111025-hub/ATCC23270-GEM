@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-26T14:40:35+08:00",
+  "autotrophic_reference": {
+    "FIM": {
+      "biomass": 0.05207639,
+      "donor": -164.509,
+      "o2": -38.6634
+    },
+    "TTM": {
+      "biomass": 0.05207639,
+      "donor": -5.2158,
+      "o2": -15.7925
+    },
+    "TSM": {
+      "biomass": 0.05207639,
+      "donor": -9.1277,
+      "o2": -15.7925
+    }
+  },
+  "conclusions": {
+    "route_robust": "ROBUSTLY_ACTIVE",
+    "donor_matched_biomass_gain": "0% (glucose not taken up at fixed Fe/S)",
+    "donor_oxygen_matched_biomass_gain": "0%",
+    "fixed_biomass_FeS_saving": "none (identical requirements)",
+    "fixed_biomass_O2_saving": "none",
+    "fixed_biomass_CO2_saving": "none (CO2 forced -2.0)",
+    "carbon_mechanism": "MIXED (per-biomass CBB down, absolute RUBISCO up)",
+    "overall_classification": "THROUGHPUT_ADVANTAGE_ONLY",
+    "key_mechanism": "glucose supplies carbon skeletons, lifting autotrophic CO2 limitation; benefit requires increased Fe/S energy throughput"
+  }
+}

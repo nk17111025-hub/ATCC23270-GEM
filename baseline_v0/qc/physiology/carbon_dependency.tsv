@@ -1,0 +1,16 @@
+condition	h2co3	growth	carbon_exchange_uptake
+FIM	normal	0.05207638710273945	
+FIM	disabled	0.0	
+FIM	disabled		Ex_h_LSQBKT_e_RSQBKT_ h flux=-17.375 carbon=False
+FIM	disabled		Ex_fe2_LSQBKT_e_RSQBKT_ fe2 flux=-17.375000000000004 carbon=False
+FIM	disabled		Ex_o2_LSQBKT_e_RSQBKT_ o2 flux=-4.343749999999999 carbon=False
+TTM	normal	0.052076389647167654	
+TTM	disabled	0.0	
+TTM	disabled		Ex_o2_LSQBKT_e_RSQBKT_ o2 flux=-2.2861842105263155 carbon=False
+TTM	disabled		Ex_h2o_LSQBKT_e_RSQBKT_ h2o flux=-1.959586466165414 carbon=False
+TTM	disabled		Ex_ttton_LSQBKT_e_RSQBKT_ ttton flux=-0.6531954887218049 carbon=False
+TSM	normal	0.05207638710274137	
+TSM	disabled	0.0	
+TSM	disabled		Ex_o2_LSQBKT_e_RSQBKT_ o2 flux=-2.2861842105263155 carbon=False
+TSM	disabled		Ex_h2o_LSQBKT_e_RSQBKT_ h2o flux=-1.1430921052631573 carbon=False
+TSM	disabled		Ex_tsul_LSQBKT_e_RSQBKT_ tsul flux=-1.1430921052631593 carbon=False

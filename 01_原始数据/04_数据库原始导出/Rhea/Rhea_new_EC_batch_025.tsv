@@ -1,0 +1,7 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:12032	a 3-(acyloxy)acyl derivative of bacterial toxin + H2O = a 3-hydroxyacyl derivative of bacterial toxin + a fatty acid + H(+)	EC:3.1.1.77	CHEBI:136853;CHEBI:15377;CHEBI:140675;CHEBI:28868;CHEBI:15378		MetaCyc:3.1.1.77-RXN
+RHEA:12372	2-(5-oxo-2,5-dihydrofuran-2-ylidene)acetate + H2O = 4-oxohex-2-enedioate + H(+)	EC:3.1.1.45	CHEBI:57263;CHEBI:15377;CHEBI:12040;CHEBI:15378	KEGG:R03893	MetaCyc:CARBOXYMETHYLENEBUTENOLIDASE-RXN
+RHEA:12556	6-phospho-D-glucono-1,5-lactone + H2O = 6-phospho-D-gluconate + H(+)	EC:3.1.1.31	CHEBI:57955;CHEBI:15377;CHEBI:58759;CHEBI:15378	KEGG:R02035	MetaCyc:6PGLUCONOLACT-RXN
+RHEA:14961	S-formylglutathione + H2O = formate + glutathione + H(+)	EC:3.1.2.12	CHEBI:57688;CHEBI:15377;CHEBI:15740;CHEBI:57925;CHEBI:15378	KEGG:R00527	MetaCyc:S-FORMYLGLUTATHIONE-HYDROLASE-RXN
+RHEA:16781	a fatty acyl-CoA + H2O = a fatty acid + CoA + H(+)	EC:3.1.2.20	CHEBI:77636;CHEBI:15377;CHEBI:28868;CHEBI:57287;CHEBI:15378	KEGG:R00383	MetaCyc:ACYL-COA-HYDROLASE-RXN
+RHEA:42700	6-carboxyhexanoyl-[ACP] methyl ester + H2O = 6-carboxyhexanoyl-[ACP] + methanol + H(+)	EC:3.1.1.85	CHEBI:82735;CHEBI:15377;CHEBI:78846;CHEBI:17790;CHEBI:15378	KEGG:R09725	MetaCyc:RXN-11483

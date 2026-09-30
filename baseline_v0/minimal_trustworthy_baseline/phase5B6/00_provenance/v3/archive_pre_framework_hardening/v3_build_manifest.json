@@ -1,0 +1,30 @@
+{
+  "baseline": "minimal_trustworthy_baseline_v3",
+  "status": "V3_UPDATED_NATIVE_REDOX",
+  "v3_T0_sha256": "5ba88e6dd31d375ea0acbd94442e190b0de9f67d2e61169f8b73380d57becb77",
+  "v3_TH_sha256": "4c5c5474c43d215bea6d4b24f999f1f21eab3a75dea10a997e4ffeaf47fbe1b2",
+  "pre_edit_T0_sha256": "97e31dd7b87852e8f639b72408e6e9ea05713dc0a48e99bc77edf087f0919e96",
+  "pre_edit_TH_sha256": "2a9c86d309d3f1e53e461f5a5df9cad65de974718db95ddc1bbe0945d917be39",
+  "added_reactions": [
+    {
+      "id": "NDH2_NATIVE",
+      "gene": "AFE_1854",
+      "locus": "RU820_RS08555",
+      "protein": "WP_012536802.1",
+      "EC": "1.6.5.9",
+      "equation": "nadh[c] + h[c] + q8[c] -> nad[c] + q8h2[c]",
+      "classification": "NATIVE_MODEL_COMPLETION"
+    },
+    {
+      "id": "NOX_NATIVE",
+      "gene": "AFE_1803",
+      "locus": "RU820_RS08315",
+      "protein": "WP_009568931.1",
+      "EC": "1.6.3.4",
+      "equation": "nadh[c] + h[c] + 0.5 o2[c] -> nad[c] + h2o[c]",
+      "classification": "NATIVE_MODEL_COMPLETION_PROVISIONAL"
+    }
+  ],
+  "qc_pass": true,
+  "generated_at": "2026-09-27T01:15:05+08:00"
+}

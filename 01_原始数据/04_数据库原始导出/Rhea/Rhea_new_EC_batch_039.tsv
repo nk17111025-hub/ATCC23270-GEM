@@ -1,0 +1,13 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:12356	D-mannose 6-phosphate = D-fructose 6-phosphate	EC:5.3.1.8	CHEBI:58735;CHEBI:61527	KEGG:R00772	MetaCyc:MANNPISOM-RXN
+RHEA:14657	aldehydo-D-ribose 5-phosphate = D-ribulose 5-phosphate	EC:5.3.1.6	CHEBI:58273;CHEBI:58121	KEGG:R01056	MetaCyc:RIB5PISOM-RXN
+RHEA:15469	1-(5-phospho-beta-D-ribosyl)-5-[(5-phospho-beta-D-ribosylamino)methylideneamino]imidazole-4-carboxamide = 5-[(5-phospho-1-deoxy-D-ribulos-1-ylimino)methylamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide	EC:5.3.1.16	CHEBI:58435;CHEBI:58525	KEGG:R04640	MetaCyc:PRIBFAICARPISOM-RXN
+RHEA:16237	[protein]-peptidylproline (omega=180) = [protein]-peptidylproline (omega=0)	EC:5.2.1.8	CHEBI:83834;CHEBI:83833	KEGG:R04273	MetaCyc:PEPTIDYLPROLYL-ISOMERASE-RXN
+RHEA:18585	D-glyceraldehyde 3-phosphate = dihydroxyacetone phosphate	EC:5.3.1.1	CHEBI:59776;CHEBI:57642	KEGG:R01015	MetaCyc:TRIOSEPISOMERIZATION-RXN
+RHEA:18769	5-methylsulfanyl-2,3-dioxopentyl phosphate = 2-hydroxy-5-methylsulfanyl-3-oxopent-1-enyl phosphate	EC:5.3.2.5	CHEBI:58828;CHEBI:59505	KEGG:R07393	MetaCyc:R82-RXN
+RHEA:21540	N-(5-phospho-beta-D-ribosyl)anthranilate = 1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	EC:5.3.1.24	CHEBI:18277;CHEBI:58613	KEGG:R03509	MetaCyc:PRAISOM-RXN
+RHEA:23104	D-arabinose 5-phosphate = D-ribulose 5-phosphate	EC:5.3.1.13	CHEBI:57693;CHEBI:58121	KEGG:R01530	MetaCyc:DARAB5PISOM-RXN
+RHEA:23424	alpha-D-glucosamine 1-phosphate = D-glucosamine 6-phosphate	EC:5.4.2.10	CHEBI:58516;CHEBI:58725	KEGG:R02060	MetaCyc:5.4.2.10-RXN
+RHEA:27489	2 D-sedoheptulose 7-phosphate = D-glycero-alpha-D-manno-heptose 7-phosphate + D-glycero-beta-D-manno-heptose 7-phosphate	EC:5.3.1.28	CHEBI:57483;CHEBI:60203;CHEBI:60204	KEGG:R09768	MetaCyc:RXN0-4301
+RHEA:11816	alpha-D-glucose 6-phosphate = beta-D-fructose 6-phosphate	EC:5.3.1.9	CHEBI:58225;CHEBI:57634	KEGG:R00771	MetaCyc:PGLUCISOM-RXN
+RHEA:85579	alpha-D-fructose 6-phosphate = beta-D-fructose 6-phosphate	EC:5.3.1.9	CHEBI:234464;CHEBI:57634		

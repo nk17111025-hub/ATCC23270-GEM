@@ -1,0 +1,5 @@
+solution	N_reactions	M_new_metabolites	C_cofactor_changes	R_extra_redox	E_extra_energy	P_plausibility	note
+G6PDH_NAD	1	0	1	no	no	HIGH	ED entry with NAD; no new metabolite; single cofactor change (NADP->NAD)
+PFL	1	1	1	no	no	MEDIUM	pyruvate->acetyl-CoA+formate; introduces formate byproduct
+PEPCK	1	0	1	no	no	MEDIUM	OAA->PEP gluconeogenesis; needs CO2 release
+G6PDH_NAD+PEPS	2	0	2	maybe	no	MEDIUM	ED + PEP synthesis; candidate for R0 (needs verification)

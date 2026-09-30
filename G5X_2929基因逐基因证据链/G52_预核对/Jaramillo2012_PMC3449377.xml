@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">480</journal-id><journal-id journal-id-type="pmc-domain">bioinform</journal-id><journal-title-group><journal-title>Bioinformation</journal-title><abbrev-journal-title>Bioinformation</abbrev-journal-title></journal-title-group><publisher><publisher-name>Biomedical Informatics Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC3449377</article-id><article-id pub-id-type="pmcaid">3449377</article-id><article-id pub-id-type="pmcaiid">3449377</article-id><article-id pub-id-type="pmid">23055613</article-id><article-id pub-id-type="doi">10.6026/97320630008695</article-id><title-group><article-title>Cloning, expression and bioinformatics analysis of ATP sulfurylase from <italic>Acidithiobacillus ferrooxidans</italic> ATCC 23270 in <italic>Escherichia coli</italic></article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Jaramillo</surname><given-names initials="ML">Michael L</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib><name name-style="western"><surname>Abanto</surname><given-names initials="M">Michel</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib><name name-style="western"><surname>Quispe</surname><given-names initials="RL">Ruth L</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib><name name-style="western"><surname>Calderón</surname><given-names initials="J">Julio</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib><name name-style="western"><surname>del Valle</surname><given-names initials="LJ">Luís J</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib><name name-style="western"><surname>Talledo</surname><given-names initials="M">Miguel</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib><name name-style="western"><surname>Ramírez</surname><given-names initials="P">Pablo</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref rid="COR1" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="A1"><label>1</label>Laboratory of Molecular Microbiology and Biotechnology, Faculty of Biological Sciences, Universidad Nacional Mayor de San Marcos, Lima – Peru</aff><aff id="A2"><label>2</label>Centre díEnginyeria Biotecnologica i Molecular (CEBIM), Departament díEnginyeria Química, ETSEIB, Universitat Politècnica de Catalunya, Barcelona, Spain</aff><author-notes><fn id="COR1"><label>*</label><p>Pablo Ramirez: <email>pabloramirezroca@gmail.com</email>Phone: í51 15238492</p></fn></author-notes><pub-date><day>3</day><month>8</month><year>2012</year></pub-date><volume>8</volume><issue>15</issue><fpage>695</fpage><page-range>695–704</page-range><pub-history><event event-type="pmc-release"><date><day>9</day><month>10</month><year>2012</year></date></event></pub-history><permissions><copyright-statement>© 2012 Biomedical Informatics</copyright-statement><license><license-p>This is an open-access article, which permits unrestricted use, distribution, and reproduction in any medium,
+for non-commercial purposes, provided the original author and source are credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="97320630008695.pdf" content-type="pmc-pdf"><?cloudpmc-path 9e74/3449377/9bca501fb6f7/97320630008695.pdf?><?cloudpmc-bucket app?><?size 1192646?></self-uri><abstract id="abstract1"><title>Abstract</title><p>Molecular studies of enzymes involved in sulfite oxidation in <italic>Acidithiobacillus ferrooxidans</italic> have not yet been developed, especially
+in the ATP sulfurylase (ATPS) of these acidophilus tiobacilli that have importance in biomining. This enzyme synthesizes ATP and
+sulfate from adenosine phosphosulfate (APS) and pyrophosphate (PPi), final stage of the sulfite oxidation by these organisms in
+order to obtain energy. The <italic>atp</italic>S gene (1674 bp) encoding the ATPS from <italic>Acidithiobacillus ferrooxidans</italic> ATCC 23270 was amplified
+using PCR, cloned in the pET101-TOPO plasmid, sequenced and expressed in <italic>Escherichia coli</italic> obtaining a 63.5 kDa ATPS
+recombinant protein according to SDS-PAGE analysis. The bioinformatics and phylogenetic analyses determined that the ATPS
+from <italic>A. ferrooxidans</italic> presents ATP sulfurylase (ATS) and APS kinase (ASK) domains similar to ATPS of <italic>Aquifex aeolicus</italic>, probably of
+a more ancestral origin. Enzyme activity towards ATP formation was determined by quantification of ATP formed from <italic>E. coli</italic> cell
+extracts, using a bioluminescence assay based on light emission by the luciferase enzyme. Our results demonstrate that the
+recombinant ATP sulfurylase from <italic>A. ferrooxidans</italic> presents an enzymatic activity for the formation of ATP and sulfate, and possibly
+is a bifunctional enzyme due to its high homology to the ASK domain from <italic>A. aeolicus</italic> and true kinases.</p></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2012 Jul 10; Accepted 2012 Jul 11; Collection date 2012.</p></sec></notes></front><body><sec id="s1" disp-level="1"><title>Background</title><p>ATP sulfurylase enzyme (ATPS, sulfate adenylyltransferase, EC
+3.7.7.4) produces APS and AMP from sulfate and ATP or
+viceversa. Its physiological function is dependent on the
+metabolism of the organism [<xref rid="R01" ref-type="bibr">1</xref>]. This enzyme is widely
+distributed in all living organisms: Archaea, Bacteria, protista,
+yeasts, filamentous fungi, plants, animals and humans 
+[<xref rid="R02" ref-type="bibr">2</xref>–<xref rid="R05" ref-type="bibr">5</xref>].
+Variations in size of this enzyme are due to that ATP
+sulfurylase domain (ATS) can be bound to the APS kinase
+domain or similar to APS kinase (ASK). Exceptionally, ATP
+sulfurylase has been found to bind to other enzymes such as
+pyrophosphatase and APS reductase [<xref rid="R05" ref-type="bibr">5</xref>]. ATPS is involved in
+the assimilatory and dissimilatory reduction of sulfate
+catalyzing the activation of inorganic sulfate by ATP to form
+adenosine-5í-phosphosulfate (APS) and pyrophosphate 
+[<xref rid="R03" ref-type="bibr">3</xref>]. The
+assimilation pathway is performed by aerobic organisms for
+amino acid synthesis such as cysteine, and the dissimilation
+pathway is carried out by prokaryotes, which in the absence of
+molecular oxygen they use sulfate as a terminal electron
+acceptor for cellular respiration, releasing hydrogen sulfide
+(H<sub>2</sub>S) [<xref rid="R06" ref-type="bibr">6</xref>]. Moreover, ATPS is involved in the indirect oxidation
+of sulfite, which could be present in a variety of
+chemolithoautotrophic and phototrophic bacteria, allowing for
+energy conservation by a chemiosmotic mechanism or by a
+substrate-level mechanism [<xref rid="R07" ref-type="bibr">7</xref>] where sulphite would be
+oxidized via a reverse adenosine phosphosulfate reductase
+(APR) activity according to: H<sub>2</sub>SO<sub>3</sub> í AMP ↔ APS í 2e<sup>-</sup> í 2H<sup>í</sup>,
+with participation of ATPS (sulfate adenylyltransferase) in the
+final step according to: APS í PP<sub>i</sub> ↔ ATP í SO<sub>4</sub><sup>2</sup>-.</p><p>Chemolithoautotrophic bacteria such as <italic>A. ferrooxidans</italic> would
+be responsible for the oxidation of sulphite in mining
+environments, where there is a large quantity of reduced
+inorganic sulfur compounds (RISC). In previous research the
+genomic sequence of <italic>A. ferrooxidans</italic> has been analyzed by
+bioinformatics software [<xref rid="R08" ref-type="bibr">8</xref>] and there are potential gene
+sequences that would encode the ATP sulfurylase enzyme. It is
+postulated that ATP sulfurylase is a monomer or homooligomer
+in organisms that oxidize reduced sulfur compounds and
+presents a subunit molecular weight (MW) ranging from 41 to
+69 kDa, in a similar fashion to the ATPS sequence involved in
+sulfate assimilation found in <italic>Penicillium chrysogenum</italic> and
+<italic>Saccharomyces cerevisiae</italic> (58 kDa and 63.7 kDa subunits,
+respectively). ATPS from hyperthermophile chemolithotrophic
+<italic>Aquifex aeolicus</italic> is an ortholog of the filamentous fungi enzyme,
+with a functional ASK domain (APS kinase domain) [<xref rid="R09" ref-type="bibr">9</xref>,
+<xref rid="R10" ref-type="bibr">10</xref>] and
+presents high similarity to the true APS kinases in the “P-loop”
+region.</p><p>By contrast, ATPS from chemolithotrophic <italic>Riftia pachyptila</italic>
+symbiont bacteria presents only the ATS domain. It is
+postulated that ATPS present in chemolithotrophic organisms is
+more similar to ancestral ATPS that gave rise to all
+homooligomeric ATP sulfurylases (ATPSs) [<xref rid="R01" ref-type="bibr">1</xref>,
+<xref rid="R10" ref-type="bibr">10</xref>]. Other
+homooligomeric ATPSs are present in higher eukaryotic
+organisms with domains in inverted orientation (ASK domain
+at the N-terminus and ATS domain at the C-terminus) different
+in relation to the ATPS from <italic>A. aeolicus</italic> and <italic>fungi</italic> 
+[<xref rid="R10" ref-type="bibr">10</xref>]. Their
+presence has been reported in several animals, such as the
+marine invertebrate <italic>Urechis carpo</italic> 
+[<xref rid="R11" ref-type="bibr">11</xref>], fruitfly 
+[<xref rid="R12" ref-type="bibr">12</xref>], mouse 
+[<xref rid="R13" ref-type="bibr">13</xref>]
+and humans [<xref rid="R14" ref-type="bibr">14</xref>], and express a single polypeptide, named
+PAPS synthetase [<xref rid="R15" ref-type="bibr">15</xref>] that participates in a sulfation process.
+Other ATPSs only have the ATS domain, and are found in the
+bacteria Thermus thermophilus HB, in a similar way to the <italic>Riftia</italic>
+symbiont [<xref rid="R16" ref-type="bibr">16</xref>], <italic>Bacillus subtilis, Chromatium vinosum</italic> and
+<italic>Geobacillus</italic>, cyanobacterium <italic>Synechocystis sp</italic>., archaeon
+<italic>Archaeoglobus fulgidus</italic> [<xref rid="R03" ref-type="bibr">3</xref>] 
+and plants (<italic>Arabidopsis thaliana</italic>).
+ATPSs of <italic>Desulfuvibrio</italic> species are metalloproteins that bind
+cobalt and zinc, and present a C-X2-C-X8-CXH characteristic
+sequence (metal binding site) [<xref rid="R07" ref-type="bibr">7</xref>]. Homooligomeric ATPSs are
+not similar to heterooligomeric ATPSs found in <italic>E. coli</italic> and
+responsible for sulfate assimilation [<xref rid="R03" ref-type="bibr">3</xref>,
+<xref rid="R07" ref-type="bibr">07</xref>].</p><p>Homooligomeric ATPSs have V blocks in the ATS domain, II
+and IV blocks are rich in basic amino acids suggesting that they
+participate in the binding of MgATP<sup>2</sup>-and SO<sub>4</sub><sup>2</sup>- (Sperling <italic>et al</italic>.
+1998). In the ATPS from <italic>Riftia</italic> bacterial symbiont has been
+determined that the phosphosulfate motif 199QXRN202 and the
+motif <sup>205</sup>HXXH<sup>208</sup> [<xref rid="R01" ref-type="bibr">1</xref>,
+<xref rid="R17" ref-type="bibr">17</xref>] are the active site and the substratebinding
+site, respectively. It presents a mobile loop of the active
+site that includes an extended sequence: <sup>224</sup>(hp)
+<sub>3HXhpXGXXKXXDhpXXXXR243</sub> (hp = hydrophobic residues) [<xref rid="R01" ref-type="bibr">1</xref>], where
+the Asp234 in the ATPS from <italic>P. chrysogenum</italic> (Asp237 in the
+<italic>Riftia</italic> bacterial symbiont and Asp207 in <italic>Aquifex</italic>) orients Arg199
+(Arg172 in <italic>Aquifex</italic>) in the sulfate-binding pocket which is
+necessary for sulfurylase activity [<xref rid="R10" ref-type="bibr">10</xref>], and these motifs are
+conserved in all homooligomeric ATPSs. In the present study,
+the ATPS enzyme that would participate in the oxidative
+metabolism of sulfite in the bioleaching bacterium <italic>A.
+ferrooxidans</italic> was characterized at the molecular level. The <italic>atp</italic>S
+gene was cloned and expressed in <italic>E. coli</italic> showing a high
+activity towards the synthesis of ATP, similar to other studied
+chemolithotrophic bacteria, demonstrating a high similarity to
+the bifunctional ATPS from <italic>A. aeolicus</italic>. Later studies about this
+enzyme could be used in the acid water control because one of
+the products of the enzymatic reaction is the sulphate ion that
+reacts with hydrogen and generates sulfuric acid, an important
+environmental polluting agent.</p></sec><sec id="s2" disp-level="1"><title>Methodology</title><sec id="s2a" disp-level="2"><title><italic>Strains, plasmids and culture conditions</italic>:</title><p><italic>A. ferrooxidans</italic> ATCC 23270 was cultured in a modified 9K
+medium at pH 1.5, in a rotary shaker at 28°C for 7 days 
+[<xref rid="R18" ref-type="bibr">18</xref>]. <italic>E.
+coli</italic> TOP10 and BL21Star™ (DE3) (Invitrogen) were cultured on
+Luria Bertani (LB). For growth of transformant <italic>E. coli</italic> strains in
+LB medium agar was added to a final concentration of 1.8í
+(w/v) and ampicillin (100 µg/ ml). PET101/D-TOPO plasmid
+was used for gene cloning obtaining a pET101-<italic>atp</italic>S plasmid.</p></sec><sec id="s2b" disp-level="2"><title><italic>DNA manipulation</italic>:</title><p>The extraction of genomic DNA from <italic>A. ferrooxidans</italic> was
+carrying out by using a Miniprep Wizard Genomic Purification
+Kit (Promega) following the supplier´s instructions. Previously,
+the cells were concentrated by centrifugation at 13000 x g for 2
+min and then washed 3 times with acidic water (pH 1.72) and
+10 mM sodium citrate (pH 8.0). Genomic DNA was stored at -
+20°C. The <italic>atp</italic>S gene encoding ATP sulfurylase was directly
+searched analyzing the genome sequence from <italic>A. ferrooxidans</italic>
+ATCC 23270 using the tBlastn algorithm v2.0 
+[<xref rid="R19" ref-type="bibr">19</xref>]. The gene was
+amplified with the: atpS-N-term primer: (5í-CAC CAT GCC
+ATC CAT TCC TCA GGT TG-3í) with the addition of
+nucleotides CACC at the 5í end to allow ligation to the vector
+and the atpS-C-term primer (5í-CGC CTC CTC CGC GAT GCG
+TTT CAC-3í). Cloning of the <italic>atp</italic>S gene was carried out using a
+ChampionTM pET directional TOPO expression kit (Invitrogen)
+according to the supplier´s instructions. The <italic>atp</italic>S gene (1674 bp)
+from <italic>A. ferrooxidans</italic> was amplified by PCR using the Thermal
+Ace Polymerase (Invitrogen) and the following PCR program: 3
+minutes at 95°C followed by 30 cycles at 95°C for 30 s, 60°C for
+30 s and 72°C for 2.5 minutes and finally to 72°C for 15 minutes.
+For cloning, the amplified fragment was linked to the
+pET101/D-TOPO plasmid (5753 bp) resulting in the pET101-
+<italic>atp</italic>S plasmid. Then, chemically competent cells (<italic>E. coli</italic> TOP10)
+were transformed with the pET101-<italic>atp</italic>S plasmid. The
+recombinant clones were selected growing in LB agar í
+ampicillin (100 µg/ml) and incubating for 18 h at 37°C. The
+presence of the insert in <italic>E. coli</italic> TOP10 transformants were
+verified by colony PCR using the N-terminal primer of the
+vector (T7-TopoF-vector) and the atpS-C-term primer of <italic>atp</italic>S
+gene. The pET101-<italic>atp</italic>S plasmid of <italic>E. coli</italic> TOP10 positive
+recombinant was extracted using the plasmid DNA
+Minipreparation method with cetyl trimethyl ammonium
+bromide (CTAB).</p><p>Briefly, 4.5 ml of an overnight culture grown in Luria broth plus
+ampicillin was centrifuged, and the resulting pellet was
+resuspended in 200 µl of lysozyme (50 mg/ml) and 4 µl of STET
+and incubated for 5 min at room temperature. After that, the
+suspension was placed in water at 100oC for 45 s, centrifuged at
+13000 x g for 10 min and 8µl of RNAse (10 mg/ml) was added,
+following incubation for 15 min at room temperature. 8 µl of 5í
+CTAB was added and incubated for 3 min at room temperature.
+The pellet obtained by centrifugation at 13000 x g for 10 min
+was resuspended in en 300 µl of 1.2 M NaCl. The plasmid DNA
+was then precipitated with 750 µl of absolute ethanol, incubated
+for 5 min at room temperature and centrifuged at 13000 x g for
+10 min. The obtained pellet was resuspended in 70í ethanol
+and centrifuged at 13000 x g for 5 min. Supernatant was
+discarded and the pellet was dried for 30 min. Then, it was
+resuspended in 10 µl of ultrapure water.</p><p>Genomic DNA, plasmid and PCR products were visualized by
+1í agarose gel electrophoresis (Gibco BRL®) in TAE 0,5X. The
+molecular weight marker used was the 1kb Plus DNA Ladder
+(Invitrogen). Ethidium bromide (0.5 µg/ml) was used for a 5
+min gel staining. Gels were visualized with a UV
+transilluminator at 320 nm. The <italic>atp</italic>S gene obtained from
+plasmid pET101-<italic>atp</italic>S was sequenced to verify the correct
+insertion of the gene in the plasmid and to obtain the nucleotide
+sequence of the gene. Sequencing was done using the following
+primers: T7-TopoF-vector (5í-TAA TAC GAC TCA CTA TAG
+GG-3í), T7-TopoR-vector (5í-TAG TTA TTG CTC AGC GGT
+GG-3 í) and internal primers atpS-R673 (5í-AGT CTT CGT ATA
+ATG GGG-3í), atpS-F1005 (5í-ATT ACG GGT TCC TTG GAG-3
+í) and <italic>atp</italic>S-R1075 (5 í-GTA GCG ACC GGC CTG ACG-3í).
+Sequences were viewed and assembled using the SeqAssem
+software [<xref rid="R20" ref-type="bibr">20</xref>]. Accession number for the atpS gene sequence of
+<italic>A. ferrooxidans</italic> ATCC 23270: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/FM177944" ext-link-type="uri">FM177944</ext-link>.</p></sec><sec id="s2c" disp-level="2"><title><italic>Expression of recombinant ATPS protein of <italic>A. ferrooxidans</italic> in E. coli BL21 StarTM (DE3)</italic>:</title><p><italic>E. coli</italic> BL21 StarTM (DE3) transformation with pET101-<italic>atp</italic>S
+plasmid was made according to manufacturer's instructions.
+The induction-expression analysis of recombinant <italic>E. coli</italic> was
+conducted in the presence of 1 mM IPTG at 37°C for 3 hours
+with constant agitation (DO<sub>600nm</sub> of 0.6). <italic>E. coli</italic> BL21 StarTM
+(DE3) without plasmid was used as a control strain.
+Recombinant protein expression was analyzed from total cell
+extracts by SDS-PAGE [<xref rid="R18" ref-type="bibr">18</xref>]. For determination of MW was used
+marker Page RulerTM Protein Ladder (Fermentas).</p></sec><sec id="s2d" disp-level="2"><title><italic>ATPS enzymatic activity of <italic>A. ferrooxidans</italic> by bioluminescence</italic>:</title><p>The protein concentrations of <italic>E. coli</italic> BL21 strain StarTM (DE3)
+cell extracts was analyzed under induction and no induction
+conditions with IPTG and were determined using the Bradford
+reagent [<xref rid="R21" ref-type="bibr">21</xref>] to an absorbance at 595 nm. A bioluminescent test
+ATP Determination Kit (Molecular Probes) was used to
+determine the ATP sulfurylase activity according to
+manufacturerís instructions. It produced the standard reaction
+solution (10 ml) containing: H2O, 8.9 ml reaction buffer (20X),
+0.5 ml; DTT (0.1 M), 0.1 ml; D-luciferin (10 mM), 0.5 ml; and
+luciferase (5 mg/ml), 2.5 µl. A 100 µl reaction was started with
+the addition of luciferase. Testing with extracts de <italic>E. coli</italic> to the
+reaction was made by addition of 0.125 µl of APS (8 nmol/µl)
+and 0.5 µl of PPi (40 ρmol/µl) for ATP production (according to
+the reaction: PPi í APS → ATP í SO<sub>4</sub><sup>2</sup>-). Subsequently, ATP
+produced was detected by bioluminescence (according to the
+reaction: Luciferin í ATP í O<sub>2</sub> → oxyluciferin í AMP í
+pyrophosphate í CO<sub>2</sub> í light). The following controls were
+used: a) Control without luciferase, APS and PPi, b) Control
+with APS and PPi without luciferase and c) Control of the
+positive reaction with 5 µl of ATP (5 µM). Relative light units
+(RLU) readings were carried out in a microplate reader
+luminometer Synergy ™ HT Multi-Detection Microplate Reader
+(Bio-Tek, USA). Readings were controlled by KC4 v3.0 software
+with PowerReports (Bio-Tek). All RLU measurements were
+performed in duplicate at a wavelength of 530 nm for 15 min of
+reaction at 25°C. The quantity of ATP produced was calculated
+from the URL of standard ATP concentrations (0.25 to 10 µM) in
+duplicate at a wavelength of 530 nm at 25°C. An enzymatic unit
+produces 1.0 µmol of ATP from APS and PPi per minute at
+30°C.</p></sec><sec id="s2e" disp-level="2"><title><italic>Bioinformatics and phylogenetic analysis of the amino acid sequence of the ATPS of A. ferrooxidans</italic>:</title><p>From the amino acid sequence of the ATPS of <italic>A. ferrooxidans</italic>
+obtained in this work (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>) was determined the
+molecular weight and <italic>pI</italic> using the ProtParam program 
+[<xref rid="R22" ref-type="bibr">22</xref>].
+PSLpred software [<xref rid="R23" ref-type="bibr">23</xref>] and PSORTb v.2.0 
+[<xref rid="R24" ref-type="bibr">24</xref>] were used to
+determine the subcellular localization. The presence of signal
+peptide was determined using SignalP v1.1 software 
+[<xref rid="R25" ref-type="bibr">25</xref>]. For
+comparison of <italic>A. ferrooxidans</italic> ATPS, amino acid sequences of
+other ATPS were obtained from Genbank [<xref rid="R26" ref-type="bibr">26</xref>]. Sequences were
+aligned with Clustal W [<xref rid="R27" ref-type="bibr">27</xref>] and edited with Bioedit 
+[<xref rid="R28" ref-type="bibr">28</xref>] or
+BOXSHADE [<xref rid="R29" ref-type="bibr">29</xref>]. For structural alignment of <italic>A. ferrooxidans</italic>
+ATPS sequence, the Cn3D software was used [<xref rid="R30" ref-type="bibr">30</xref>]. Previously,
+the structure of ATPSs from <italic>A. aeolicus</italic> (MMDB ID 44452, PDB:
+2GKS_A) and APS kinase from <italic>P. chrysogenum</italic> (MMDB ID: 21216,
+PDB: IM7G_A) were obtained from NCBI. Phylogenetic analysis
+of the ATPS from <italic>A. ferrooxidans</italic>, was made using the amino
+acid sequences of homooligomeric ATPSs obtained from NCBI
+database [<xref rid="R31" ref-type="bibr">31</xref>] 
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ncbi.nlm.nih.gov" ext-link-type="uri">http://www.ncbi.nlm.nih.gov</ext-link>), including the
+sequence for <italic>A. ferrooxidans</italic> ATPS (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>). Sequence
+annealing was made using the Clustal X program 
+[<xref rid="R32" ref-type="bibr">32</xref>] and
+edited with the BioEdit program [<xref rid="R28" ref-type="bibr">28</xref>]. For the construction of
+phylogenetic trees the MEGA v.5.05 program was used 
+[<xref rid="R33" ref-type="bibr">33</xref>].
+Gaps were excluded and the Neighbor-joining method 
+[<xref rid="R34" ref-type="bibr">34</xref>] with
+Poisson correction model was used. Consistency of tree was
+evaluated by bootstrap analysis of 1000 repetitions.</p></sec></sec><sec id="s3" disp-level="1"><title>Result</title><sec id="s3a" disp-level="2"><title><italic>Identification of ATPS gene in the A. ferrooxidans ATCC 23270 genome</italic>:</title><p>An open reading frame (ORF) for the <italic>atp</italic>S gene (1674 bp)
+encoding ATP sulfurylase (ATPS) was located at nucleotide
+positions 2327613 to 2329286 in the genome of <italic>A. ferrooxidans</italic> by
+bioinformatic analysis. Comparing this sequence with other
+ATPS of GenBank indicates the presence of an ATP sulfurylase
+domain (ATS) conserved typical of this type of enzyme, which
+is associated with an APS kinase domain (ASK) as occurs in
+some ATPSs [<xref rid="R15" ref-type="bibr">15</xref>]. 
+The expected size of amplified <italic>atp</italic>S gene was
+obtained (1674 bp) and cloned in the pET101-TOPO vector
+resulting in the plasmid pET101-<italic>atp</italic>S, which was used to
+transform <italic>E. coli</italic> cells. Secuencing of <italic>atp</italic>S gene was performed
+from the plasmid extracted from recombinant <italic>E. coli</italic> TOP10.</p></sec><sec id="s3b" disp-level="2"><title><italic>Expression of recombinant A. ferrooxidans ATCC 23270 ATPS protein in E. coli</italic>:</title><p>The cells of recombinant <italic>E. coli</italic> BL21 StarTM (DE3) on induction
+conditions with IPTG expressed a recombinant ATPS protein of
+approximately 63.5 kDa (<xref rid="F1" ref-type="fig">Figure 1</xref>). <italic>E. coli</italic> BL21 StarTM (DE3)
+without plasmid was subjected to the same experiment and did
+not express the protein in any condition. The weight of the
+monomer of <italic>A. ferrooxidans</italic> ATPS is 60.49 kDa based on their
+amino acid sequence.</p><fig id="F1" position="float"><?disp-level 3?><label>Figure 1</label><caption><p><italic>In vivo</italic> overexpression of the ATP sulfurylase from <italic>A.
+ferrooxidans</italic> 23270 in <italic>E. coli</italic>. The molecular weight standard is
+indicated on the left in kilodaltons. 1 and 2, total protein
+extracts of <italic>E. coli</italic> BL21 Start (DE3) with and without IPTG, 4 and
+6, induction of protein expression of the ATP sulfurylase in
+recombinant clones BL21-22 and BL21-42 containing the <italic>atp</italic>S
+gene with histidine tail. The recombinant plasmids were used to
+transform the <italic>E. coli</italic> BL21 Star (DE3) strain. In the logarithmic
+growth phase, strains were grown in the presence (2, 4 &amp; 6) or
+absence (1, 3 and 5) of 1 mM IPTG for 3 h. Samples of total
+protein (1 to 6) were separated by SDS-polyacrylamide
+electrophoresis and stained with Coomassie blue. The right
+arrow indicates the band corresponding to the induction of
+ATPS protein bind to 6xHis at the C-terminal domain.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="97320630008695F1.jpg"><?cloudpmc-path blobs/9e74/3449377/c03627e5aa96/97320630008695F1.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 162?><?original-width 314?><?scaled-height 162?><?scaled-width 314?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="97320630008695F1.gif"><?cloudpmc-path blobs/9e74/3449377/cda2ac5c39a8/97320630008695F1.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="s3c" disp-level="2"><title><italic>Enzymatic activity assay of the ATPS protein of A. ferrooxidans</italic>:</title><p>Bioluminescence carried out at a wavelength of 530 nm at 25°C
+for 15 min of reaction showed enzyme activity in cell extracts of
+recombinant <italic>E. coli</italic> strain BL21 (íIPTG) expressing ATPS,
+which is higher compared with those obtained from extracts of
+recombinant <italic>E. coli</italic> BL21 (-IPTG), and from negative controls.
+Specific activity of recombinant ATPS from <italic>A. ferrooxidans</italic> was
+calculated from cell extracts of <italic>E. coli</italic>, obtaining 106.9 µM
+ATP/mg/min.</p></sec><sec id="s3d" disp-level="2"><title><italic>Bioinformatics analysis of the amino acid sequence of ATPS from A. ferrooxidans</italic>:</title><p>The biochemical characteristics of the ATP sulfurylase from <italic>A.
+ferrooxidans</italic> was determined from its amino acid sequence
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>) using bioinformatics programs. According to these
+results the ATPS of <italic>A. ferrooxidans</italic> would be a soluble protein of
+cytoplasmic localization similar to other homooligomeric
+ATPSs that have been described. It has a molecular weight de
+60.49 kDa and has not signal peptide. The comparison of the
+amino acid sequence of ATP sulfurylase from <italic>A. ferrooxidans</italic>
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>) with other ATP sulfurylase, shows 93í identity
+and 95í similarity with ATP sulfurylase from A. ferrivorans
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/YP_004784724" ext-link-type="uri">YP_004784724</ext-link>), 70í identity and 80í similarity with ATP
+sulfurylase from <italic>A. caldus</italic> ATCC 51756 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/EET28427" ext-link-type="uri">EET28427</ext-link>) and 44í
+identity and 60í similarity with the ATP sulfurylase from A.
+aeolicus (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/O67164" ext-link-type="uri">O67164</ext-link>), but also has similarity to ATPS found in
+<italic>Coxiella burnetii</italic> RSA493, fungi and yeasts. The high similarity of
+ATPS from <italic>A. ferrooxidans</italic> with homooligomeric ATP
+sulfurylases is demonstrated by multiple alignments using the
+Clustal W program (<xref rid="F2" ref-type="fig">Figure 2</xref>). From the alignment there was
+deduced residues comprising the N-terminal domain (1-144),
+the central catalytic ATS domain (145-304), C-terminal APS
+kinase domain (residues 369-557) and a subdomain (305-368)
+which is considered part of the ATS domain by Yu <italic>et al</italic>. (2007)
+[<xref rid="R10" ref-type="bibr">10</xref>]. The ATS domain of ATPS from <italic>A. ferrooxidans</italic> presents 5
+blocks highly conserved in other homooligomeric ATPSs 
+[<xref rid="R03" ref-type="bibr">3</xref>]
+(<xref rid="F2" ref-type="fig">Figure 2</xref>). The active site of ATPS from <italic>A. ferrooxidans</italic> has
+conserved amino acids presenting the phosphosulfate-binding
+motif <sup>170</sup>QXRN<sup>173</sup> and the <sup>176</sup>HXXH<sup>179</sup> motif found in Block II
+and is similar to the <italic>R. pachyptila</italic> symbiont 
+[<xref rid="R01" ref-type="bibr">1</xref>], <italic>A. aeolicus</italic> 
+[<xref rid="R10" ref-type="bibr">10</xref>]
+and <italic>P. chrysogenum</italic> [<xref rid="R04" ref-type="bibr">4</xref>]. Furthermore, the mobile loop at the
+active site of ATPS from <italic>A. ferrooxidans</italic> found in block III
+presents the consensus sequence:
+<sup>196</sup>(hp)<sub>3</sub>HXhpXGXXKXXDhpXXXXR<sup>215</sup>, which is conserved
+among various families of homoligomeric ATP sulfurylases (hp
+= hydrophobic residues). The ASK domain of the ATPS from <italic>A.
+ferrooxidans</italic> has a high similarity with the ASK domain of the
+bifunctional ATPS from <italic>A. aeolicus</italic> and is identical to the active
+site of the true kinases (<sup>376</sup>GLSASGKST<sup>384</sup>) 
+(<xref rid="F3" ref-type="fig">Figure 3</xref>).</p><fig id="F2" position="float"><?disp-level 3?><label>Figure 2</label><caption><p>Multiple alignment of the ATPS from <italic>A. ferrooxidans</italic> with other homooligomerics ATP sulfurylase presenting 5 conserved
+regions or blocks in the ATS domain. Amino acids were aligned using Clustal W. Residues identical in most sequences are
+indicated in black and similar residues are indicated in gray. The arrows indicate the site of initiation of the N-terminal, domain
+ATP sulfurylase, Domain APS kinase and subdomain of the ATPS from <italic>A. ferrooxidans. A. ferrooxidans (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>), A. ferrivorans
+(YP004784724), A. caldus (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/EET28427" ext-link-type="uri">EET28427</ext-link>), <italic>A. aeolicus</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/O67174" ext-link-type="uri">O67174</ext-link>), C. burnetti (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/AAO90244" ext-link-type="uri">AAO90244</ext-link>), P. chrysogenum (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/Q12650" ext-link-type="uri">Q12650</ext-link>), Sch. pombe (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/P78937" ext-link-type="uri">P78937</ext-link>), S.
+cerevisiae (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/P08536" ext-link-type="uri">P08536</ext-link>), T. gondii (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/EEB04289" ext-link-type="uri">EEB04289</ext-link>), T. pseudonana (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/EED89391" ext-link-type="uri">EED89391</ext-link>), P. tricomutum (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/EEC48794" ext-link-type="uri">EEC48794</ext-link>), H. sapiens (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/O43252" ext-link-type="uri">O43252</ext-link>), A. thaliana
+(NP188929), B. subtilis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/O34764" ext-link-type="uri">O34764</ext-link>), Synechocystis sp. (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/P74241" ext-link-type="uri">P74241</ext-link>), Chromatium vinosum (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/O66036" ext-link-type="uri">O66036</ext-link>), Simbionte of Riftia pachyptila (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/AAA72419" ext-link-type="uri">AAA72419</ext-link>),
+A. fulgidus (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/O28606" ext-link-type="uri">O28606</ext-link>)</italic>.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="97320630008695F2.jpg"><?cloudpmc-path blobs/9e74/3449377/e41339c9aa4a/97320630008695F2.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 5000?><?original-width 3746?><?scaled-height 1000?><?scaled-width 749?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="97320630008695F2.gif"><?cloudpmc-path blobs/9e74/3449377/30b97d36689f/97320630008695F2.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><fig id="F3" position="float"><?disp-level 3?><label>Figure 3</label><caption><p>Multiple alignment of the APS kinase domain of ATPS from <italic>A. ferrooxidans</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>) and <italic>A. aeolicus</italic> (2GKS) with the
+APS kinase (APSK) from <italic>P. chrysogenum</italic> (1M7H), <italic>S. cerevisiae</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAA46252" ext-link-type="uri">CAA46252</ext-link>) and <italic>St. epidermidis</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/Q5HL02" ext-link-type="uri">Q5HL02</ext-link>). Identical amino acids
+(black) and similar (gray) are indicated. The arrow indicates the conserved component of the ATPS from <italic>A. ferrooxidans</italic>:
+<sup>487</sup>DPKGLYAKAVRGEITGFTGVD<sup>507</sup>. The black square indicates a P-loop region of the APS kinase that has identical sequence
+GLSASGKST in the ATPS from <italic>A. ferrooxidans</italic>.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="97320630008695F3.jpg"><?cloudpmc-path blobs/9e74/3449377/8f92a08ea77f/97320630008695F3.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 775?><?original-width 1268?><?scaled-height 388?><?scaled-width 634?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="97320630008695F3.gif"><?cloudpmc-path blobs/9e74/3449377/aeb7b5f7380f/97320630008695F3.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="s3e" disp-level="2"><title><italic>Phylogenetic analysis of ATP sulfurylase</italic>:</title><p>The construction of a phylogenetic tree by the Neighbor-Joining
+method shows that the homooligomeric ATPSs comprise fourth
+subgroups (<xref rid="F4" ref-type="fig">Figure 4</xref>). 
+<italic>Subgroup 1</italic>: This subgroup consists of
+those who have only the ATS domain and are found in most
+Gram positive bacteria, Gram negative bacteria, archaea,
+protista and plants. Our results reveal the presence of certain
+clades, such as cyanobacteria (<italic>Nostoc, Anabaena, Trichodesmiun,
+Synechococcus</italic> and <italic>Synechocystis</italic>) with a bootstrap of 100í.
+<italic>Brassica oleracea, Arabidopsis thaliana, Glycine max, Zea mays</italic> and
+<italic>Solanum suberosum</italic> plants are grouped with a bootstrap of 100í.
+The ATPSs of <italic>Phaedoactilum tricornutum, Thalassiosira
+pseudonana, Prochlorococcus marinus</italic> and, <italic>Chlamydomonas
+reinhardtii</italic> are grouped (bootstrap 100í). <italic>Subgroup 2</italic>: Consist of
+ATPSs that have both ATS domains in the N-terminus and the
+ASK or ASK-like domain at the C-terminus found in fungi,
+yeasts, <italic>Dictyostelium discoideum</italic> amoebae, <italic>Toxoplasma gondii</italic>
+protozoa and some bacteria such as <italic>A. ferrooxidans, A. ferrivorans</italic>
+and <italic>A. caldus</italic>. ATPS from genus <italic>Acidithiobacillus</italic> is grouped
+with ATPS of fungi and of other bacteria that have both
+domains being located at the base of all ATPSs of this subgroup
+but with bootstrap of 49í. The filamentous fungi, <italic>Aspergillus
+niger</italic> and <italic>P. chrysogenum</italic> and yeast <italic>S. cerevisiae,
+Schizosaccharomyces pombe</italic> and <italic>Candida albicans</italic> form a clade
+with a bootstrap of 95í. Bacteria of the genus <italic>Sulfitobacter,
+Roseobacter, Jannaschia, Oceanicola batsensis, Silicibacter pomeroyi</italic>
+and <italic>Rhodobacter sphaeroides</italic> form a clade with high bootstrap
+value (100í). <italic>Subgroup 3</italic>: Consist of ATPS with both domains
+but with a different arrangement (ASK domain in the Nterminus
+and ATS domain in the C-terminus) which is present
+specifically in higher eukaryotes (Metazoa: animals and
+human). The ATPS of higher eukaryotic organisms (<italic>Mus
+musculus, Cavia porcellus, Urechis caupo</italic> and <italic>Homo sapiens</italic>)
+represent a clade with a bootstrap value of 99í. <italic>Subgroup 4</italic>:
+Consist de ATPSs with three domains (ASK domain in the Nterminus,
+ATS domain and Pyrophosphatase domain in the Cterminus)
+and are found in <italic>Phaeodactylum tricornutum</italic> and
+<italic>Thalassiosira pseudonana</italic> diatoms and <italic>Phytophthora infestans</italic>
+forming a cluster (bootstrap 100í) meaning an evolutionary
+advantage in the way of the sulfate in these organisms.</p><fig id="F4" position="float"><?disp-level 3?><label>Figure 4</label><caption><p>Phylogenetic tree of the homooligomerics ATPS rooted with the ATPS de archaea building by Neighbor Joining method
+from multiple alignment of amino acid sequences of the ATPS. An analysis of 1000 bootstrap replicates, using the Poisson
+correction model for Mega v.5.05 program. There are fourth subgroups de ATPS: 1) Some bacteria, archeae, algae, <italic>Entamoeba
+histolytica, Phaeodactylum tricornutum, Thalassiosira pseudonana</italic> diatomeas and plants with ATPS only with domain (sulfurylase:
+ATS), 2) fungi, yeasts, <italic>Dictyostelium discoideum</italic> amoebae, <italic>Toxoplasma gondii</italic> protozoa and some bacteria with the ATPS with both
+domains (sulfurylase: ATS and kinase: ASK o ASK-like) and 3) eukaryotic higher animals and man have the ATPS with both
+domains in the reverse order (kinase: ASK and sulfurylase: ATS), and 4) <italic>Phaeodactylum tricornutum</italic> and <italic>Thalassiosira pseudonana</italic>
+diatoms and <italic>Phytophthora infestans</italic> have the ATPS with three domains (kinase: ASK, sulfurylase: ATS, and Pyrophosphatase
+domain: P). Tree based on a comparison of 342 amino acids of the ATS domain of <italic>A. ferrooxidans</italic>.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="97320630008695F4.jpg"><?cloudpmc-path blobs/9e74/3449377/4bd44c19b6ab/97320630008695F4.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 611?><?original-width 481?><?scaled-height 611?><?scaled-width 481?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="97320630008695F4.gif"><?cloudpmc-path blobs/9e74/3449377/b04187e49dfd/97320630008695F4.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec></sec><sec id="s4" disp-level="1"><title>Discussion</title><p>The enzymes ATP sulfurylases (ATPSs) belong to a superfamily
+of proteins and are widely distributed among microorganisms,
+protista, plants, animals and humans 
+[<xref rid="R02" ref-type="bibr">2</xref>,
+<xref rid="R04" ref-type="bibr">4</xref>,
+<xref rid="R05" ref-type="bibr">5</xref>,
+<xref rid="R35" ref-type="bibr">35</xref>] involved in
+desassimilative sulfate reduction, activation of sulfate
+assimilation and sulfur oxidation. The direct oxidation pathway
+of sulfite is the most widely distributed, but photolithotrophic
+and chemolithotrophic bacteria belonging to the β- and γ-
+Proteobacteria also have an indirect oxidation pathway 
+[<xref rid="R07" ref-type="bibr">7</xref>],
+where ATPS participate in the final oxidation reaction,
+producing ATP and SO<sub>4</sub><sup>2</sup>- from APS and PPi 
+[<xref rid="R01" ref-type="bibr">1</xref>]. We have
+cloned and overexpressed the ATP sulfurylase from <italic>A.
+ferrooxidans</italic> in <italic>E. coli</italic> as a recombinant protein of approximately
+63.5 kDa bound to six histidines (<xref rid="F1" ref-type="fig">Figure 1</xref>), being the monomer
+molecular weight of 60.49 kDa protein (based on its 557 amino
+acids) similar to the monomer molecular weight of ATP
+sulfurylase (62.8 kDa) of the thermophilic chemolithotroph <italic>A.
+aeolicus</italic> [<xref rid="R09" ref-type="bibr">9</xref>]. Probably, the ATPS from <italic>A. ferrooxidans</italic> has a
+dimeric structure similar to chemolithotroph <italic>A. aeolicus</italic> 
+[<xref rid="R09" ref-type="bibr">9</xref>]
+because it has conserved amino acids involved in the
+dimerization in the ATPS from <italic>A. aeolicus</italic> (results not shown),
+whereas in the ATPS from <italic>P. chrysogenum</italic> the subunits dimerize
+and then form a triad of dimers [<xref rid="R36" ref-type="bibr">36</xref>]. These results are consistent
+with the proposal by Sperling (1998) <italic>et al</italic>. 
+[<xref rid="R03" ref-type="bibr">3</xref>], which each
+subunit of the monomeric or homooligomeric ATPSs would
+range from 41 to 69 kDa. The specific activity of ATPS from <italic>A.
+ferrooxidans</italic> for the synthesis of ATP determined from crude <italic>E.
+coli</italic> extracts is 106.9 units/mg/min. The specific activity for the
+ATPS purified from <italic>A. aeolicus</italic> was 13.1 units/mg proteins 
+[<xref rid="R09" ref-type="bibr">9</xref>].
+In contrast, The ATPS from <italic>T. denitrificans</italic> synthesizes around
+400 units/g cell weight of ATP and the levels in the <italic>R. pachyptila</italic>
+symbiont is similar assuming that the bacterium represents 50í
+of trophosomal tissue [<xref rid="R09" ref-type="bibr">9</xref>]. The ATPS of <italic>A. ferrooxidans</italic> is
+functional in the direction of ATP synthesis involved in the
+oxidative metabolism of sulfite, and possibly with a low activity
+in the direction of APS synthesis (experiments not conducted)
+similar to the ATPS from <italic>A. aeolicus</italic> and the <italic>R. pachyptila</italic>
+symbiont [<xref rid="R01" ref-type="bibr">1</xref>,
+<xref rid="R09" ref-type="bibr">9</xref>]. In organisms such as sulfate assimilators <italic>P.
+chrysogenum</italic> and <italic>S. cerevisiae</italic>, ATPS activity by the molybdolisis
+method was 60 units/mg of protein and 39 units/mg of protein,
+respectively [<xref rid="R37" ref-type="bibr">37</xref>]. However, by the luminometer method the
+reported activity was 140 units/mg proteins for ATPS from <italic>S.
+cerevisiae</italic> due to the addition of APS in the filtration step of
+purification [<xref rid="R38" ref-type="bibr">38</xref>]. Moreover, in higher eukaryotes, the ATPS that
+integrates human PAPS synthetase has an activity of 18.7
+units/mg [<xref rid="R05" ref-type="bibr">5</xref>]. In plants, ATPS activity in leaves of spinach
+(<italic>Spinacia oleracea</italic> L.) is 23.1 nmol ATP/mg/min 
+[<xref rid="R39" ref-type="bibr">39</xref>] and
+<italic>Arabidopsis thaliana</italic> is 0.012 units/mg 
+[<xref rid="R40" ref-type="bibr">40</xref>]. Some
+chemolithotrophic bacteria such as <italic>Acidithiobacillus</italic> could have
+three enzymes: sulfite-dependent cytochrome oxidase (APS),
+adenylyl phosphate (APAT) and ATP sulfurylase (ATPS),
+which could catalyze the reaction of terminal sulfate production
+in the complete oxidation of reduced sulfur compounds while
+others seem to possess one or two enzymes (9). The gene for the
+APS reductase (cysH gene) involved in the pathways of sulfate
+reduction and sulfide oxidation in the biological sulfur cycle
+[<xref rid="R41" ref-type="bibr">41</xref>] 
+has been reported in <italic>A. ferrooxidans</italic>. The organisms that
+possess this APS reductase pathway are widely distributed in
+natural environments with high concentrations of sulfide or
+other reduced sulfur compounds and use this pathway to
+generate ATP or by attaching electrons to reduce CO<sub>2</sub> 
+[<xref rid="R42" ref-type="bibr">42</xref>].
+Although the conserved hypothetical gene (<italic>orf2</italic>) embedded in
+the <italic>hdr</italic> locus of sulfur oxidizers could also be involved, that
+strongly suggests that these microorganisms have a novel sulfur
+oxidation pathway in which sulfite is hypothesized to be
+produced in the cytoplasm by heterodisulfide reductase that in
+turn would catalyze the oxidation of sulfite to APS.
+Furthermore, the enzyme responsible for the second step in this
+pathways, has been reported by quantitative RT-PCR analysis
+of the <italic>atp</italic>S gene expression of <italic>A. ferrooxidans</italic> in the presence
+reduced inorganic sulfur compounds oxidation [<xref rid="R43" ref-type="bibr">43</xref>] and the
+presence of the an ORF to ATPS in the genome of the new
+specie described A. ferrivorans [<xref rid="R44" ref-type="bibr">44</xref>], which along with our results
+in the functionality of ATPS, leads us to suspect the
+involvement of ATPS from <italic>A. ferrooxidans</italic> in the oxidation of
+sulfite through the reverse path of APS reductase or a novel
+sulfur oxidation pathway.</p><p>The ATS domain of ATPS from <italic>A. ferrooxidans</italic> has five highly
+conserved regions or blocks similar to all the homooligomeric
+ATPSs from archaea to higher eukaryotes (<xref rid="F2" ref-type="fig">Figure 2</xref>), with
+blocks II and IV rich in basic amino acids that participate in the
+binding of MgATP2-and SO<sub>4</sub><sup>2-</sup> 
+[<xref rid="R03" ref-type="bibr">3</xref>], corresponding these blocks to
+domain II of homooligomeric ATPSs. Block II presents the
+<sup>170</sup>QXRN<sup>173</sup>, <sup>176</sup>HXXH<sup>179</sup> motifs and Block III presents the
+sequence of the active site loop <sup>196</sup>(hp)<sub>3</sub>HXhpXGXXKXXDhpXXXXR<sup>215</sup> motif 
+(<xref rid="F2" ref-type="fig">Figure 2</xref>), both
+blocks are important for enzyme activity [<xref rid="R01" ref-type="bibr">1</xref>,
+<xref rid="R04" ref-type="bibr">4</xref>]. An alignment
+with the structure of ATPS from <italic>Aquifex aeolicus</italic> shows that the
+active site loop motif presents Asp209 amino acid described in
+the ATPS from <italic>P. chrysogenum</italic> (Asp234) and <italic>A. aeolicus</italic> (Asp207)
+that would help to guide the Arg172 (Arg172 also in <italic>A. aeolicus</italic>)
+in the sulfate-binding site that is required for sulfurylase
+activity [<xref rid="R10" ref-type="bibr">10</xref>] and this amino acid would regulate the catalytic
+activity and preference for the of APS as substrate for the
+synthesis of ATP as in other chemolithotrophic bacteria and
+allow an open conformation of the loop for more time,
+compared to the Asp234 of the enzyme from <italic>P. crhysogenum</italic>
+(sulfate assimilator) that regulates the activity to active or
+inactive forms [<xref rid="R10" ref-type="bibr">10</xref>]. The amino acids Arg172, Gln170 and Ala270
+form the sulfate-binding site and amino acids Arg267 and
+His269 would interact with ribose. Whereas, Arg267 and Tyr307
+(Leu307 in <italic>A. aeolicus</italic>) would be responsible for the preference
+of this enzyme by ATP over other nucleosides. These amino
+acids have been identified in the crystallized form of ATPS from
+<italic>A. aeolicus</italic> (<xref rid="F5" ref-type="fig">Figure 5</xref>). However, so far it has not been
+determined which residues are involved in determining the
+direction of the physiological reaction of the ATPS enzyme.
+Possibly minor perturbations are responsible for the
+optimization of the kinetic properties for the physiologically
+relevant direction [<xref rid="R10" ref-type="bibr">10</xref>]. The ATPS of the genus <italic>Desulfuvibrio</italic> 
+[<xref rid="R45" ref-type="bibr">45</xref>]
+and some other ATPSs (<italic>Archaeoglobus fulgidus, Entamoeba
+histolytica</italic> and <italic>Bacillus subtilis</italic>) have the ability to bind metals,
+but the ATPS of <italic>A. ferrooxidans</italic> does not present the sequence
+responsible for binding to metal C-X2-C-X8-CXH [<xref rid="R07" ref-type="bibr">7</xref>] (results not
+shown).</p><fig id="F5" position="float"><?disp-level 2?><label>Figure 5</label><caption><p>Structural alignment of the ATPS from <italic>A. ferrooxidans</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>) with ATPS of <italic>A. aeolicus</italic> (MMDB: ID44452; PDB:
+2GKS). a) Active site of the ATS domain with an ADP molecule, and b) most important amino acid residues of the active site for
+function and binding nucleotides are marked with numbers in the ATPS sequence from <italic>A. ferrooxidans</italic>. The molecule in sky-blue is
+ADP. Identical amino acids are shown in red and similar ones in blue. The HXXH motif (in gray) stabilizes PPi and QXRN motif (in
+yellow) is the catalytic motif. Residues R267, H269 and Y307 (in green) are joined with the ATP.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="97320630008695F5.jpg"><?cloudpmc-path blobs/9e74/3449377/efd1b067aee8/97320630008695F5.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 205?><?original-width 539?><?scaled-height 205?><?scaled-width 539?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="97320630008695F5.gif"><?cloudpmc-path blobs/9e74/3449377/7cd56c36ab73/97320630008695F5.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The ASK domain activity of ATPS from <italic>A. ferrooxidans</italic> remains
+to be established. However, it is possible an APS kinase activity
+because it has conserved amino acids compared to the ATPS
+from <italic>A. aeolicus</italic> that presents APS kinase activity (<xref rid="F3" ref-type="fig">Figure 3</xref> &amp;
+<xref rid="F6" ref-type="fig">Figure 6</xref>) [<xref rid="R09" ref-type="bibr">9</xref>], 
+showing “P-loop” <sup>376</sup>GLSASGKST<sup>384</sup> motifs, whose
+sequence is identical to that found in true APS kinases
+(<italic>32</italic>GLSASGKST<italic>40</italic>) and is similar to the ATPS from <italic>A. aeolicus</italic>
+that presents the <italic>379</italic>GLPCAGKST<italic>387</italic> motif. By contrast, in ATPS
+from filamentous fungi this motif in the ASK-like domain has
+changed and only conserves four amino acids:
+<italic>403</italic>GYMNSGKDA<italic>411</italic> 
+[<xref rid="R09" ref-type="bibr">9</xref>]. Other key residues of the ASK domain
+presents in the ATPS de <italic>A. ferrooxidans</italic> that have been described
+in the ATPS from <italic>A. aeolicus</italic> are present: a) Asp405 (Asp407 in
+<italic>A. aeolicus</italic>) that interacts with Mg<sup>í2</sup> í ATP; b) Phe419 (Phe421 in
+<italic>A. aeolicus</italic>) and Phe503 (the same position in <italic>A. aeolicus</italic>), which
+would bind to the adenine ring of APS; c) the amino acid
+Arg410 (Arg412 in <italic>A. aeolicus</italic>) and Arg424 (Arg426 in <italic>A.
+aeolicus</italic>), which would associate the phosphosulfate group of
+APS, and d) Tyr453 (Tyr455 in <italic>A. aeolicus</italic>), which would help to
+align the Arg424 (similar to Arg426 in <italic>A. aeolicus</italic>). Additionally,
+e) the residue Lys489 (similar to <italic>A. aeolicus</italic>), as in true APS
+kinase, while in <italic>P. chrysogenum</italic> is Arg515 
+[<xref rid="R46" ref-type="bibr">46</xref>]. Furthermore, the
+arrangement of some helices, beta sheets and loops of this
+domain with true ASK kinase is very similar.</p><fig id="F6" position="float"><?disp-level 2?><label>Figure 6</label><caption><p>Comparative structural alignment of the ASK domain of ATPS from <italic>A. ferrooxidans</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/protein/CAQ76453" ext-link-type="uri">CAQ76453</ext-link>) with: a) ASK domain of
+ATPS from <italic>A. aeolicus</italic> (MMDB ID 44452, PDB: 2GKS_A); b) APS kinase from <italic>P. chrysogenum</italic> (MMDB ID: 21216, PDB: IM7G_A). It is
+shown the catalytic site of APS kinase domain with the P-loop motif (yellow). Red color indicates identical amino acids and blue
+indicates similar ones blue in the activity of true APS kinase. In a) the molecule lies in the ADP and in b) it does in the ATP (in sky blue).
+The numbering is based on the sequence of ATPS from <italic>A. ferrooxidans</italic>.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="97320630008695F6.jpg"><?cloudpmc-path blobs/9e74/3449377/74a4c33b7e77/97320630008695F6.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 198?><?original-width 554?><?scaled-height 198?><?scaled-width 554?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="97320630008695F6.gif"><?cloudpmc-path blobs/9e74/3449377/f24b39c8b8b7/97320630008695F6.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The evolutionary origin of homooligomeric ATPSs has not been
+determined; they have no similarity to heterooligomeric ATPSs.
+These two classes of ATPS with the same function are probably
+originated by convergent evolution [<xref rid="R03" ref-type="bibr">3</xref>]. The phylogenetic tree of
+homooligomeric ATPSs rooted with archaeal ATPSs leads us to
+suppose that probably the evolution of this enzyme started
+from the existence of ancestral <italic>atp</italic>S gene similar to <italic>subgroup 1</italic> of
+the homooligomeric ATPSs with only ATS domain, presents in
+archaea and in Gram-positive bacteria mainly. Later, from
+ATPS ancestral gene would have originated in two subgroups:
+a) The <italic>subgroup 2</italic> of the homooligomeric ATPSs which has two
+domains (ATS in the N-terminal and ASK or ASK-like in the Cterminal)
+and b) <italic>subgroup 3</italic> of the homooligomeric ATPSs who
+have both domains in the reverse order to <italic>subgroup 2</italic>. Possibly
+the <italic>subgroup 2</italic> is originated from a fusion of ancestral <italic>atp</italic>S gene
+with a gene encoding the APS kinase protein giving rise to a
+primitive bifunctional ATPS, whose homologous representative
+could be the bifunctional ATPS found recently in
+chemolithotrophic bacteria <italic>A. aeolicus</italic> from which the ATP
+sulfurylase of fungi would have evolved [<xref rid="R10" ref-type="bibr">10</xref>]. The ATPS from
+<italic>A. ferrooxidans</italic> has a high level of homology to the C-terminal
+domain (kinase domain) of the ATPS from <italic>A. aeolicus</italic> and
+presents an identical P-loop region to that of true APS kinases
+(<xref rid="F3" ref-type="fig">Figure 3</xref> &amp;
+<xref rid="F6" ref-type="fig">Figure 6</xref>), which probably suggests that <italic>A. ferrooxidans</italic>
+possesses a functional enzyme of the <italic>subgrupo 2</italic> more ancestral
+than that in <italic>A. aeolicus</italic>. The most basal location of the enzyme
+from <italic>A. ferrooxidans</italic> with A. ferrivorans and <italic>A. caldus</italic> in the
+phylogenetic tree would corroborate our hypothesis (<xref rid="F4" ref-type="fig">Figure 4</xref>).
+Moreover, the <italic>subgroup 3</italic> would have originated during the
+course of evolution after the divergence of an ancestral ATPS
+similar to <italic>subgroup 1</italic> gave rise first to the ATPS of plants and
+then by fusion with the gene for APS kinase generated a
+bifunctional enzyme called PAPS synthetase in metazoans (ASK
+domain and ATS domain) as postulated earlier 
+[<xref rid="R47" ref-type="bibr">47</xref>].
+Alternatively, the domains of the ATPSs <italic>subgroup 2</italic> or <italic>subgroup
+3</italic> probably originated by a rearrangement of domains in the
+bifunctional enzyme similar to primitive bacterial ATPS of the
+<italic>subgroup 2</italic> as <italic>A. aeolicus</italic> and <italic>A. ferrooxidans</italic>, and are possibly
+intermediate forms between the ATPS of fungi and metazoan
+PAPS synthetases as postulated Hanna (2002) <italic>et al</italic>. 
+[<xref rid="R09" ref-type="bibr">9</xref>].
+Additionally, <italic>subgroup 4</italic> includes ATP sulfurylases with ATS,
+ASK and pyrophosphatase domains would have originated
+from <italic>subgroup 3</italic> during the course of evolution. This is
+postulated the variations of ATPSs are the result of ancestral
+fusion genes evolving by an assortment of gene fissions,
+duplications, deletions, and horizontal transfers in different
+lineages [<xref rid="R48" ref-type="bibr">48</xref>]. Our phylogenetic tree is consistent with the
+possibility that the enzyme ATP sulfurylase from the
+chemolithotrophic <italic>Riftia</italic> symbiont (subgroup 1) is most similar
+to ancestral ATP sulfurylase from which the family of
+homooligomeric ATP sulfurylase would have evolved 
+[<xref rid="R01" ref-type="bibr">1</xref>] but
+probably there are other ancestral ATPS present in other
+microorganisms (<xref rid="F4" ref-type="fig">Figure 4</xref>).</p><p>During the evolution of the homoligomeric ATPSs, occurred
+horizontal <italic>atp</italic>S gene transfer events between some organisms
+whose expression allowed them to adapt their metabolism and
+lifestyle [<xref rid="R01" ref-type="bibr">1</xref>]. 
+Similar results were obtained by Patron <italic>et al</italic>. (2008)
+[<xref rid="R35" ref-type="bibr">35</xref>] 
+whose proposed that the inheritance of the enzymes of the
+ATPS, APR and PAPR have multiple origins in lineages that
+comprise <italic>opisthokonts</italic> (fungi and animals), gene fusions with
+other enzymes of sulphate assimilation pathway and evidence
+an eukaryote-to-prokaryote lateral gene transfer. Some
+organisms (<italic>Thiobacillus denitrificans, Phaeodactylum tricornutum,
+Thalassiosira pseudonana</italic>) present yet ATPS with only ATS
+domain and ATPS with ATS; ASK domains or fusion with
+pirophosphatase domain. The crystallography of the putative
+bifunctional ATPS (with ATS and ASK domains) from
+<italic>Thiobacillus denitrificans</italic> has shown that it only presents APS
+kinase activity, and exhibits numerous structural and sequence
+differences in the ATS domain to other ATPSs that render it
+inactive with respect to ATP sulfurylase activity, probably has
+unknown function [<xref rid="R49" ref-type="bibr">49</xref>]. The fusion of ATPS has happened not
+only with the gene for APS kinase, but with the inorganic
+pyrophosphatase enzyme in stramenopiles (in the diatom
+<italic>Thalassiosira pseudonana</italic> and <italic>Phaeodactylum tricornutum</italic>, and the
+oomycete <italic>Phytophtohora sojae</italic>) and on haptofites (algae such as
+<italic>Pavlova lutheria</italic> and <italic>Emiliania huxleri</italic>). Furthermore, in
+Heterocapsa triquetra is found the fusion of ATPS to APR, which
+probably would ensure a rapid transition from APS to the site
+of its reduction by increasing the production rate of sulfite 
+[<xref rid="R35" ref-type="bibr">35</xref>].
+Genomic analysis of the <italic>atp</italic>S gene region of <italic>A. ferrooxidans</italic>
+ATCC 23270 (16 kb) shows that the <italic>atp</italic>S gene is not associated
+with other genes in the metabolism of sulfur compounds
+especially with the APS reductase involved in the indirect route
+of oxidation of sulphite, but is associated with other
+transferases and chaperonins. An ORF that encoded the APS
+reductase of <italic>A. ferrooxidans</italic> was found in the genome the A.
+ferrooxidans ATCC 23270 strain but not adjacent to the atpS gene.
+By contrast, in the phototrophic sulfur oxidizer <italic>Chromatium
+vinosum</italic>, genes encoding for ATP sulfurylase and APS reductase
+(<italic>aprMBA, aprM</italic> encodes a membrane anchor protein) form an
+operon [<xref rid="R50" ref-type="bibr">50</xref>]. 
+In the sulfate reducing archaeon <italic>A. fulgidus</italic>, the
+<italic>aprC</italic> gene that encodes a soluble protein with no known
+function, is inserted between the <italic>atp</italic>S gene (called <italic>sat</italic>) and the
+<italic>aprBA</italic> gene [<xref rid="R03" ref-type="bibr">3</xref>]. 
+In the genome of <italic>C. tepidum</italic>, the genes for ATP
+sulfurylase and APS reductase are located adjacent to each
+other [<xref rid="R07" ref-type="bibr">7</xref>].</p></sec><sec id="s5" disp-level="1"><title>Conclusion</title><p>We have demonstrated the expression of the gene encoding the
+enzyme ATP sulfurylase in the chemolithotrophic bacterium <italic>A.
+ferrooxidans</italic> 23270 that it would participate in the indirect
+pathway of sulfide oxidation to obtain energy. It presents an
+homooligomeric ATPS with: a) similarity at the sequence level
+and structure to homooligomeric ATPS with conserved motifs
+and mobile loop at the active site, b) Five blocks present in all
+homooligomeric ATPS, c) Enzyme activity producing ATP from
+APS and PPi, d) Presence of amino acids similar to ATPS from
+<italic>A. aeolicus</italic> involved in dimer formation, e) similarity to <italic>subgroup
+2</italic> of the homooligomeric ATPS, and f) size protein and
+cytoplasmic location. Subsequent studies of the ATPS present in
+<italic>A. ferrooxidans</italic> as purification and crystallization involved in the
+indirect oxidation of sulfite will be vital in understanding the
+mechanism of acid drainage generation used in bioleaching
+processes to improve the recovery rate of metals.</p></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>This work was supported in part by grant from CONCYTEC
+(contract No 245-03-CONCYTEC-OAJ). LJdV was supported by
+grant from AECID (A/9727/07). MLJ was the recipient
+CONCYTEC Master in Molecular biology scholarship.</p></sec><sec id="fn-group1" sec-type="fn-group" disp-level="1"><title>Footnotes</title><fn-group><fn id="FN1"><p><bold>Citation:</bold>Jaramillo <italic>et al</italic>, Bioinformation 8(15): 695-704 (2012)</p></fn></fn-group></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="R01"><label>1.</label><mixed-citation><named-content content-type="citation-string">JD Beynon, et al.  Biochemistry. 2001;40:14509. doi: 10.1021/bi015643l.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/bi015643l"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11724564"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochemistry&amp;author=Beynon JD&amp;volume=40&amp;publication_year=2001&amp;pages=14509&amp;pmid=11724564&amp;doi=10.1021/bi015643l&amp;"/></mixed-citation></ref><ref id="R02"><label>2.</label><mixed-citation><named-content content-type="citation-string">DH Geller, et al.  J Biol Chem. 1987;262:7374.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="3034891"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biol Chem&amp;author=Geller DH&amp;volume=262&amp;publication_year=1987&amp;pages=7374&amp;pmid=3034891&amp;"/></mixed-citation></ref><ref id="R03"><label>3.</label><mixed-citation><named-content content-type="citation-string">D Sperling, et al.  FEMS Microbiol Lett. 1998;162:257. doi: 10.1111/j.1574-6968.1998.tb13007.x.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1574-6968.1998.tb13007.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9627961"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=FEMS Microbiol Lett&amp;author=Sperling D&amp;volume=162&amp;publication_year=1998&amp;pages=257&amp;pmid=9627961&amp;doi=10.1111/j.1574-6968.1998.tb13007.x&amp;"/></mixed-citation></ref><ref id="R04"><label>4.</label><mixed-citation><named-content content-type="citation-string">E Hanna, et al.  J Biol Chem. 2004;279:4415. doi: 10.1074/jbc.M311317200.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1074/jbc.M311317200"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14613928"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biol Chem&amp;author=Hanna E&amp;volume=279&amp;publication_year=2004&amp;pages=4415&amp;pmid=14613928&amp;doi=10.1074/jbc.M311317200&amp;"/></mixed-citation></ref><ref id="R05"><label>5.</label><mixed-citation><named-content content-type="citation-string">E Lansdon, et al.  Biochemistry. 2004;43:4356.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochemistry&amp;author=Lansdon E&amp;volume=43&amp;publication_year=2004&amp;pages=4356&amp;"/></mixed-citation></ref><ref id="R06"><label>6.</label><mixed-citation><named-content content-type="citation-string">JA Bick, et al.  J Bacteriol. 2000;182:135. doi: 10.1128/jb.182.1.135-142.2000.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/jb.182.1.135-142.2000"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC94249"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10613872"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Bacteriol&amp;author=Bick JA&amp;volume=182&amp;publication_year=2000&amp;pages=135&amp;pmid=10613872&amp;doi=10.1128/jb.182.1.135-142.2000&amp;"/></mixed-citation></ref><ref id="R07"><label>7.</label><mixed-citation><named-content content-type="citation-string">U Kappler, C Dahl. FEMS Microbiol Lett. 2001;203:1. doi: 10.1111/j.1574-6968.2001.tb10813.x.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1574-6968.2001.tb10813.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11557133"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=FEMS Microbiol Lett&amp;author=Kappler U&amp;author=Dahl C&amp;volume=203&amp;publication_year=2001&amp;pages=1&amp;pmid=11557133&amp;doi=10.1111/j.1574-6968.2001.tb10813.x&amp;"/></mixed-citation></ref><ref id="R08"><label>8.</label><mixed-citation><named-content content-type="citation-string">J Valdes, et al.  BMC Genomics. 2003;4:51. doi: 10.1186/1471-2164-4-51.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/1471-2164-4-51"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC324559"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14675496"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMC Genomics&amp;author=Valdes J&amp;volume=4&amp;publication_year=2003&amp;pages=51&amp;pmid=14675496&amp;doi=10.1186/1471-2164-4-51&amp;"/></mixed-citation></ref><ref id="R09"><label>9.</label><mixed-citation><named-content content-type="citation-string">E Hanna, et al.  Arch Biochem Biophys. 2002;406:275. doi: 10.1016/s0003-9861(02)00428-9.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/s0003-9861(02)00428-9"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12361716"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch Biochem Biophys&amp;author=Hanna E&amp;volume=406&amp;publication_year=2002&amp;pages=275&amp;pmid=12361716&amp;doi=10.1016/s0003-9861(02)00428-9&amp;"/></mixed-citation></ref><ref id="R10"><label>10.</label><mixed-citation><named-content content-type="citation-string">Z Yu, et al.  J Mol Biol. 2007;365:732. doi: 10.1016/j.jmb.2006.10.035.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jmb.2006.10.035"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17095009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Mol Biol&amp;author=Yu Z&amp;volume=365&amp;publication_year=2007&amp;pages=732&amp;pmid=17095009&amp;doi=10.1016/j.jmb.2006.10.035&amp;"/></mixed-citation></ref><ref id="R11"><label>11.</label><mixed-citation><named-content content-type="citation-string">E Rosenthal, T Leustek. Gene. 1995;165:243. doi: 10.1016/0378-1119(95)00450-k.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/0378-1119(95)00450-k"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8522184"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Gene&amp;author=Rosenthal E&amp;author=Leustek T&amp;volume=165&amp;publication_year=1995&amp;pages=243&amp;pmid=8522184&amp;doi=10.1016/0378-1119(95)00450-k&amp;"/></mixed-citation></ref><ref id="R12"><label>12.</label><mixed-citation><named-content content-type="citation-string">D Jullien, et al.  Mech Dev. 1997;68:179.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mech Dev&amp;author=Jullien D&amp;volume=68&amp;publication_year=1997&amp;pages=179&amp;"/></mixed-citation></ref><ref id="R13"><label>13.</label><mixed-citation><named-content content-type="citation-string">H Li, et al.  J Biol Chem. 1995;270:29453. doi: 10.1074/jbc.270.49.29453.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1074/jbc.270.49.29453"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7493984"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biol Chem&amp;author=Li H&amp;volume=270&amp;publication_year=1995&amp;pages=29453&amp;pmid=7493984&amp;doi=10.1074/jbc.270.49.29453&amp;"/></mixed-citation></ref><ref id="R14"><label>14.</label><mixed-citation><named-content content-type="citation-string">K Venkatachalam, et al.  J Biol Chem. 1998;273:19311. doi: 10.1074/jbc.273.30.19311.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1074/jbc.273.30.19311"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9668121"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biol Chem&amp;author=Venkatachalam K&amp;volume=273&amp;publication_year=1998&amp;pages=19311&amp;pmid=9668121&amp;doi=10.1074/jbc.273.30.19311&amp;"/></mixed-citation></ref><ref id="R15"><label>15.</label><mixed-citation><named-content content-type="citation-string">DJ Lalor, et al.  Protein Eng. 2003;16:1071. doi: 10.1093/protein/gzg133.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/protein/gzg133"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14983089"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Protein Eng&amp;author=Lalor DJ&amp;volume=16&amp;publication_year=2003&amp;pages=1071&amp;pmid=14983089&amp;doi=10.1093/protein/gzg133&amp;"/></mixed-citation></ref><ref id="R16"><label>16.</label><mixed-citation><named-content content-type="citation-string">Y Taguchi, et al.  Acta Crystallogr D Biol Crystallogr. 2003;59:1645. doi: 10.1107/s0907444903014641.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1107/s0907444903014641"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12925800"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Acta Crystallogr D Biol Crystallogr&amp;author=Taguchi Y&amp;volume=59&amp;publication_year=2003&amp;pages=1645&amp;pmid=12925800&amp;doi=10.1107/s0907444903014641&amp;"/></mixed-citation></ref><ref id="R17"><label>17.</label><mixed-citation><named-content content-type="citation-string">TC Ullrich, et al.  EMBO J. 2001;20:316.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=EMBO J&amp;author=Ullrich TC&amp;volume=20&amp;publication_year=2001&amp;pages=316&amp;"/></mixed-citation></ref><ref id="R18"><label>18.</label><mixed-citation><named-content content-type="citation-string">P Ramírez, et al.  Appl Environ Microbiol. 2002;68:1837. doi: 10.1128/AEM.68.4.1837-1845.2002.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/AEM.68.4.1837-1845.2002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC123899"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11916703"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Appl Environ Microbiol&amp;author=Ramírez P&amp;volume=68&amp;publication_year=2002&amp;pages=1837&amp;pmid=11916703&amp;doi=10.1128/AEM.68.4.1837-1845.2002&amp;"/></mixed-citation></ref><ref id="R19"><label>19.</label><mixed-citation><named-content content-type="citation-string">S Altschul, et al.  Nucleic Acids Res. 1997;25:3389. doi: 10.1093/nar/25.17.3389.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/nar/25.17.3389"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC146917"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9254694"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nucleic Acids Res&amp;author=Altschul S&amp;volume=25&amp;publication_year=1997&amp;pages=3389&amp;pmid=9254694&amp;doi=10.1093/nar/25.17.3389&amp;"/></mixed-citation></ref><ref id="R20"><label>20.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sequentix.de" ext-link-type="uri">http://www.sequentix.de</ext-link>.</named-content></mixed-citation></ref><ref id="R21"><label>21.</label><mixed-citation><named-content content-type="citation-string">MM Bradford. Anal Biochem. 1976;72:248. doi: 10.1016/0003-2697(76)90527-3.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/0003-2697(76)90527-3"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="942051"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Anal Biochem&amp;author=Bradford MM&amp;volume=72&amp;publication_year=1976&amp;pages=248&amp;pmid=942051&amp;doi=10.1016/0003-2697(76)90527-3&amp;"/></mixed-citation></ref><ref id="R22"><label>22.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.expasy.ch/cgi-bin/protparam" ext-link-type="uri">http://www.expasy.ch/cgi-bin/protparam</ext-link>.</named-content></mixed-citation></ref><ref id="R23"><label>23.</label><mixed-citation><named-content content-type="citation-string">M Bhasin, et al.  Bioinformatics. 2005;21:2522.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Bioinformatics&amp;author=Bhasin M&amp;volume=21&amp;publication_year=2005&amp;pages=2522&amp;"/></mixed-citation></ref><ref id="R24"><label>24.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.psort.org/psortb/" ext-link-type="uri">http://www.psort.org/psortb/</ext-link></named-content></mixed-citation></ref><ref id="R25"><label>25.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.cbs.dtu.dk/services/SignalP/" ext-link-type="uri">http://www.cbs.dtu.dk/services/SignalP/</ext-link></named-content></mixed-citation></ref><ref id="R26"><label>26.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ncbi.nlm.nih.gov/Ftp/" ext-link-type="uri">http://www.ncbi.nlm.nih.gov/Ftp/</ext-link></named-content></mixed-citation></ref><ref id="R27"><label>27.</label><mixed-citation><named-content content-type="citation-string">J Thompson, et al.  Nucleic Acids Res. 1994;22:4673. doi: 10.1093/nar/22.22.4673.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/nar/22.22.4673"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC308517"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7984417"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nucleic Acids Res&amp;author=Thompson J&amp;volume=22&amp;publication_year=1994&amp;pages=4673&amp;pmid=7984417&amp;doi=10.1093/nar/22.22.4673&amp;"/></mixed-citation></ref><ref id="R28"><label>28.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.mbio.ncsu.edu/bioedit/bioedit.html" ext-link-type="uri">http://www.mbio.ncsu.edu/bioedit/bioedit.html</ext-link>.</named-content></mixed-citation></ref><ref id="R29"><label>29.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ch.embnet.org/software/BOX_form.html" ext-link-type="uri">http://www.ch.embnet.org/software/BOX_form.html</ext-link>.</named-content></mixed-citation></ref><ref id="R30"><label>30.</label><mixed-citation><named-content content-type="citation-string">CW Hogue. Trends Biochem Sci. 1997;22:314. doi: 10.1016/s0968-0004(97)01093-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/s0968-0004(97)01093-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9270306"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Trends Biochem Sci&amp;author=Hogue CW&amp;volume=22&amp;publication_year=1997&amp;pages=314&amp;pmid=9270306&amp;doi=10.1016/s0968-0004(97)01093-1&amp;"/></mixed-citation></ref><ref id="R31"><label>31.</label><mixed-citation><named-content content-type="citation-string">  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ncbi.nlm.nih.gov" ext-link-type="uri">http://www.ncbi.nlm.nih.gov</ext-link>.</named-content></mixed-citation></ref><ref id="R32"><label>32.</label><mixed-citation><named-content content-type="citation-string">J Thompson. Nucleic Acids Res. 1997;25:4876. doi: 10.1093/nar/25.24.4876.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/nar/25.24.4876"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC147148"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9396791"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nucleic Acids Res&amp;author=Thompson J&amp;volume=25&amp;publication_year=1997&amp;pages=4876&amp;pmid=9396791&amp;doi=10.1093/nar/25.24.4876&amp;"/></mixed-citation></ref><ref id="R33"><label>33.</label><mixed-citation><named-content content-type="citation-string">S Kumar. Brief Bioinform. 2004;5:150. doi: 10.1093/bib/5.2.150.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/bib/5.2.150"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15260895"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Brief Bioinform&amp;author=Kumar S&amp;volume=5&amp;publication_year=2004&amp;pages=150&amp;pmid=15260895&amp;doi=10.1093/bib/5.2.150&amp;"/></mixed-citation></ref><ref id="R34"><label>34.</label><mixed-citation><named-content content-type="citation-string">N Saitou, M Nei. Mol Biol Evol. 1987;4:406. doi: 10.1093/oxfordjournals.molbev.a040454.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/oxfordjournals.molbev.a040454"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="3447015"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol Biol Evol&amp;author=Saitou N&amp;author=Nei M&amp;volume=4&amp;publication_year=1987&amp;pages=406&amp;pmid=3447015&amp;doi=10.1093/oxfordjournals.molbev.a040454&amp;"/></mixed-citation></ref><ref id="R35"><label>35.</label><mixed-citation><named-content content-type="citation-string">N Patron. BMC Evol Biol. 2008;8:39. doi: 10.1186/1471-2148-8-39.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/1471-2148-8-39"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2275785"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18248682"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMC Evol Biol&amp;author=Patron N&amp;volume=8&amp;publication_year=2008&amp;pages=39&amp;pmid=18248682&amp;doi=10.1186/1471-2148-8-39&amp;"/></mixed-citation></ref><ref id="R36"><label>36.</label><mixed-citation><named-content content-type="citation-string">IJ MacRae. Biochemistry. 2001;40:6795. doi: 10.1021/bi010367w.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/bi010367w"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11389593"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochemistry&amp;author=MacRae IJ&amp;volume=40&amp;publication_year=2001&amp;pages=6795&amp;pmid=11389593&amp;doi=10.1021/bi010367w&amp;"/></mixed-citation></ref><ref id="R37"><label>37.</label><mixed-citation><named-content content-type="citation-string">B Foster. J Biol Chem. 1994;269:19777.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8051058"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biol Chem&amp;author=Foster B&amp;volume=269&amp;publication_year=1994&amp;pages=19777&amp;pmid=8051058&amp;"/></mixed-citation></ref><ref id="R38"><label>38.</label><mixed-citation><named-content content-type="citation-string">S Karamohamed. Protein Expr Purif. 1999;15:381. doi: 10.1006/prep.1999.1032.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1006/prep.1999.1032"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10092498"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Protein Expr Purif&amp;author=Karamohamed S&amp;volume=15&amp;publication_year=1999&amp;pages=381&amp;pmid=10092498&amp;doi=10.1006/prep.1999.1032&amp;"/></mixed-citation></ref><ref id="R39"><label>39.</label><mixed-citation><named-content content-type="citation-string">JE Lunn. Plant Physiol. 1990;94:1345. doi: 10.1104/pp.94.3.1345.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1104/pp.94.3.1345"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1077384"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16667839"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Plant Physiol&amp;author=Lunn JE&amp;volume=94&amp;publication_year=1990&amp;pages=1345&amp;pmid=16667839&amp;doi=10.1104/pp.94.3.1345&amp;"/></mixed-citation></ref><ref id="R40"><label>40.</label><mixed-citation><named-content content-type="citation-string">T Leustek. Plant Physiol. 1994;105:897. doi: 10.1104/pp.105.3.897.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1104/pp.105.3.897"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC160738"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8058839"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Plant Physiol&amp;author=Leustek T&amp;volume=105&amp;publication_year=1994&amp;pages=897&amp;pmid=8058839&amp;doi=10.1104/pp.105.3.897&amp;"/></mixed-citation></ref><ref id="R41"><label>41.</label><mixed-citation><named-content content-type="citation-string">C Heng. Curr Microbiol. 2009;58:586. doi: 10.1007/s00284-009-9375-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00284-009-9375-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19225840"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr Microbiol&amp;author=Heng C&amp;volume=58&amp;publication_year=2009&amp;pages=586&amp;pmid=19225840&amp;doi=10.1007/s00284-009-9375-1&amp;"/></mixed-citation></ref><ref id="R42"><label>42.</label><mixed-citation><named-content content-type="citation-string">BE Aue, DC Nelson. J Bacterial. 1994;176:3723.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Bacterial&amp;author=Aue BE&amp;author=Nelson DC&amp;volume=176&amp;publication_year=1994&amp;pages=3723&amp;"/></mixed-citation></ref><ref id="R43"><label>43.</label><mixed-citation><named-content content-type="citation-string">R Quatrini. BMC Genomics. 2009;10:394. doi: 10.1186/1471-2164-10-394.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/1471-2164-10-394"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2754497"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19703284"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMC Genomics&amp;author=Quatrini R&amp;volume=10&amp;publication_year=2009&amp;pages=394&amp;pmid=19703284&amp;doi=10.1186/1471-2164-10-394&amp;"/></mixed-citation></ref><ref id="R44"><label>44.</label><mixed-citation><named-content content-type="citation-string">M Liljeqvist. J Bacteriol. 2011;193:4304. doi: 10.1128/JB.05373-11.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/JB.05373-11"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3147677"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21705598"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Bacteriol&amp;author=Liljeqvist M&amp;volume=193&amp;publication_year=2011&amp;pages=4304&amp;pmid=21705598&amp;doi=10.1128/JB.05373-11&amp;"/></mixed-citation></ref><ref id="R45"><label>45.</label><mixed-citation><named-content content-type="citation-string">O Gavel. Biochemistry. 1998;37:16225. doi: 10.1021/bi9816709.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/bi9816709"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9819214"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochemistry&amp;author=Gavel O&amp;volume=37&amp;publication_year=1998&amp;pages=16225&amp;pmid=9819214&amp;doi=10.1021/bi9816709&amp;"/></mixed-citation></ref><ref id="R46"><label>46.</label><mixed-citation><named-content content-type="citation-string">D Medina. Arch Biochem Biophys. 2001;393:51. doi: 10.1006/abbi.2001.2490.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1006/abbi.2001.2490"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11516160"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch Biochem Biophys&amp;author=Medina D&amp;volume=393&amp;publication_year=2001&amp;pages=51&amp;pmid=11516160&amp;doi=10.1006/abbi.2001.2490&amp;"/></mixed-citation></ref><ref id="R47"><label>47.</label><mixed-citation><named-content content-type="citation-string">K Kurima. J Biol Chem. 1999;274:33306. doi: 10.1074/jbc.274.47.33306.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1074/jbc.274.47.33306"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10559207"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biol Chem&amp;author=Kurima K&amp;volume=274&amp;publication_year=1999&amp;pages=33306&amp;pmid=10559207&amp;doi=10.1074/jbc.274.47.33306&amp;"/></mixed-citation></ref><ref id="R48"><label>48.</label><mixed-citation><named-content content-type="citation-string">M Bradley. J Mol Evol. 2009;68:1. doi: 10.1007/s00239-008-9181-6.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00239-008-9181-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19067028"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Mol Evol&amp;author=Bradley M&amp;volume=68&amp;publication_year=2009&amp;pages=1&amp;pmid=19067028&amp;doi=10.1007/s00239-008-9181-6&amp;"/></mixed-citation></ref><ref id="R49"><label>49.</label><mixed-citation><named-content content-type="citation-string">SC Gay. Acta Crystallogr D Biol Crystallogr. 2009;65:1021. doi: 10.1107/S0907444909026547.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1107/S0907444909026547"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2756168"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19770499"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Acta Crystallogr D Biol Crystallogr&amp;author=Gay SC&amp;volume=65&amp;publication_year=2009&amp;pages=1021&amp;pmid=19770499&amp;doi=10.1107/S0907444909026547&amp;"/></mixed-citation></ref><ref id="R50"><label>50.</label><mixed-citation><named-content content-type="citation-string">W Hipp. Microbiology. 1997;143:2891. doi: 10.1099/00221287-143-9-2891.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1099/00221287-143-9-2891"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9308173"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Microbiology&amp;author=Hipp W&amp;volume=143&amp;publication_year=1997&amp;pages=2891&amp;pmid=9308173&amp;doi=10.1099/00221287-143-9-2891&amp;"/></mixed-citation></ref></ref-list></sec></sec></body></article>

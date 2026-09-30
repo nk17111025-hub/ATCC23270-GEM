@@ -1,0 +1,9 @@
+﻿来源: https://websvc.biocyc.org/xmlquery
+查询: [x:x<-GCF_000021485^^genes]
+detail: full
+获取时间: 2026-09-23T08:31:49.4510704+08:00
+HTTP状态: 200
+Content-Type: text/xml
+文件大小: 3910110
+SHA256: FF1B6DEDA858299A4C26ECE9838B1793717C8E201D300C7C4F1C38A02AAF4E4D
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\GCF_000021485_genes_full_20260923_083123.headers.txt

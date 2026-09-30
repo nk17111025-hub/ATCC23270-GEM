@@ -1,0 +1,3 @@
+reaction_id	change_type	original_lb	original_ub	final_lb	final_ub	stoichiometry_changed
+MACPD	bounds	0.0	1000.0	0.0	0.0	False
+ACOATA	bounds	-1000.0	1000.0	0.0	1000.0	False

@@ -1,0 +1,5 @@
+intervention_type	reaction_id	objective_modes	mode_count	regulatory_constraint
+KO	HCO3tex	CO2_efficiency	1	
+KO	HCO3tpp	CO2_efficiency	1	
+REG		CO2_efficiency	1	THRS >= 0.31893076874
+REG		CO2_efficiency	1	TPI <= -0.318012781737

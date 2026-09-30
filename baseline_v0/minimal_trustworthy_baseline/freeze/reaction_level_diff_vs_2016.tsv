@@ -1,0 +1,4 @@
+reaction_id	frozen_lb	frozen_ub	v1_lb	v1_ub	stoich_changed	reversible_changed
+R_Htpp	-1000.0	1000.0	0.0	0.0	False	False
+R_MACPD	0.0	1000.0	0.0	0.0	False	False
+R_ACOATA	-1000.0	1000.0	0.0	1000.0	False	False

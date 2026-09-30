@@ -1,0 +1,5 @@
+scenario_id	stage	biomass_multiplier	rubisco_fraction	reason	adjacent_scenario_ids	priority
+B1_R17p5	refined	1.0	0.175	feasibility_boundary	B1_R25;B1_R10	0
+B1p125_R25	refined	1.125	0.25	feasibility_boundary	B1_R25;B1p25_R25	0
+B1p25_R37p5	refined	1.25	0.375	feasibility_boundary	B1p25_R50;B1p25_R25	0
+B1p5_R37p5	refined	1.5	0.375	feasibility_boundary	B1p5_R50;B1p5_R25	0

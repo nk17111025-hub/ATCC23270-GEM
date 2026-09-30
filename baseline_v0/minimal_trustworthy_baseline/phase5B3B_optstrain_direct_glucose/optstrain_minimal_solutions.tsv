@@ -1,0 +1,23 @@
+scenario	ci	reactions	n	max_biomass	mechanism	G10
+R0	zero	NONE_<=3				no
+R0	low	NONE_<=3				no
+R10	zero	G6PDH_NAD	1	0.068065	ED	yes
+R10	zero	PFL	1	0.0544	pyruvate	no
+R10	low	G6PDH_NAD	1	0.068065	ED	yes
+R10	low	PFL	1	0.0544	pyruvate	no
+R25	zero	G6PDH_NAD	1	0.101325	ED	yes
+R25	zero	PEPCK	1	0.10034	gluconeogenesis	yes
+R25	zero	PC	1	0.099593	anaplerosis	yes
+R25	zero	PFL	1	0.099408	pyruvate	yes
+R25	zero	ICL	1	0.099408	glyoxylate	yes
+R25	zero	PEPS	1	0.099408	gluconeogenesis	yes
+R25	zero	PPDK	1	0.099408	gluconeogenesis	yes
+R25	zero	NADHDH	1	0.099408	redox	yes
+R25	low	G6PDH_NAD	1	0.101325	ED	yes
+R25	low	PEPCK	1	0.10034	gluconeogenesis	yes
+R25	low	PC	1	0.099593	anaplerosis	yes
+R25	low	PFL	1	0.099408	pyruvate	yes
+R25	low	ICL	1	0.099408	glyoxylate	yes
+R25	low	ME_NADP	1	0.099408	anaplerosis	yes
+R25	low	PEPS	1	0.099408	gluconeogenesis	yes
+R25	low	PPDK	1	0.099408	gluconeogenesis	yes

@@ -1,0 +1,13 @@
+原行号	原标签	修正后标签	S1对应Reaction	依据	S3/S4是否都修正
+622	ZZ_TreT2_UDP	ZZ_glc_transport	glc-A[c]  <=> glc-A[e]	该行 LB/UB 与通量均符合全场景开放的 glucose transport，原 TreT2 标签下通路开关和守恒均矛盾	是
+623	ZZ_TreT1_ADP	ZZ_glc_EX	glc-A[e]  <=> 	该行全场景开放且通量为零，和 glucose exchange 的数值角色一致；原 TreT1 标签下应在 TreT-ADP 场景出现非零通量	是
+624	ZZ_TreYZ	ZZ_glycogen_EX	glycogen[c]  <=> 	该行全场景开放且通量为零，和 glycogen exchange 的数值角色一致；原 TreYZ 标签下应有 TreYZ 相关非零通量	是
+625	ZZ_Tre_amy	ZZ_g1p_transport	g1p[c]  <=> g1p[e] 	该行全场景开放且通量为零，和 g1p transport 的数值角色一致	是
+626	ZZ_Tre_cga	ZZ_g1p_EX	g1p[e]  <=> 	该行全场景开放且通量为零，和 g1p exchange 的数值角色一致	是
+627	ZZ_Tre_EX	ZZ_Tre_amy	2 glycogen[c] + h2o[c]  -> 3 maltttr[c]	TreYZ 场景出现 Amy 量级非零通量，代入 S1 化学计量后与 TreYZ 通路守恒	是
+628	ZZ_glc_transport	ZZ_Tre_cga	glycogen[c] + 4 h2o[c]  -> 2 glycogendeb[c] + 4 glc-A[c]	TreT-ADP/TreT-UDP 场景出现 Cga 量级非零通量，代入 S1 化学计量后与对应 TreT 通路守恒	是
+629	ZZ_glc_EX	ZZ_Tre_EX	tre[e]  <=> 	各 trehalose 产物场景的交换通量与 Tre transport、TreT/TreYZ 反应闭合；原 glucose exchange 标签导致 trehalose 交换通量被掩盖	是
+630	ZZ_glycogen_EX	ZZ_Tre_transport	tre[c]  <=> tre[e]	各 trehalose 产物场景的 tre[c] 到 tre[e] 通量与 Tre_EX 闭合；原 glycogen exchange 标签造成守恒缺口	是
+631	ZZ_g1p_transport	ZZ_TreT1_ADP	adpglc[c] + glc-A[c]  <=> tre[c] + adp[c] + h[c]	Methods 开关与边界模式：TreYZ 0/0、TreT-ADP 0/1000、TreT-UDP 0/0；Figure 3 对应 ADP-dependent TreT 非零	是
+632	ZZ_g1p_EX	ZZ_TreT2_UDP	udpg[c] + glc-A[c]  <=> tre[c] + udp[c] + h[c]	Methods 开关与边界模式：TreYZ 0/0、TreT-ADP 0/0、TreT-UDP 0/1000；Figure 3 对应 UDP-dependent TreT 非零	是
+633	ZZ_Tre_transport	ZZ_TreYZ	maltttr[c] + 2 h2o[c]  -> tre[c] + 2 glc-A[c]	Methods 开关与边界模式：TreYZ 0/1000、TreT-ADP 0/0、TreT-UDP 0/0；Figure 3 对应 TreY/TreZ 非零	是

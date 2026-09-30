@@ -1,0 +1,65 @@
+{
+  "phase": "5B-6",
+  "project": "Acidithiobacillus ferrooxidans ATCC 23270",
+  "model": "minimal_trustworthy_baseline_v2",
+  "v2_T0_sha256": "97e31dd7b87852e8f639b72408e6e9ea05713dc0a48e99bc77edf087f0919e96",
+  "v2_TH_sha256": "2a9c86d309d3f1e53e461f5a5df9cad65de974718db95ddc1bbe0945d917be39",
+  "condition": "FIM",
+  "solver": "scipy.optimize.milp (HiGHS)",
+  "generated_at": "2026-09-27T00:31:32+08:00",
+  "verdict": "PARTIAL",
+  "stages": {
+    "01_inputs": {
+      "status": "completed",
+      "note": "v2 identity verified"
+    },
+    "02_universe_raw": {
+      "status": "completed",
+      "note": "1313 BioCyc reactions"
+    },
+    "03_universe_mapping": {
+      "status": "completed",
+      "note": "138 mapped"
+    },
+    "04_universe_clean": {
+      "status": "completed",
+      "note": "116 balanced + 27 curated"
+    },
+    "05_R0_search": {
+      "status": "completed",
+      "note": "INFEASIBLE (no rescue)"
+    },
+    "06_solution_validation": {
+      "status": "partial",
+      "note": "redox bottleneck localised"
+    },
+    "07_rubisco_restore": {
+      "status": "skipped",
+      "note": "no bypass exists"
+    },
+    "08_KO_search": {
+      "status": "skipped",
+      "note": "no bypass exists"
+    },
+    "09_OE_search": {
+      "status": "skipped",
+      "note": "no bypass exists"
+    },
+    "10_robustness": {
+      "status": "skipped",
+      "note": "no accepted solution"
+    },
+    "12_pareto": {
+      "status": "skipped",
+      "note": "no designs"
+    },
+    "13_final": {
+      "status": "completed",
+      "note": "PARTIAL verdict"
+    }
+  },
+  "model_repair": "v2 direction corrections overridden by Table-1 FIM bounds; applied as V2_REPAIR overrides",
+  "key_result": "143-reaction universe searched by MILP GapFill -> INFEASIBLE; redox/cofactor bottleneck (NADHI reverse proton-coupled/capped)",
+  "superseded": "SUPERSEDED_LEGACY_RESULT",
+  "superseded_by": "00_provenance/v3/framework_hardening/phase5B6_framework_state.json"
+}

@@ -1,0 +1,6 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:10000	pentanamide + H2O = pentanoate + NH4(+)	EC:3.5.1.50	CHEBI:16459;CHEBI:15377;CHEBI:31011;CHEBI:28938	KEGG:R02938	MetaCyc:PENTANAMIDASE-RXN
+RHEA:10004	benzyl isothiocyanate = benzyl thiocyanate	EC:5.99.1.1	CHEBI:17484;CHEBI:16017	KEGG:R04010	MetaCyc:THIOCYANATE-ISOMERASE-RXN
+RHEA:10008	a hydroperoxide + [protein]-dithiol = [protein]-disulfide + an alcohol + H2O		CHEBI:35924;CHEBI:29950;CHEBI:50058;CHEBI:30879;CHEBI:15377		
+RHEA:10012	(R)-6-hydroxynicotine + O2 + H2O = 6-hydroxypseudooxynicotine + H2O2	EC:1.5.3.6	CHEBI:58413;CHEBI:15379;CHEBI:15377;CHEBI:58682;CHEBI:16240	KEGG:R07170	MetaCyc:R-6-HYDROXYNICOTINE-OXIDASE-RXN
+RHEA:10016	O-sinapoylcholine + H2O = (E)-sinapate + choline + H(+)	EC:3.1.1.49	CHEBI:16353;CHEBI:15377;CHEBI:30023;CHEBI:15354;CHEBI:15378	KEGG:R02381	MetaCyc:SINAPINE-ESTERASE-RXN

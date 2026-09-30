@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-09-26T14:00:55+08:00",
+  "hypothesis": "H1 = H0 + hypothetical OGDH (akg + coa + nad -> succoa + co2 + nadh)",
+  "ogdh_reaction": "2-oxoglutarate + CoA + NAD+ -> succinyl-CoA + CO2 + NADH",
+  "note": "HYPOTHETICAL_ENGINEERING_REACTION; no GPR; not claimed as native",
+  "conclusion": {
+    "ogdh_flux_used": false,
+    "ogdh_flux_value": 0.0,
+    "h1_equals_h0": true,
+    "biomass_improvement": 0.0,
+    "cyclic_tca": false,
+    "rubisco_dependency_change": "none",
+    "route_shift": "NO_ROUTE_CHANGE",
+    "artifact_free": true,
+    "overall": "TCA_COMPLETION_NO_MAJOR_EFFECT"
+  }
+}

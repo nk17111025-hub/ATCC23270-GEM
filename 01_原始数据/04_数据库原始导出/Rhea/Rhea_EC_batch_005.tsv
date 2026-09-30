@@ -1,0 +1,17 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:11824	(6R)-5,10-methylene-5,6,7,8-tetrahydrofolate + 3-methyl-2-oxobutanoate + H2O = 2-dehydropantoate + (6S)-5,6,7,8-tetrahydrofolate	EC:2.1.2.11	CHEBI:15636;CHEBI:11851;CHEBI:15377;CHEBI:11561;CHEBI:57453	KEGG:R01226	MetaCyc:3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN
+RHEA:15325	sn-glycerol 3-phosphate + an acyl-CoA = a 1-acyl-sn-glycero-3-phosphate + CoA	EC:2.3.1.15	CHEBI:57597;CHEBI:58342;CHEBI:57970;CHEBI:57287	KEGG:R00851	MetaCyc:RXN-1381
+RHEA:24292	L-glutamate + acetyl-CoA = N-acetyl-L-glutamate + CoA + H(+)	EC:2.3.1.1	CHEBI:29985;CHEBI:57288;CHEBI:44337;CHEBI:57287;CHEBI:15378	KEGG:R00259	MetaCyc:N-ACETYLTRANSFER-RXN
+RHEA:55040	(9Z)-hexadecenoyl-[ACP] + malonyl-[ACP] + H(+) = 3-oxo-(11Z)-octadecenoyl-[ACP] + holo-[ACP] + CO2	EC:2.3.1.179	CHEBI:83989;CHEBI:78449;CHEBI:15378;CHEBI:138538;CHEBI:64479;CHEBI:16526		MetaCyc:2.3.1.179-RXN
+RHEA:10508	D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate = aldehydo-D-ribose 5-phosphate + D-xylulose 5-phosphate	EC:2.2.1.1	CHEBI:57483;CHEBI:59776;CHEBI:58273;CHEBI:57737	KEGG:R01641	MetaCyc:1TRANSKETO-RXN
+RHEA:13925	(3R)-hydroxytetradecanoyl-[ACP] + UDP-N-acetyl-alpha-D-glucosamine = UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-N-acetyl-alpha-D-glucosamine + holo-[ACP]	EC:2.3.1.129	CHEBI:78474;CHEBI:57705;CHEBI:61494;CHEBI:64479	KEGG:R04567	MetaCyc:UDPNACETYLGLUCOSAMACYLTRANS-RXN
+RHEA:25249	2 pyruvate + H(+) = (2S)-2-acetolactate + CO2	EC:2.2.1.6	CHEBI:15361;CHEBI:15378;CHEBI:58476;CHEBI:16526	KEGG:R00226	MetaCyc:ACETOLACTSYN-RXN
+RHEA:27626	D-erythrose 4-phosphate + D-xylulose 5-phosphate = beta-D-fructose 6-phosphate + D-glyceraldehyde 3-phosphate	EC:2.2.1.1	CHEBI:16897;CHEBI:57737;CHEBI:57634;CHEBI:59776	KEGG:R01830	MetaCyc:2TRANSKETO-RXN
+RHEA:27654	2-oxobutanoate + pyruvate + H(+) = (S)-2-ethyl-2-hydroxy-3-oxobutanoate + CO2	EC:2.2.1.6	CHEBI:16763;CHEBI:15361;CHEBI:15378;CHEBI:49256;CHEBI:16526	KEGG:R08648	MetaCyc:ACETOOHBUTSYN-RXN
+RHEA:67812	a (3R)-hydroxyacyl-[ACP] + UDP-N-acetyl-alpha-D-glucosamine = a UDP-3-O-[(3R)-3-hydroxyacyl]-N-acetyl-alpha-D-glucosamine + holo-[ACP]	EC:2.3.1.129	CHEBI:78827;CHEBI:57705;CHEBI:173225;CHEBI:64479		MetaCyc:RXN-22480
+RHEA:17049	3-demethylubiquinol-9 + S-adenosyl-L-methionine = ubiquinol-9 + S-adenosyl-L-homocysteine + H(+)	EC:2.1.1.64	CHEBI:84423;CHEBI:59789;CHEBI:84424;CHEBI:57856;CHEBI:15378	KEGG:R07235	MetaCyc:2.1.1.64-RXN
+RHEA:28679	3-demethylubiquinol-8 + S-adenosyl-L-methionine = ubiquinol-8 + S-adenosyl-L-homocysteine + H(+)	EC:2.1.1.64	CHEBI:61705;CHEBI:59789;CHEBI:61682;CHEBI:57856;CHEBI:15378		MetaCyc:DHHB-METHYLTRANSFER-RXN
+RHEA:44380	a 3-demethylubiquinol + S-adenosyl-L-methionine = a ubiquinol + S-adenosyl-L-homocysteine + H(+)	EC:2.1.1.64	CHEBI:84422;CHEBI:59789;CHEBI:17976;CHEBI:57856;CHEBI:15378	KEGG:R08781	MetaCyc:RXN-11758
+RHEA:44400	3-demethylubiquinol-6 + S-adenosyl-L-methionine = ubiquinol-6 + S-adenosyl-L-homocysteine + H(+)	EC:2.1.1.64	CHEBI:64253;CHEBI:59789;CHEBI:52970;CHEBI:57856;CHEBI:15378	KEGG:R02175	MetaCyc:RXN3O-102
+RHEA:44404	3-demethylubiquinol-7 + S-adenosyl-L-methionine = ubiquinol-7 + S-adenosyl-L-homocysteine + H(+)	EC:2.1.1.64	CHEBI:84431;CHEBI:59789;CHEBI:84432;CHEBI:57856;CHEBI:15378		MetaCyc:RXN-9229
+RHEA:44412	3-demethylubiquinol-10 + S-adenosyl-L-methionine = ubiquinol-10 + S-adenosyl-L-homocysteine + H(+)	EC:2.1.1.64	CHEBI:64182;CHEBI:59789;CHEBI:64183;CHEBI:57856;CHEBI:15378		MetaCyc:RXN-9237

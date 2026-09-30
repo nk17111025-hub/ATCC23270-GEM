@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/xmlquery?%5bx:x%3c-GCF_000021485^^enzymes%5d'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>xmlquery</service_name>
+    <query>[x:x&lt;-GCF_000021485^^enzymes]</query>
+    <num_results>0</num_results>
+    <error>An error has occurred during the execution of the query.
+Function convert-class-name detected the following error: could not find the name of class  enzymes  (alias  Enzymes ) in database  ECOBASE . Current known class names are  Active-Peptides All-Genes Amino-Acids Biological-Roles CCO Chemicals Chromosomes Collections Composite-Reactions Compound-Mediated-Translation-Regulation Compound-Mixtures Compounds Contigs DNA-Binding-Sites DNA-Segments Elements Enzymatic-Reactions FRAMES Gene-Fragments Gene-Ontology-Terms Generalized-Reactions Genes Genetic-Elements Growth-Media Growth-Observations Interrupted-Genes Macromolecules Modified-Proteins Organisms Organizations Pathways People Phantom-Genes Plasmids Polymer-Segments Polypeptides Promoters Protein-Binding-Features Protein-Complexes Protein-Features Protein-Mediated-Attenuation Protein-Mediated-Translation-Regulation Protein-RNA-Complexes Protein-Small-Molecule-Complexes Proteins Pseudo-Genes Pseudo-Products Publications RNA-Mediated-Translation-Regulation RNAs Reactions Regulation Regulation-of-Enzyme-Activity Regulation-of-Transcription-Initiation Regulation-of-Translation Replicon-Buckets Sigma-Factors Signaling-Pathways Small-Molecule-Mediated-Attenuation Small-Molecule-Reactions Super-Pathways THINGS Transcription-Units Transcriptional-Attenuation Unclassified-Genes mRNA-Binding-Sites mRNA-Segments.
+</error>
+  </metadata>
+</ptools-xml>

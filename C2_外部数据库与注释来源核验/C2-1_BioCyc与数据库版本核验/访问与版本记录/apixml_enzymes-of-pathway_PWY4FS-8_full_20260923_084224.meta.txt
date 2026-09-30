@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/apixml
+函数: enzymes-of-pathway
+对象: GCF_000021485:PWY4FS-8
+detail: full
+获取时间: 2026-09-23T08:43:06.7068435+08:00
+HTTP状态: 200
+Content-Type: text/xml
+文件大小: 50940
+SHA256: 11831E1F278254C70318125D028FFB7564F9D2A536EC8AA49488F086E40301EA
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\apixml_enzymes-of-pathway_PWY4FS-8_full_20260923_084224.headers.txt

@@ -1,0 +1,170 @@
+{
+  "任务": "A0_冻结基线与2024论文模型复原",
+  "agent_thread标识": "01a0c8ec-839a-7b42-9dc9-9cb5a5a7ef32",
+  "执行类型": "Codex",
+  "目标模型": "gpt-5.6-luna",
+  "目标推理等级": "high",
+  "实际模型": "未核实（当前工具没有返回实际模型字段）",
+  "实际reasoning等级": "未核实（当前工具没有返回实际 reasoning effort 字段）",
+  "开始时间": "2026-09-22T20:00:00+08:00",
+  "完成记录时间": "2026-09-22T20:10:55+08:00",
+  "原始资料校验": [
+    {
+      "相对路径": "01_原始资料/2016_Campodonico/mmc1.xls",
+      "清单字节数": "816640",
+      "实际字节数": 816640,
+      "清单SHA256": "ba0a15ef75195d47f3f10e892900850dd7e644a7d507526ccabed8654ea3e6a1",
+      "实际SHA256": "ba0a15ef75195d47f3f10e892900850dd7e644a7d507526ccabed8654ea3e6a1",
+      "状态": "通过"
+    },
+    {
+      "相对路径": "01_原始资料/2016_Campodonico/mmc2.docx",
+      "清单字节数": "4871639",
+      "实际字节数": 4871639,
+      "清单SHA256": "55bdb0d5a1d4e123b964d5967112cc8da2a56a209af920d1fe51724ebffa6068",
+      "实际SHA256": "55bdb0d5a1d4e123b964d5967112cc8da2a56a209af920d1fe51724ebffa6068",
+      "状态": "通过"
+    },
+    {
+      "相对路径": "01_原始资料/2016_Campodonico/mmc3.xml",
+      "清单字节数": "903066",
+      "实际字节数": 903066,
+      "清单SHA256": "0dbaacfc07aafb892db0731a517160cf46006bc502b0dedd56f950c14b840246",
+      "实际SHA256": "0dbaacfc07aafb892db0731a517160cf46006bc502b0dedd56f950c14b840246",
+      "状态": "通过"
+    },
+    {
+      "相对路径": "01_原始资料/2016_Campodonico/2016主要模型GEM.pdf",
+      "清单字节数": "2711985",
+      "实际字节数": 2711985,
+      "清单SHA256": "2be715f1682c33c0212eef2455d4562601a819df567cc98f3c04c294339faf2f",
+      "实际SHA256": "2be715f1682c33c0212eef2455d4562601a819df567cc98f3c04c294339faf2f",
+      "状态": "通过"
+    },
+    {
+      "相对路径": "01_原始资料/2024_Khaleque/from2024-mmc1.xlsx",
+      "清单字节数": "265869",
+      "实际字节数": 265869,
+      "清单SHA256": "88735e363ece058f483f526355ed2325b7b2d4450e0b9aac381522f278de86c9",
+      "实际SHA256": "88735e363ece058f483f526355ed2325b7b2d4450e0b9aac381522f278de86c9",
+      "状态": "通过"
+    },
+    {
+      "相对路径": "01_原始资料/同事综述/氧化亚铁硫杆菌介导黄钾铁矾生物合成.docx",
+      "清单字节数": "15025",
+      "实际字节数": 15025,
+      "清单SHA256": "edb2eb12d19e64c9e9b0fb990342db729924e5eeea686841042dad28f53833d8",
+      "实际SHA256": "edb2eb12d19e64c9e9b0fb990342db729924e5eeea686841042dad28f53833d8",
+      "状态": "通过"
+    },
+    {
+      "相对路径": "01_原始资料/同事综述/氧化亚铁硫杆菌在环境工程中的功能.docx",
+      "清单字节数": "14629",
+      "实际字节数": 14629,
+      "清单SHA256": "ac7b23ec6333f1960cb5fa0ca69bd980eb2fe227999d4121d3d40354e2a28158",
+      "实际SHA256": "ac7b23ec6333f1960cb5fa0ca69bd980eb2fe227999d4121d3d40354e2a28158",
+      "状态": "通过"
+    }
+  ],
+  "原始资料冻结状态": "通过",
+  "2016_XML_SBML与导入": {
+    "统计": {
+      "sbml_level": "2",
+      "sbml_version": "1",
+      "model_id": null,
+      "compartment_count": 3,
+      "compartments": [
+        {
+          "id": "c",
+          "name": "Cytoplasm",
+          "spatialDimensions": "3",
+          "constant": "false"
+        },
+        {
+          "id": "e",
+          "name": "Extracellular",
+          "spatialDimensions": "3",
+          "constant": "false"
+        },
+        {
+          "id": "p",
+          "name": "Periplasm",
+          "spatialDimensions": "3",
+          "constant": "false"
+        }
+      ],
+      "species_count": 573,
+      "reaction_count": 615,
+      "gene_product_association_tag_count": 0,
+      "boundary_species_count": 0,
+      "boundary_species": [],
+      "fbc_objective_node_count": 0,
+      "legacy_objective_coefficients": [
+        {
+          "reaction": "R_Ex_bio_LSQBKT_e_RSQBKT_",
+          "coefficient": "1"
+        }
+      ]
+    },
+    "导入检查": {
+      "available": true,
+      "error_count": 0,
+      "errors": []
+    },
+    "Excel统计": {
+      "sheet_rows": 618,
+      "data_rows": 615,
+      "blank_rows_after_header": 0
+    }
+  },
+  "2024补充表统计": {
+    "s1_sheet_rows": 632,
+    "s1_data_rows": 631,
+    "s2_sheet_rows": 749,
+    "s2_data_rows": 580,
+    "s2_blank_rows": 168
+  },
+  "2024模型工作副本": {
+    "SBML导入检查": {
+      "available": false,
+      "error_count": null,
+      "errors": [
+        "FileNotFoundError(2, 'No such file or directory')"
+      ]
+    },
+    "COBRA统计": {
+      "reaction_count": 631,
+      "metabolite_count": 580,
+      "gene_count": 510,
+      "objective": "1.0*R_Ex_bio_e_ - 1.0*R_Ex_bio_e__reverse_69a4d",
+      "default_objective": "Ex_bio[e]（S1 Objective为空，按S3/S4和论文恢复）"
+    },
+    "构建警告": {
+      "reaction_formula_warnings": [],
+      "gpr_warnings": []
+    }
+  },
+  "差异统计": {
+    "总行数": 631,
+    "共同无语义差异": 602,
+    "共同有语义差异": 13,
+    "2024新增": 16,
+    "2016独有": 0
+  },
+  "GPR恢复": {
+    "2016 XML逐反应检查": "缺失",
+    "2016 Excel非空": 461,
+    "2024 S1非空": 464,
+    "唯一基因数（2024 GPR粗计）": 510
+  },
+  "场景复现": {
+    "场景数": 24,
+    "通过数": 18,
+    "未通过数": 6
+  },
+  "A0状态": {
+    "原始资料已冻结": "通过",
+    "2024基线已复现": "未通过",
+    "模型可解析": "未通过"
+  }
+}

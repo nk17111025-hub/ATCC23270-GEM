@@ -1,0 +1,8 @@
+{
+  "no_KI_status": "infeasible",
+  "passed": true,
+  "selected_KI": [
+    "E1R_SMOKE_KI"
+  ],
+  "solver_status": "optimal"
+}

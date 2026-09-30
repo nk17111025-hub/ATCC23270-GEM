@@ -1,0 +1,222 @@
+{
+  "AY863107": {
+    "nt_length": 399,
+    "top_hits": [
+      {
+        "score": 261.0,
+        "wp": "WP_012535979.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 132,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 26.0,
+        "wp": "WP_009564831.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 149,
+        "in_g52": true,
+        "g52_locus": "RU820_RS02245"
+      },
+      {
+        "score": 18.0,
+        "wp": "WP_012536184.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 128,
+        "in_g52": true,
+        "g52_locus": "RU820_RS02570"
+      },
+      {
+        "score": 14.0,
+        "wp": "WP_009566815.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 461,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 13.0,
+        "wp": "WP_012537556.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 328,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 13.0,
+        "wp": "WP_012536779.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 320,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 13.0,
+        "wp": "WP_009562807.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 399,
+        "in_g52": true,
+        "g52_locus": "RU820_RS01965"
+      },
+      {
+        "score": 12.0,
+        "wp": "WP_012607661.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 97,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 12.0,
+        "wp": "WP_012607161.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 825,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 12.0,
+        "wp": "WP_012537425.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 132,
+        "target_aa": 269,
+        "in_g52": false,
+        "g52_locus": ""
+      }
+    ]
+  },
+  "AY863108": {
+    "nt_length": 451,
+    "top_hits": [
+      {
+        "score": 244.0,
+        "wp": "WP_009564831.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 150,
+        "target_aa": 149,
+        "in_g52": true,
+        "g52_locus": "RU820_RS02245"
+      },
+      {
+        "score": 20.0,
+        "wp": "WP_012535979.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 150,
+        "target_aa": 132,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 14.0,
+        "wp": "WP_206382815.1",
+        "strand": "-",
+        "frame": 1,
+        "query_aa": 150,
+        "target_aa": 562,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 14.0,
+        "wp": "WP_012607033.1",
+        "strand": "-",
+        "frame": 1,
+        "query_aa": 150,
+        "target_aa": 134,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 14.0,
+        "wp": "WP_012537371.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 150,
+        "target_aa": 365,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 14.0,
+        "wp": "WP_009567496.1",
+        "strand": "+",
+        "frame": 0,
+        "query_aa": 150,
+        "target_aa": 275,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 14.0,
+        "wp": "WP_009565967.1",
+        "strand": "-",
+        "frame": 1,
+        "query_aa": 150,
+        "target_aa": 404,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 13.0,
+        "wp": "WP_230456301.1",
+        "strand": "-",
+        "frame": 1,
+        "query_aa": 150,
+        "target_aa": 128,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 13.0,
+        "wp": "WP_049756738.1",
+        "strand": "-",
+        "frame": 1,
+        "query_aa": 150,
+        "target_aa": 480,
+        "in_g52": false,
+        "g52_locus": ""
+      },
+      {
+        "score": 13.0,
+        "wp": "WP_041646639.1",
+        "strand": "-",
+        "frame": 1,
+        "query_aa": 150,
+        "target_aa": 549,
+        "in_g52": false,
+        "g52_locus": ""
+      }
+    ],
+    "current_locus": "RU820_RS02245",
+    "current_wp": "WP_009564831.1",
+    "current_cds_length_nt": 450,
+    "single_G_insertion_in_historical_allele_position_1_based": [
+      361,
+      362,
+      363
+    ],
+    "all_other_nt_identical": true,
+    "boundary": "AY863108.1 is published P16.2 partial CDS; one G insertion relative to current CDS changes the C-terminal reading frame. The experimental P16.2 reaction is not direct assay of exact current WP sequence."
+  }
+}

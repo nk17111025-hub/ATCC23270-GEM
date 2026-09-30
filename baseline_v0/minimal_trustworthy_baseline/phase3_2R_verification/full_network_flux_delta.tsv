@@ -1,0 +1,355 @@
+condition	knocked_out	reaction	delta_flux	subsystem	confidence	gpr
+FIM	FBP	FBA3	0.7618216132733553	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+FIM	FBP	SBPASE	0.7618216132733553	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+FIM	FBP	TALA	0.7618216132733535	Pentose Phosphate Pathway	2	AFE_0419
+FIM	FBP	FBP	-0.7618216132733502	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+FIM	FBP	FBA	0.7618216132733501	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+FIM	GAPD1	NADTRHD	3.741465734700783	Oxidative Phosphorylation	1	
+FIM	GAPD1	GAPD2	3.741465734700738	Glycolysis/Gluconeogenesis	2	AFE_3251
+FIM	GAPD1	GAPD1	-3.7414657347006828	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+FIM	GAPD1	Ex_h_LSQBKT_e_RSQBKT_	-3.7414657346987497			
+FIM	GAPD1	Htex	-3.7414657346987212	Transport, Outer Membrane Porin	1	
+FIM	GAPD1	Ex_fe3_LSQBKT_e_RSQBKT_	3.741465734698579			
+FIM	GAPD1	Ex_fe2_LSQBKT_e_RSQBKT_	-3.741465734698579			
+FIM	GAPD1	CYT2	1.8707328673492896	Oxidative Phosphorylation	3	(AFE_3153)
+FIM	GAPD1	H2Otex	-1.8707328673492611	Transport, Outer Membrane Porin	1	
+FIM	GAPD1	CYTAA31	1.8707328673492611	Oxidative Phosphorylation	3	(AFE_3149 and AFE_3150 and AFE_3148 and AFE_3147)
+FIM	GAPD1	CYT1	1.8707328673492611	Oxidative Phosphorylation	3	(AFE_3152 and AFE_3146)
+FIM	GAPD1	Ex_h2o_LSQBKT_e_RSQBKT_	1.8707328673492611			
+FIM	GAPD1	H2Otpp	-1.870732867349247	Transport, Inner Membrane	1	
+FIM	GAPD1	O2tex	0.9353664336746306	Transport, Outer Membrane Porin	1	
+FIM	GAPD1	O2tpp	0.9353664336746306	Transport, Inner Membrane	1	
+FIM	GAPD1	Ex_o2_LSQBKT_e_RSQBKT_	-0.9353664336746306			
+FIM	PPC	Ex_h_LSQBKT_e_RSQBKT_	-1.97541619578746			
+FIM	PPC	Htex	-1.9754161957874317	Transport, Outer Membrane Porin	1	
+FIM	PPC	Ex_fe2_LSQBKT_e_RSQBKT_	-1.9754161957873748			
+FIM	PPC	Ex_fe3_LSQBKT_e_RSQBKT_	1.9754161957873464			
+FIM	PPC	H2Otex	-0.9877080978937016	Transport, Outer Membrane Porin	1	
+FIM	PPC	CYTAA31	0.9877080978937016	Oxidative Phosphorylation	3	(AFE_3149 and AFE_3150 and AFE_3148 and AFE_3147)
+FIM	PPC	Ex_h2o_LSQBKT_e_RSQBKT_	0.9877080978937016			
+FIM	PPC	H2Otpp	-0.9877080978936874	Transport, Inner Membrane	1	
+FIM	PPC	CYT1	0.9877080978936874	Oxidative Phosphorylation	3	(AFE_3152 and AFE_3146)
+FIM	PPC	CYT2	0.9877080978936874	Oxidative Phosphorylation	3	(AFE_3153)
+FIM	PPC	O2tex	0.4938540489468508	Transport, Outer Membrane Porin	1	
+FIM	PPC	O2tpp	0.4938540489468437	Transport, Inner Membrane	1	
+FIM	PPC	Ex_o2_LSQBKT_e_RSQBKT_	-0.4938540489468437			
+FIM	PPC	GAPD1	0.39508323915751786	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+FIM	PPC	PGK	0.3950832391575174	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3250
+FIM	PPC	ATPS5rpp	0.3950832391574828	Oxidative Phosphorylation	3	(AFE_3205 and AFE_3209 and AFE_3202 and AFE_3203 and AFE_3208 and AFE_3207 and AFE_3204 and AFE_3206)
+FIM	PPC	RUBISCO	0.23704994349451125	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	3	(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))
+FIM	PPC	PRUK	0.23704994349451125	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0536
+FIM	PPC	TPI	0.1580332956630075	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_2633
+FIM	PPC	PDH	0.15803329566300708	Glycolysis/Gluconeogenesis	2	(AFE_3070 and AFE_3069 and AFE_3068)
+FIM	PPC	RPE	-0.15803329566300683	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3247
+FIM	PPC	PYK	0.15803329566300678	Glycolysis/Gluconeogenesis	2	(AFE_0749 or AFE_1801 or AFE_3249)
+FIM	PPC	PPC	-0.15803329566300595	Anaplerotic Reactions	2	AFE_1810
+FIM	PPC	MALS	0.15803329566300542	Anaplerotic Reactions	1	
+FIM	PPC	MDH	0.158033295663005	Citric Acid Cycle	2	AFE_3000
+FIM	PPC	RPI	0.07901664783150408	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0629
+FIM	PPC	FBA	-0.07901664783150397	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+FIM	PPC	FBP	0.07901664783150386	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+FIM	PPC	SBPASE	0.07901664783150353	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+FIM	PPC	FBA3	0.07901664783150342	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+FIM	PPC	TKT1	-0.0790166478315033	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+FIM	PPC	TKT2	0.0790166478315033	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+FIM	PPC	GLXCL	-0.07901664783150272	Glyoxylate Metabolism	1	
+FIM	PPC	GLYCK	-0.07901664783150271	Glyoxylate Metabolism	1	
+FIM	PPC	TRSAR	0.07901664783150271	Alternate Carbon Metabolism	1	
+FIM	ACCOAC	BIOC1	0.06808779308134642	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	3	(AFE_1462 and AFE_2067 and AFE_0196 and AFE_0195)
+FIM	ACCOAC	BIOC2	0.06808779308134642	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	2	(AFE_0196 and AFE_0195)
+FIM	ACCOAC	ACCOAC	-0.0680877930813431	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	2	(AFE_1462 or AFE_0196 or AFE_0195 or AFE_2067)
+FIM	SBPASE	FBA3	-0.7319397657427025	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+FIM	SBPASE	SBPASE	-0.7319397657427025	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+FIM	SBPASE	TALA	-0.7319397657427017	Pentose Phosphate Pathway	2	AFE_0419
+FIM	SBPASE	FBP	0.7319397657427005	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+FIM	SBPASE	FBA	-0.7319397657427004	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+FIM	NADTRHD	Ex_h_LSQBKT_e_RSQBKT_	-17.45847379419871			
+FIM	NADTRHD	Htex	-17.45847379419868	Transport, Outer Membrane Porin	1	
+FIM	NADTRHD	Ex_fe3_LSQBKT_e_RSQBKT_	17.458473794198596			
+FIM	NADTRHD	Ex_fe2_LSQBKT_e_RSQBKT_	-17.458473794198596			
+FIM	NADTRHD	H2Otex	-8.729236897099355	Transport, Outer Membrane Porin	1	
+FIM	NADTRHD	Ex_h2o_LSQBKT_e_RSQBKT_	8.729236897099355			
+FIM	NADTRHD	H2Otpp	-8.72923689709934	Transport, Inner Membrane	1	
+FIM	NADTRHD	CYTAA31	8.729236897099327	Oxidative Phosphorylation	3	(AFE_3149 and AFE_3150 and AFE_3148 and AFE_3147)
+FIM	NADTRHD	CYT1	8.729236897099312	Oxidative Phosphorylation	3	(AFE_3152 and AFE_3146)
+FIM	NADTRHD	CYT2	8.729236897099298	Oxidative Phosphorylation	3	(AFE_3153)
+FIM	NADTRHD	O2tex	4.364618448549663	Transport, Outer Membrane Porin	1	
+FIM	NADTRHD	O2tpp	4.364618448549663	Transport, Inner Membrane	1	
+FIM	NADTRHD	Ex_o2_LSQBKT_e_RSQBKT_	-4.364618448549656			
+FIM	NADTRHD	ATPS5rpp	3.637182040458093	Oxidative Phosphorylation	3	(AFE_3205 and AFE_3209 and AFE_3202 and AFE_3203 and AFE_3208 and AFE_3207 and AFE_3204 and AFE_3206)
+FIM	NADTRHD	PGK	3.6371820404575956	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3250
+FIM	NADTRHD	GAPD1	3.637182040457595	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+FIM	NADTRHD	RUBISCO	2.1823092242745554	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	3	(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))
+FIM	NADTRHD	PRUK	2.1823092242745554	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0536
+FIM	NADTRHD	MTHFD1	1.4548728161830808	Folate Metabolism	2	AFE_1877
+FIM	NADTRHD	MTHFC	1.4548728161830808	Folate Metabolism	2	AFE_1877
+FIM	NADTRHD	FDH	1.4548728161830609	Pyruvate Metabolism	2	(AFE_0692 or AFE_1652)
+FIM	NADTRHD	RPE	-1.4548728161830433	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3247
+FIM	NADTRHD	TPI	1.4548728161830362	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_2633
+FIM	NADTRHD	FTHFL	1.4548223020875717	Folate Metabolism	2	
+FIM	NADTRHD	NADTRHD	-0.7274364080915795	Oxidative Phosphorylation	1	
+FIM	NADTRHD	NDPK2	-0.7274364080915778	Nucleotide Salvage Pathway	2	AFE_1929
+FIM	NADTRHD	UPPRT	0.7274364080915778	Purine and Pyrimidine Biosynthesis	2	AFE_3060
+FIM	NADTRHD	CYTD	-0.7274364080915777	Nucleotide Salvage Pathway	1	
+FIM	NADTRHD	URIP	-0.7274364080915777	Nucleotide Salvage Pathway	1	
+FIM	NADTRHD	CYTDK1	0.7274364080915776	Nucleotide Salvage Pathway	1	
+FIM	NADTRHD	CYTK1	0.7274364080915776	Nucleotide Salvage Pathway	2	AFE_0902
+FIM	NADTRHD	NDPK3	0.7274364080915775	Nucleotide Salvage Pathway	2	AFE_1929
+FIM	NADTRHD	URIDK	-0.7274364080915774	Purine and Pyrimidine Biosynthesis	2	AFE_1446
+FIM	NADTRHD	CTPS2	-0.7274364080915773	Purine and Pyrimidine Biosynthesis	2	AFE_0847
+FIM	NADTRHD	GSNK	-0.7274364080915672	Nucleotide Salvage Pathway	1	
+FIM	NADTRHD	PUNP3	0.7274364080915671	Nucleotide Salvage Pathway	1	
+FIM	NADTRHD	GUAPRT	-0.7274364080915671	Nucleotide Salvage Pathway	2	AFE_0364
+FIM	NADTRHD	GLUSy	0.7274364080915579	Glutamate Metabolism 	4	(AFE_0730 and AFE_0729)
+FIM	NADTRHD	PGCD	0.7274364080915454	Glycine and Serine Metabolism	2	AFE_0896
+FIM	NADTRHD	PSERT	-0.7274364080915454	Glycine and Serine Metabolism	2	AFE_0895
+FIM	NADTRHD	PSP_L	0.7274364080915453	Glycine and Serine Metabolism	2	AFE_0368
+FIM	NADTRHD	GHMT2	0.7274364080915452	Glycine and Serine Metabolism	2	AFE_0295
+FIM	NADTRHD	GHMT3	0.7274364080915355	Glycine and Serine Metabolism	2	AFE_0295
+FIM	NADTRHD	SBPASE	0.7274364080915221	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+FIM	NADTRHD	FBA3	0.7274364080915219	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+FIM	NADTRHD	TKT2	0.7274364080915218	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+FIM	NADTRHD	TKT1	-0.7274364080915214	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+FIM	NADTRHD	FBP	0.7274364080915146	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+FIM	NADTRHD	FBA	-0.7274364080915144	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+FIM	NADTRHD	RPI	0.7274364080915108	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0629
+TTM	FBP	FBP	-0.7618216208186571	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TTM	FBP	FBA	0.761821620818657	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TTM	FBP	TALA	0.7618216132733536	Pentose Phosphate Pathway	2	AFE_0419
+TTM	FBP	SBPASE	0.7618216089295783	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TTM	FBP	FBA3	0.7618216089295781	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TTM	GAPD1	GAPD1	-3.7414657621059737	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+TTM	GAPD1	GAPD2	3.7414657347006894	Glycolysis/Gluconeogenesis	2	AFE_3251
+TTM	GAPD1	NADTRHD	3.741465721966788	Oxidative Phosphorylation	1	
+TTM	GAPD1	CYTBD	0.9845966696622099	Oxidative Phosphorylation	3	(AFE_0955 and AFE_0954)
+TTM	GAPD1	TSQOC	0.9845966629144698	Sulfur Metabolism	3	(AFE_0041 and AFE_0042 and AFE_0043 and AFE_0044 and AFE_0045 and AFE_0046)
+TTM	GAPD1	H2Otpp	-0.9845966621890838	Transport, Inner Membrane	1	
+TTM	GAPD1	Htex	0.8439399998594119	Transport, Outer Membrane Porin	1	
+TTM	GAPD1	Ex_h_LSQBKT_e_RSQBKT_	0.8439399998594119			
+TTM	GAPD1	SO4tex	0.5626266640813462	Transport, Outer Membrane Porin	1	
+TTM	GAPD1	Ex_so4_LSQBKT_e_RSQBKT_	0.5626266640813462			
+TTM	GAPD1	O2tpp	0.49229833508694476	Transport, Inner Membrane	1	
+TTM	GAPD1	O2tex	0.492298335086943	Transport, Outer Membrane Porin	1	
+TTM	GAPD1	Ex_o2_LSQBKT_e_RSQBKT_	-0.4922983350869412			
+TTM	GAPD1	H2Otex	0.4219699991172998	Transport, Outer Membrane Porin	1	
+TTM	GAPD1	Ex_h2o_LSQBKT_e_RSQBKT_	-0.4219699991172998			
+TTM	GAPD1	4THASE2	0.2813133322612771	Sulfur Metabolism 	4	AFE_0029
+TTM	GAPD1	TTTONtex	-0.14065666613063676	Transport, Outer Membrane Porin	1	
+TTM	GAPD1	Ex_ttton_LSQBKT_e_RSQBKT_	-0.14065666613063676			
+TTM	PPC	CYTBD	0.5198467910007238	Oxidative Phosphorylation	3	(AFE_0955 and AFE_0954)
+TTM	PPC	TSQOC	0.5198467842529837	Sulfur Metabolism	3	(AFE_0041 and AFE_0042 and AFE_0043 and AFE_0044 and AFE_0045 and AFE_0046)
+TTM	PPC	H2Otpp	-0.5198467835275835	Transport, Inner Membrane	1	
+TTM	PPC	Htex	0.44558296100672123	Transport, Outer Membrane Porin	1	
+TTM	PPC	Ex_h_LSQBKT_e_RSQBKT_	0.44558296100672123			
+TTM	PPC	ATPS5rpp	0.3950835619772448	Oxidative Phosphorylation	3	(AFE_3205 and AFE_3209 and AFE_3202 and AFE_3203 and AFE_3208 and AFE_3207 and AFE_3204 and AFE_3206)
+TTM	PPC	GAPD1	0.39508321175224204	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+TTM	PPC	PGK	0.39508321175224204	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3250
+TTM	PPC	SO4tex	0.29705530484621434	Transport, Outer Membrane Porin	1	
+TTM	PPC	Ex_so4_LSQBKT_e_RSQBKT_	0.29705530484621434			
+TTM	PPC	O2tpp	0.2599233957562017	Transport, Inner Membrane	1	
+TTM	PPC	O2tex	0.25992339575619994	Transport, Outer Membrane Porin	1	
+TTM	PPC	Ex_o2_LSQBKT_e_RSQBKT_	-0.25992339575619816			
+TTM	PPC	RUBISCO	0.23704992955287363	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	3	(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))
+TTM	PPC	PRUK	0.23704992955287363	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0536
+TTM	PPC	H2Otex	0.22279147969097401	Transport, Outer Membrane Porin	1	
+TTM	PPC	Ex_h2o_LSQBKT_e_RSQBKT_	-0.22279147969097401			
+TTM	PPC	MDH	0.15803329679283595	Citric Acid Cycle	2	AFE_3000
+TTM	PPC	MALS	0.15803329566300547	Anaplerotic Reactions	1	
+TTM	PPC	PPC	-0.15803329079882455	Anaplerotic Reactions	2	AFE_1810
+TTM	PPC	RPE	-0.158033287516542	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3247
+TTM	PPC	PYK	0.1580332871377721	Glycolysis/Gluconeogenesis	2	(AFE_0749 or AFE_1801 or AFE_3249)
+TTM	PPC	TPI	0.15803328394887028	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_2633
+TTM	PPC	PDH	0.15803328169080014	Glycolysis/Gluconeogenesis	2	(AFE_3070 and AFE_3069 and AFE_3068)
+TTM	PPC	4THASE2	0.14852765264371115	Sulfur Metabolism 	4	AFE_0029
+TTM	PPC	GLXCL	-0.0790166478314349	Glyoxylate Metabolism	1	
+TTM	PPC	GLYCK	-0.07901664783143489	Glyoxylate Metabolism	1	
+TTM	PPC	TRSAR	0.07901664783143489	Alternate Carbon Metabolism	1	
+TTM	PPC	TKT1	-0.07901664403076814	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TTM	PPC	SBPASE	0.07901664348772819	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TTM	PPC	FBA3	0.07901664348772808	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TTM	PPC	TKT2	0.0790166434857742	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TTM	PPC	RPI	0.0790166421667311	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0629
+TTM	PPC	FBA	-0.07901664028620092	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TTM	PPC	FBP	0.07901664028620081	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TTM	PPC	Ex_ttton_LSQBKT_e_RSQBKT_	-0.0742638263218538			
+TTM	PPC	TTTONtex	-0.07426382632185291	Transport, Outer Membrane Porin	1	
+TTM	ACCOAC	ACCOAC	-0.06808780815724991	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	2	(AFE_1462 or AFE_0196 or AFE_0195 or AFE_2067)
+TTM	ACCOAC	BIOC2	0.06808779308135283	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	2	(AFE_0196 and AFE_0195)
+TTM	ACCOAC	BIOC1	0.06808779308135282	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	3	(AFE_1462 and AFE_2067 and AFE_0196 and AFE_0195)
+TTM	SBPASE	FBA3	-0.7319397700864799	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TTM	SBPASE	SBPASE	-0.7319397700864799	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TTM	SBPASE	TALA	-0.7319397657427046	Pentose Phosphate Pathway	2	AFE_0419
+TTM	SBPASE	FBP	0.7319397581974013	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TTM	SBPASE	FBA	-0.7319397581974012	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TTM	NADTRHD	CYTBD	4.594335632687603	Oxidative Phosphorylation	3	(AFE_0955 and AFE_0954)
+TTM	NADTRHD	TSQOC	4.594335625939884	Sulfur Metabolism	3	(AFE_0041 and AFE_0042 and AFE_0043 and AFE_0044 and AFE_0045 and AFE_0046)
+TTM	NADTRHD	H2Otpp	-4.5943356252144625	Transport, Inner Membrane	1	
+TTM	NADTRHD	Htex	3.9380019681669047	Transport, Outer Membrane Porin	1	
+TTM	NADTRHD	Ex_h_LSQBKT_e_RSQBKT_	3.9380019681669047			
+TTM	NADTRHD	ATPS5rpp	3.6371823632775957	Oxidative Phosphorylation	3	(AFE_3205 and AFE_3209 and AFE_3202 and AFE_3203 and AFE_3208 and AFE_3207 and AFE_3204 and AFE_3206)
+TTM	NADTRHD	PGK	3.6371820130528834	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3250
+TTM	NADTRHD	GAPD1	3.6371820130528825	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+TTM	NADTRHD	SO4tex	2.625334642953014	Transport, Outer Membrane Porin	1	
+TTM	NADTRHD	Ex_so4_LSQBKT_e_RSQBKT_	2.625334642953014			
+TTM	NADTRHD	O2tex	2.2971678165996288	Transport, Outer Membrane Porin	1	
+TTM	NADTRHD	O2tpp	2.297167816599627	Transport, Inner Membrane	1	
+TTM	NADTRHD	Ex_o2_LSQBKT_e_RSQBKT_	-2.2971678165996234			
+TTM	NADTRHD	RUBISCO	2.182309210333258	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	3	(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))
+TTM	NADTRHD	PRUK	2.182309210333258	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0536
+TTM	NADTRHD	H2Otex	1.9690009832710889	Transport, Outer Membrane Porin	1	
+TTM	NADTRHD	Ex_h2o_LSQBKT_e_RSQBKT_	-1.9690009832710889			
+TTM	NADTRHD	MTHFC	1.4548728173923557	Folate Metabolism	2	AFE_1877
+TTM	NADTRHD	MTHFD1	1.4548728173923555	Folate Metabolism	2	AFE_1877
+TTM	NADTRHD	FDH	1.4548728161832485	Pyruvate Metabolism	2	(AFE_0692 or AFE_1652)
+TTM	NADTRHD	RPE	-1.4548728080367965	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3247
+TTM	NADTRHD	TPI	1.4548728044691288	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_2633
+TTM	NADTRHD	FTHFL	1.454822302087759	Folate Metabolism	2	
+TTM	NADTRHD	4THASE2	1.312667321697111	Sulfur Metabolism 	4	AFE_0029
+TTM	NADTRHD	CYTK1	0.7274364252765885	Nucleotide Salvage Pathway	2	AFE_0902
+TTM	NADTRHD	NDPK3	0.7274364252392732	Nucleotide Salvage Pathway	2	AFE_1929
+TTM	NADTRHD	URIP	-0.7274364250861277	Nucleotide Salvage Pathway	1	
+TTM	NADTRHD	CYTDK1	0.7274364250861276	Nucleotide Salvage Pathway	1	
+TTM	NADTRHD	CYTD	-0.7274364250861276	Nucleotide Salvage Pathway	1	
+TTM	NADTRHD	UPPRT	0.7274364250861276	Purine and Pyrimidine Biosynthesis	2	AFE_3060
+TTM	NADTRHD	NDPK2	-0.7274364248449131	Nucleotide Salvage Pathway	2	AFE_1929
+TTM	NADTRHD	CTPS2	-0.7274364247631804	Purine and Pyrimidine Biosynthesis	2	AFE_0847
+TTM	NADTRHD	URIDK	-0.7274364245213362	Purine and Pyrimidine Biosynthesis	2	AFE_1446
+TTM	NADTRHD	PUNP3	0.7274364244827402	Nucleotide Salvage Pathway	1	
+TTM	NADTRHD	GSNK	-0.7274364244827402	Nucleotide Salvage Pathway	1	
+TTM	NADTRHD	GUAPRT	-0.7274364244827402	Nucleotide Salvage Pathway	2	AFE_0364
+TTM	NADTRHD	GLUSy	0.7274364213520266	Glutamate Metabolism 	4	(AFE_0730 and AFE_0729)
+TTM	NADTRHD	NADTRHD	-0.7274364208254913	Oxidative Phosphorylation	1	
+TTM	NADTRHD	PGCD	0.7274364100143637	Glycine and Serine Metabolism	2	AFE_0896
+TTM	NADTRHD	PSERT	-0.7274364100143637	Glycine and Serine Metabolism	2	AFE_0895
+TTM	NADTRHD	PSP_L	0.7274364100143635	Glycine and Serine Metabolism	2	AFE_0368
+TTM	NADTRHD	GHMT2	0.7274364095552156	Glycine and Serine Metabolism	2	AFE_0295
+TTM	NADTRHD	GHMT3	0.7274364082204604	Glycine and Serine Metabolism	2	AFE_0295
+TTM	NADTRHD	TKT1	-0.7274364042908951	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TTM	NADTRHD	FBA3	0.7274364037478555	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TTM	NADTRHD	SBPASE	0.7274364037478555	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TTM	NADTRHD	TKT2	0.7274364037459013	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TTM	NADTRHD	RPI	0.7274364024268609	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0629
+TTM	NADTRHD	FBA	-0.7274364005463323	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TTM	NADTRHD	FBP	0.7274364005463322	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TTM	NADTRHD	TTTONtex	-0.6563336608485493	Transport, Outer Membrane Porin	1	
+TTM	NADTRHD	Ex_ttton_LSQBKT_e_RSQBKT_	-0.6563336608485493			
+TSM	FBP	SBPASE	0.7618216132733561	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TSM	FBP	FBA3	0.7618216132733558	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TSM	FBP	TALA	0.7618216132733536	Pentose Phosphate Pathway	2	AFE_0419
+TSM	FBP	FBP	-0.7618216132733499	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TSM	FBP	FBA	0.7618216132733497	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TSM	GAPD1	NADTRHD	3.7414657347006948	Oxidative Phosphorylation	1	
+TSM	GAPD1	GAPD2	3.7414657347006894	Glycolysis/Gluconeogenesis	2	AFE_3251
+TSM	GAPD1	GAPD1	-3.741465734700681	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+TSM	GAPD1	H2Otpp	-0.9845962459737407	Transport, Inner Membrane	1	
+TSM	GAPD1	TSQOC	0.9845962459737336	Sulfur Metabolism	3	(AFE_0041 and AFE_0042 and AFE_0043 and AFE_0044 and AFE_0045 and AFE_0046)
+TSM	GAPD1	CYTBD	0.9845962459737301	Oxidative Phosphorylation	3	(AFE_0955 and AFE_0954)
+TSM	GAPD1	Ex_h_LSQBKT_e_RSQBKT_	0.49229812298691655			
+TSM	GAPD1	Htex	0.492298122986913	Transport, Outer Membrane Porin	1	
+TSM	GAPD1	SO4tex	0.4922981229868668	Transport, Outer Membrane Porin	1	
+TSM	GAPD1	Ex_so4_LSQBKT_e_RSQBKT_	0.4922981229868668			
+TSM	GAPD1	O2tex	0.49229812298686504	Transport, Outer Membrane Porin	1	
+TSM	GAPD1	Ex_o2_LSQBKT_e_RSQBKT_	-0.49229812298686504			
+TSM	GAPD1	O2tpp	0.49229812298686326	Transport, Inner Membrane	1	
+TSM	GAPD1	H2Otex	0.24614906149343518	Transport, Outer Membrane Porin	1	
+TSM	GAPD1	Ex_h2o_LSQBKT_e_RSQBKT_	-0.24614906149343518			
+TSM	GAPD1	4THASE2	0.2461490614934334	Sulfur Metabolism 	4	AFE_0029
+TSM	GAPD1	TSULtex	-0.24614906149343163	Transport, Outer Membrane Porin	1	
+TSM	GAPD1	Ex_tsul_LSQBKT_e_RSQBKT_	-0.24614906149343163			
+TSM	PPC	H2Otpp	-0.5198463673122546	Transport, Inner Membrane	1	
+TSM	PPC	TSQOC	0.5198463673122475	Sulfur Metabolism	3	(AFE_0041 and AFE_0042 and AFE_0043 and AFE_0044 and AFE_0045 and AFE_0046)
+TSM	PPC	CYTBD	0.5198463673122369	Oxidative Phosphorylation	3	(AFE_0955 and AFE_0954)
+TSM	PPC	GAPD1	0.39508323915753474	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+TSM	PPC	PGK	0.39508323915753474	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3250
+TSM	PPC	ATPS5rpp	0.3950832391572945	Oxidative Phosphorylation	3	(AFE_3205 and AFE_3209 and AFE_3202 and AFE_3203 and AFE_3208 and AFE_3207 and AFE_3204 and AFE_3206)
+TSM	PPC	Ex_h_LSQBKT_e_RSQBKT_	0.2599231836561273			
+TSM	PPC	SO4tex	0.25992318365612377	Transport, Outer Membrane Porin	1	
+TSM	PPC	Htex	0.25992318365612377	Transport, Outer Membrane Porin	1	
+TSM	PPC	Ex_so4_LSQBKT_e_RSQBKT_	0.25992318365612377			
+TSM	PPC	O2tpp	0.2599231836561202	Transport, Inner Membrane	1	
+TSM	PPC	O2tex	0.25992318365611844	Transport, Outer Membrane Porin	1	
+TSM	PPC	Ex_o2_LSQBKT_e_RSQBKT_	-0.25992318365611844			
+TSM	PPC	RUBISCO	0.2370499434945197	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	3	(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))
+TSM	PPC	PRUK	0.2370499434945197	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0536
+TSM	PPC	PDH	0.1580332956630161	Glycolysis/Gluconeogenesis	2	(AFE_3070 and AFE_3069 and AFE_3068)
+TSM	PPC	TPI	0.15803329566301394	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_2633
+TSM	PPC	PYK	0.15803329566301305	Glycolysis/Gluconeogenesis	2	(AFE_0749 or AFE_1801 or AFE_3249)
+TSM	PPC	RPE	-0.15803329566301128	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3247
+TSM	PPC	PPC	-0.15803329566300822	Anaplerotic Reactions	2	AFE_1810
+TSM	PPC	MALS	0.15803329566300547	Anaplerotic Reactions	1	
+TSM	PPC	MDH	0.1580332956630039	Citric Acid Cycle	2	AFE_3000
+TSM	PPC	TSULtex	-0.1299615918280672	Transport, Outer Membrane Porin	1	
+TSM	PPC	Ex_tsul_LSQBKT_e_RSQBKT_	-0.1299615918280672			
+TSM	PPC	4THASE2	0.12996159182806188	Sulfur Metabolism 	4	AFE_0029
+TSM	PPC	H2Otex	0.12996159182805478	Transport, Outer Membrane Porin	1	
+TSM	PPC	Ex_h2o_LSQBKT_e_RSQBKT_	-0.12996159182805478			
+TSM	PPC	FBA	-0.07901664783150819	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TSM	PPC	FBP	0.07901664783150808	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TSM	PPC	RPI	0.07901664783150808	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0629
+TSM	PPC	SBPASE	0.07901664783150597	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TSM	PPC	FBA3	0.07901664783150586	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TSM	PPC	TKT2	0.07901664783150586	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TSM	PPC	TKT1	-0.07901664783150553	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TSM	PPC	GLXCL	-0.07901664783150275	Glyoxylate Metabolism	1	
+TSM	PPC	GLYCK	-0.07901664783150274	Glyoxylate Metabolism	1	
+TSM	PPC	TRSAR	0.07901664783150274	Alternate Carbon Metabolism	1	
+TSM	ACCOAC	BIOC1	0.06808779308135075	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	3	(AFE_1462 and AFE_2067 and AFE_0196 and AFE_0195)
+TSM	ACCOAC	BIOC2	0.06808779308135075	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	2	(AFE_0196 and AFE_0195)
+TSM	ACCOAC	ACCOAC	-0.06808779308134165	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	2	(AFE_1462 or AFE_0196 or AFE_0195 or AFE_2067)
+TSM	SBPASE	FBP	0.7319397657427086	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TSM	SBPASE	FBA	-0.7319397657427085	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TSM	SBPASE	TALA	-0.7319397657427046	Pentose Phosphate Pathway	2	AFE_0419
+TSM	SBPASE	FBA3	-0.7319397657427021	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TSM	SBPASE	SBPASE	-0.7319397657427021	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TSM	NADTRHD	TSQOC	4.594335208999141	Sulfur Metabolism	3	(AFE_0041 and AFE_0042 and AFE_0043 and AFE_0044 and AFE_0045 and AFE_0046)
+TSM	NADTRHD	H2Otpp	-4.594335208999119	Transport, Inner Membrane	1	
+TSM	NADTRHD	CYTBD	4.594335208999116	Oxidative Phosphorylation	3	(AFE_0955 and AFE_0954)
+TSM	NADTRHD	PGK	3.637182040458176	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3250
+TSM	NADTRHD	GAPD1	3.637182040458175	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_3251
+TSM	NADTRHD	ATPS5rpp	3.6371820404576454	Oxidative Phosphorylation	3	(AFE_3205 and AFE_3209 and AFE_3202 and AFE_3203 and AFE_3208 and AFE_3207 and AFE_3204 and AFE_3206)
+TSM	NADTRHD	SO4tex	2.2971676044995704	Transport, Outer Membrane Porin	1	
+TSM	NADTRHD	Ex_so4_LSQBKT_e_RSQBKT_	2.2971676044995704			
+TSM	NADTRHD	O2tex	2.2971676044995473	Transport, Outer Membrane Porin	1	
+TSM	NADTRHD	Ex_o2_LSQBKT_e_RSQBKT_	-2.2971676044995473			
+TSM	NADTRHD	O2tpp	2.2971676044995455	Transport, Inner Membrane	1	
+TSM	NADTRHD	Ex_h_LSQBKT_e_RSQBKT_	2.2971676044995384			
+TSM	NADTRHD	Htex	2.297167604499535	Transport, Outer Membrane Porin	1	
+TSM	NADTRHD	RUBISCO	2.182309224274904	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	3	(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))
+TSM	NADTRHD	PRUK	2.182309224274904	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0536
+TSM	NADTRHD	TPI	1.4548728161832725	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_2633
+TSM	NADTRHD	RPE	-1.4548728161832658	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3247
+TSM	NADTRHD	FDH	1.4548728161832485	Pyruvate Metabolism	2	(AFE_0692 or AFE_1652)
+TSM	NADTRHD	MTHFC	1.4548728161832378	Folate Metabolism	2	AFE_1877
+TSM	NADTRHD	MTHFD1	1.4548728161832376	Folate Metabolism	2	AFE_1877
+TSM	NADTRHD	FTHFL	1.454822302087759	Folate Metabolism	2	
+TSM	NADTRHD	H2Otex	1.1485838022498118	Transport, Outer Membrane Porin	1	
+TSM	NADTRHD	Ex_h2o_LSQBKT_e_RSQBKT_	-1.1485838022498118			
+TSM	NADTRHD	TSULtex	-1.148583802249787	Transport, Outer Membrane Porin	1	
+TSM	NADTRHD	Ex_tsul_LSQBKT_e_RSQBKT_	-1.148583802249787			
+TSM	NADTRHD	4THASE2	1.1485838022497852	Sulfur Metabolism 	4	AFE_0029
+TSM	NADTRHD	FBA	-0.7274364080916396	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_1802
+TSM	NADTRHD	FBP	0.7274364080916395	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	2	AFE_0189
+TSM	NADTRHD	RPI	0.7274364080916379	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_0629
+TSM	NADTRHD	FBA3	0.7274364080916332	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1676 and AFE_3248)
+TSM	NADTRHD	SBPASE	0.7274364080916332	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	AFE_3253
+TSM	NADTRHD	TKT2	0.727436408091633	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TSM	NADTRHD	TKT1	-0.7274364080916325	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	2	(AFE_1843 and AFE_3252)
+TSM	NADTRHD	GHMT3	0.7274364080916219	Glycine and Serine Metabolism	2	AFE_0295
+TSM	NADTRHD	GHMT2	0.7274364080916157	Glycine and Serine Metabolism	2	AFE_0295
+TSM	NADTRHD	PGCD	0.727436408091615	Glycine and Serine Metabolism	2	AFE_0896
+TSM	NADTRHD	PSP_L	0.727436408091615	Glycine and Serine Metabolism	2	AFE_0368
+TSM	NADTRHD	PSERT	-0.727436408091615	Glycine and Serine Metabolism	2	AFE_0895
+TSM	NADTRHD	GLUSy	0.7274364080916	Glutamate Metabolism 	4	(AFE_0730 and AFE_0729)
+TSM	NADTRHD	PUNP3	0.7274364080915916	Nucleotide Salvage Pathway	1	
+TSM	NADTRHD	GUAPRT	-0.7274364080915916	Nucleotide Salvage Pathway	2	AFE_0364
+TSM	NADTRHD	GSNK	-0.7274364080915915	Nucleotide Salvage Pathway	1	
+TSM	NADTRHD	URIDK	-0.727436408091587	Purine and Pyrimidine Biosynthesis	2	AFE_1446
+TSM	NADTRHD	CTPS2	-0.7274364080915868	Purine and Pyrimidine Biosynthesis	2	AFE_0847
+TSM	NADTRHD	UPPRT	0.7274364080915867	Purine and Pyrimidine Biosynthesis	2	AFE_3060
+TSM	NADTRHD	URIP	-0.7274364080915866	Nucleotide Salvage Pathway	1	
+TSM	NADTRHD	CYTDK1	0.7274364080915865	Nucleotide Salvage Pathway	1	
+TSM	NADTRHD	CYTD	-0.7274364080915865	Nucleotide Salvage Pathway	1	
+TSM	NADTRHD	NDPK3	0.7274364080915865	Nucleotide Salvage Pathway	2	AFE_1929
+TSM	NADTRHD	CYTK1	0.7274364080915864	Nucleotide Salvage Pathway	2	AFE_0902
+TSM	NADTRHD	NDPK2	-0.7274364080915864	Nucleotide Salvage Pathway	2	AFE_1929
+TSM	NADTRHD	NADTRHD	-0.7274364080915845	Oxidative Phosphorylation	1	

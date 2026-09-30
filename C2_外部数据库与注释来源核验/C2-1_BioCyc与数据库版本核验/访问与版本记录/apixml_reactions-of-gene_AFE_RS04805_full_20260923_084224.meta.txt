@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/apixml
+函数: reactions-of-gene
+对象: GCF_000021485:AFE_RS04805
+detail: full
+获取时间: 2026-09-23T08:42:27.3340199+08:00
+HTTP状态: 307
+Content-Type: text/xml
+文件大小: 0
+SHA256: E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\apixml_reactions-of-gene_AFE_RS04805_full_20260923_084224.headers.txt

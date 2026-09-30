@@ -1,0 +1,98 @@
+{
+  "E1_pool_sha256": "23b45be4333e32f2b6535813d9bb017ef019afa417f3f494267145ad1b6df0d6",
+  "E2R3_input_fingerprint": "6a47044c69e9408352200ba87b45cf8a4e526822a2ecd4ab68c83f3f7940e52c",
+  "E3_script_sha256": "e124b2f647719022806312f205f5b1881a4c691072ba22687007341e14c0a8c1",
+  "StrainDesign_patch_sha256": {
+    "solver_interface.py": "e87fb3855d5269f0f2203a63c7aaee337125741f6f4d68c3868a7464024592c0",
+    "strainDesignMILP.py": "1b76470e4a28874b3b1c5c0143aab1c60822c098082e3c92f1c8091616c088cc"
+  },
+  "branch_fixed_reaction_ids": {
+    "S01": [
+      "E1R01016",
+      "E1R01493",
+      "E1R01642"
+    ],
+    "S03": [
+      "E1R00732",
+      "E1R00741"
+    ]
+  },
+  "branch_input_fingerprints": {
+    "S01": "4d5c5dc0d09765a6b1c9e0a6e2fd7b6d7fcfdd93bdc0db00f19078c15ebe947e",
+    "S03": "0aa8eb20230f34f234e829ebcbeac0309db2a12c58222305179e3caa4a4c28ff"
+  },
+  "branch_outputs_are_terminal": {
+    "S01": true,
+    "S03": true
+  },
+  "created_utc": "2026-09-29T17:29:15.331704+00:00",
+  "environment": {
+    "CO2": [
+      -2.0,
+      0.0
+    ],
+    "Fe_WT": 163.7815287437442,
+    "O2_WT": 38.48154267515412,
+    "bmin": 0.07811458065411052,
+    "glucose_cap": 0.5,
+    "glucose_min": 0.05,
+    "r10": 0.07913449575127987,
+    "r30": 0.23740348725383958
+  },
+  "host_sha256": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+  "objective_definitions": {
+    "inner": "maximize biomass subject to E3.0 phenotype constraints",
+    "outer": {
+      "CBB_min": "minimize RUBISCO",
+      "CO2_efficiency": "maximize Ex_h2co3[e]",
+      "Fe2_efficiency": "maximize Ex_fe2[e]",
+      "O2_efficiency": "maximize Ex_o2[e]"
+    }
+  },
+  "optimization_parameters": {
+    "budgets": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "conditional_budget_8": true,
+    "ko_and_reg_unit_cost": 1,
+    "max_solutions": 5,
+    "modes": [
+      "CBB_min",
+      "Fe2_efficiency",
+      "O2_efficiency",
+      "CO2_efficiency"
+    ],
+    "objective_engine": "StrainDesign RobustKnock",
+    "solver_preprocessing_fallback": {
+      "on_error": {
+        "compress": false,
+        "skip_preprocessing_fvas": true
+      },
+      "primary": {
+        "compress": true,
+        "skip_preprocessing_fvas": false
+      }
+    },
+    "time_limit_seconds": 300
+  },
+  "pareto_dimensions": [
+    "intervention_count:min",
+    "rubisco:min",
+    "abs(Fe2 uptake):min",
+    "abs(O2 uptake):min",
+    "abs(CO2/H2CO3 uptake):min",
+    "biomass:max"
+  ],
+  "seed": 1,
+  "software": {
+    "cobra": "0.32.1",
+    "python": "3.12.14",
+    "scipy": "1.18.1",
+    "straindesign": "1.19.1"
+  },
+  "solver": "SCIP",
+  "summary_script_sha256": "a42af14082b6d1050dd2a375a67575e3897f48440040754121439ea46dee8d39"
+}

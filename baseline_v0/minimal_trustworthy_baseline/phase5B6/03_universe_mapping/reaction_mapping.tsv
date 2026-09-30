@@ -1,0 +1,139 @@
+universe_id	name	reversible	equation	ec	pathway	balance	ambiguous
+RXN0-5224		True	h[c] + hco3[c] -> co2[c] + h2o[c]	EC-4.2.1.1 T		BALANCED	
+GLUTAMIN-RXN		False	gln-L[c] + h2o[c] -> glu-L[c] + nh4[c]	EC-3.5.1.38 T;EC-3.5.1.2 T	GLUTAMINDEG-PWY;PWY490-4;PWY-5921;GLUTSYN-PWY;AMMASSIM-PWY;6.3.5.6-RXN;6.3.5.7-RXN;CARBPSYN-RXN;GLUTAMATESYN-RXN;CTPSYN-RXN;ASNSYNB-RXN;GMP-SYN-GLUT-RXN;GLUTAMIDOTRANS-RXN	BALANCED	
+RXN0-4261		False	atp[c] + h2o[c] -> adp[c] + pi[c]	EC-5.6.2.c T		BALANCED	
+MALIC-NADP-RXN		False	mal-L[c] + nadp[c] -> co2[c] + nadph[c] + pyr[c]	EC-1.1.1.40 T	GLUCONEO-PWY	BALANCED	
+PEPCARBOX-RXN		True	oaa[c] + pi[c] -> hco3[c] + pep[c]	EC-4.1.1.31 T	PWY-5913	BALANCED	
+QUINOLINATE-SYNTHA-RXN		False	dhap[c] + iasp[c] -> h2o[c] + pi[c] + quln[c]	EC-2.5.1.72 T	PYRIDNUCSYN-PWY;PWY-8277	BALANCED	
+GTP-CYCLOHYDRO-II-RXN		False	gtp[c] + h2o[c] -> 2dhpp[c] + for[c] + h[c] + pi[c]	EC-3.5.4.25 T	RIBOSYN2-PWY	UNBALANCED	
+SEDOBISALDOL-RXN		True	s17bp[c] -> dhap[c] + e4p[c]	EC-4.1.2.13	CALVIN-PWY	BALANCED	
+1.2.1.13-RXN		True	g3p[c] + nadp[c] + pi[c] -> 13dpg[c] + h[c] + nadph[c]	EC-1.2.1.13 T	CALVIN-PWY	BALANCED	
+2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN		False	2omph[c] + h[c] + nadph[c] + o2[c] -> 2ombz[c] + h2o[c] + nadp[c]	EC-1.14.13	PWY-5870;PWY-6708	BALANCED	
+RXN0-6490		False	h[c] + orot[c] -> dhor-S[c]		RXN0-6554;DIHYDROOROTATE-DEHYDROGENASE-RXN;RXN0-6491	BALANCED	
+RXN-7609		False	gmp[c] + h2o[c] -> gsn[c] + pi[c]	EC-3.1.3.5	PWY-6608	BALANCED	
+RXN0-723		False	ctp[c] + for[c] + h[c] -> co2[c] + dctp[c] + h2o[c]	EC-1.1.98.6	PWY-7187	BALANCED	
+DTDPDEHYRHAMREDUCT-RXN		False	dtdprmn[c] + nadp[c] -> dtdp4d6dm[c] + h[c] + nadph[c]	EC-1.1.1.133 T	DTDPRHAMSYN-PWY	BALANCED	
+RXN0-5265		False	h[c] + o2[c] -> h2o[c]		RXN-21817;RXN-17801;RXN-6883;RXN0-5266;RXN0-5268;CYTOCHROME-C-OXIDASE-RXN	BALANCED	
+PPENTOMUT-RXN		False	r1p[c] -> r5p[c]	EC-5.4.2.7 T	PWY0-1296	BALANCED	
+PEPDEPHOS-RXN		True	atp[c] + pyr[c] -> adp[c] + h[c] + pep[c]	EC-2.7.1.40 T	GLYCOLYSIS;PWY-5723	BALANCED	
+LUMAZINESYN-RXN		False	4r5au[c] + db4p[c] -> dmlz[c] + h2o[c] + h[c] + pi[c]	EC-2.5.1.78 T	RIBOSYN2-PWY	BALANCED	
+3PGAREARR-RXN		True	2pg[c] -> 3pg[c]	EC-5.4.2.12 T	GLUCONEO-PWY;GLYCOLYSIS;PWY-5723	BALANCED	
+RXN-17919		False	 -> amp[c] + h[c]		DNA-LIGASE-NAD+-RXN	UNBALANCED	
+TRYPSYN-RXN		False	3ig3p[c] + ser-L[c] -> g3p[c] + h2o[c] + trp-L[c]	EC-4.2.1.20 T		BALANCED	
+RXN-14093		False	atp[c] + dcyt[c] -> adp[c] + dcmp[c] + h[c]	EC-2.7.1.74;EC-2.7.1.145		BALANCED	
+TRANS-RXN2G89-6		False	atp[c] + h2o[c] -> adp[c] + h[c]			UNBALANCED	
+RXN0-1461		False	cpppg3[c] + h[c] + o2[c] -> co2[c] + h2o[c] + pppg9[c]	EC-1.3.3.3 T	HEME-BIOSYNTHESIS-II	UNBALANCED	
+RXN-12195		False	ctp[c] + h2o[c] -> cdp[c] + h[c] + pi[c]	EC-3.6.1.15	PWY-7185;PWY-6545	BALANCED	
+GAPOXNPHOSPHN-RXN		True	g3p[c] + nad[c] + pi[c] -> 13dpg[c] + h[c] + nadh[c]	EC-1.2.1.12 T	GLUCONEO-PWY;GLYCOLYSIS	BALANCED	
+PYRUVFORMLY-RXN		False	accoa[c] + for[c] -> coa[c] + pyr[c]	EC-2.3.1.54 T	PWY-5485	BALANCED	
+RXN0-5245		False	fum[c] + h[c] -> succ[c]		RXN-14971	BALANCED	
+ASNSYNA-RXN		False	asp-L[c] + atp[c] + nh4[c] -> amp[c] + asn-L[c] + h[c] + ppi[c]	EC-6.3.1.1 T	ASNSYNB-RXN	BALANCED	
+RXN-14025		False	h2o[c] + ump[c] -> pi[c] + uri[c]	EC-3.1.3.5	PWY-7185	BALANCED	
+OHMETHYLBILANESYN-RXN		False	h2o[c] + ppbng[c] -> hmbil[c] + nh4[c]	EC-2.5.1.61 T	PWY-5188	UNBALANCED	
+RXN-12198		False	cdp[c] + h2o[c] -> cmp[c] + h[c] + pi[c]	EC-3.6.1.6	PWY-7185	BALANCED	
+DUDPKIN-RXN		False	atp[c] + dudp[c] -> adp[c] + dutp[c]	EC-2.7.4.6	PWY-6545	BALANCED	
+3.6.3.6-RXN		False	atp[c] + h2o[c] -> adp[c] + pi[c]	EC-7.1.2.1 T		BALANCED	
+MALATE-DEHYDROGENASE-NADP+-RXN		True	mal-L[c] + nadp[c] -> h[c] + nadph[c] + oaa[c]	EC-1.1.1.82 T	MALIC-NADP-RXN	BALANCED	
+RXN-14026		False	cmp[c] + h2o[c] -> cytd[c] + pi[c]	EC-3.1.3.91 T;EC-3.1.3.5	PWY-7185	BALANCED	
+PROTOPORGENOXI-RXN		False	o2[c] + pppg9[c] -> h2o2[c] + ppp9[c]	EC-1.3.3.4 T	HEME-BIOSYNTHESIS-II	BALANCED	
+RXN0-746		False	for[c] + gtp[c] + h[c] -> co2[c] + dgtp[c] + h2o[c]	EC-1.1.98.6	PWY-7222	BALANCED	
+ERYTH4PDEHYDROG-RXN		False	e4p[c] + h2o[c] + nad[c] -> 4per[c] + h[c] + nadh[c]	EC-1.2.1.72 T	PYRIDOXSYN-PWY	BALANCED	
+HEMN-RXN		False	amet[c] + cpppg3[c] -> co2[c] + dad-5[c] + met-L[c] + pppg9[c]	EC-1.3.98.3 T	HEMESYN2-PWY	UNBALANCED	
+RXN-13698		True	akg[c] + ala-L[c] -> glu-L[c] + pyr[c]	EC-2.6.1.2		BALANCED	
+MVHMETH-RXN		False	h[c] -> h2[c]			BALANCED	
+DGTPTRIPHYDRO-RXN		False	dgtp[c] + h2o[c] -> dgsn[c] + h[c] + pppi[c]	EC-3.1.5.1 T		BALANCED	
+RXN-13158		False	3c2hmp[c] + nad[c] -> 4mop[c] + co2[c] + nadh[c]	EC-1.1.1.85 T		BALANCED	
+HISTAMINOTRANS-RXN		True	akg[c] + hisp[c] -> glu-L[c] + imacp[c]	EC-2.6.1.9 T	HISTSYN-PWY	BALANCED	
+RXN-961	D-ribulose-1,5-bisphosphate cleaving dioxygenase	False	o2[c] + rb15bp[c] -> 2pglyc[c] + 3pg[c] + h[c]	EC-1.13.11		BALANCED	
+AMP-DEPHOSPHORYLATION-RXN		False	amp[c] + h2o[c] -> adn[c] + pi[c]	EC-3.1.3.5	SALVADEHYPOX-PWY	BALANCED	
+5.4.2.10-RXN		True	gam6p[c] -> gam1p[c]	EC-5.4.2.10 T	UDPNAGSYN-PWY	BALANCED	
+GLUTDEHYD-RXN		False	glu-L[c] + h2o[c] + nadp[c] -> akg[c] + h[c] + nadph[c] + nh4[c]	EC-1.4.1.4 T	GLUTSYNIII-PWY;GLUTSYN-PWY;AMMASSIM-PWY;GLUTAMATESYN-RXN	BALANCED	
+PRPPAMIDOTRANS-RXN		False	glu-L[c] + ppi[c] + pram[c] -> gln-L[c] + h2o[c] + prpp[c]	EC-2.4.2.14 T	PWY-6121	BALANCED	
+RXN0-1483		False	fe2[c] + h[c] + o2[c] -> fe3[c] + h2o[c]	EC-1.16.3.1 T		BALANCED	
+ALANINE-AMINOTRANSFERASE-RXN		True	akg[c] + ala-L[c] -> glu-L[c] + pyr[c]	EC-2.6.1.2 T	ALANINE-SYN2-PWY	BALANCED	
+NADH-DEHYDROG-A-RXN		True	nadh[c] + q8[c] -> nad[c] + q8h2[c]	EC-7.1.1.2 T	PWY0-1334;PWY0-1335	BALANCED	
+1.1.1.39-RXN		False	mal-L[c] + nad[c] -> co2[c] + nadh[c] + pyr[c]	EC-1.1.1.38 T	GLUCONEO-PWY	BALANCED	
+RXN-14192		True	datp[c] + pyr[c] -> dadp[c] + h[c] + pep[c]	EC-2.7.1.40		BALANCED	
+ACETOOHBUTREDUCTOISOM-RXN		True	23dhmp[c] + nadp[c] -> 2ahbut[c] + h[c] + nadph[c]	EC-1.1.1.86	ILEUSYN-PWY	BALANCED	
+5.99.1.3-RXN		False	atp[c] -> adp[c] + pi[c]	EC-5.6.2.2 T		BALANCED	
+DARAB5PISOM-RXN		False	ara5p[c] -> ru5p-D[c]	EC-5.3.1.13 T	PWY-1269	BALANCED	
+RXN0-5330		False	h[c] + nadh[c] + q8[c] -> nad[c] + q8h2[c]	EC-1.6.5.9	PWY0-1568;PWY0-1567	BALANCED	
+2-OCTAPRENYLPHENOL-HYDROX-RXN		False	2oph[c] + h[c] + nadph[c] + o2[c] -> 2ohph[c] + h2o[c] + nadp[c]	EC-1.14.13.240	PWY-6708	BALANCED	
+2.7.7.13-RXN		False	gtp[c] + h[c] + man1p[c] -> gdpmann[c] + ppi[c]	EC-2.7.7.13 T	PWY-5659	BALANCED	
+RXN-9952		False	6pgc[c] + nadp[c] -> co2[c] + nadph[c] + ru5p-D[c]	EC-1.1.1.44 T	OXIDATIVEPENT-PWY	BALANCED	
+CARBPSYN-RXN		False	atp[c] + gln-L[c] + h2o[c] + hco3[c] -> adp[c] + cbp[c] + glu-L[c] + h[c] + pi[c]	EC-6.3.5.5 T	PWY-5686;ARGSYNBSUB-PWY	UNBALANCED	
+DTDPKIN-RXN		False	atp[c] + dtdp[c] -> adp[c] + dttp[c]	EC-2.7.4.6	PWY-7197;PWY-7187;PWY-6545	BALANCED	
+KETOBUTFORMLY-RXN		False	2obut[c] + coa[c] -> for[c] + ppcoa[c]	EC-2.3.1	PWY-5437	BALANCED	
+GLUTAMATESYN-RXN		True	glu-L[c] + nadp[c] -> akg[c] + gln-L[c] + h[c] + nadph[c]	EC-1.4.1.13 T	GLUTAMINEFUM-PWY	UNBALANCED	
+RXN-13163		True	3c2hmp[c] -> 3c3hmp[c]	EC-4.2.1.33 T		BALANCED	
+TRANS-RXN0-237		False	h[c] + q8[c] -> q8h2[c]		RXN-21817;RXN0-5266;RXN0-5268;RXN-18584	BALANCED	
+PRTRANS-RXN		False	ppi[c] + pran[c] -> anth[c] + prpp[c]	EC-2.4.2.18 T	TRPSYN-PWY	BALANCED	
+HISTALDEHYD-RXN		False	h2o[c] + hist-L[c] + nad[c] -> h[c] + his-L[c] + nadh[c]		HISTSYN-PWY;RXN-8001	BALANCED	
+GMP-SYN-NH3-RXN		False	atp[c] + nh4[c] + xmp[c] -> amp[c] + gmp[c] + h[c] + ppi[c]		GMP-SYN-GLUT-RXN	BALANCED	
+RXN-14118		False	ctp[c] + h2o[c] + h[c] -> nh4[c] + utp[c]	EC-3.5.4.13		BALANCED	
+INORGPYROPHOSPHAT-RXN		False	h2o[c] + ppi[c] -> h[c] + pi[c]	EC-3.6.1.1 T	PWY-7807;PWY-7805	UNBALANCED	
+RXN0-5255		False	h[c] -> h2[c]		RXN0-5256	BALANCED	
+GMP-SYN-GLUT-RXN		False	atp[c] + gln-L[c] + h2o[c] + xmp[c] -> amp[c] + glu-L[c] + gmp[c] + h[c] + ppi[c]	EC-6.3.5.2 T	PWY-7221	BALANCED	
+SPONTPRO-RXN		True	1pyr5c[c] + h2o[c] + h[c] -> glu5sa[c]		PROSYN-PWY	BALANCED	
+CTPSYN-RXN		False	atp[c] + gln-L[c] + h2o[c] + utp[c] -> adp[c] + ctp[c] + glu-L[c] + h[c] + pi[c]	EC-6.3.4.2 T	PWY-7176;PWY-7185	BALANCED	
+HYPOXANPRIBOSYLTRAN-RXN		True	imp[c] + ppi[c] -> hxan[c] + prpp[c]	EC-2.4.2.8 T	PWY-6609	BALANCED	
+RXN0-6491	dihydroorotate dehydrogenase	False	dhor-S[c] + q8[c] -> orot[c] + q8h2[c]	EC-1.3.5.2		BALANCED	
+RXN-21817		False	o2[c] + q8h2[c] -> h2o[c] + q8[c]	EC-7.1.1.3		BALANCED	
+PDXJ-RXN		False	amoxoylph[c] + dxyl5p[c] -> h2o[c] + h[c] + pdx5p[c] + pi[c]	EC-2.6.99.2 T	PYRIDOXSYN-PWY	BALANCED	
+RXN0-724		False	for[c] + h[c] + utp[c] -> co2[c] + dutp[c] + h2o[c]	EC-1.1.98.6	PWY-7187	BALANCED	
+RXN0-5268		False	o2[c] + q8h2[c] -> h2o[c] + q8[c]	EC-7.1.1.3 T	PWY0-1567;PWY0-1335	BALANCED	
+DETHIOBIOTIN-SYN-RXN		False	atp[c] + co2[c] + dann[c] -> adp[c] + dtbt[c] + h[c] + pi[c]	EC-6.3.3.3 T	PWY0-1507	BALANCED	
+RXN-13403		False	amet[c] + uppg3[c] -> ahcys[c] + dscl[c] + h[c]	EC-2.1.1.107 T		UNBALANCED	
+RXN-13202		False	atp[c] + hco3[c] + nh4[c] -> adp[c] + cbp[c] + h[c] + pi[c]	EC-6.3.4.16 T	CARBPSYN-RXN	UNBALANCED	
+RXN-7605		False	amet[c] -> ahcys[c] + h[c]	EC-2.1.1	METHIONINE-DEG1-PWY	UNBALANCED	
+RXN-16329		False	h[c] + oaa[c] -> mal-L[c]		MALATE-DEHYDROGENASE-ACCEPTOR-RXN	BALANCED	
+RXN-8999		False	frdp[c] + ipdp[c] -> dtpcudcpdp[c] + ppi[c]	EC-2.5.1.31 T	PWY-5785	UNBALANCED	UNDECAPRENYL-DIPHOSPHATE:dtpcudcpdp[c],udcpdp[c]
+QUINOPRIBOTRANS-RXN		True	co2[c] + nicrnt[c] + ppi[c] -> h[c] + prpp[c] + quln[c]	EC-2.4.2.19 T	PYRIDNUCSYN-PWY;PWY-8277	BALANCED	
+OROPRIBTRANS-RXN		False	orot5p[c] + ppi[c] -> orot[c] + prpp[c]	EC-2.4.2.10 T	PWY-5686	BALANCED	
+XMPXAN-RXN		False	h2o[c] + xmp[c] -> pi[c] + xtsn[c]	EC-3.1.3.5	PWY-5695	BALANCED	
+RXN-21238		False	h[c] + nad[c] -> nadh[c]		RXN1YI0-16	BALANCED	
+ADENYLOSUCCINATE-SYNTHASE-RXN		False	asp-L[c] + gtp[c] + imp[c] -> dcamp[c] + gdp[c] + h[c] + pi[c]	EC-6.3.4.4 T	PWY-7219	BALANCED	
+RXN-14325		False	atp[c] + nh4[c] + utp[c] -> adp[c] + ctp[c] + h[c] + pi[c]		CTPSYN-RXN	BALANCED	
+RXN-12196		False	h2o[c] + utp[c] -> h[c] + pi[c] + udp[c]	EC-3.6.1.15	PWY-7185	BALANCED	
+RXN-16330		False	h[c] + ppp9[c] -> pppg9[c]		RXN0-6259	BALANCED	
+GLYCOLATEDEHYDRO-RXN		False	glyclt[c] -> glx[c]	EC-1.1.99.14 T	GLYOXDEG-PWY	BALANCED	
+ACETOLACTSYN-RXN		False	h[c] + pyr[c] -> alac-S[c] + co2[c]	EC-2.2.1.6 T	VALSYN-PWY	UNBALANCED	
+CATAL-RXN		False	h2o2[c] -> h2o[c] + o2[c]	EC-1.11.1.6 T;EC-1.11.1.21 T	DETOX1-PWY	BALANCED	
+RXN-13179		False	nad[c] + phthr[c] -> amoxoylph[c] + co2[c] + nadh[c]	EC-1.1.1.262 T	PYRIDOXSYN-PWY	BALANCED	
+RIBOFLAVIN-SYN-RXN		False	dmlz[c] + h[c] -> 4r5au[c] + ribflv[c]	EC-2.5.1.9 T	RIBOSYN2-PWY	UNBALANCED	
+XANPRIBOSYLTRAN-RXN		True	ppi[c] + xmp[c] -> prpp[c] + xan[c]	EC-2.4.2.22 T	SALVPURINE2-PWY	BALANCED	
+RXN-8642		True	h[c] + osuc[c] -> akg[c] + co2[c]		ISOCITDEH-RXN	BALANCED	
+RXN-19022		False	glu5p[c] -> 5oxpro[c] + h[c] + pi[c]			BALANCED	
+ADENYL-KIN-RXN		True	amp[c] + atp[c] -> adp[c]	EC-2.7.4.3 T	PWY-7219	UNBALANCED	
+RXN0-5266		False	o2[c] + q8h2[c] -> h2o[c] + q8[c]	EC-7.1.1.7	PWY0-1568;PWY0-1334	BALANCED	
+RXN-12197		False	h2o[c] + udp[c] -> h[c] + pi[c] + ump[c]	EC-3.6.1.6	PWY-7185	BALANCED	
+RIBOFLAVINSYNDEAM-RXN		False	2dhpp[c] + h2o[c] + h[c] -> 5apru[c] + nh4[c]	EC-3.5.4.26 T	RIBOSYN2-PWY	BALANCED	
+PORPHOBILSYNTH-RXN		False	5aop[c] -> h2o[c] + h[c] + ppbng[c]	EC-4.2.1.24 T	PWY-5188	UNBALANCED	
+DALADALALIG-RXN		False	ala-D[c] + atp[c] -> adp[c] + alaala[c] + h[c] + pi[c]	EC-6.3.2.4 T	PWY-6387	UNBALANCED	
+RXN-15513		True	2pg[c] -> 3pg[c]	EC-5.4.2.11 T	GLYCOLYSIS	BALANCED	
+RXN0-5462		False	gtp[c] + h2o[c] -> gdp[c] + h[c] + pi[c]	EC-3.6.1.15;EC-3.6.1;EC-3.6.5.1 T;EC-3.6.5.2 T;EC-3.6.5.3 T;EC-3.6.5.4 T;EC-3.6.5.5 T;EC-3.6.5.6 T		BALANCED	
+RXN-8001		False	h2o[c] + histd[c] + nad[c] -> h[c] + his-L[c] + nadh[c]	EC-1.1.1.23 T		BALANCED	
+PROTOHEMEFERROCHELAT-RXN		False	h[c] + pheme[c] -> fe2[c] + ppp9[c]	EC-4.98.1.a T	HEMESYN2-PWY;HEME-BIOSYNTHESIS-II	BALANCED	
+NADH-KINASE-RXN		False	atp[c] + nadh[c] -> adp[c] + h[c] + nadph[c]	EC-2.7.1.86 T		BALANCED	
+RXN0-5248		False	h[c] + nad[c] -> nadh[c]		NADH-DEHYDROG-A-RXN;RXN-21415;1.6.99.5-RXN;RXN-21546;RXN0-5330-YEAST;RXN-20991;RXN0-5330;RXN0-7123	BALANCED	
+RXN-6883		False	o2[c] + q8h2[c] -> h2o[c] + q8[c]	EC-1.10.3.11 T		BALANCED	
+RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN		True	3pg[c] + h[c] -> co2[c] + h2o[c] + rb15bp[c]	EC-4.1.1.39 T	PWY-5723;CALVIN-PWY	UNBALANCED	
+AIRS-RXN		False	atp[c] + fpram[c] -> adp[c] + air[c] + h[c] + pi[c]	EC-6.3.3.1 T	PWY-6121	BALANCED	
+RXN0-745		False	atp[c] + for[c] + h[c] -> co2[c] + datp[c] + h2o[c]	EC-1.1.98.6	PWY-7220	BALANCED	
+RXN-17900		False	nh4[c] + prlp[c] -> aicar[c] + eig3p[c] + h2o[c] + h[c]		GLUTAMIDOTRANS-RXN	BALANCED	
+RXN0-4141		True	h2[c] -> 	EC-1.12.99.6 T	P283-PWY	BALANCED	
+PEPCARBOXYKIN-RXN		True	atp[c] + oaa[c] -> adp[c] + co2[c] + pep[c]	EC-4.1.1.49 T	GLUCONEO-PWY	BALANCED	
+H2SOXIREDPYRO-RXN		False	h2[c] + s[e] -> h2s[c]	EC-1.12.98.4	PWY-5332	BALANCED	Elemental-Sulfur:s[e],s[p]
+ABC-27-RXN		False	atp[c] + h2o[c] -> adp[c] + h[c]	EC-7.3.2.1 T		UNBALANCED	
+RXN-14117		True	gtp[c] + pyr[c] -> gdp[c] + h[c] + pep[c]	EC-2.7.1.40		BALANCED	
+RXN0-2584		False	h2o[c] -> ura[c]	EC-3.2.2.27 T		UNBALANCED	
+RXN-17757		False	glx[c] + h[c] -> glyclt[c]		RXN0-7229	BALANCED	
+OXALODECARB-RXN		False	h[c] + oaa[c] -> co2[c] + pyr[c]	EC-4.1.1.112 T	MALIC-NADP-RXN;1.1.1.39-RXN	BALANCED	
+RXN0-5244		False	h[c] + q8[c] -> q8h2[c]		RXN-21454;RXN-6883;RXN0-6491;NADH-DEHYDROG-A-RXN;RXN0-5330;1.10.2.2-RXN;RXN-15829	BALANCED	
+PSERTRANSAMPYR-RXN		True	akg[c] + phthr[c] -> glu-L[c] + ohpb[c]	EC-2.6.1.52 T	PYRIDOXSYN-PWY	BALANCED	
+RXN-14207		True	dgtp[c] + pyr[c] -> dgdp[c] + h[c] + pep[c]	EC-2.7.1.40		BALANCED	
+ATPSYN-RXN		True	atp[c] + h2o[c] -> adp[c] + pi[c]	EC-7.1.2.2 T	PWY-7980	BALANCED	
+PEPSYNTH-RXN		True	atp[c] + h2o[c] + pyr[c] -> amp[c] + h[c] + pep[c] + pi[c]	EC-2.7.9.2 T	GLUCONEO-PWY;GLYCOLYSIS	BALANCED	
+3.1.21.3-RXN		False	atp[c] + h2o[c] -> adp[c] + pi[c]	EC-3.1.21.3 T		BALANCED	
+DIHYDROOROT-RXN		False	dhor-S[c] + h2o[c] -> cbasp[c] + h[c]	EC-3.5.2.3 T	PWY-5686	BALANCED	
+UROGENDECARBOX-RXN		False	h[c] + uppg3[c] -> co2[c] + cpppg3[c]	EC-4.1.1.37 T	HEMESYN2-PWY;HEME-BIOSYNTHESIS-II	UNBALANCED	

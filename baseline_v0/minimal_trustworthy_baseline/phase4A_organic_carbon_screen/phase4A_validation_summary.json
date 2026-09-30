@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-09-26T10:45:12+08:00",
+  "frozen_v1_sha256": "bd9715e6d2419a5bd718ae728721626f9d2ecb0bf566b9bf7198fe5d3689af8c",
+  "frozen_v1_sha256_match": true,
+  "n_metabolites": 573,
+  "n_reactions": 615,
+  "reference_growth": {
+    "FIM": 0.052076,
+    "TTM": 0.052076,
+    "TSM": 0.052076
+  },
+  "free_energy_test": {
+    "FIM": {
+      "free_ATP": 0.0,
+      "free_NADH": 0.0,
+      "free_NADPH": 0.0
+    },
+    "TTM": {
+      "free_ATP": 0.0,
+      "free_NADH": 0.0,
+      "free_NADPH": 0.0
+    },
+    "TSM": {
+      "free_ATP": 0.0,
+      "free_NADH": 0.0,
+      "free_NADPH": 0.0
+    }
+  },
+  "watch_reaction_fluxes_mixotrophic_FIM": {
+    "glucose": {
+      "BDGK": 3.9335278398118163,
+      "ACCOAC": 0.8715634819918635,
+      "NADTRHD": 9.3116104968548,
+      "MALS": 0.0,
+      "GLXCL": 2.6664325699976565e-05,
+      "GLYCK": 2.6664325699976565e-05,
+      "GLXR": 0.0,
+      "MDH": 0.36060967398258115,
+      "FUM": -0.36060967398258115
+    },
+    "acetate": {
+      "BDGK": -0.0,
+      "ACCOAC": 0.10037957555732141,
+      "NADTRHD": 1.0724353747511772,
+      "MALS": 0.23296922245534457,
+      "GLXCL": -0.11648154024804591,
+      "GLYCK": -0.11648154024804591,
+      "GLXR": 0.0,
+      "MDH": 0.2745013044713478,
+      "FUM": -0.041532082016003224
+    },
+    "glycerol": {
+      "BDGK": -0.0,
+      "ACCOAC": 0.06863814075591342,
+      "NADTRHD": 0.7279276045948654,
+      "MALS": 0.0,
+      "GLXCL": 2.0998926393428485e-06,
+      "GLYCK": 2.0998926393428485e-06,
+      "GLXR": 0.0,
+      "MDH": 0.0283990530491236,
+      "FUM": -0.0283990530491236
+    },
+    "formate": {
+      "BDGK": -0.0,
+      "ACCOAC": 0.4085250425014091,
+      "NADTRHD": 4.394851578099437,
+      "MALS": 0.0,
+      "GLXCL": 1.2498280406340184e-05,
+      "GLYCK": 1.2498280406340184e-05,
+      "GLXR": 0.0,
+      "MDH": 0.16902736912920296,
+      "FUM": -0.16902736912920296
+    }
+  },
+  "key_findings": {
+    "native_organic_exchanges": [
+      "Ex_4hba[e]"
+    ],
+    "native_complete_path": [
+      "4hba"
+    ],
+    "one_step_away": [
+      "acetate",
+      "pyruvate",
+      "glucose"
+    ],
+    "two_steps_away": [
+      "glycerol",
+      "fructose",
+      "sucrose",
+      "lactate"
+    ],
+    "major_pathway_needed": [
+      "ethanol",
+      "methanol",
+      "formate"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "source": "https://www.tcdb.org/public/tcdb",
+  "retrieved_utc": "2026-09-25T14:20:58.068734+00:00",
+  "selection_rule": "Current RefSeq product family, followed by within-family local alignment",
+  "by_locus": {
+    "RU820_RS01515": {
+      "wp": "WP_009560851.1",
+      "current_product": "preprotein translocase subunit SecE",
+      "expected_family": "SecE",
+      "expected_tcid_prefix": "3.A.5.",
+      "family_reference_count": 21,
+      "best": {
+        "tcid": "3.A.5.6.1",
+        "description": "gnl|TC-DB|P25014|3.A.5.6.1 PREPROTEIN TRANSLOCASE SECY SUBUNIT - Cyanophora paradoxa.",
+        "identity": 0.4,
+        "query_coverage": 0.7328,
+        "target_coverage": 0.1728,
+        "aligned_residues": 85,
+        "score": 40.5
+      },
+      "family_homology_supported": false,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS01680": {
+      "wp": "WP_012536096.1",
+      "current_product": "preprotein translocase subunit SecY",
+      "expected_family": "SecY",
+      "expected_tcid_prefix": "3.A.5.",
+      "family_reference_count": 21,
+      "best": {
+        "tcid": "3.A.5.4.1",
+        "description": "gnl|TC-DB|P0A4H1|3.A.5.4.1 Preprotein translocase subunit secY - Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1) (Anacystis nidulans).",
+        "identity": 0.4512,
+        "query_coverage": 0.9255,
+        "target_coverage": 0.9339,
+        "aligned_residues": 410,
+        "score": 885.5
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS01835": {
+      "wp": "WP_009566069.1",
+      "current_product": "OmpP1/FadL family transporter",
+      "expected_family": "FadL",
+      "expected_tcid_prefix": "1.B.9.",
+      "family_reference_count": 21,
+      "best": {
+        "tcid": "1.B.9.1.4",
+        "description": "gnl|TC-DB|P43838|1.B.9.1.4 Outer membrane protein P1 OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) GN=ompP1 PE=1 SV=1",
+        "identity": 0.3323,
+        "query_coverage": 0.9382,
+        "target_coverage": 0.7277,
+        "aligned_residues": 334,
+        "score": 224.5
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS02250": {
+      "wp": "WP_012536152.1",
+      "current_product": "cation diffusion facilitator family transporter",
+      "expected_family": "CDF",
+      "expected_tcid_prefix": "2.A.4.",
+      "family_reference_count": 60,
+      "best": {
+        "tcid": "2.A.4.7.9",
+        "description": "gnl|TC-DB|Q1LHU8|2.A.4.7.9 Cation Diffusion Factor, metal efflux system component OS=Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34) GN=fieF PE=3 SV=1",
+        "identity": 0.4429,
+        "query_coverage": 0.7161,
+        "target_coverage": 0.8309,
+        "aligned_residues": 280,
+        "score": 545.0
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS02330": {
+      "wp": "WP_012536161.1",
+      "current_product": "lipoprotein-releasing ABC transporter permease subunit",
+      "expected_family": "LolC",
+      "expected_tcid_prefix": "3.A.1.125.",
+      "family_reference_count": 8,
+      "best": {
+        "tcid": "3.A.1.125.1",
+        "description": "gnl|TC-DB|P0ADC3|3.A.1.125.1 Lipoprotein-releasing system transmembrane protein lolC - Escherichia coli.",
+        "identity": 0.4094,
+        "query_coverage": 0.9203,
+        "target_coverage": 0.9549,
+        "aligned_residues": 381,
+        "score": 647.0
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS02335": {
+      "wp": "WP_009566877.1",
+      "current_product": "ABC transporter ATP-binding protein",
+      "expected_family": "LolD",
+      "expected_tcid_prefix": "3.A.1.125.",
+      "family_reference_count": 8,
+      "best": {
+        "tcid": "3.A.1.125.2",
+        "description": "gnl|TC-DB|O53899|3.A.1.125.2 Uncharacterized ABC transporter ATP-binding protein Rv0986/MT1014 - Mycobacterium tuberculosis.",
+        "identity": 0.3982,
+        "query_coverage": 0.9784,
+        "target_coverage": 0.9113,
+        "aligned_residues": 226,
+        "score": 453.0
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS02350": {
+      "wp": "WP_012536164.1",
+      "current_product": "MotA/TolQ/ExbB proton channel family protein",
+      "expected_family": "ExbB/TolQ",
+      "expected_tcid_prefix": "1.A.30.",
+      "family_reference_count": 34,
+      "best": {
+        "tcid": "1.A.30.2.3",
+        "description": "gnl|TC-DB|Q1DFL7|1.A.30.2.3 TonB system transport protein ExbB/TolQ OS=Myxococcus xanthus (strain DK 1622) GN=MXAN_0275 PE=3 SV=1",
+        "identity": 0.3855,
+        "query_coverage": 0.8689,
+        "target_coverage": 0.716,
+        "aligned_residues": 179,
+        "score": 255.5
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS02640": {
+      "wp": "WP_225487408.1",
+      "current_product": "protein-disulfide reductase DsbD",
+      "expected_family": "DsbD",
+      "expected_tcid_prefix": "5.A.1.",
+      "family_reference_count": 25,
+      "best": {
+        "tcid": "5.A.1.1.1",
+        "description": "gnl|TC-DB|P36655|5.A.1.1.1 THIOL:DISULFIDE INTERCHANGE PROTEIN DSBD PRECURSOR (C-TYPE CYTOCHROME BIOGENESIS PROTEIN CYCZ) (INNER MEMBRANE COPPER TOLERANCE PROTEIN) - Escherichia coli.",
+        "identity": 0.4256,
+        "query_coverage": 0.8894,
+        "target_coverage": 0.9398,
+        "aligned_residues": 531,
+        "score": 963.0
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS02705": {
+      "wp": "WP_225487409.1",
+      "current_product": "murein biosynthesis integral membrane protein MurJ",
+      "expected_family": "MurJ",
+      "expected_tcid_prefix": "2.A.66.",
+      "family_reference_count": 131,
+      "best": {
+        "tcid": "2.A.66.4.1",
+        "description": "gnl|TC-DB|P37169|2.A.66.4.1 Virulence factor mviN - Salmonella typhimurium.",
+        "identity": 0.4772,
+        "query_coverage": 0.9475,
+        "target_coverage": 0.9637,
+        "aligned_residues": 505,
+        "score": 1223.0
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    },
+    "RU820_RS02895": {
+      "wp": "WP_012606598.1",
+      "current_product": "HlyC/CorC family transporter",
+      "expected_family": "CorC",
+      "expected_tcid_prefix": "1.C.126.",
+      "family_reference_count": 4,
+      "best": {
+        "tcid": "1.C.126.1.2",
+        "description": "gnl|TC-DB|P0A2L3|1.C.126.1.2 Magnesium and cobalt efflux protein corC - Salmonella typhimurium.",
+        "identity": 0.419,
+        "query_coverage": 0.9759,
+        "target_coverage": 0.9726,
+        "aligned_residues": 284,
+        "score": 602.5
+      },
+      "family_homology_supported": true,
+      "evidence_boundary": "Sequence-family support only; transport substrate, direction and compartment unresolved."
+    }
+  }
+}

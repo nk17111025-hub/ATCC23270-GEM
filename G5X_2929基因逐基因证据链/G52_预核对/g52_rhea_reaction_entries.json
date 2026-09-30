@@ -1,0 +1,1307 @@
+{
+  "source": "https://www.rhea-db.org/rhea/?query=&columns=rhea-id%2Cequation%2Cchebi-id%2Cec%2Cpubmed%2Creaction-xref%28KEGG%29%2Creaction-xref%28MetaCyc%29&format=tsv&limit=100000",
+  "accessed_utc": "2026-09-26T00:11:42.967451+00:00",
+  "requested_rhea_ids": 144,
+  "server_rows": 18611,
+  "matched": 144,
+  "missing": [],
+  "reactions": {
+    "RHEA:10240": {
+      "Reaction identifier": "RHEA:10240",
+      "Equation": "a 2,3-saturated acyl-[ACP] + NAD(+) = a (2E)-enoyl-[ACP] + NADH + H(+)",
+      "ChEBI identifier": "CHEBI:78785;CHEBI:57540;CHEBI:78784;CHEBI:57945;CHEBI:15378",
+      "EC number": "EC:1.3.1.9",
+      "PubMed": "6756317;22042840;4384650",
+      "Cross-reference (KEGG)": "KEGG:R01403",
+      "Cross-reference (MetaCyc)": "MetaCyc:ENOYL-ACP-REDUCT-NADH-RXN"
+    },
+    "RHEA:10248": {
+      "Reaction identifier": "RHEA:10248",
+      "Equation": "dUTP + H2O = dUMP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:61555;CHEBI:15377;CHEBI:246422;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:3.6.1.9;EC:3.6.1.23",
+      "PubMed": "3025197;12218018",
+      "Cross-reference (KEGG)": "KEGG:R02100",
+      "Cross-reference (MetaCyc)": "MetaCyc:DUTP-PYROP-RXN"
+    },
+    "RHEA:10272": {
+      "Reaction identifier": "RHEA:10272",
+      "Equation": "a 1,2-diacyl-sn-glycerol + ATP = a 1,2-diacyl-sn-glycero-3-phosphate + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:17815;CHEBI:30616;CHEBI:58608;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.107",
+      "PubMed": "15939762",
+      "Cross-reference (KEGG)": "KEGG:R02240",
+      "Cross-reference (MetaCyc)": "MetaCyc:DIACYLGLYKIN-RXN"
+    },
+    "RHEA:10336": {
+      "Reaction identifier": "RHEA:10336",
+      "Equation": "citrate = D-threo-isocitrate",
+      "ChEBI identifier": "CHEBI:16947;CHEBI:15562",
+      "EC number": "EC:4.2.1.3",
+      "PubMed": "13126098;8151704",
+      "Cross-reference (KEGG)": "KEGG:R01324",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-14047"
+    },
+    "RHEA:10840": {
+      "Reaction identifier": "RHEA:10840",
+      "Equation": "O-phospho-L-homoserine + H2O = L-threonine + phosphate",
+      "ChEBI identifier": "CHEBI:57590;CHEBI:15377;CHEBI:57926;CHEBI:43474",
+      "EC number": "EC:4.2.3.1",
+      "PubMed": "8074505;18621388;7907888;10429206",
+      "Cross-reference (KEGG)": "KEGG:R01466",
+      "Cross-reference (MetaCyc)": "MetaCyc:THRESYN-RXN"
+    },
+    "RHEA:10932": {
+      "Reaction identifier": "RHEA:10932",
+      "Equation": "L-citrulline + L-aspartate + ATP = 2-(N(omega)-L-arginino)succinate + AMP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:57743;CHEBI:29991;CHEBI:30616;CHEBI:57472;CHEBI:456215;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:6.3.4.5",
+      "PubMed": "27287393;38478146;2867775;8792870;11738042;18323623;16082501;12684518",
+      "Cross-reference (KEGG)": "KEGG:R01954",
+      "Cross-reference (MetaCyc)": "MetaCyc:ARGSUCCINSYN-RXN"
+    },
+    "RHEA:11060": {
+      "Reaction identifier": "RHEA:11060",
+      "Equation": "tRNA(Ile) + L-isoleucine + ATP = L-isoleucyl-tRNA(Ile) + AMP + diphosphate",
+      "ChEBI identifier": "CHEBI:78442;CHEBI:58045;CHEBI:30616;CHEBI:78528;CHEBI:456215;CHEBI:33019",
+      "EC number": "EC:6.1.1.5",
+      "PubMed": "13792726;9822629;8052601;12060739;10966471",
+      "Cross-reference (KEGG)": "KEGG:R03656",
+      "Cross-reference (MetaCyc)": "MetaCyc:ISOLEUCINE--TRNA-LIGASE-RXN"
+    },
+    "RHEA:11164": {
+      "Reaction identifier": "RHEA:11164",
+      "Equation": "a 1,2-diacyl-sn-glycero-3-phosphoethanolamine + S-adenosyl-L-methionine = a 1,2-diacyl-sn-glycero-3-phospho-N-methylethanolamine + S-adenosyl-L-homocysteine + H(+)",
+      "ChEBI identifier": "CHEBI:64612;CHEBI:59789;CHEBI:64573;CHEBI:57856;CHEBI:15378",
+      "EC number": "EC:2.1.1.17",
+      "PubMed": "3680298;17313371",
+      "Cross-reference (KEGG)": "KEGG:R02056",
+      "Cross-reference (MetaCyc)": "MetaCyc:2.1.1.17-RXN"
+    },
+    "RHEA:11404": {
+      "Reaction identifier": "RHEA:11404",
+      "Equation": "UDP-alpha-D-glucuronate = UDP-alpha-D-galacturonate",
+      "ChEBI identifier": "CHEBI:58052;CHEBI:57635",
+      "EC number": "EC:5.1.3.6",
+      "PubMed": "15247385;13821949",
+      "Cross-reference (KEGG)": "KEGG:R01385",
+      "Cross-reference (MetaCyc)": "MetaCyc:UDP-GLUCURONATE-4-EPIMERASE-RXN"
+    },
+    "RHEA:11672": {
+      "Reaction identifier": "RHEA:11672",
+      "Equation": "chorismate + L-glutamine = 4-amino-4-deoxychorismate + L-glutamate",
+      "ChEBI identifier": "CHEBI:29748;CHEBI:58359;CHEBI:58406;CHEBI:29985",
+      "EC number": "EC:2.6.1.85",
+      "PubMed": "20851095;19275258;2251281;16605270;16466344;14745019;7592344",
+      "Cross-reference (KEGG)": "KEGG:R01716",
+      "Cross-reference (MetaCyc)": "MetaCyc:PABASYN-RXN"
+    },
+    "RHEA:11688": {
+      "Reaction identifier": "RHEA:11688",
+      "Equation": "tRNA(Leu) + L-leucine + ATP = L-leucyl-tRNA(Leu) + AMP + diphosphate",
+      "ChEBI identifier": "CHEBI:78442;CHEBI:57427;CHEBI:30616;CHEBI:78494;CHEBI:456215;CHEBI:33019",
+      "EC number": "EC:6.1.1.4",
+      "PubMed": "13792726;7647112;25051973;17474713;12739900;10828991;10966471",
+      "Cross-reference (KEGG)": "KEGG:R03657",
+      "Cross-reference (MetaCyc)": "MetaCyc:LEUCINE--TRNA-LIGASE-RXN"
+    },
+    "RHEA:11740": {
+      "Reaction identifier": "RHEA:11740",
+      "Equation": "2 glutathione + NADP(+) = glutathione disulfide + NADPH + H(+)",
+      "ChEBI identifier": "CHEBI:57925;CHEBI:58349;CHEBI:58297;CHEBI:57783;CHEBI:15378",
+      "EC number": "EC:1.8.1.7",
+      "PubMed": "3656429;1524433;23593298;6822532;2585516;18638483;1888731;10969088",
+      "Cross-reference (KEGG)": "KEGG:R00115",
+      "Cross-reference (MetaCyc)": "MetaCyc:GLUTATHIONE-REDUCT-NADPH-RXN"
+    },
+    "RHEA:11756": {
+      "Reaction identifier": "RHEA:11756",
+      "Equation": "biotin + L-lysyl-[protein] + ATP = N(6)-biotinyl-L-lysyl-[protein] + AMP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:57586;CHEBI:29969;CHEBI:30616;CHEBI:83144;CHEBI:456215;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:6.3.4.15",
+      "PubMed": "11353844;8631788;19385043;24723382;6129246;8003500;28268045",
+      "Cross-reference (KEGG)": "KEGG:R04562",
+      "Cross-reference (MetaCyc)": "MetaCyc:BIOTINLIG-RXN"
+    },
+    "RHEA:11852": {
+      "Reaction identifier": "RHEA:11852",
+      "Equation": "S-methyl-5'-thioadenosine + phosphate = 5-(methylsulfanyl)-alpha-D-ribose 1-phosphate + adenine",
+      "ChEBI identifier": "CHEBI:17509;CHEBI:43474;CHEBI:58533;CHEBI:16708",
+      "EC number": "EC:2.4.2.28",
+      "PubMed": "22225784;118001;415762;5378381",
+      "Cross-reference (KEGG)": "KEGG:R01402",
+      "Cross-reference (MetaCyc)": "MetaCyc:5-METHYLTHIOADENOSINE-PHOSPHORYLASE-RXN"
+    },
+    "RHEA:11960": {
+      "Reaction identifier": "RHEA:11960",
+      "Equation": "N-succinyl-(2S,6S)-2,6-diaminopimelate + 2-oxoglutarate = (S)-2-succinylamino-6-oxoheptanedioate + L-glutamate",
+      "ChEBI identifier": "CHEBI:58087;CHEBI:16810;CHEBI:15685;CHEBI:29985",
+      "EC number": "EC:2.6.1.17",
+      "PubMed": "13734750;10850974;10074354;17680699",
+      "Cross-reference (KEGG)": "KEGG:R04475",
+      "Cross-reference (MetaCyc)": "MetaCyc:SUCCINYLDIAMINOPIMTRANS-RXN"
+    },
+    "RHEA:12260": {
+      "Reaction identifier": "RHEA:12260",
+      "Equation": "NADH + ATP = ADP + NADPH + H(+)",
+      "ChEBI identifier": "CHEBI:57945;CHEBI:30616;CHEBI:456216;CHEBI:57783;CHEBI:15378",
+      "EC number": "EC:2.7.1.86",
+      "PubMed": "15347288;16760478;15978040",
+      "Cross-reference (KEGG)": "KEGG:R00105",
+      "Cross-reference (MetaCyc)": "MetaCyc:NADH-KINASE-RXN"
+    },
+    "RHEA:12292": {
+      "Reaction identifier": "RHEA:12292",
+      "Equation": "tRNA(Ser) + L-serine + ATP = L-seryl-tRNA(Ser) + AMP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:78442;CHEBI:33384;CHEBI:30616;CHEBI:78533;CHEBI:456215;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:6.1.1.11",
+      "PubMed": "4906848;10764807;24095058;22353712;19423848;10966471",
+      "Cross-reference (KEGG)": "KEGG:R03662",
+      "Cross-reference (MetaCyc)": "MetaCyc:SERINE--TRNA-LIGASE-RXN"
+    },
+    "RHEA:12484": {
+      "Reaction identifier": "RHEA:12484",
+      "Equation": "a ribonucleoside 5'-phosphate + H2O = a ribonucleoside + phosphate",
+      "ChEBI identifier": "CHEBI:58043;CHEBI:15377;CHEBI:18254;CHEBI:43474",
+      "EC number": "EC:3.1.3.5",
+      "PubMed": "23223233;15280042;15489502;17286574;15968458;24603684;14688230",
+      "Cross-reference (KEGG)": "KEGG:R07297",
+      "Cross-reference (MetaCyc)": "MetaCyc:5-NUCLEOTID-RXN"
+    },
+    "RHEA:12697": {
+      "Reaction identifier": "RHEA:12697",
+      "Equation": "dGMP + ATP = dGDP + ADP",
+      "ChEBI identifier": "CHEBI:57673;CHEBI:30616;CHEBI:58595;CHEBI:456216",
+      "EC number": "EC:2.7.4.8;EC:2.7.4.12",
+      "PubMed": "10632732;17727616;5333666;16690197",
+      "Cross-reference (KEGG)": "KEGG:R02090",
+      "Cross-reference (MetaCyc)": "MetaCyc:GMKALT-RXN"
+    },
+    "RHEA:12705": {
+      "Reaction identifier": "RHEA:12705",
+      "Equation": "[protein]-L-isoaspartate + S-adenosyl-L-methionine = [protein]-L-isoaspartate alpha-methyl ester + S-adenosyl-L-homocysteine",
+      "ChEBI identifier": "CHEBI:90596;CHEBI:59789;CHEBI:90598;CHEBI:57856",
+      "EC number": "EC:2.1.1.77",
+      "PubMed": "5438363;29571628;3597386;3896126",
+      "Cross-reference (KEGG)": "KEGG:R04190",
+      "Cross-reference (MetaCyc)": "MetaCyc:2.1.1.77-RXN"
+    },
+    "RHEA:12973": {
+      "Reaction identifier": "RHEA:12973",
+      "Equation": "AMP + ATP = 2 ADP",
+      "ChEBI identifier": "CHEBI:456215;CHEBI:30616;CHEBI:456216",
+      "EC number": "EC:2.7.4.3",
+      "PubMed": "10398370;21080915;16664952;15630091;18162585;23416111;2850178",
+      "Cross-reference (KEGG)": "KEGG:R00127",
+      "Cross-reference (MetaCyc)": "MetaCyc:ADENYL-KIN-RXN"
+    },
+    "RHEA:13065": {
+      "Reaction identifier": "RHEA:13065",
+      "Equation": "ATP + H2O = ADP + phosphate + H(+)",
+      "ChEBI identifier": "CHEBI:30616;CHEBI:15377;CHEBI:456216;CHEBI:43474;CHEBI:15378",
+      "EC number": "EC:3.6.4.6;EC:3.6.4.7;EC:3.6.4.10;EC:3.6.4.12;EC:3.6.4.13;EC:5.6.2.3;EC:5.6.2.4;EC:5.6.2.5;EC:5.6.2.6",
+      "PubMed": "15576788;8529670;38386260",
+      "Cross-reference (KEGG)": "KEGG:R00086",
+      "Cross-reference (MetaCyc)": "MetaCyc:ATPASE-RXN"
+    },
+    "RHEA:13233": {
+      "Reaction identifier": "RHEA:13233",
+      "Equation": "guanosine + phosphate = alpha-D-ribose 1-phosphate + guanine",
+      "ChEBI identifier": "CHEBI:16750;CHEBI:43474;CHEBI:57720;CHEBI:16235",
+      "EC number": "EC:2.4.2.1;EC:2.4.2.15",
+      "PubMed": "19575810;27941785;17918964;11707439",
+      "Cross-reference (KEGG)": "KEGG:R02147",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN0-5199"
+    },
+    "RHEA:13429": {
+      "Reaction identifier": "RHEA:13429",
+      "Equation": "2-C-methyl-D-erythritol 4-phosphate + CTP + H(+) = 4-CDP-2-C-methyl-D-erythritol + diphosphate",
+      "ChEBI identifier": "CHEBI:58262;CHEBI:37563;CHEBI:15378;CHEBI:57823;CHEBI:33019",
+      "EC number": "EC:2.7.7.60",
+      "PubMed": "17921290;18047786",
+      "Cross-reference (KEGG)": "KEGG:R05633",
+      "Cross-reference (MetaCyc)": "MetaCyc:2.7.7.60-RXN"
+    },
+    "RHEA:14161": {
+      "Reaction identifier": "RHEA:14161",
+      "Equation": "1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one + O2 = 3-(methylsulfanyl)propanoate + CO + formate + 2 H(+)",
+      "ChEBI identifier": "CHEBI:49252;CHEBI:15379;CHEBI:49016;CHEBI:17245;CHEBI:15740;CHEBI:15378",
+      "EC number": "EC:1.13.11.53",
+      "PubMed": "10481280;12022880;11371200;8407993;9880484;12402029;2838472;7852397",
+      "Cross-reference (KEGG)": "KEGG:R07363",
+      "Cross-reference (MetaCyc)": "MetaCyc:R146-RXN"
+    },
+    "RHEA:14253": {
+      "Reaction identifier": "RHEA:14253",
+      "Equation": "guanosine 3',5'-bis(diphosphate) + H2O = GDP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:77828;CHEBI:15377;CHEBI:58189;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:3.1.7.2",
+      "PubMed": "114395;20818390;12003927;365225;10995231",
+      "Cross-reference (KEGG)": "KEGG:R00336",
+      "Cross-reference (MetaCyc)": "MetaCyc:PPGPPSYN-RXN"
+    },
+    "RHEA:14357": {
+      "Reaction identifier": "RHEA:14357",
+      "Equation": "riboflavin + ATP = FMN + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:57986;CHEBI:30616;CHEBI:58210;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.26",
+      "PubMed": "19942660;12693963;16183635;10206712;3023344",
+      "Cross-reference (KEGG)": "KEGG:R00549",
+      "Cross-reference (MetaCyc)": "MetaCyc:RIBOFLAVINKIN-RXN"
+    },
+    "RHEA:14481": {
+      "Reaction identifier": "RHEA:14481",
+      "Equation": "2-hydroxy-5-methylsulfanyl-3-oxopent-1-enyl phosphate + H2O = 1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one + phosphate",
+      "ChEBI identifier": "CHEBI:59505;CHEBI:15377;CHEBI:49252;CHEBI:43474",
+      "EC number": "EC:3.1.3.87",
+      "PubMed": "14551435",
+      "Cross-reference (KEGG)": "KEGG:R07394",
+      "Cross-reference (MetaCyc)": "MetaCyc:R83-RXN"
+    },
+    "RHEA:14657": {
+      "Reaction identifier": "RHEA:14657",
+      "Equation": "aldehydo-D-ribose 5-phosphate = D-ribulose 5-phosphate",
+      "ChEBI identifier": "CHEBI:58273;CHEBI:58121",
+      "EC number": "EC:5.3.1.6",
+      "PubMed": "18640127;13373810;13295229;1104357;14907726",
+      "Cross-reference (KEGG)": "KEGG:R01056",
+      "Cross-reference (MetaCyc)": "MetaCyc:RIB5PISOM-RXN"
+    },
+    "RHEA:15149": {
+      "Reaction identifier": "RHEA:15149",
+      "Equation": "pyridoxine 5'-phosphate + O2 = pyridoxal 5'-phosphate + H2O2",
+      "ChEBI identifier": "CHEBI:58589;CHEBI:15379;CHEBI:597326;CHEBI:16240",
+      "EC number": "EC:1.4.3.5",
+      "PubMed": "11786019;7860596;22110704;17224143;9693059;17873088",
+      "Cross-reference (KEGG)": "KEGG:R00278",
+      "Cross-reference (MetaCyc)": "MetaCyc:PNPOXI-RXN"
+    },
+    "RHEA:15549": {
+      "Reaction identifier": "RHEA:15549",
+      "Equation": "5-(methylsulfanyl)-D-ribulose 1-phosphate = 5-methylsulfanyl-2,3-dioxopentyl phosphate + H2O",
+      "ChEBI identifier": "CHEBI:58548;CHEBI:58828;CHEBI:15377",
+      "EC number": "EC:4.2.1.109",
+      "PubMed": "2838472;7852397",
+      "Cross-reference (KEGG)": "KEGG:R07392",
+      "Cross-reference (MetaCyc)": "MetaCyc:R145-RXN"
+    },
+    "RHEA:15757": {
+      "Reaction identifier": "RHEA:15757",
+      "Equation": "L-homoserine + NAD(+) = L-aspartate 4-semialdehyde + NADH + H(+)",
+      "ChEBI identifier": "CHEBI:57476;CHEBI:57540;CHEBI:537519;CHEBI:57945;CHEBI:15378",
+      "EC number": "EC:1.1.1.3",
+      "PubMed": "11812230;4394351;4562990;3139660;16216875;1743520",
+      "Cross-reference (KEGG)": "KEGG:R01773",
+      "Cross-reference (MetaCyc)": "MetaCyc:HOMOSERDEHYDROG-RXN"
+    },
+    "RHEA:15761": {
+      "Reaction identifier": "RHEA:15761",
+      "Equation": "L-homoserine + NADP(+) = L-aspartate 4-semialdehyde + NADPH + H(+)",
+      "ChEBI identifier": "CHEBI:57476;CHEBI:58349;CHEBI:537519;CHEBI:57783;CHEBI:15378",
+      "EC number": "EC:1.1.1.3",
+      "PubMed": "11812230;4394351;4562990;3139660;16216875;1743520",
+      "Cross-reference (KEGG)": "KEGG:R01775",
+      "Cross-reference (MetaCyc)": "MetaCyc:HOMOSERDEHYDROG-RXN"
+    },
+    "RHEA:15817": {
+      "Reaction identifier": "RHEA:15817",
+      "Equation": "pyridoxamine 5'-phosphate + O2 + H2O = pyridoxal 5'-phosphate + H2O2 + NH4(+)",
+      "ChEBI identifier": "CHEBI:58451;CHEBI:15379;CHEBI:15377;CHEBI:597326;CHEBI:16240;CHEBI:28938",
+      "EC number": "EC:1.4.3.5",
+      "PubMed": "11786019;7860596;17224143;9693059;17873088",
+      "Cross-reference (KEGG)": "KEGG:R00277",
+      "Cross-reference (MetaCyc)": "MetaCyc:PMPOXI-RXN"
+    },
+    "RHEA:15901": {
+      "Reaction identifier": "RHEA:15901",
+      "Equation": "(2R)-2-phosphoglycerate = (2R)-3-phosphoglycerate",
+      "ChEBI identifier": "CHEBI:58289;CHEBI:58272",
+      "EC number": "EC:5.4.2.11;EC:5.4.2.12",
+      "PubMed": "22355692;1386023;21045285;10437801",
+      "Cross-reference (KEGG)": "KEGG:R01518",
+      "Cross-reference (MetaCyc)": "MetaCyc:3PGAREARR-RXN"
+    },
+    "RHEA:16037": {
+      "Reaction identifier": "RHEA:16037",
+      "Equation": "thymidine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + thymine",
+      "ChEBI identifier": "CHEBI:17748;CHEBI:43474;CHEBI:57259;CHEBI:17821",
+      "EC number": "EC:2.4.2.2;EC:2.4.2.4",
+      "PubMed": "8987664;4978445;9817849;27941785;8782414",
+      "Cross-reference (KEGG)": "KEGG:R01570",
+      "Cross-reference (MetaCyc)": "MetaCyc:THYM-PHOSPH-RXN"
+    },
+    "RHEA:16169": {
+      "Reaction identifier": "RHEA:16169",
+      "Equation": "L-glutamate + NH4(+) + ATP = L-glutamine + ADP + phosphate + H(+)",
+      "ChEBI identifier": "CHEBI:29985;CHEBI:28938;CHEBI:30616;CHEBI:58359;CHEBI:456216;CHEBI:43474;CHEBI:15378",
+      "EC number": "EC:6.3.1.2",
+      "PubMed": "14757761;15574840;28323;9865608;19895308;19695264;1973929;24158439;30158707",
+      "Cross-reference (KEGG)": "KEGG:R00253",
+      "Cross-reference (MetaCyc)": "MetaCyc:GLUTAMINESYN-RXN"
+    },
+    "RHEA:16237": {
+      "Reaction identifier": "RHEA:16237",
+      "Equation": "[protein]-peptidylproline (omega=180) = [protein]-peptidylproline (omega=0)",
+      "ChEBI identifier": "CHEBI:83834;CHEBI:83833",
+      "EC number": "EC:5.2.1.8",
+      "PubMed": "3882150;6395866;2644542;2492638",
+      "Cross-reference (KEGG)": "KEGG:R04273",
+      "Cross-reference (MetaCyc)": "MetaCyc:PEPTIDYLPROLYL-ISOMERASE-RXN"
+    },
+    "RHEA:16373": {
+      "Reaction identifier": "RHEA:16373",
+      "Equation": "(R)-pantothenate + ATP = (R)-4'-phosphopantothenate + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:29032;CHEBI:30616;CHEBI:10986;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.33",
+      "PubMed": "30927326;13630913;16905099;16897480;4337331;13269369",
+      "Cross-reference (KEGG)": "KEGG:R03018",
+      "Cross-reference (MetaCyc)": "MetaCyc:PANTOTHENATE-KIN-RXN"
+    },
+    "RHEA:16505": {
+      "Reaction identifier": "RHEA:16505",
+      "Equation": "chorismate = 4-hydroxybenzoate + pyruvate",
+      "ChEBI identifier": "CHEBI:29748;CHEBI:17879;CHEBI:15361",
+      "EC number": "EC:4.1.3.40",
+      "PubMed": "11825618;11583838;1644758;16210318;8012607",
+      "Cross-reference (KEGG)": "KEGG:R01302",
+      "Cross-reference (MetaCyc)": "MetaCyc:CHORPYRLY-RXN"
+    },
+    "RHEA:16609": {
+      "Reaction identifier": "RHEA:16609",
+      "Equation": "AMP + diphosphate = 5-phospho-alpha-D-ribose 1-diphosphate + adenine",
+      "ChEBI identifier": "CHEBI:456215;CHEBI:33019;CHEBI:58017;CHEBI:16708",
+      "EC number": "EC:2.4.2.7",
+      "PubMed": "18399692;11535055;12171924;29694705;31160323",
+      "Cross-reference (KEGG)": "KEGG:R00190",
+      "Cross-reference (MetaCyc)": "MetaCyc:ADENPRIBOSYLTRAN-RXN"
+    },
+    "RHEA:16793": {
+      "Reaction identifier": "RHEA:16793",
+      "Equation": "N-[(R)-4-phosphopantothenoyl]-L-cysteine + H(+) = (R)-4'-phosphopantetheine + CO2",
+      "ChEBI identifier": "CHEBI:59458;CHEBI:15378;CHEBI:61723;CHEBI:16526",
+      "EC number": "EC:4.1.1.36",
+      "PubMed": "31337720;10922366;13630913",
+      "Cross-reference (KEGG)": "KEGG:R03269",
+      "Cross-reference (MetaCyc)": "MetaCyc:P-PANTOCYSDECARB-RXN"
+    },
+    "RHEA:17053": {
+      "Reaction identifier": "RHEA:17053",
+      "Equation": "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate = D-erythrose 4-phosphate + beta-D-fructose 6-phosphate",
+      "ChEBI identifier": "CHEBI:57483;CHEBI:59776;CHEBI:16897;CHEBI:57634",
+      "EC number": "EC:2.2.1.2",
+      "PubMed": "7592346;15810435",
+      "Cross-reference (KEGG)": "KEGG:R01827",
+      "Cross-reference (MetaCyc)": "MetaCyc:TRANSALDOL-RXN"
+    },
+    "RHEA:17221": {
+      "Reaction identifier": "RHEA:17221",
+      "Equation": "dTDP-alpha-D-glucose = dTDP-4-dehydro-6-deoxy-alpha-D-glucose + H2O",
+      "ChEBI identifier": "CHEBI:57477;CHEBI:57649;CHEBI:15377",
+      "EC number": "EC:4.2.1.46",
+      "PubMed": "11601973;12672826;11380254;11796113;4869560",
+      "Cross-reference (KEGG)": "KEGG:R06513",
+      "Cross-reference (MetaCyc)": "MetaCyc:DTDPGLUCDEHYDRAT-RXN"
+    },
+    "RHEA:17237": {
+      "Reaction identifier": "RHEA:17237",
+      "Equation": "FMN + ATP + H(+) = FAD + diphosphate",
+      "ChEBI identifier": "CHEBI:58210;CHEBI:30616;CHEBI:15378;CHEBI:57692;CHEBI:33019",
+      "EC number": "EC:2.7.7.2",
+      "PubMed": "19942660;20822113;16183635;39189775;17049878;27672192;3023344;16643857",
+      "Cross-reference (KEGG)": "KEGG:R00161",
+      "Cross-reference (MetaCyc)": "MetaCyc:FADSYN-RXN"
+    },
+    "RHEA:17661": {
+      "Reaction identifier": "RHEA:17661",
+      "Equation": "succinate + ATP + CoA = succinyl-CoA + ADP + phosphate",
+      "ChEBI identifier": "CHEBI:30031;CHEBI:30616;CHEBI:57287;CHEBI:57292;CHEBI:456216;CHEBI:43474",
+      "EC number": "EC:6.2.1.5",
+      "PubMed": "17642514;10353839;40108300;21515777;27487822;13252014;13252015;15877282",
+      "Cross-reference (KEGG)": "KEGG:R00405",
+      "Cross-reference (MetaCyc)": "MetaCyc:SUCCCOASYN-RXN"
+    },
+    "RHEA:17709": {
+      "Reaction identifier": "RHEA:17709",
+      "Equation": "all-trans-nonaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-nonaprenyl)benzoate + diphosphate",
+      "ChEBI identifier": "CHEBI:58391;CHEBI:17879;CHEBI:84502;CHEBI:33019",
+      "EC number": "EC:2.5.1.39",
+      "PubMed": "2295606;22166075",
+      "Cross-reference (KEGG)": "KEGG:R07273",
+      "Cross-reference (MetaCyc)": "MetaCyc:2.5.1.39-RXN"
+    },
+    "RHEA:17941": {
+      "Reaction identifier": "RHEA:17941",
+      "Equation": "(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate = 2-methyl-cis-aconitate + H2O",
+      "ChEBI identifier": "CHEBI:57429;CHEBI:57872;CHEBI:15377",
+      "EC number": "EC:4.2.1.99",
+      "PubMed": "12473114",
+      "Cross-reference (KEGG)": "KEGG:R04425",
+      "Cross-reference (MetaCyc)": "MetaCyc:4.2.1.99-RXN"
+    },
+    "RHEA:17973": {
+      "Reaction identifier": "RHEA:17973",
+      "Equation": "IMP + diphosphate = hypoxanthine + 5-phospho-alpha-D-ribose 1-diphosphate",
+      "ChEBI identifier": "CHEBI:58053;CHEBI:33019;CHEBI:17368;CHEBI:58017",
+      "EC number": "EC:2.4.2.8",
+      "PubMed": "18245832;12070315",
+      "Cross-reference (KEGG)": "KEGG:R01132",
+      "Cross-reference (MetaCyc)": "MetaCyc:HYPOXANPRIBOSYLTRAN-RXN"
+    },
+    "RHEA:18049": {
+      "Reaction identifier": "RHEA:18049",
+      "Equation": "N(2)-acetyl-L-ornithine + 2-oxoglutarate = N-acetyl-L-glutamate 5-semialdehyde + L-glutamate",
+      "ChEBI identifier": "CHEBI:57805;CHEBI:16810;CHEBI:29123;CHEBI:29985",
+      "EC number": "EC:2.6.1.11",
+      "PubMed": "10074354;17680699;9393691",
+      "Cross-reference (KEGG)": "KEGG:R02283",
+      "Cross-reference (MetaCyc)": "MetaCyc:ACETYLORNTRANSAM-RXN"
+    },
+    "RHEA:18133": {
+      "Reaction identifier": "RHEA:18133",
+      "Equation": "sulfate + ATP + H(+) = adenosine 5'-phosphosulfate + diphosphate",
+      "ChEBI identifier": "CHEBI:16189;CHEBI:30616;CHEBI:15378;CHEBI:58243;CHEBI:33019",
+      "EC number": "EC:2.7.7.4",
+      "PubMed": "7493984;15755455;7487067;11157739;16229483;16895327;9668121;14747722",
+      "Cross-reference (KEGG)": "KEGG:R00529",
+      "Cross-reference (MetaCyc)": "MetaCyc:SULFATE-ADENYLYLTRANS-RXN"
+    },
+    "RHEA:18321": {
+      "Reaction identifier": "RHEA:18321",
+      "Equation": "L-leucine + 2-oxoglutarate = 4-methyl-2-oxopentanoate + L-glutamate",
+      "ChEBI identifier": "CHEBI:57427;CHEBI:16810;CHEBI:17865;CHEBI:29985",
+      "EC number": "EC:2.6.1.6;EC:2.6.1.42",
+      "PubMed": "21153519;5922965;4968655;13034817;4979711;5943594",
+      "Cross-reference (KEGG)": "KEGG:R01090",
+      "Cross-reference (MetaCyc)": "MetaCyc:BRANCHED-CHAINAMINOTRANSFERLEU-RXN"
+    },
+    "RHEA:18397": {
+      "Reaction identifier": "RHEA:18397",
+      "Equation": "tRNA(Glx) + L-glutamate + ATP = L-glutamyl-tRNA(Glx) + AMP + diphosphate",
+      "ChEBI identifier": "CHEBI:78442;CHEBI:29985;CHEBI:30616;CHEBI:78520;CHEBI:456215;CHEBI:33019",
+      "EC number": "EC:6.1.1.24",
+      "PubMed": "9749534;10966471;9724658",
+      "Cross-reference (KEGG)": "KEGG:R03651,KEGG:R05578",
+      "Cross-reference (MetaCyc)": "MetaCyc:6.1.1.24-RXN"
+    },
+    "RHEA:18589": {
+      "Reaction identifier": "RHEA:18589",
+      "Equation": "[glutamine synthetase]-L-tyrosine + ATP = [glutamine synthetase]-O(4)-(5'-adenylyl)-L-tyrosine + diphosphate",
+      "ChEBI identifier": "CHEBI:46858;CHEBI:30616;CHEBI:83624;CHEBI:33019",
+      "EC number": "EC:2.7.7.42",
+      "PubMed": "4861255;4298074;4402680;20887734;4867671;4920894",
+      "Cross-reference (KEGG)": "KEGG:R03473",
+      "Cross-reference (MetaCyc)": "MetaCyc:GSADENYLATION-RXN"
+    },
+    "RHEA:18629": {
+      "Reaction identifier": "RHEA:18629",
+      "Equation": "NAD(+) + ATP = ADP + NADP(+) + H(+)",
+      "ChEBI identifier": "CHEBI:57540;CHEBI:30616;CHEBI:456216;CHEBI:58349;CHEBI:15378",
+      "EC number": "EC:2.7.1.23",
+      "PubMed": "6290285;11488932;11594753;12897004;15182203;4290316;11006082;23212377;15855156;3025169;16192277",
+      "Cross-reference (KEGG)": "KEGG:R00104",
+      "Cross-reference (MetaCyc)": "MetaCyc:NAD-KIN-RXN"
+    },
+    "RHEA:18769": {
+      "Reaction identifier": "RHEA:18769",
+      "Equation": "5-methylsulfanyl-2,3-dioxopentyl phosphate = 2-hydroxy-5-methylsulfanyl-3-oxopent-1-enyl phosphate",
+      "ChEBI identifier": "CHEBI:58828;CHEBI:59505",
+      "EC number": "EC:5.3.2.5",
+      "PubMed": "14551435;8227039",
+      "Cross-reference (KEGG)": "KEGG:R07393",
+      "Cross-reference (MetaCyc)": "MetaCyc:R82-RXN"
+    },
+    "RHEA:19069": {
+      "Reaction identifier": "RHEA:19069",
+      "Equation": "(R)-S-lactoylglutathione = methylglyoxal + glutathione",
+      "ChEBI identifier": "CHEBI:57474;CHEBI:17158;CHEBI:57925",
+      "EC number": "EC:4.4.1.5",
+      "PubMed": "4574550;14841219",
+      "Cross-reference (KEGG)": "KEGG:R02530",
+      "Cross-reference (MetaCyc)": "MetaCyc:GLYOXI-RXN"
+    },
+    "RHEA:19225": {
+      "Reaction identifier": "RHEA:19225",
+      "Equation": "glycyl-[formate C-acetyltransferase] + reduced [flavodoxin] + S-adenosyl-L-methionine = glycin-2-yl radical-[formate C-acetyltransferase] + semiquinone [flavodoxin] + 5'-deoxyadenosine + L-methionine + H(+)",
+      "ChEBI identifier": "CHEBI:29947;CHEBI:57618;CHEBI:59789;CHEBI:32722;CHEBI:140311;CHEBI:17319;CHEBI:57844;CHEBI:15378",
+      "EC number": "EC:1.97.1.4",
+      "PubMed": "1310545;11395404;18852451;8175649",
+      "Cross-reference (KEGG)": "KEGG:R04710",
+      "Cross-reference (MetaCyc)": "MetaCyc:TDCEACT-RXN"
+    },
+    "RHEA:19365": {
+      "Reaction identifier": "RHEA:19365",
+      "Equation": "D-ribulose 5-phosphate + ATP = D-ribulose 1,5-bisphosphate + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:58121;CHEBI:30616;CHEBI:57870;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.19",
+      "PubMed": "13295232;13295229",
+      "Cross-reference (KEGG)": "KEGG:R01523",
+      "Cross-reference (MetaCyc)": "MetaCyc:PHOSPHORIBULOKINASE-RXN"
+    },
+    "RHEA:19397": {
+      "Reaction identifier": "RHEA:19397",
+      "Equation": "(R)-4'-phosphopantothenate + L-cysteine + CTP = N-[(R)-4-phosphopantothenoyl]-L-cysteine + CMP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:10986;CHEBI:35235;CHEBI:37563;CHEBI:59458;CHEBI:60377;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:6.3.2.5",
+      "PubMed": "31337720;15530362",
+      "Cross-reference (KEGG)": "KEGG:R04231",
+      "Cross-reference (MetaCyc)": "MetaCyc:P-PANTOCYSLIG-RXN"
+    },
+    "RHEA:19453": {
+      "Reaction identifier": "RHEA:19453",
+      "Equation": "L-alanine + 2-oxoglutarate = pyruvate + L-glutamate",
+      "ChEBI identifier": "CHEBI:57972;CHEBI:16810;CHEBI:15361;CHEBI:29985",
+      "EC number": "EC:2.6.1.2",
+      "PubMed": "38593075;15122758;11863375",
+      "Cross-reference (KEGG)": "KEGG:R00258",
+      "Cross-reference (MetaCyc)": "MetaCyc:ALANINE-AMINOTRANSFERASE-RXN"
+    },
+    "RHEA:19513": {
+      "Reaction identifier": "RHEA:19513",
+      "Equation": "carbamoyl phosphate + L-ornithine = L-citrulline + phosphate + H(+)",
+      "ChEBI identifier": "CHEBI:58228;CHEBI:46911;CHEBI:57743;CHEBI:43474;CHEBI:15378",
+      "EC number": "EC:2.1.3.3",
+      "PubMed": "9852088;4622304;4622305;3072022",
+      "Cross-reference (KEGG)": "KEGG:R01398",
+      "Cross-reference (MetaCyc)": "MetaCyc:ORNCARBAMTRANSFER-RXN"
+    },
+    "RHEA:19541": {
+      "Reaction identifier": "RHEA:19541",
+      "Equation": "L-glutamate 5-semialdehyde + phosphate + NADP(+) = L-glutamyl 5-phosphate + NADPH + H(+)",
+      "ChEBI identifier": "CHEBI:58066;CHEBI:43474;CHEBI:58349;CHEBI:58274;CHEBI:57783;CHEBI:15378",
+      "EC number": "EC:1.2.1.41",
+      "PubMed": "7034716;26297558;7035170;4399189",
+      "Cross-reference (KEGG)": "KEGG:R03313",
+      "Cross-reference (MetaCyc)": "MetaCyc:GLUTSEMIALDEHYDROG-RXN"
+    },
+    "RHEA:19629": {
+      "Reaction identifier": "RHEA:19629",
+      "Equation": "D-threo-isocitrate + NADP(+) = 2-oxoglutarate + CO2 + NADPH",
+      "ChEBI identifier": "CHEBI:15562;CHEBI:58349;CHEBI:16810;CHEBI:16526;CHEBI:57783",
+      "EC number": "EC:1.1.1.42",
+      "PubMed": "13438885;13363868;9325430;13355848;12207025;13925783;15254034;29642588;8593959",
+      "Cross-reference (KEGG)": "KEGG:R00267",
+      "Cross-reference (MetaCyc)": "MetaCyc:ISOCITDEH-RXN"
+    },
+    "RHEA:19669": {
+      "Reaction identifier": "RHEA:19669",
+      "Equation": "GTP + H2O = GDP + phosphate + H(+)",
+      "ChEBI identifier": "CHEBI:37565;CHEBI:15377;CHEBI:58189;CHEBI:43474;CHEBI:15378",
+      "EC number": "EC:3.6.5.1;EC:3.6.5.2;EC:3.6.5.3;EC:3.6.5.4;EC:3.6.5.5;EC:3.6.5.6;EC:3.6.5.n1",
+      "PubMed": "15576788;8529670;29364879;19591841;10601028;38386260;33619562",
+      "Cross-reference (KEGG)": "KEGG:R00335",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN0-5462"
+    },
+    "RHEA:19821": {
+      "Reaction identifier": "RHEA:19821",
+      "Equation": "(6S)-5-methyl-5,6,7,8-tetrahydrofolate + NAD(+) = (6R)-5,10-methylene-5,6,7,8-tetrahydrofolate + NADH + H(+)",
+      "ChEBI identifier": "CHEBI:18608;CHEBI:57540;CHEBI:15636;CHEBI:57945;CHEBI:15378",
+      "EC number": "EC:1.5.1.20;EC:1.5.1.54",
+      "PubMed": "10201405;25736335;6975779;4399897;9922232",
+      "Cross-reference (KEGG)": "KEGG:R07168",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-22438"
+    },
+    "RHEA:19889": {
+      "Reaction identifier": "RHEA:19889",
+      "Equation": "alpha-D-glucose 1-phosphate + UTP + H(+) = UDP-alpha-D-glucose + diphosphate",
+      "ChEBI identifier": "CHEBI:58601;CHEBI:46398;CHEBI:15378;CHEBI:58885;CHEBI:33019",
+      "EC number": "EC:2.7.7.9",
+      "PubMed": "21862693;20557289;24727225;20487296;17341835;37409813;19286968",
+      "Cross-reference (KEGG)": "KEGG:R00289",
+      "Cross-reference (MetaCyc)": "MetaCyc:GLUC1PURIDYLTRANS-RXN"
+    },
+    "RHEA:20345": {
+      "Reaction identifier": "RHEA:20345",
+      "Equation": "[thioredoxin]-dithiol + NADP(+) = [thioredoxin]-disulfide + NADPH + H(+)",
+      "ChEBI identifier": "CHEBI:29950;CHEBI:58349;CHEBI:50058;CHEBI:57783;CHEBI:15378",
+      "EC number": "EC:1.8.1.9",
+      "PubMed": "11012661",
+      "Cross-reference (KEGG)": "KEGG:R02016",
+      "Cross-reference (MetaCyc)": "MetaCyc:THIOREDOXIN-REDUCT-NADPH-RXN"
+    },
+    "RHEA:20661": {
+      "Reaction identifier": "RHEA:20661",
+      "Equation": "D-alanyl-D-alanine + H2O = 2 D-alanine",
+      "ChEBI identifier": "CHEBI:57822;CHEBI:15377;CHEBI:57416",
+      "EC number": "EC:3.4.13.22",
+      "PubMed": "17017774;9702193;9751644;11881895;7854121;9265630;7873524",
+      "Cross-reference (KEGG)": "KEGG:R07651",
+      "Cross-reference (MetaCyc)": "MetaCyc:3.4.13.22-RXN"
+    },
+    "RHEA:20700": {
+      "Reaction identifier": "RHEA:20700",
+      "Equation": "lipid A disaccharide (E. coli) + ATP = lipid IVA (E. coli) + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:58466;CHEBI:30616;CHEBI:58603;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.130",
+      "PubMed": "3027079;22826246;9268317",
+      "Cross-reference (KEGG)": "KEGG:R04657",
+      "Cross-reference (MetaCyc)": "MetaCyc:TETRAACYLDISACC4KIN-RXN"
+    },
+    "RHEA:20780": {
+      "Reaction identifier": "RHEA:20780",
+      "Equation": "GMP + ATP = GDP + ADP",
+      "ChEBI identifier": "CHEBI:58115;CHEBI:30616;CHEBI:58189;CHEBI:456216",
+      "EC number": "EC:2.7.4.8",
+      "PubMed": "5333666;31201273;211390;211389;4307347",
+      "Cross-reference (KEGG)": "KEGG:R00332",
+      "Cross-reference (MetaCyc)": "MetaCyc:GUANYL-KIN-RXN"
+    },
+    "RHEA:20792": {
+      "Reaction identifier": "RHEA:20792",
+      "Equation": "tRNA(Lys) + L-lysine + ATP = L-lysyl-tRNA(Lys) + AMP + diphosphate",
+      "ChEBI identifier": "CHEBI:78442;CHEBI:32551;CHEBI:30616;CHEBI:78529;CHEBI:456215;CHEBI:33019",
+      "EC number": "EC:6.1.1.6",
+      "PubMed": "13792726;4284804;23159739;4310598;6315704;18029264;9278442;10966471",
+      "Cross-reference (KEGG)": "KEGG:R03658",
+      "Cross-reference (MetaCyc)": "MetaCyc:LYSINE--TRNA-LIGASE-RXN"
+    },
+    "RHEA:20824": {
+      "Reaction identifier": "RHEA:20824",
+      "Equation": "adenosine + ATP = AMP + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:16335;CHEBI:30616;CHEBI:456215;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.20",
+      "PubMed": "9843365;40840445;14594827;14832298;14907737",
+      "Cross-reference (KEGG)": "KEGG:R00185",
+      "Cross-reference (MetaCyc)": "MetaCyc:ADENOSINE-KINASE-RXN"
+    },
+    "RHEA:21080": {
+      "Reaction identifier": "RHEA:21080",
+      "Equation": "L-methionine + ATP + H2O = S-adenosyl-L-methionine + phosphate + diphosphate",
+      "ChEBI identifier": "CHEBI:57844;CHEBI:30616;CHEBI:15377;CHEBI:59789;CHEBI:43474;CHEBI:33019",
+      "EC number": "EC:2.5.1.6",
+      "PubMed": "13416303;38631157;13084611;10644686;25075345;11698393;9037140;10660563;23189196;13538985",
+      "Cross-reference (KEGG)": "KEGG:R00177",
+      "Cross-reference (MetaCyc)": "MetaCyc:S-ADENMETSYN-RXN"
+    },
+    "RHEA:21188": {
+      "Reaction identifier": "RHEA:21188",
+      "Equation": "deamido-NAD(+) + NH4(+) + ATP = AMP + diphosphate + NAD(+) + H(+)",
+      "ChEBI identifier": "CHEBI:58437;CHEBI:28938;CHEBI:30616;CHEBI:456215;CHEBI:33019;CHEBI:57540;CHEBI:15378",
+      "EC number": "EC:6.3.1.5",
+      "PubMed": "4290215;17642516;8195100;7890752",
+      "Cross-reference (KEGG)": "KEGG:R00189",
+      "Cross-reference (MetaCyc)": "MetaCyc:NAD-SYNTH-NH3-RXN"
+    },
+    "RHEA:21208": {
+      "Reaction identifier": "RHEA:21208",
+      "Equation": "O-phospho-L-serine + H2O = L-serine + phosphate",
+      "ChEBI identifier": "CHEBI:57524;CHEBI:15377;CHEBI:33384;CHEBI:43474",
+      "EC number": "EC:3.1.3.3",
+      "PubMed": "16990279;25521849;10196182;22337887;12213811;30430741;15291819;15580268;12051918;12777757;25037224;25848029;11438683;14699121",
+      "Cross-reference (KEGG)": "KEGG:R00582",
+      "Cross-reference (MetaCyc)": "MetaCyc:PSERPHOSPHA-RXN,MetaCyc:RXN0-5114"
+    },
+    "RHEA:21248": {
+      "Reaction identifier": "RHEA:21248",
+      "Equation": "RNA(n) + a ribonucleoside 5'-triphosphate = RNA(n+1) + diphosphate",
+      "ChEBI identifier": "CHEBI:140395;CHEBI:61557;CHEBI:33019",
+      "EC number": "EC:2.7.7.6;EC:2.7.7.48",
+      "PubMed": "4946277;5289245;4501121",
+      "Cross-reference (KEGG)": "KEGG:R00444",
+      "Cross-reference (MetaCyc)": "MetaCyc:DNA-DIRECTED-RNA-POLYMERASE-RXN,MetaCyc:RNA-DIRECTED-RNA-POLYMERASE-RXN"
+    },
+    "RHEA:21708": {
+      "Reaction identifier": "RHEA:21708",
+      "Equation": "S-adenosyl-L-homocysteine + H2O = L-homocysteine + adenosine",
+      "ChEBI identifier": "CHEBI:57856;CHEBI:15377;CHEBI:58199;CHEBI:16335",
+      "EC number": "EC:3.13.2.1",
+      "PubMed": "11325033;12590576;13641268;762125;19619139",
+      "Cross-reference (KEGG)": "KEGG:R00192",
+      "Cross-reference (MetaCyc)": "MetaCyc:ADENOSYLHOMOCYSTEINASE-RXN"
+    },
+    "RHEA:21796": {
+      "Reaction identifier": "RHEA:21796",
+      "Equation": "dTDP-beta-L-rhamnose + NADP(+) = dTDP-4-dehydro-beta-L-rhamnose + NADPH + H(+)",
+      "ChEBI identifier": "CHEBI:57510;CHEBI:58349;CHEBI:62830;CHEBI:57783;CHEBI:15378",
+      "EC number": "EC:1.1.1.133",
+      "PubMed": "15020741",
+      "Cross-reference (KEGG)": "KEGG:R02777",
+      "Cross-reference (MetaCyc)": "MetaCyc:DTDPDEHYRHAMREDUCT-RXN"
+    },
+    "RHEA:21864": {
+      "Reaction identifier": "RHEA:21864",
+      "Equation": "an S-(2-hydroxyacyl)glutathione + H2O = a 2-hydroxy carboxylate + glutathione + H(+)",
+      "ChEBI identifier": "CHEBI:71261;CHEBI:15377;CHEBI:58896;CHEBI:57925;CHEBI:15378",
+      "EC number": "EC:3.1.2.6",
+      "PubMed": "25670698;16227621;17196158;19834746;11085979",
+      "Cross-reference (KEGG)": "KEGG:R04090",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-7919"
+    },
+    "RHEA:22088": {
+      "Reaction identifier": "RHEA:22088",
+      "Equation": "GTP + ATP = guanosine 3'-diphosphate 5'-triphosphate + AMP",
+      "ChEBI identifier": "CHEBI:37565;CHEBI:30616;CHEBI:142410;CHEBI:456215",
+      "EC number": "EC:2.7.6.5",
+      "PubMed": "6161916;184817",
+      "Cross-reference (KEGG)": "KEGG:R00429",
+      "Cross-reference (MetaCyc)": "MetaCyc:GTPPYPHOSKIN-RXN"
+    },
+    "RHEA:22096": {
+      "Reaction identifier": "RHEA:22096",
+      "Equation": "RNA(n+1) + phosphate = RNA(n) + a ribonucleoside 5'-diphosphate",
+      "ChEBI identifier": "CHEBI:140395;CHEBI:43474;CHEBI:57930",
+      "EC number": "EC:2.7.7.8",
+      "PubMed": "13438894;14481058",
+      "Cross-reference (KEGG)": "KEGG:R07282",
+      "Cross-reference (MetaCyc)": "MetaCyc:2.7.7.8-RXN"
+    },
+    "RHEA:22120": {
+      "Reaction identifier": "RHEA:22120",
+      "Equation": "GTP + succinate + CoA = succinyl-CoA + GDP + phosphate",
+      "ChEBI identifier": "CHEBI:37565;CHEBI:30031;CHEBI:57287;CHEBI:57292;CHEBI:58189;CHEBI:43474",
+      "EC number": "EC:6.2.1.4",
+      "PubMed": "10353839;40108300;23088689",
+      "Cross-reference (KEGG)": "KEGG:R00432",
+      "Cross-reference (MetaCyc)": "MetaCyc:SUCCINATE--COA-LIGASE-GDP-FORMING-RXN"
+    },
+    "RHEA:22332": {
+      "Reaction identifier": "RHEA:22332",
+      "Equation": "(3R)-citramalate = 2-methylmaleate + H2O",
+      "ChEBI identifier": "CHEBI:30934;CHEBI:30719;CHEBI:15377",
+      "EC number": "EC:4.2.1.35",
+      "PubMed": "17449626",
+      "Cross-reference (KEGG)": "KEGG:R03896",
+      "Cross-reference (MetaCyc)": "MetaCyc:R-2-METHYLMALATE-DEHYDRATASE-RXN"
+    },
+    "RHEA:22508": {
+      "Reaction identifier": "RHEA:22508",
+      "Equation": "DNA(n) + a 2'-deoxyribonucleoside 5'-triphosphate = DNA(n+1) + diphosphate",
+      "ChEBI identifier": "CHEBI:173112;CHEBI:61560;CHEBI:33019",
+      "EC number": "EC:2.7.7.7;EC:2.7.7.31;EC:2.7.7.49",
+      "PubMed": "4316301;4316300;13563462;4288534;4957767;14459258",
+      "Cross-reference (KEGG)": "KEGG:R00379",
+      "Cross-reference (MetaCyc)": "MetaCyc:DNA-NUCLEOTIDYLEXOTRANSFERASE-RXN,MetaCyc:DNA-DIRECTED-DNA-POLYMERASE-RXN"
+    },
+    "RHEA:22564": {
+      "Reaction identifier": "RHEA:22564",
+      "Equation": "a 2,3-saturated acyl-[ACP] + NADP(+) = a (2E)-enoyl-[ACP] + NADPH + H(+)",
+      "ChEBI identifier": "CHEBI:78785;CHEBI:58349;CHEBI:78784;CHEBI:57783;CHEBI:15378",
+      "EC number": "EC:1.3.1.10;EC:1.3.1.39;EC:1.3.1.104",
+      "PubMed": "11007778;7567999;18335995;7021150;12890667;21185310;17329825;16215233;4394955;338601",
+      "Cross-reference (KEGG)": "KEGG:R01404",
+      "Cross-reference (MetaCyc)": "MetaCyc:ENOYL-ACP-REDUCT-NADPH-RXN"
+    },
+    "RHEA:23448": {
+      "Reaction identifier": "RHEA:23448",
+      "Equation": "3-deoxy-alpha-D-manno-oct-2-ulosonate + CTP = CMP-3-deoxy-beta-D-manno-octulosonate + diphosphate",
+      "ChEBI identifier": "CHEBI:85986;CHEBI:37563;CHEBI:85987;CHEBI:33019",
+      "EC number": "EC:2.7.7.38",
+      "PubMed": "5330266;11802716;19815542;19914588;19018107",
+      "Cross-reference (KEGG)": "KEGG:R03351",
+      "Cross-reference (MetaCyc)": "MetaCyc:CPM-KDOSYNTH-RXN"
+    },
+    "RHEA:23540": {
+      "Reaction identifier": "RHEA:23540",
+      "Equation": "tRNA(Glu) + L-glutamate + ATP = L-glutamyl-tRNA(Glu) + AMP + diphosphate",
+      "ChEBI identifier": "CHEBI:78442;CHEBI:29985;CHEBI:30616;CHEBI:78520;CHEBI:456215;CHEBI:33019",
+      "EC number": "EC:6.1.1.17",
+      "PubMed": "14253448;11069915;8218204;10966471",
+      "Cross-reference (KEGG)": "KEGG:R05578",
+      "Cross-reference (MetaCyc)": "MetaCyc:GLURS-RXN"
+    },
+    "RHEA:23596": {
+      "Reaction identifier": "RHEA:23596",
+      "Equation": "UDP-alpha-D-glucose + 2 NAD(+) + H2O = UDP-alpha-D-glucuronate + 2 NADH + 3 H(+)",
+      "ChEBI identifier": "CHEBI:58885;CHEBI:57540;CHEBI:15377;CHEBI:58052;CHEBI:57945;CHEBI:15378",
+      "EC number": "EC:1.1.1.22",
+      "PubMed": "13373402;1339838;9737970;13459898;1091296",
+      "Cross-reference (KEGG)": "KEGG:R00286",
+      "Cross-reference (MetaCyc)": "MetaCyc:UGD-RXN"
+    },
+    "RHEA:23752": {
+      "Reaction identifier": "RHEA:23752",
+      "Equation": "all-trans-undecaprenol + ATP = all-trans-undecaprenyl phosphate + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:16591;CHEBI:30616;CHEBI:57654;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.66",
+      "PubMed": "17535816;4248528;12654811",
+      "Cross-reference (KEGG)": "KEGG:R05626",
+      "Cross-reference (MetaCyc)": "MetaCyc:UNDECAPRENOL-KINASE-RXN"
+    },
+    "RHEA:23776": {
+      "Reaction identifier": "RHEA:23776",
+      "Equation": "L-aspartate + ATP = 4-phospho-L-aspartate + ADP",
+      "ChEBI identifier": "CHEBI:29991;CHEBI:30616;CHEBI:57535;CHEBI:456216",
+      "EC number": "EC:2.7.2.4",
+      "PubMed": "11471740;11368768;11812230;5441401;4562990;21725014;16216875;16232547",
+      "Cross-reference (KEGG)": "KEGG:R00480",
+      "Cross-reference (MetaCyc)": "MetaCyc:ASPARTATEKIN-RXN"
+    },
+    "RHEA:23864": {
+      "Reaction identifier": "RHEA:23864",
+      "Equation": "4-CDP-2-C-methyl-D-erythritol 2-phosphate = 2-C-methyl-D-erythritol 2,4-cyclic diphosphate + CMP",
+      "ChEBI identifier": "CHEBI:57919;CHEBI:58483;CHEBI:60377",
+      "EC number": "EC:4.6.1.12",
+      "PubMed": "22839733;15233799;10694574;20189102;12499535",
+      "Cross-reference (KEGG)": "KEGG:R05637",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN0-302"
+    },
+    "RHEA:24152": {
+      "Reaction identifier": "RHEA:24152",
+      "Equation": "adenosine 5'-phosphosulfate + ATP = 3'-phosphoadenylyl sulfate + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:58243;CHEBI:30616;CHEBI:58339;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.25",
+      "PubMed": "9648242;15755455;9668121",
+      "Cross-reference (KEGG)": "KEGG:R00509",
+      "Cross-reference (MetaCyc)": "MetaCyc:ADENYLYLSULFKIN-RXN"
+    },
+    "RHEA:24384": {
+      "Reaction identifier": "RHEA:24384",
+      "Equation": "deamido-NAD(+) + L-glutamine + ATP + H2O = L-glutamate + AMP + diphosphate + NAD(+) + H(+)",
+      "ChEBI identifier": "CHEBI:58437;CHEBI:58359;CHEBI:30616;CHEBI:15377;CHEBI:29985;CHEBI:456215;CHEBI:33019;CHEBI:57540;CHEBI:15378",
+      "EC number": "EC:6.3.5.1",
+      "PubMed": "12547821;19270703;22280445",
+      "Cross-reference (KEGG)": "KEGG:R00257",
+      "Cross-reference (MetaCyc)": "MetaCyc:NAD-SYNTH-GLN-RXN"
+    },
+    "RHEA:24388": {
+      "Reaction identifier": "RHEA:24388",
+      "Equation": "uridine + phosphate = alpha-D-ribose 1-phosphate + uracil",
+      "ChEBI identifier": "CHEBI:16704;CHEBI:43474;CHEBI:57720;CHEBI:17568",
+      "EC number": "EC:2.4.2.2;EC:2.4.2.3",
+      "PubMed": "15003451;27941785;12499542",
+      "Cross-reference (KEGG)": "KEGG:R01876",
+      "Cross-reference (MetaCyc)": "MetaCyc:URPHOS-RXN"
+    },
+    "RHEA:24408": {
+      "Reaction identifier": "RHEA:24408",
+      "Equation": "adenosine + H2O + H(+) = inosine + NH4(+)",
+      "ChEBI identifier": "CHEBI:16335;CHEBI:15377;CHEBI:15378;CHEBI:17596;CHEBI:28938",
+      "EC number": "EC:3.5.4.4",
+      "PubMed": "11223861;4927650;8439534;8452534;28258148;13303984;10718633",
+      "Cross-reference (KEGG)": "KEGG:R01560",
+      "Cross-reference (MetaCyc)": "MetaCyc:ADENODEAMIN-RXN"
+    },
+    "RHEA:24420": {
+      "Reaction identifier": "RHEA:24420",
+      "Equation": "N-terminal N-formyl-L-methionyl-[peptide] + H2O = N-terminal L-methionyl-[peptide] + formate",
+      "ChEBI identifier": "CHEBI:49298;CHEBI:15377;CHEBI:64731;CHEBI:15740",
+      "EC number": "EC:3.5.1.88",
+      "PubMed": "9565550;846875;9374869;17977509",
+      "Cross-reference (KEGG)": "KEGG:R05635",
+      "Cross-reference (MetaCyc)": "MetaCyc:3.5.1.88-RXN"
+    },
+    "RHEA:24504": {
+      "Reaction identifier": "RHEA:24504",
+      "Equation": "1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one + O2 = 4-methylsulfanyl-2-oxobutanoate + formate + 2 H(+)",
+      "ChEBI identifier": "CHEBI:49252;CHEBI:15379;CHEBI:16723;CHEBI:15740;CHEBI:15378",
+      "EC number": "EC:1.13.11.54",
+      "PubMed": "10481280;12022880;11371200;8407993;7852397;2402029",
+      "Cross-reference (KEGG)": "KEGG:R07364",
+      "Cross-reference (MetaCyc)": "MetaCyc:R147-RXN"
+    },
+    "RHEA:24576": {
+      "Reaction identifier": "RHEA:24576",
+      "Equation": "diphosphate + H2O = 2 phosphate + H(+)",
+      "ChEBI identifier": "CHEBI:33019;CHEBI:15377;CHEBI:43474;CHEBI:15378",
+      "EC number": "EC:3.6.1.1",
+      "PubMed": "17635582;26546423;28986979;10898947;26296329;21122813;38428647;22348476;16313235;39178581",
+      "Cross-reference (KEGG)": "KEGG:R00004",
+      "Cross-reference (MetaCyc)": "MetaCyc:INORGPYROPHOSPHAT-RXN"
+    },
+    "RHEA:24801": {
+      "Reaction identifier": "RHEA:24801",
+      "Equation": "L-isoleucine + 2-oxoglutarate = (S)-3-methyl-2-oxopentanoate + L-glutamate",
+      "ChEBI identifier": "CHEBI:58045;CHEBI:16810;CHEBI:35146;CHEBI:29985",
+      "EC number": "EC:2.6.1.42",
+      "PubMed": "5922965;4968655;13034817;4979711;5943594",
+      "Cross-reference (KEGG)": "KEGG:R02199",
+      "Cross-reference (MetaCyc)": "MetaCyc:BRANCHED-CHAINAMINOTRANSFERILEU-RXN"
+    },
+    "RHEA:24813": {
+      "Reaction identifier": "RHEA:24813",
+      "Equation": "L-valine + 2-oxoglutarate = 3-methyl-2-oxobutanoate + L-glutamate",
+      "ChEBI identifier": "CHEBI:57762;CHEBI:16810;CHEBI:11851;CHEBI:29985",
+      "EC number": "EC:2.6.1.42",
+      "PubMed": "5922965;4968655;13034817;4979711;5943594",
+      "Cross-reference (KEGG)": "KEGG:R01214",
+      "Cross-reference (MetaCyc)": "MetaCyc:BRANCHED-CHAINAMINOTRANSFERVAL-RXN"
+    },
+    "RHEA:24873": {
+      "Reaction identifier": "RHEA:24873",
+      "Equation": "O-phospho-D-serine + H2O = D-serine + phosphate",
+      "ChEBI identifier": "CHEBI:58680;CHEBI:15377;CHEBI:35247;CHEBI:43474",
+      "EC number": "EC:3.1.3.3",
+      "PubMed": "16990279;25521849;10196182;22337887;12213811;30430741;15291819;15580268;12051918;12777757;25037224;25848029;11438683;14699121",
+      "Cross-reference (KEGG)": "KEGG:R02853",
+      "Cross-reference (MetaCyc)": "MetaCyc:PSERPHOSPHA-RXN"
+    },
+    "RHEA:25245": {
+      "Reaction identifier": "RHEA:25245",
+      "Equation": "(R)-S-lactoylglutathione + H2O = (R)-lactate + glutathione + H(+)",
+      "ChEBI identifier": "CHEBI:57474;CHEBI:15377;CHEBI:16004;CHEBI:57925;CHEBI:15378",
+      "EC number": "EC:3.1.2.6",
+      "PubMed": "4200890;25670698;4745654;17196158;13032160",
+      "Cross-reference (KEGG)": "KEGG:R01736",
+      "Cross-reference (MetaCyc)": "MetaCyc:GLYOXII-RXN"
+    },
+    "RHEA:25424": {
+      "Reaction identifier": "RHEA:25424",
+      "Equation": "GMP + diphosphate = guanine + 5-phospho-alpha-D-ribose 1-diphosphate",
+      "ChEBI identifier": "CHEBI:58115;CHEBI:33019;CHEBI:16235;CHEBI:58017",
+      "EC number": "EC:2.4.2.8",
+      "PubMed": "18245832;10545170",
+      "Cross-reference (KEGG)": "KEGG:R01229",
+      "Cross-reference (MetaCyc)": "MetaCyc:GUANPRIBOSYLTRAN-RXN"
+    },
+    "RHEA:25576": {
+      "Reaction identifier": "RHEA:25576",
+      "Equation": "protoporphyrinogen IX + 3 O2 = protoporphyrin IX + 3 H2O2",
+      "ChEBI identifier": "CHEBI:57307;CHEBI:15379;CHEBI:57306;CHEBI:16240",
+      "EC number": "EC:1.3.3.4",
+      "PubMed": "8288631;8554330;11929051;19266155;8621504;23467411;9593705;7607249;2451512;15057273;10982422;19944166;21048046;8982084",
+      "Cross-reference (KEGG)": "KEGG:R03222",
+      "Cross-reference (MetaCyc)": "MetaCyc:PROTOPORGENOXI-RXN"
+    },
+    "RHEA:27638": {
+      "Reaction identifier": "RHEA:27638",
+      "Equation": "xanthosine + phosphate = alpha-D-ribose 1-phosphate + xanthine",
+      "ChEBI identifier": "CHEBI:18107;CHEBI:43474;CHEBI:57720;CHEBI:17712",
+      "EC number": "EC:2.4.2.1",
+      "PubMed": "27941785",
+      "Cross-reference (KEGG)": "KEGG:R02297",
+      "Cross-reference (MetaCyc)": "MetaCyc:XANTHOSINEPHOSPHORY-RXN"
+    },
+    "RHEA:27642": {
+      "Reaction identifier": "RHEA:27642",
+      "Equation": "adenosine + phosphate = alpha-D-ribose 1-phosphate + adenine",
+      "ChEBI identifier": "CHEBI:16335;CHEBI:43474;CHEBI:57720;CHEBI:16708",
+      "EC number": "EC:2.4.2.1",
+      "PubMed": "27941785",
+      "Cross-reference (KEGG)": "KEGG:R01561",
+      "Cross-reference (MetaCyc)": "MetaCyc:ADENPHOSPHOR-RXN"
+    },
+    "RHEA:27646": {
+      "Reaction identifier": "RHEA:27646",
+      "Equation": "inosine + phosphate = alpha-D-ribose 1-phosphate + hypoxanthine",
+      "ChEBI identifier": "CHEBI:17596;CHEBI:43474;CHEBI:57720;CHEBI:17368",
+      "EC number": "EC:2.4.2.1",
+      "PubMed": "19575810;27941785;17918964;11707439",
+      "Cross-reference (KEGG)": "KEGG:R01863",
+      "Cross-reference (MetaCyc)": "MetaCyc:INOPHOSPHOR-RXN"
+    },
+    "RHEA:27738": {
+      "Reaction identifier": "RHEA:27738",
+      "Equation": "2'-deoxyguanosine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + guanine",
+      "ChEBI identifier": "CHEBI:17172;CHEBI:43474;CHEBI:57259;CHEBI:16235",
+      "EC number": "EC:2.4.2.1",
+      "PubMed": "19575810;17918964;235429;11707439",
+      "Cross-reference (KEGG)": "KEGG:R01969",
+      "Cross-reference (MetaCyc)": "MetaCyc:DEOXYGUANPHOSPHOR-RXN"
+    },
+    "RHEA:27742": {
+      "Reaction identifier": "RHEA:27742",
+      "Equation": "2'-deoxyadenosine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + adenine",
+      "ChEBI identifier": "CHEBI:17256;CHEBI:43474;CHEBI:57259;CHEBI:16708",
+      "EC number": "EC:2.4.2.1",
+      "PubMed": "21672603",
+      "Cross-reference (KEGG)": "KEGG:R02557",
+      "Cross-reference (MetaCyc)": "MetaCyc:DEOXYADENPHOSPHOR-RXN"
+    },
+    "RHEA:27750": {
+      "Reaction identifier": "RHEA:27750",
+      "Equation": "2'-deoxyinosine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + hypoxanthine",
+      "ChEBI identifier": "CHEBI:28997;CHEBI:43474;CHEBI:57259;CHEBI:17368",
+      "EC number": "EC:2.4.2.1",
+      "PubMed": "19575810;17918964;235429;11707439",
+      "Cross-reference (KEGG)": "KEGG:R02748",
+      "Cross-reference (MetaCyc)": "MetaCyc:DEOXYINOPHOSPHOR-RXN"
+    },
+    "RHEA:27782": {
+      "Reaction identifier": "RHEA:27782",
+      "Equation": "all-trans-octaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-octaprenyl)benzoate + diphosphate",
+      "ChEBI identifier": "CHEBI:57711;CHEBI:17879;CHEBI:1617;CHEBI:33019",
+      "EC number": "EC:2.5.1.39",
+      "PubMed": "11583838;4552989;7022156",
+      "Cross-reference (KEGG)": "KEGG:R05615",
+      "Cross-reference (MetaCyc)": "MetaCyc:4OHBENZOATE-OCTAPRENYLTRANSFER-RXN"
+    },
+    "RHEA:28122": {
+      "Reaction identifier": "RHEA:28122",
+      "Equation": "di-trans,octa-cis-undecaprenol + ATP = di-trans,octa-cis-undecaprenyl phosphate + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:61216;CHEBI:30616;CHEBI:60392;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.66",
+      "PubMed": "17535816",
+      "Cross-reference (KEGG)": "KEGG:R05626",
+      "Cross-reference (MetaCyc)": "MetaCyc:UNDECAPRENOL-KINASE-RXN"
+    },
+    "RHEA:29795": {
+      "Reaction identifier": "RHEA:29795",
+      "Equation": "Zn(2+)(out) + ATP(in) + H2O(in) = Zn(2+)(in) + ADP(in) + phosphate(in) + H(+)(in)",
+      "ChEBI identifier": "CHEBI:29105;CHEBI:30616;CHEBI:15377;CHEBI:456216;CHEBI:43474;CHEBI:15378",
+      "EC number": "EC:7.2.2.20",
+      "PubMed": "9680209",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:ABC-63-RXN"
+    },
+    "RHEA:30643": {
+      "Reaction identifier": "RHEA:30643",
+      "Equation": "S-methyl-5'-thioinosine + phosphate = 5-(methylsulfanyl)-alpha-D-ribose 1-phosphate + hypoxanthine",
+      "ChEBI identifier": "CHEBI:48595;CHEBI:43474;CHEBI:58533;CHEBI:17368",
+      "EC number": "EC:2.4.2.44",
+      "PubMed": "21197954",
+      "Cross-reference (KEGG)": "KEGG:R09668",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-12241"
+    },
+    "RHEA:32287": {
+      "Reaction identifier": "RHEA:32287",
+      "Equation": "(2R,3S)-3-isopropylmalate = (2S)-2-isopropylmalate",
+      "ChEBI identifier": "CHEBI:35121;CHEBI:1178",
+      "EC number": "EC:4.2.1.33",
+      "PubMed": "17449626;4270046;17102132;14087357",
+      "Cross-reference (KEGG)": "KEGG:R10170",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-13163"
+    },
+    "RHEA:32735": {
+      "Reaction identifier": "RHEA:32735",
+      "Equation": "a 1,2-diacyl-sn-glycero-3-phospho-N-methylethanolamine + S-adenosyl-L-methionine = a 1,2-diacyl-sn-glycero-3-phospho-N,N-dimethylethanolamine + S-adenosyl-L-homocysteine + H(+)",
+      "ChEBI identifier": "CHEBI:64573;CHEBI:59789;CHEBI:64572;CHEBI:57856;CHEBI:15378",
+      "EC number": "EC:2.1.1.71",
+      "PubMed": "16681378;438165;3680298;25437",
+      "Cross-reference (KEGG)": "KEGG:R03424",
+      "Cross-reference (MetaCyc)": "MetaCyc:2.1.1.71-RXN"
+    },
+    "RHEA:32739": {
+      "Reaction identifier": "RHEA:32739",
+      "Equation": "a 1,2-diacyl-sn-glycero-3-phospho-N,N-dimethylethanolamine + S-adenosyl-L-methionine = a 1,2-diacyl-sn-glycero-3-phosphocholine + S-adenosyl-L-homocysteine + H(+)",
+      "ChEBI identifier": "CHEBI:64572;CHEBI:59789;CHEBI:57643;CHEBI:57856;CHEBI:15378",
+      "EC number": "EC:2.1.1.71",
+      "PubMed": "16681378;3680298;2445736",
+      "Cross-reference (KEGG)": "KEGG:R01320",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN4FS-2"
+    },
+    "RHEA:33055": {
+      "Reaction identifier": "RHEA:33055",
+      "Equation": "guanosine 3'-diphosphate 5'-triphosphate + H2O = GTP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:142410;CHEBI:15377;CHEBI:37565;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:3.1.7.2",
+      "PubMed": "365225",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN0-6427"
+    },
+    "RHEA:37067": {
+      "Reaction identifier": "RHEA:37067",
+      "Equation": "N(6)-dimethylallyladenosine(37) in tRNA + (sulfur carrier)-SH + AH2 + 2 S-adenosyl-L-methionine = 2-methylsulfanyl-N(6)-dimethylallyladenosine(37) in tRNA + (sulfur carrier)-H + 5'-deoxyadenosine + L-methionine + A + S-adenosyl-L-homocysteine + 2 H(+)",
+      "ChEBI identifier": "CHEBI:74415;CHEBI:29917;CHEBI:17499;CHEBI:59789;CHEBI:74417;CHEBI:64428;CHEBI:17319;CHEBI:57844;CHEBI:13193;CHEBI:57856;CHEBI:15378",
+      "EC number": "EC:2.8.4.3",
+      "PubMed": "15339930;23991893;17407324",
+      "Cross-reference (KEGG)": "KEGG:R10645",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN0-5063"
+    },
+    "RHEA:41732": {
+      "Reaction identifier": "RHEA:41732",
+      "Equation": "[(1->4)-alpha-D-glucosyl](n) + phosphate = [(1->4)-alpha-D-glucosyl](n-1) + alpha-D-glucose 1-phosphate",
+      "ChEBI identifier": "CHEBI:15444;CHEBI:43474;CHEBI:58601",
+      "EC number": "EC:2.4.1.1",
+      "PubMed": "13812491;4878695",
+      "Cross-reference (KEGG)": "KEGG:R01821,KEGG:R06050",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN0-5184"
+    },
+    "RHEA:42424": {
+      "Reaction identifier": "RHEA:42424",
+      "Equation": "2-methylmaleate + H2O = (2R,3S)-3-methylmalate",
+      "ChEBI identifier": "CHEBI:30719;CHEBI:15377;CHEBI:58511",
+      "EC number": "EC:4.2.1.35",
+      "PubMed": "17449626",
+      "Cross-reference (KEGG)": "KEGG:R03898",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-7744"
+    },
+    "RHEA:42524": {
+      "Reaction identifier": "RHEA:42524",
+      "Equation": "uridine(1911/1915/1917) in 23S rRNA = pseudouridine(1911/1915/1917) in 23S rRNA",
+      "ChEBI identifier": "CHEBI:65315;CHEBI:65314",
+      "EC number": "EC:5.4.99.23",
+      "PubMed": "14659742;17937767",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-11837"
+    },
+    "RHEA:42532": {
+      "Reaction identifier": "RHEA:42532",
+      "Equation": "uridine(55) in tRNA = pseudouridine(55) in tRNA",
+      "ChEBI identifier": "CHEBI:65315;CHEBI:65314",
+      "EC number": "EC:5.4.99.25",
+      "PubMed": "7489483;9358157",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-11839"
+    },
+    "RHEA:42540": {
+      "Reaction identifier": "RHEA:42540",
+      "Equation": "uridine(13) in tRNA = pseudouridine(13) in tRNA",
+      "ChEBI identifier": "CHEBI:65315;CHEBI:65314",
+      "EC number": "EC:5.4.99.27",
+      "PubMed": "14561887;19114708;15135053;19664587;12756329",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-11841"
+    },
+    "RHEA:42580": {
+      "Reaction identifier": "RHEA:42580",
+      "Equation": "tRNA(Sec) + L-serine + ATP = L-seryl-tRNA(Sec) + AMP + diphosphate + H(+)",
+      "ChEBI identifier": "CHEBI:78442;CHEBI:33384;CHEBI:30616;CHEBI:78533;CHEBI:456215;CHEBI:33019;CHEBI:15378",
+      "EC number": "EC:6.1.1.11",
+      "PubMed": "7986071;4906848;10764807;24095058;22353712;19423848",
+      "Cross-reference (KEGG)": "KEGG:R08218",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN0-2161"
+    },
+    "RHEA:43436": {
+      "Reaction identifier": "RHEA:43436",
+      "Equation": "coproporphyrinogen III + 3 O2 = coproporphyrin III + 3 H2O2",
+      "ChEBI identifier": "CHEBI:57309;CHEBI:15379;CHEBI:131725;CHEBI:16240",
+      "EC number": "EC:1.3.3.15",
+      "PubMed": "9784236;25646457;19944166;7928957",
+      "Cross-reference (KEGG)": "KEGG:R04178",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-17517"
+    },
+    "RHEA:43716": {
+      "Reaction identifier": "RHEA:43716",
+      "Equation": "[glutamine synthetase]-O(4)-(5'-adenylyl)-L-tyrosine + phosphate = [glutamine synthetase]-L-tyrosine + ADP",
+      "ChEBI identifier": "CHEBI:83624;CHEBI:43474;CHEBI:46858;CHEBI:456216",
+      "EC number": "EC:2.7.7.89",
+      "PubMed": "4249662;14766310;4893578;20887734;4934180;15130478;9312015;4920873",
+      "Cross-reference (KEGG)": "KEGG:R03474",
+      "Cross-reference (MetaCyc)": "MetaCyc:GSDEADENYLATION-RXN"
+    },
+    "RHEA:44504": {
+      "Reaction identifier": "RHEA:44504",
+      "Equation": "an all-trans-polyprenyl diphosphate + 4-hydroxybenzoate = a 4-hydroxy-3-(all-trans-polyprenyl)benzoate + diphosphate",
+      "ChEBI identifier": "CHEBI:58914;CHEBI:17879;CHEBI:78396;CHEBI:33019",
+      "EC number": "EC:2.5.1.39",
+      "PubMed": "17482885;16501255;24911838;15153069;1740455",
+      "Cross-reference (KEGG)": "KEGG:R05000",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-11368"
+    },
+    "RHEA:44556": {
+      "Reaction identifier": "RHEA:44556",
+      "Equation": "all-trans-hexaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-hexaprenyl)benzoate + diphosphate",
+      "ChEBI identifier": "CHEBI:58179;CHEBI:17879;CHEBI:84492;CHEBI:33019",
+      "EC number": "EC:2.5.1.39",
+      "PubMed": "17482885;16501255;24911838;1740455",
+      "Cross-reference (KEGG)": "KEGG:R05616",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-9003"
+    },
+    "RHEA:44560": {
+      "Reaction identifier": "RHEA:44560",
+      "Equation": "all-trans-heptaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-heptaprenyl)benzoate + diphosphate",
+      "ChEBI identifier": "CHEBI:58206;CHEBI:17879;CHEBI:84496;CHEBI:33019",
+      "EC number": "EC:2.5.1.39",
+      "PubMed": "17482885;16501255;24911838",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-9222"
+    },
+    "RHEA:44564": {
+      "Reaction identifier": "RHEA:44564",
+      "Equation": "all-trans-decaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-decaprenyl)benzoate + diphosphate",
+      "ChEBI identifier": "CHEBI:60721;CHEBI:17879;CHEBI:84503;CHEBI:33019",
+      "EC number": "EC:2.5.1.39",
+      "PubMed": "17482885;16501255;24911838;15153069",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-9230"
+    },
+    "RHEA:46160": {
+      "Reaction identifier": "RHEA:46160",
+      "Equation": "a quinone + NADH + H(+) = a quinol + NAD(+)",
+      "ChEBI identifier": "CHEBI:132124;CHEBI:57945;CHEBI:15378;CHEBI:24646;CHEBI:57540",
+      "EC number": "EC:1.6.5.2;EC:1.6.5.9",
+      "PubMed": "10683249;9485311;2226388;7568029",
+      "Cross-reference (KEGG)": "KEGG:R07358",
+      "Cross-reference (MetaCyc)": "MetaCyc:NQOR-RXN,MetaCyc:1.6.99.5-RXN"
+    },
+    "RHEA:46164": {
+      "Reaction identifier": "RHEA:46164",
+      "Equation": "a quinone + NADPH + H(+) = a quinol + NADP(+)",
+      "ChEBI identifier": "CHEBI:132124;CHEBI:57783;CHEBI:15378;CHEBI:24646;CHEBI:58349",
+      "EC number": "EC:1.6.5.2;EC:1.6.5.10",
+      "PubMed": "10683249;9485311;2226388;7568029",
+      "Cross-reference (KEGG)": "KEGG:R07359",
+      "Cross-reference (MetaCyc)": "MetaCyc:NQOR-RXN,MetaCyc:RXN0-271"
+    },
+    "RHEA:48228": {
+      "Reaction identifier": "RHEA:48228",
+      "Equation": "N-terminal S-1,2-diacyl-sn-glyceryl-L-cysteinyl-[lipoprotein] + a glycerophospholipid = N-acyl-S-1,2-diacyl-sn-glyceryl-L-cysteinyl-[lipoprotein] + a 2-acyl-sn-glycero-3-phospholipid + H(+)",
+      "ChEBI identifier": "CHEBI:140656;CHEBI:136912;CHEBI:140657;CHEBI:140660;CHEBI:15378",
+      "EC number": "EC:2.3.1.269",
+      "PubMed": "21676878;15513925;2032623",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-17363"
+    },
+    "RHEA:48348": {
+      "Reaction identifier": "RHEA:48348",
+      "Equation": "a uridine in RNA = a pseudouridine in RNA",
+      "ChEBI identifier": "CHEBI:65315;CHEBI:65314",
+      "EC number": "",
+      "PubMed": "",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": ""
+    },
+    "RHEA:54288": {
+      "Reaction identifier": "RHEA:54288",
+      "Equation": "L-tyrosyl-[protein] + ATP = O-(5'-adenylyl)-L-tyrosyl-[protein] + diphosphate",
+      "ChEBI identifier": "CHEBI:46858;CHEBI:30616;CHEBI:83624;CHEBI:33019",
+      "EC number": "EC:2.7.7.108",
+      "PubMed": "30270044;20651120;19362538;21213248;20622875",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": ""
+    },
+    "RHEA:54292": {
+      "Reaction identifier": "RHEA:54292",
+      "Equation": "L-threonyl-[protein] + ATP = 3-O-(5'-adenylyl)-L-threonyl-[protein] + diphosphate",
+      "ChEBI identifier": "CHEBI:30013;CHEBI:30616;CHEBI:138113;CHEBI:33019",
+      "EC number": "EC:2.7.7.108",
+      "PubMed": "30270044;20410310;19039103",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": ""
+    },
+    "RHEA:54532": {
+      "Reaction identifier": "RHEA:54532",
+      "Equation": "N-(4-oxoglutaryl)-L-cysteinylglycine + H2O = L-cysteinylglycine + 2-oxoglutarate",
+      "ChEBI identifier": "CHEBI:138256;CHEBI:15377;CHEBI:61694;CHEBI:16810",
+      "EC number": "EC:3.5.1.128",
+      "PubMed": "28373563",
+      "Cross-reference (KEGG)": "KEGG:R12024",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-18696"
+    },
+    "RHEA:58120": {
+      "Reaction identifier": "RHEA:58120",
+      "Equation": "L-seryl-[protein] + ATP = 3-O-(5'-adenylyl)-L-seryl-[protein] + diphosphate",
+      "ChEBI identifier": "CHEBI:29999;CHEBI:30616;CHEBI:142516;CHEBI:33019",
+      "EC number": "EC:2.7.7.108",
+      "PubMed": "30270044",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": ""
+    },
+    "RHEA:64604": {
+      "Reaction identifier": "RHEA:64604",
+      "Equation": "L-seryl-[protein] + UTP = O-(5'-uridylyl)-L-seryl-[protein] + diphosphate",
+      "ChEBI identifier": "CHEBI:29999;CHEBI:46398;CHEBI:156051;CHEBI:33019",
+      "EC number": "",
+      "PubMed": "22504181",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": ""
+    },
+    "RHEA:67840": {
+      "Reaction identifier": "RHEA:67840",
+      "Equation": "a lipid A disaccharide + ATP = a lipid IVA + ADP + H(+)",
+      "ChEBI identifier": "CHEBI:176343;CHEBI:30616;CHEBI:176425;CHEBI:456216;CHEBI:15378",
+      "EC number": "EC:2.7.1.130",
+      "PubMed": "23464738",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": "MetaCyc:RXN-22485"
+    },
+    "RHEA:83887": {
+      "Reaction identifier": "RHEA:83887",
+      "Equation": "L-tyrosyl-[protein] + UTP = O-(5'-uridylyl)-L-tyrosyl-[protein] + diphosphate",
+      "ChEBI identifier": "CHEBI:46858;CHEBI:46398;CHEBI:90602;CHEBI:33019",
+      "EC number": "",
+      "PubMed": "32966796",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": ""
+    },
+    "RHEA:83891": {
+      "Reaction identifier": "RHEA:83891",
+      "Equation": "L-histidyl-[protein] + UTP = N(tele)-(5'-uridylyl)-L-histidyl-[protein] + diphosphate",
+      "ChEBI identifier": "CHEBI:29979;CHEBI:46398;CHEBI:233474;CHEBI:33019",
+      "EC number": "",
+      "PubMed": "32966796;35532216",
+      "Cross-reference (KEGG)": "",
+      "Cross-reference (MetaCyc)": ""
+    }
+  },
+  "boundary": "Rhea is curated chemical reaction definition; gene-specific catalysis requires independent evidence."
+}

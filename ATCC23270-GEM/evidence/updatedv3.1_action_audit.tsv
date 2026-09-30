@@ -1,0 +1,36 @@
+reaction_id	field	old_value	new_value	implementation_status	G5X_group	source_file	source_sheet	source_row	rationale
+TSQOC	GPR	six-gene required AND	PARTIAL_UNRESOLVED; exclude RU820_RS00205,RU820_RS00215,RU820_RS00225,RU820_RS00230 from mandatory AND; RU820_RS00220 mandatory status HOLD; RU820_RS00210 retained as low-confidence catalytic candidate	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	4-9	Exact exclusions are stated; a complete replacement GPR is not supported.
+CU2tpp	GPR	AFE_0105	HOLD/NONE_CONFIRMED for RU820_RS00520	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	11	Cu substrate assignment unsupported; GPR paused.
+ZN2tpp	GPR	AFE_0105	HOLD/NONE_CONFIRMED for RU820_RS00520	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	14	Zn substrate assignment unsupported; GPR paused.
+S7PI	GPR	(AFE_0714 or AFE_0141)	legacy AFE_0714 branch retained; RU820_RS00670 branch removed; current retained branch maps to RU820_RS03445 but remains legacy-supported	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	17	G51 explicitly removes current WP mapped from AFE_0141.
+ADMDC	GPR	AFE_0157	RU820_RS00745	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	20	ADMDC retained; current locus mapping is exact.
+SPMS	GPR	(AFE_0157 and AFE_0156 and AFE_2160)	PARTIAL_UNRESOLVED; remove RU820_RS00745/AFE_0157 from required relation; RU820_RS00740 corresponds to AFE_0156; AFE_2160 outside completed scope	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	21	SAMDC must be separated from SPMS catalytic relation.
+FCLT	GPR	AFE_0179	RU820_RS00855	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	23	Current GPR explicitly requested.
+FCLT	EC	4.99.1.1	4.98.1.1	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	23	Current EC explicitly requested.
+PGLT	GPR	AFE_0206	NONE_CONFIRMED; RU820_RS00995 removed	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	37	MurG maps to UCMAT, not PGLT polymerization.
+UCMAT	GPR	AFE_0206	RU820_RS00995	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	38	MurG relation retained at annotation level.
+UAMAGS	GPR	AFE_0208	RU820_RS01005	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	39	Explicit current GPR update.
+SO42tpp	GPR	AFE_0286	HOLD/NONE_CONFIRMED for RU820_RS01390	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	56	Current protein substrate/direction unresolved; GPR paused.
+GHMT2	GPR	AFE_0295	RU820_RS01430	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	60	SHMT relation retained.
+GHMT3	GPR	AFE_0295	NONE_CONFIRMED; RU820_RS01430 removed	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	61	GlyA is not the glycine-cleavage overall reaction GPR.
+DB4PS	GPR	(AFE_1494 or AFE_0299)	RU820_RS01450	IMPLEMENTED	G55	G55_逐基因证据重查.xlsx	冲突与动作	4	G55 removes AFE_1494; G51 maps retained AFE_0299 to RU820_RS01450.
+GTPCII2	GPR	AFE_0299	RU820_RS01450	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	66	Explicit current GPR update.
+OPHHX	GPR	AFE_0305	NONE_CONFIRMED; RU820_RS01480 removed	IMPLEMENTED	G51	G51_最终证据表.xlsx	Alpha结构审查	68	Explicit removal; old reaction may remain as unassigned hypothesis.
+MTAP	GPR	AFE_0365	NONE_CONFIRMED; RU820_RS01770 removed	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	8	Explicit GPR withdrawal.
+TRDR	EQUATION	nadph[c] + trdrd[c] -> 3 h[c] + nadp[c] + trdox[c]	CANDIDATE: h[c] + nadph[c] + trdox[c] -> nadp[c] + trdrd[c]	NOT_APPLIED_HOLD	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	12	Same-strain recombinant biochemistry; old formula is chemically wrong; corrected object is balanced. Bounds unchanged.
+TRDR	GPR	AFE_0375	RU820_RS01820	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	12	Exact current CDS mapping for assayed TrxB.
+CYTAA32	GPR	AFE_0378	NONE_CONFIRMED; RU820_RS01835 removed	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	13	Explicit GPR withdrawal.
+NADS1	GPR	AFE_0428	NONE_CONFIRMED; RU820_RS02075 removed	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	43	Explicit GPR withdrawal.
+NADS2	GPR	AFE_0428	RU820_RS02075 (retained candidate; glutamine-dependent NAD synthase)	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	44	G52 retains this current locus for the glutamine-dependent NADS2 branch while withdrawing it from NADS1.
+RUBISCO	GPR	contains AFE_0434 OR branch	PARTIAL_UNRESOLVED; RU820_RS02105/AFE_0434 branch removed; other legacy branches retained pending their own review	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	47	Explicit OR-branch withdrawal without inventing a full replacement GPR.
+GALU	GPR	AFE_0445	RU820_RS02155	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	51	Exact current mapping; GPR retained.
+HETZK	GPR	AFE_0523	NONE_CONFIRMED; RU820_RS02540 removed	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	63	Explicit GPR withdrawal.
+PGM1	GPR	(AFE_1815 or AFE_0155 or AFE_0526 or AFE_0621)	PARTIAL_UNRESOLVED; RU820_RS02555/AFE_0526 branch retained; RU820_RS02995/AFE_0621 branch HOLD; other legacy branches preserved pending their own completed-group conclusions	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	64,85	G52 supports the RU820_RS02555 iPGM branch and places RU820_RS02995 on HOLD; no complete replacement GPR is fabricated.
+PGM1	EC	5.4.2.1	5.4.2.12 for RU820_RS02555 branch; reaction-level mixed-isoenzyme EC remains unresolved	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	64	Current RU820_RS02555 is BPG-independent phosphoglycerate mutase EC 5.4.2.12.
+ADNSE	EC	3.3.1.1	3.13.2.1 (current EC nomenclature; chemistry unchanged)	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	G52基因索引	207	G52 gene decision explicitly records the current EC renumbering while holding chemistry changes.
+SFAT1	GPR	AFE_0539	RU820_RS02615	IMPLEMENTED	G52	G52_全量证据重查_Alpha最终格式.xlsx	Alpha最终证据表	71	Legacy GPR retained with current mapping; score upgraded, chemistry core supported.
+CYTBD	GPR	(AFE_0955 and AFE_0954)	(RU820_RS04580 and RU820_RS04575)	IMPLEMENTED	G54	G54_逐基因证据审查_交付稿.xlsx	Alpha审查	3-4	G54 explicitly retains the two-gene GPR and both current mappings are exact.
+GMHEPAT	GPR	AFE_1406	NONE_CONFIRMED; RU820_RS06520 removed	IMPLEMENTED	G55	G55_逐基因证据重查.xlsx	冲突与动作	2	Formal GPR correction candidate in implementation recommendations.
+GMHEPK	GPR		RU820_RS06520	IMPLEMENTED	G55	G55_逐基因证据重查.xlsx	冲突与动作	2	Formal GPR correction candidate in implementation recommendations.
+GMHEPK	EC	5.3.1.28	2.7.1.167	IMPLEMENTED	G55	G55_逐基因证据重查.xlsx	冲突与动作	2	Explicit EC correction.
+ARGDC	GPR	AFE_1417	RU820_RS06805	IMPLEMENTED	G55	G55_逐基因证据重查.xlsx	冲突与动作	3	AFE_1471 maps to current RU820_RS06805; old AFE_1417 is GNAT.

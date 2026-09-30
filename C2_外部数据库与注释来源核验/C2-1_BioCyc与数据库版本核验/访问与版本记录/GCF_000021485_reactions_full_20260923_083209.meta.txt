@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/xmlquery
+查询: [x:x<-GCF_000021485^^reactions]
+detail: full
+获取时间: 2026-09-23T08:33:26.6304790+08:00
+HTTP状态: 200
+Content-Type: text/xml
+结果条数: 1313
+文件大小: 3663224
+SHA256: B7423A2F27D852CA4587584EE52B021B54ECCDB9D607C51D192ADD0ECE4E1EF0
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\GCF_000021485_reactions_full_20260923_083209.headers.txt

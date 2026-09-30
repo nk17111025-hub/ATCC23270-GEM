@@ -1,0 +1,10 @@
+reaction_id	confidence	gpr	pmid	ec	equation	reversible	subsystem
+BDGK	1		19077236	2.7.1.2	atp_c + glc_DASH_B_c <=> adp_c + g6p_DASH_B_c + h_c	True	Glycolysis/Gluconeogenesis
+HCO3tpp	1				h2co3_p <=> h_c + hco3_c	True	Transport, Inner Membrane
+MALS	1			2.3.3.9	accoa_c + glx_c + h2o_c --> coa_c + h_c + mal_DASH_L_c	False	Anaplerotic Reactions
+MACPD	1			2.3.1.38	h_c + malACP_c --> acACP_c + co2_c	False	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)
+ACOATA	1			2.3.1.38	ACP_c + accoa_c --> acACP_c + coa_c	False	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)
+GLXCL	1			4.1.1.47	2.0 glx_c + h_c <=> 2h3oppan_c + co2_c	True	Glyoxylate Metabolism
+GLYCK	1			2.7.1.31	atp_c + glyc_DASH_R_c <=> 3pg_c + adp_c + h_c	True	Glyoxylate Metabolism
+GLXR	2			1.1.99.14	glx_c + h_c + nadph_c --> glyclt_c + nadp_c	False	(Alternate Carbon Metabolism) or (Glycolate Metabolism)
+NADTRHD	1				h_p + nadh_c + nadp_c --> h_c + nad_c + nadph_c	False	Oxidative Phosphorylation

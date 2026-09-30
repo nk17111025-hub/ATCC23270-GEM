@@ -1,0 +1,5 @@
+来源	官方入口	目标数据	访问日期	状态	失败或限制原因	后续入口
+BioCyc	https://biocyc.org/	ATCC 23270 PGDB及导出	2026-09-22	阻塞，部分完成	C2已记录官方页面连续超时，PGDB身份/版本/许可未核实	https://biocyc.org/
+MetaCyc	https://metacyc.org/	相关反应/化合物/通路条目	2026-09-22	访问阻塞/待核实	HTTP请求失败，未取得可保存项目相关记录	https://metacyc.org/
+BRENDA	https://www.brenda-enzymes.org/	目标酶条目及动力学字段	2026-09-22	入口可访问，数据待核实	只确认首页200，具体条目/API/许可未核实	https://www.brenda-enzymes.org/
+KEGG	https://rest.kegg.jp/	ATCC 23270同株gene-KO-EC-reaction	2026-09-22	部分完成	afe返回ATCC 53993，不能用于目标同株	https://www.kegg.jp/kegg/rest/keggapi.html

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/apixml?fn=reactions-of-enzyme%26id=GCF_000021485:AFE_RS08840-MONOMER%26detail=FULL'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>apixml</service_name>
+    <query>fn=reactions-of-enzyme&amp;id=GCF_000021485:AFE_RS08840-MONOMER&amp;detail=FULL</query>
+    <num_results>12</num_results>
+    <PGDB orgid='GCF_000021485' version='30.0'>
+      <species datatype='string'>Acidithiobacillus ferrooxidans</species>
+      <strain datatype='string'>ATCC 23270</strain>
+      <sequence-source datatype='string'>GCF_000021485.1</sequence-source>
+      <dblink>
+        <dblink-db>NCBI-TAXONOMY-DB</dblink-db>
+        <dblink-oid>243159</dblink-oid>
+        <dblink-relationship>unification</dblink-relationship>
+        <dblink-URL>http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=243159</dblink-URL>
+      </dblink>
+    </PGDB>
+  </metadata>
+  <Reaction ID='GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-502' orgid='GCF_000021485' frameid='ENZRXN2G89-502' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>PHYSIOL-LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <right>
+      <Protein resource='getxml?GCF_000021485:11Z-3-oxo-icos-11-enoyl-ACPs' orgid='GCF_000021485' frameid='11Z-3-oxo-icos-11-enoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-7663' orgid='GCF_000021485' frameid='PWY-7663'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862915
+      <evidence>
+        <Evidence-Code ID='GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' detail='full' class='true'>
+          <common-name datatype='string'>Inferred by computational analysis</common-name>
+          <comment datatype='string'>Inferred from computation.  The evidence for an assertion comes from a
+computational analysis.  The assertion itself might have been made
+by a person or by a computer, that is, EV-COMP does not specify whether
+manual interpretation of the computation occurred.
+&lt;p&gt;
+</comment>
+        </Evidence-Code>
+        <Publication ID='GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013' detail='full'>
+          <url datatype='string'>http://www.biocyc.org/PGDBConceptsGuide.shtml#gibbs</url>
+          <author datatype='string'>Latendresse M.</author>
+          <title datatype='string'>Computing Gibbs Free Energy of Compounds and Reactions in MetaCyc.</title>
+          <year datatype='integer'>2013</year>
+        </Publication>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Oleoyl-ACPs' orgid='GCF_000021485' frameid='Oleoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization ID='GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI' detail='full'>
+          <url datatype='string'>http://bioinformatics.ai.sri.com/</url>
+          <abbrev-name datatype='string'>SRI International</abbrev-name>
+          <email datatype='string'>ptools-support@ai.sri.com</email>
+          <common-name datatype='string'>SRI International</common-name>
+        </Organization>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-9632' orgid='GCF_000021485' frameid='RXN-9632' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <reaction-direction>PHYSIOL-LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <common-name datatype='string'>3-oxo-stearoyl-[acyl-carrier protein] synthase</common-name>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-oxo-stearoyl-ACPs' orgid='GCF_000021485' frameid='3-oxo-stearoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-8280' orgid='GCF_000021485' frameid='PWY-8280'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-15.261658
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Palmitoyl-ACPs' orgid='GCF_000021485' frameid='Palmitoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-9535' orgid='GCF_000021485' frameid='RXN-9535' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-504' orgid='GCF_000021485' frameid='ENZRXN2G89-504' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-9535' orgid='GCF_000021485' frameid='RXN-9535'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-oxo-myristoyl-ACPs' orgid='GCF_000021485' frameid='3-oxo-myristoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-5971' orgid='GCF_000021485' frameid='PWY-5971'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-8279' orgid='GCF_000021485' frameid='PWY-8279'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862854
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <synonym datatype='string'>&amp;beta;-ketoacyl-ACP synthase I</synonym>
+    <synonym datatype='string'>&amp;beta;-ketoacyl-acyl carrier protein synthetase</synonym>
+    <synonym datatype='string'>&amp;beta;-ketoacyl-[acyl carrier protein] synthase</synonym>
+    <synonym datatype='string'>condensing enzyme</synonym>
+    <synonym datatype='string'>&amp;beta;-ketoacyl acyl carrier protein synthase</synonym>
+    <synonym datatype='string'>3-oxoacyl-[acyl-carrier-protein] synthase</synonym>
+    <synonym datatype='string'>acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] &lt;em&gt;C&lt;/em&gt;-acyltransferase (decarboxylating)</synonym>
+    <systematic-name datatype='string'>acyl-[acyl-carrier protein]:malonyl-[acyl-carrier protein] &lt;em&gt;C&lt;/em&gt;-acyltransferase (decarboxylating)</systematic-name>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Dodecanoyl-ACPs' orgid='GCF_000021485' frameid='Dodecanoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-9523' orgid='GCF_000021485' frameid='RXN-9523' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-501' orgid='GCF_000021485' frameid='ENZRXN2G89-501' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-9523' orgid='GCF_000021485' frameid='RXN-9523'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <common-name datatype='string'>3-oxo-octanoyl-[acyl-carrier protein] synthase</common-name>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-Oxo-octanoyl-ACPs' orgid='GCF_000021485' frameid='3-Oxo-octanoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-5971' orgid='GCF_000021485' frameid='PWY-5971'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-8279' orgid='GCF_000021485' frameid='PWY-8279'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-7388' orgid='GCF_000021485' frameid='PWY-7388'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862854
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Hexanoyl-ACPs' orgid='GCF_000021485' frameid='Hexanoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-9527' orgid='GCF_000021485' frameid='RXN-9527' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-498' orgid='GCF_000021485' frameid='ENZRXN2G89-498' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-9527' orgid='GCF_000021485' frameid='RXN-9527'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <common-name datatype='string'>3-oxo-decanoyl-[acyl-carrier protein] synthase</common-name>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-oxo-decanoyl-ACPs' orgid='GCF_000021485' frameid='3-oxo-decanoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-5971' orgid='GCF_000021485' frameid='PWY-5971'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-8279' orgid='GCF_000021485' frameid='PWY-8279'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862915
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Octanoyl-ACPs' orgid='GCF_000021485' frameid='Octanoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-9531' orgid='GCF_000021485' frameid='RXN-9531' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-495' orgid='GCF_000021485' frameid='ENZRXN2G89-495' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-9531' orgid='GCF_000021485' frameid='RXN-9531'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <common-name datatype='string'>3-oxo-dodecanoyl-[acyl-carrier protein] synthase</common-name>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-oxo-dodecanoyl-ACPs' orgid='GCF_000021485' frameid='3-oxo-dodecanoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-5971' orgid='GCF_000021485' frameid='PWY-5971'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-8279' orgid='GCF_000021485' frameid='PWY-8279'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862854
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Decanoyl-ACPs' orgid='GCF_000021485' frameid='Decanoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-9516' orgid='GCF_000021485' frameid='RXN-9516' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-490' orgid='GCF_000021485' frameid='ENZRXN2G89-490' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-9516' orgid='GCF_000021485' frameid='RXN-9516'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <common-name datatype='string'>3-oxo-hexanoyl-[acyl-carrier protein] synthase</common-name>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-oxo-hexanoyl-ACPs' orgid='GCF_000021485' frameid='3-oxo-hexanoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-5971' orgid='GCF_000021485' frameid='PWY-5971'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-8279' orgid='GCF_000021485' frameid='PWY-8279'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-7388' orgid='GCF_000021485' frameid='PWY-7388'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862854
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Butanoyl-ACPs' orgid='GCF_000021485' frameid='Butanoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:3-OXOACYL-ACP-SYNTH-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-RXN' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-487' orgid='GCF_000021485' frameid='ENZRXN2G89-487' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:3-OXOACYL-ACP-SYNTH-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <right>
+      <Protein resource='getxml?GCF_000021485:B-KETOACYL-ACP' orgid='GCF_000021485' frameid='B-KETOACYL-ACP' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:FASYN-ELONG-PWY' orgid='GCF_000021485' frameid='FASYN-ELONG-PWY'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-10.102905
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Saturated-Fatty-Acyl-ACPs' orgid='GCF_000021485' frameid='Saturated-Fatty-Acyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41
+      <official>T</official>
+    </ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-11479' orgid='GCF_000021485' frameid='RXN-11479' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-485' orgid='GCF_000021485' frameid='ENZRXN2G89-485' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-11479' orgid='GCF_000021485' frameid='RXN-11479'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-Ketopimeloyl-ACP-methyl-esters' orgid='GCF_000021485' frameid='3-Ketopimeloyl-ACP-methyl-esters' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-6519' orgid='GCF_000021485' frameid='PWY-6519'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862915
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Glutaryl-ACP-methyl-esters' orgid='GCF_000021485' frameid='Glutaryl-ACP-methyl-esters' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-9539' orgid='GCF_000021485' frameid='RXN-9539' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-477' orgid='GCF_000021485' frameid='ENZRXN2G89-477' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-9539' orgid='GCF_000021485' frameid='RXN-9539'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <common-name datatype='string'>3-oxo-palmitoyl-[acyl-carrier protein] synthase</common-name>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-oxo-palmitoyl-ACPs' orgid='GCF_000021485' frameid='3-oxo-palmitoyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-5971' orgid='GCF_000021485' frameid='PWY-5971'/>
+      <Pathway resource='getxml?GCF_000021485:PWY-8279' orgid='GCF_000021485' frameid='PWY-8279'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862915
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Myristoyl-ACPs' orgid='GCF_000021485' frameid='Myristoyl-ACPs' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:RXN-11474' orgid='GCF_000021485' frameid='RXN-11474' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-476' orgid='GCF_000021485' frameid='ENZRXN2G89-476' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:RXN-11474' orgid='GCF_000021485' frameid='RXN-11474'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>PHYSIOL-LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <common-name datatype='string'>3-oxo-glutaryl-[acp] methyl ester synthase</common-name>
+    <right>
+      <Protein resource='getxml?GCF_000021485:3-Ketoglutaryl-ACP-methyl-ester' orgid='GCF_000021485' frameid='3-Ketoglutaryl-ACP-methyl-ester' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-6519' orgid='GCF_000021485' frameid='PWY-6519'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862854
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:Malonyl-acp-methyl-ester' orgid='GCF_000021485' frameid='Malonyl-acp-methyl-ester' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+  <Reaction ID='GCF_000021485:3-OXOACYL-ACP-SYNTH-BASE-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-BASE-RXN' detail='full'>
+    <parent>
+      <Reaction resource='getxml?GCF_000021485:Protein-Modification-Reactions' orgid='GCF_000021485' frameid='Protein-Modification-Reactions' class='true'/>
+    </parent>
+    <enzymatic-reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-475' orgid='GCF_000021485' frameid='ENZRXN2G89-475' detail='low'>
+        <enzyme>
+          <Protein resource='getxml?GCF_000021485:AFE_RS08840-MONOMER' orgid='GCF_000021485' frameid='AFE_RS08840-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>beta-ketoacyl-ACP synthase II</common-name>
+        <reaction>
+          <Reaction resource='#GCF_000021485:3-OXOACYL-ACP-SYNTH-BASE-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-BASE-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </enzymatic-reaction>
+    <reaction-direction>PHYSIOL-LEFT-TO-RIGHT</reaction-direction>
+    <physiologically-relevant datatype='boolean'>true</physiologically-relevant>
+    <right>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </right>
+    <right>
+      <Protein resource='getxml?GCF_000021485:Acetoacetyl-ACPs' orgid='GCF_000021485' frameid='Acetoacetyl-ACPs' class='true'/>
+    </right>
+    <right>
+      <Compound resource='getxml?GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE'/>
+    </right>
+    <orphan>NO</orphan>
+    <in-pathway>
+      <Pathway resource='getxml?GCF_000021485:PWY-7388' orgid='GCF_000021485' frameid='PWY-7388'/>
+    </in-pathway>
+    <gibbs-0 datatype='float' units='kcal/mol'>-6.862854
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <left>
+      <Protein resource='getxml?GCF_000021485:ACETYL-ACP' orgid='GCF_000021485' frameid='ACETYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Protein resource='getxml?GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+    </left>
+    <left>
+      <Compound resource='getxml?GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON'/>
+    </left>
+    <ec-number>EC-2.3.1.41</ec-number>
+    <ec-number>EC-2.3.1.179</ec-number>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Reaction>
+</ptools-xml>

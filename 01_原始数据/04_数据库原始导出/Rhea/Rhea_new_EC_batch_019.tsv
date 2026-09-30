@@ -1,0 +1,14 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:10272	a 1,2-diacyl-sn-glycerol + ATP = a 1,2-diacyl-sn-glycero-3-phosphate + ADP + H(+)	EC:2.7.1.107	CHEBI:17815;CHEBI:30616;CHEBI:58608;CHEBI:456216;CHEBI:15378	KEGG:R02240	MetaCyc:DIACYLGLYKIN-RXN
+RHEA:11672	chorismate + L-glutamine = 4-amino-4-deoxychorismate + L-glutamate	EC:2.6.1.85	CHEBI:29748;CHEBI:58359;CHEBI:58406;CHEBI:29985	KEGG:R01716	MetaCyc:PABASYN-RXN
+RHEA:11960	N-succinyl-(2S,6S)-2,6-diaminopimelate + 2-oxoglutarate = (S)-2-succinylamino-6-oxoheptanedioate + L-glutamate	EC:2.6.1.17	CHEBI:58087;CHEBI:16810;CHEBI:15685;CHEBI:29985	KEGG:R04475	MetaCyc:SUCCINYLDIAMINOPIMTRANS-RXN
+RHEA:13237	D-fructose 6-phosphate + L-glutamine = D-glucosamine 6-phosphate + L-glutamate	EC:2.6.1.16	CHEBI:61527;CHEBI:58359;CHEBI:58725;CHEBI:29985	KEGG:R00768	MetaCyc:L-GLN-FRUCT-6-P-AMINOTRANS-RXN
+RHEA:15265	3-amino-2-oxopropyl phosphate + 1-deoxy-D-xylulose 5-phosphate = pyridoxine 5'-phosphate + phosphate + 2 H2O + H(+)	EC:2.6.99.2	CHEBI:57279;CHEBI:57792;CHEBI:58589;CHEBI:43474;CHEBI:15377;CHEBI:15378	KEGG:R05838	MetaCyc:PDXJ-RXN
+RHEA:16109	beta-D-fructose 6-phosphate + ATP = beta-D-fructose 1,6-bisphosphate + ADP + H(+)	EC:2.7.1.11	CHEBI:57634;CHEBI:30616;CHEBI:32966;CHEBI:456216;CHEBI:15378	KEGG:R00756	MetaCyc:6PFRUCTPHOS-RXN
+RHEA:16861	(8S)-8-amino-7-oxononanoate + S-adenosyl-L-methionine = S-adenosyl-4-methylsulfanyl-2-oxobutanoate + (7R,8S)-7,8-diammoniononanoate	EC:2.6.1.62	CHEBI:149468;CHEBI:59789;CHEBI:16490;CHEBI:149469	KEGG:R03231	MetaCyc:DAPASYN-RXN
+RHEA:18049	N(2)-acetyl-L-ornithine + 2-oxoglutarate = N-acetyl-L-glutamate 5-semialdehyde + L-glutamate	EC:2.6.1.11	CHEBI:57805;CHEBI:16810;CHEBI:29123;CHEBI:29985	KEGG:R02283	MetaCyc:ACETYLORNTRANSAM-RXN
+RHEA:18437	4-CDP-2-C-methyl-D-erythritol + ATP = 4-CDP-2-C-methyl-D-erythritol 2-phosphate + ADP + H(+)	EC:2.7.1.148	CHEBI:57823;CHEBI:30616;CHEBI:57919;CHEBI:456216;CHEBI:15378	KEGG:R05634	MetaCyc:2.7.1.148-RXN
+RHEA:23744	L-histidinol phosphate + 2-oxoglutarate = 3-(imidazol-4-yl)-2-oxopropyl phosphate + L-glutamate	EC:2.6.1.9	CHEBI:57980;CHEBI:16810;CHEBI:57766;CHEBI:29985	KEGG:R03243	MetaCyc:HISTAMINOTRANS-RXN
+RHEA:69468	UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucopyranose + 2-oxoglutarate = UDP-2-acetamido-3-dehydro-2-deoxy-alpha-D-glucopyranose + L-glutamate	EC:2.6.1.122	CHEBI:184123;CHEBI:16810;CHEBI:78981;CHEBI:29985	KEGG:R12936	MetaCyc:RXN-22424
+RHEA:14329	O-phospho-L-serine + 2-oxoglutarate = 3-phosphooxypyruvate + L-glutamate	EC:2.6.1.52	CHEBI:57524;CHEBI:16810;CHEBI:18110;CHEBI:29985	KEGG:R04173	MetaCyc:PSERTRANSAM-RXN
+RHEA:16573	4-(phosphooxy)-L-threonine + 2-oxoglutarate = (R)-3-hydroxy-2-oxo-4-phosphooxybutanoate + L-glutamate	EC:2.6.1.52	CHEBI:58452;CHEBI:16810;CHEBI:58538;CHEBI:29985	KEGG:R05085	MetaCyc:PSERTRANSAMPYR-RXN

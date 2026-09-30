@@ -1,0 +1,7 @@
+reaction	v3_base_lb	v3_base_ub	FIM_lb	FIM_ub	TTM_lb	TTM_ub	TSM_lb	TSM_ub	expected_status	pass_fail
+BDGK	0.0	1000.0	0.0	1000.0	0.0	1000.0	0.0	1000.0	internal_base_authoritative	PASS
+G6PDH2	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	internal_base_authoritative	PASS
+GAPD1	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	internal_base_authoritative	PASS
+GAPD2	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	internal_base_authoritative	PASS
+PGK	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	internal_base_authoritative	PASS
+NADHI	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	-1000.0	1000.0	internal_base_authoritative	PASS

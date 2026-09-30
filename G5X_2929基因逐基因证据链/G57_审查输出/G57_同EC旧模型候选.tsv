@@ -1,0 +1,6 @@
+﻿总序号	RU820	WP	当前product	基因侧EC	基因侧EC来源	2016同EC反应	2016反应名	2016反应式	2016原GPR	证据边界
+1880	RU820_RS09920	WP_012537004.1	penicillin-binding protein 2	3.4.16.4	KEGG	MCTP1A	murein crosslinking transpeptidase 1A:(A2pm->D-ala) 	murein5p5p[c]  -> murein5px4p[c] + ala-D[c] 	(AFE_1960 or AFE_2526 or AFE_2923)	EC 分类相同仅为候选；不能据此认定相同底物、辅因子、方向、区室、基因必需性或旧模型遗漏
+1905	RU820_RS10045	WP_012537027.1	serine hydrolase domain-containing protein	3.4.16.4	KEGG	MCTP1A	murein crosslinking transpeptidase 1A:(A2pm->D-ala) 	murein5p5p[c]  -> murein5px4p[c] + ala-D[c] 	(AFE_1960 or AFE_2526 or AFE_2923)	EC 分类相同仅为候选；不能据此认定相同底物、辅因子、方向、区室、基因必需性或旧模型遗漏
+1946	RU820_RS10255	WP_009565185.1	HAD family hydrolase	3.1.3.18	KEGG	PGLYCP	Phosphoglycolate phosphatase	h2o[c] + 2pglyc[c]  -> pi[c] + glyclt[c] 	(AFE_1823 and AFE_3246)	EC 分类相同仅为候选；不能据此认定相同底物、辅因子、方向、区室、基因必需性或旧模型遗漏
+1951	RU820_RS10280	WP_012537062.1	penicillin-binding protein 1A	3.4.16.4	UniProt;KEGG	MCTP1A	murein crosslinking transpeptidase 1A:(A2pm->D-ala) 	murein5p5p[c]  -> murein5px4p[c] + ala-D[c] 	(AFE_1960 or AFE_2526 or AFE_2923)	EC 分类相同仅为候选；不能据此认定相同底物、辅因子、方向、区室、基因必需性或旧模型遗漏
+1964	RU820_RS10345	WP_012537072.1	amino acid kinase	2.7.2.11	KEGG	GLU5K	glutamate 5-kinase	glu-L[c] + atp[c]  -> adp[c] + glu5p[c] 	(AFE_2464 and AFE_1783 and AFE_0281)	EC 分类相同仅为候选；不能据此认定相同底物、辅因子、方向、区室、基因必需性或旧模型遗漏

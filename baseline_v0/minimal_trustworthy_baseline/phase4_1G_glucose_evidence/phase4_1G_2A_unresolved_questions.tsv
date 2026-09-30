@@ -1,0 +1,6 @@
+question	issue	evidence_needed
+glucose transporter identity	Which of AFE_2522/AFE_2250 (OprB porins), AFE_2312 (MFS sugar porter), AFE_1971 (MFS) actually transports glucose; no direct glucose-transport assay exists	carbohydrate/sugar transport assay, porin substrate-specificity, or glucose-induced expression of a specific transporter in ATCC 23270
+PTS-like cluster completeness (AFE_3018-AFE_3023 / RU820_RS14005-14030)	Whether the PTS-like cluster encodes a complete glucose PTS (EI/HPr/EIIA/EIIB/EIIC) or is degenerate	gene-cluster inspection + demonstration of a membrane IIC/IIB glucose component
+AFE_2841 glucokinase activity	ROK-family protein annotation only; no EC 2.7.1.2 assignment and no glucose-phosphorylation assay	biochemical glucose kinase assay, glucose-induced expression, or knockout phenotype of AFE_2841
+Zwf (AFE_2025) glucose oxidation	Strong EC 1.1.1.49 annotation but no ATCC 23270-specific demonstration that glucose -> G6P -> oxidative PPP flux occurs	G6PDH enzyme assay or 13C-glucose labelling to confirm oxidative-PPP flux
+GAPDH (AFE_3251) directionality	Type-I GAPDH annotation implies reversibility, but no ATCC 23270 assay of G3P -> 1,3-BPG	enzyme assay or glucose-fed flux/labelling study in ATCC 23270

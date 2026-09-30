@@ -1,0 +1,12 @@
+test	v3_value	expected	pass_fail
+FIM_WT_biomass	0.0520764	0.052076 (v2)	PASS
+FIM_no_donor	0	0	PASS
+TTM_WT_biomass	0.0520764	0.052076 (v2)	PASS
+TTM_no_donor	0	0	PASS
+TSM_WT_biomass	0.0520764	0.052076 (v2)	PASS
+TSM_no_donor	0	0	PASS
+FIM_no_carbon	-0	0	PASS
+FIM_glucose_closed	0.0520764	0.052076 (v2)	PASS
+free_ATP	0	0	PASS
+free_NADH	0	0	PASS
+free_NADPH	0	0	PASS

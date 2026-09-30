@@ -1,0 +1,13 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:11140	alpha-D-mannose 1-phosphate = D-mannose 6-phosphate	EC:5.4.2.8	CHEBI:58409;CHEBI:58735	KEGG:R01818	MetaCyc:PHOSMANMUT-RXN
+RHEA:13193	5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole + H(+) = 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	EC:5.4.99.18	CHEBI:58730;CHEBI:15378;CHEBI:77657	KEGG:R07405	MetaCyc:RXN0-743
+RHEA:13621	4-[(1->4)-alpha-D-glucosyl](n-1)-D-glucose = 1-[(1->4)-alpha-D-glucosyl](n-1)-alpha-D-glucose	EC:5.4.99.15	CHEBI:140774;CHEBI:140775	KEGG:R01824	MetaCyc:5.4.99.15-RXN
+RHEA:14265	(S)-4-amino-5-oxopentanoate = 5-aminolevulinate	EC:5.4.3.8	CHEBI:57501;CHEBI:356416	KEGG:R02272	MetaCyc:GSAAMINOTRANS-RXN
+RHEA:15901	(2R)-2-phosphoglycerate = (2R)-3-phosphoglycerate	EC:5.4.2.11;EC:5.4.2.12	CHEBI:58289;CHEBI:58272	KEGG:R01518	MetaCyc:3PGAREARR-RXN
+RHEA:17637	squalene = hop-22(29)-ene	EC:5.4.99.17	CHEBI:15440;CHEBI:4648	KEGG:R07322	MetaCyc:5.4.99.17-RXN
+RHEA:22376	uridine(38/39/40) in tRNA = pseudouridine(38/39/40) in tRNA	EC:5.4.99.12	CHEBI:65315;CHEBI:65314		MetaCyc:TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN
+RHEA:23536	alpha-D-glucose 1-phosphate = alpha-D-glucose 6-phosphate	EC:5.4.2.2;EC:5.4.2.5	CHEBI:58601;CHEBI:58225	KEGG:R00959	MetaCyc:RXN-16999,MetaCyc:PHOSPHOGLUCMUT-RXN
+RHEA:38867	uridine(516) in 16S rRNA = pseudouridine(516) in 16S rRNA	EC:5.4.99.19	CHEBI:65315;CHEBI:65314		MetaCyc:RXN-11833
+RHEA:42520	uridine(2605) in 23S rRNA = pseudouridine(2605) in 23S rRNA	EC:5.4.99.22	CHEBI:65315;CHEBI:65314		MetaCyc:RXN-11836
+RHEA:42524	uridine(1911/1915/1917) in 23S rRNA = pseudouridine(1911/1915/1917) in 23S rRNA	EC:5.4.99.23	CHEBI:65315;CHEBI:65314		MetaCyc:RXN-11837
+RHEA:42528	uridine(955/2504/2580) in 23S rRNA = pseudouridine(955/2504/2580) in 23S rRNA	EC:5.4.99.24	CHEBI:65315;CHEBI:65314		MetaCyc:RXN-11838

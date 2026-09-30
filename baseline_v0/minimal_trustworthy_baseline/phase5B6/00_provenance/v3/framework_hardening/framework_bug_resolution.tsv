@@ -1,0 +1,4 @@
+bug_id	description	old_behavior	repair	validation_test	result	status
+BLOCKER A	INFEASIBLE counted as PASS in zero tests	INFEASIBLE -> PASS	zero_test_result(): only OPTIMAL + |v|<=tol is PASS	free-loop tests	PASS	FIXED
+BLOCKER A2	free-energy test background infeasible	maintenance demand blocks zero state	CLOSED_ZERO_BACKGROUND (close donors/carbon, ATPM lb=0)	closed_zero_background_feasible	PASS	FIXED
+BLOCKER B	4-row smoke called complete 2016 regression	4 rows	reuse Phase 2: 20 scenarios + 7 validation series	complete_2016_20scenario_regression	PASS	FIXED

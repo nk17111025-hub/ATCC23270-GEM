@@ -1,0 +1,8 @@
+来源记录ID	来源	官方链接	目标菌株	对象	映射/交叉引用	证据类型	文献ID	检索日期	状态	备注
+KEGG-afe-info	KEGG	https://rest.kegg.jp/info/afe	Acidithiobacillus ferrooxidans ATCC 23270	organism	afe=T00758; 返回 ATCC 53993	数据库记录		2026-09-22	不可用于同株结论	官方可访问但菌株不匹配
+KEGG-afe-list	KEGG	https://rest.kegg.jp/list/afe	Acidithiobacillus ferrooxidans ATCC 23270	gene/CDS	afe:Lferr_*；非 ATCC 23270	数据库记录		2026-09-22	不可用于同株结论	已保存原始返回，不计入同株证据
+RHEA-query-limit5	Rhea	https://www.rhea-db.org/rhea/	Acidithiobacillus ferrooxidans ATCC 23270	reaction	RHEA/EC/ChEBI/KEGG/MetaCyc 字段可查询	规范化数据库记录		2026-09-22	接口可用，样例非同株	不把接口样例计作菌株实验证据
+B1-current-assembly	NCBI B1	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/	Acidithiobacillus ferrooxidans ATCC 23270	gene/protein	GCF_049532655.1；B1 已落盘	同株基因组记录		2026-09-22	可用	D3 只引用，不修改 B1
+A0-model-workcopy	A0		Acidithiobacillus ferrooxidans ATCC 23270	model reaction/GPR	2016-2024 差异与恢复 GPR 已落盘	模型工作副本		2026-09-22	可用	不修改模型
+BRENDA-home	BRENDA	https://www.brenda-enzymes.org/	Acidithiobacillus ferrooxidans ATCC 23270	enzyme	具体条目未取得	数据库入口		2026-09-22	访问待核实	首页 200 不计酶学证据
+MetaCyc-home	MetaCyc	https://metacyc.org/	Acidithiobacillus ferrooxidans ATCC 23270	pathway/reaction	具体条目未取得	数据库入口		2026-09-22	访问阻塞/待核实	不以全物种通路代替同株 PGDB

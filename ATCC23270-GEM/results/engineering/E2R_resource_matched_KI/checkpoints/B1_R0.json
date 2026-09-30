@@ -1,0 +1,18 @@
+{
+  "biomass_multiplier": 1.0,
+  "biomass_threshold": 0.052076387102740346,
+  "fingerprint": "f0961cac81f343d0fe238200e8762fd0773ea156d80b66ff21b7c1cb5c50793b",
+  "full_pool_status": "feasible",
+  "host_sha256": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+  "minimum_KI_count": null,
+  "rubisco_cap": 0,
+  "rubisco_fraction": 0.0,
+  "runtime_seconds": 12.441962242126465,
+  "scenario_id": "B1_R0",
+  "sd_runtime_seconds": 10.734015226364136,
+  "solutions": [],
+  "solver_status": "infeasible_within_6_KI",
+  "stage": "coarse",
+  "status": "infeasible_within_6_KI",
+  "zero_KI_status": "infeasible"
+}

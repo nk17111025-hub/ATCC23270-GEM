@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/apixml
+函数: genes-of-pathway
+对象: GCF_000021485:PWY4FS-8
+detail: full
+获取时间: 2026-09-23T08:43:05.1594571+08:00
+HTTP状态: 200
+Content-Type: text/xml
+文件大小: 10524
+SHA256: 42F03D34FD972BAE05E09E386100ECB88943B7C59F220F177FABD271715FE525
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\apixml_genes-of-pathway_PWY4FS-8_full_20260923_084224.headers.txt

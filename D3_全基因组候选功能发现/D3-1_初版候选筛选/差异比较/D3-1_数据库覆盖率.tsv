@@ -1,0 +1,6 @@
+﻿数据库	覆盖分母	覆盖命中	覆盖率	说明
+KEGG	631 model reaction rows；按GPR中的旧AFE gene locus连接afr gene annotation	464	0.7353	afr是ATCC23270 KEGG条目；KEGG参考assembly为旧GCA_000021485.1。获取gene→KO/EC/pathway/module，并经KO→reaction补全gene→KO→reaction链；直接gene→reaction REST link为空。
+BioCyc	631	33	0.0523	仅 exact reaction ID / declared external ID 算模型反应覆盖；gene→reaction 映射作为酶基因候选，未视为反应等价。PGDB Tier 3、2021旧assembly，EV-COMP为计算预测。
+Rhea	631	171	0.271	REST按BioCyc EC查询；KEGG reaction xref映射保留为化学反应候选，需比较计量、质子、电子和方向后才算确定映射。
+MetaCyc	631	33	0.0523	只计BioCyc/MetaCyc反应ID exact match；未独立读取MetaCyc条目。
+BRENDA	目标同株BRENDA SPARQL enzyme/EC records	49	按同株 BRENDA EC record count；不是模型reaction覆盖率	已通过官方DSMZ BRENDA SPARQL prototype取得有效enzyme/EC记录和Fe/S反应底物/产物/辅因子/文献ID。BRENDA SOAP须注册，但不影响公开SPARQL抓取。DSM 14882单独保留，不标同株。

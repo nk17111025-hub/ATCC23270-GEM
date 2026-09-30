@@ -1,0 +1,9 @@
+{
+  "run_id": "5B6-FUS-001",
+  "generated_at": "2026-09-27T02:45:16+08:00",
+  "model_T0_sha256": "5ba88e6dd31d375ea0acbd94442e190b0de9f67d2e61169f8b73380d57becb77",
+  "r0": "R0_STRICT (imported from conditions.py)",
+  "solver": "scipy.optimize.milp (HiGHS)",
+  "glucose_min_uptake": 0.0001,
+  "biomass_threshold": 1e-06
+}

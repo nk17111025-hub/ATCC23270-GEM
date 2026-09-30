@@ -1,0 +1,8 @@
+﻿来源: https://websvc.biocyc.org/xmlquery?query=%5Bx%3Ax%3C-GCF_000021485%5E%5Eproteins%5D&detail=full
+方法: GET Invoke-WebRequest
+获取时间: 2026-09-23T08:35:08.9184240+08:00
+HTTP状态: 200
+Content-Type: text/xml
+文件大小: 14965801
+SHA256: 8FCC2B30AD8649C6E243573AC6B0C314DCE334227BFD4980E555971367374A0F
+异常: 

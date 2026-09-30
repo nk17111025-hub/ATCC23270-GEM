@@ -1,0 +1,56 @@
+{
+  "completed_support_sets": 3,
+  "results": {
+    "S01": {
+      "classification": "PASS_BOTH",
+      "glucose_off": {
+        "biomass": 0.002067023544739748,
+        "co2": -0.07938429141266579,
+        "fe2": -23.117922304747825,
+        "glucose": 0.0,
+        "o2": -5.681685499328043,
+        "rubisco": 0.07913449575127987,
+        "status": "optimal"
+      },
+      "phenotype": {
+        "biomass": 0.07950623572120567,
+        "co2": -0.05344668263409889,
+        "fe2": -127.90106613391961,
+        "glucose": -0.5,
+        "o2": -31.213665243110345,
+        "rubisco": 0.07913449575127987,
+        "status": "optimal"
+      }
+    },
+    "S02": {
+      "classification": "PASS_30_ONLY",
+      "glucose_off": {
+        "status": "not_run"
+      },
+      "phenotype": {
+        "status": "infeasible"
+      }
+    },
+    "S03": {
+      "classification": "PASS_BOTH",
+      "glucose_off": {
+        "biomass": 0.0020825725542079846,
+        "co2": -0.07998145301825253,
+        "fe2": -23.19253678795481,
+        "glucose": 0.0,
+        "o2": -5.699603464950704,
+        "rubisco": 0.07913449575127987,
+        "status": "optimal"
+      },
+      "phenotype": {
+        "biomass": 0.080089852603804,
+        "co2": -0.07586056021130604,
+        "fe2": -130.79494312467182,
+        "glucose": -0.5,
+        "o2": -31.909522392215845,
+        "rubisco": 0.07913449575127987,
+        "status": "optimal"
+      }
+    }
+  }
+}

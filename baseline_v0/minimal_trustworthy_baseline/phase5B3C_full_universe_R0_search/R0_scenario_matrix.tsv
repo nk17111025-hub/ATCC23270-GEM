@@ -1,0 +1,3 @@
+scenario	ci_mode	max_biomass_no_additions	max_biomass_all_candidates
+R0	CiZero	0 (infeasible)	0 (infeasible)
+R0	CiLow	0 (infeasible)	0 (infeasible)

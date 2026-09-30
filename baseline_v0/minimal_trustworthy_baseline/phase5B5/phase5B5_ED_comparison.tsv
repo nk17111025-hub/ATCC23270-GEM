@@ -1,0 +1,3 @@
+route	additions	rubisco0_feasible	biomass	works_after_rubisco_restored	artifact_free
+ED (G6PDH_NAD)	1	no (R10 only)	0.068 @R10	yes (R10)	yes
+de novo R0 search	1-6	NO	0	n/a	n/a

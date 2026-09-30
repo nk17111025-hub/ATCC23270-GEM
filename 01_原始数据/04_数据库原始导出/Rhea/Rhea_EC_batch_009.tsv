@@ -1,0 +1,24 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:14829	O-acetyl-L-serine + hydrogen sulfide = L-cysteine + acetate	EC:2.5.1.47	CHEBI:58340;CHEBI:29919;CHEBI:35235;CHEBI:30089	KEGG:R00897	MetaCyc:ACSERLY-RXN
+RHEA:19453	L-alanine + 2-oxoglutarate = pyruvate + L-glutamate	EC:2.6.1.2	CHEBI:57972;CHEBI:16810;CHEBI:15361;CHEBI:29985	KEGG:R00258	MetaCyc:ALANINE-AMINOTRANSFERASE-RXN
+RHEA:20397	O-succinyl-L-homoserine + L-cysteine = L,L-cystathionine + succinate + H(+)	EC:2.5.1.48	CHEBI:57661;CHEBI:35235;CHEBI:58161;CHEBI:30031;CHEBI:15378	KEGG:R03260	MetaCyc:O-SUCCHOMOSERLYASE-RXN
+RHEA:21824	L-aspartate + 2-oxoglutarate = oxaloacetate + L-glutamate	EC:2.6.1.1	CHEBI:29991;CHEBI:16810;CHEBI:16452;CHEBI:29985	KEGG:R00355	MetaCyc:ASPAMINOTRANS-RXN
+RHEA:10048	O-acetyl-L-homoserine + methanethiol = L-methionine + acetate + H(+)	EC:2.5.1.49	CHEBI:57716;CHEBI:16007;CHEBI:57844;CHEBI:30089;CHEBI:15378	KEGG:R00651	MetaCyc:O-ACETYLHOMOSERINE-THIOL-LYASE-RXN
+RHEA:16437	RX + glutathione = an S-substituted glutathione + a halide anion + H(+)	EC:2.5.1.18	CHEBI:17792;CHEBI:57925;CHEBI:90779;CHEBI:16042;CHEBI:15378	KEGG:R03522	MetaCyc:GSHTRAN-RXN
+RHEA:27822	O-acetyl-L-homoserine + hydrogen sulfide = L-homocysteine + acetate	EC:2.5.1.49	CHEBI:57716;CHEBI:29919;CHEBI:58199;CHEBI:30089	KEGG:R01287	MetaCyc:ACETYLHOMOSER-CYS-RXN
+RHEA:51220	1-chloro-2,4-dinitrobenzene + glutathione = 2,4-dinitrophenyl-S-glutathione + chloride + H(+)	EC:2.5.1.18	CHEBI:34718;CHEBI:57925;CHEBI:133977;CHEBI:17996;CHEBI:15378		MetaCyc:GST-RXN
+RHEA:17709	all-trans-nonaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-nonaprenyl)benzoate + diphosphate	EC:2.5.1.39	CHEBI:58391;CHEBI:17879;CHEBI:84502;CHEBI:33019	KEGG:R07273	MetaCyc:2.5.1.39-RXN
+RHEA:27782	all-trans-octaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-octaprenyl)benzoate + diphosphate	EC:2.5.1.39	CHEBI:57711;CHEBI:17879;CHEBI:1617;CHEBI:33019	KEGG:R05615	MetaCyc:4OHBENZOATE-OCTAPRENYLTRANSFER-RXN
+RHEA:44504	an all-trans-polyprenyl diphosphate + 4-hydroxybenzoate = a 4-hydroxy-3-(all-trans-polyprenyl)benzoate + diphosphate	EC:2.5.1.39	CHEBI:58914;CHEBI:17879;CHEBI:78396;CHEBI:33019	KEGG:R05000	MetaCyc:RXN-11368
+RHEA:44556	all-trans-hexaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-hexaprenyl)benzoate + diphosphate	EC:2.5.1.39	CHEBI:58179;CHEBI:17879;CHEBI:84492;CHEBI:33019	KEGG:R05616	MetaCyc:RXN-9003
+RHEA:44560	all-trans-heptaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-heptaprenyl)benzoate + diphosphate	EC:2.5.1.39	CHEBI:58206;CHEBI:17879;CHEBI:84496;CHEBI:33019		MetaCyc:RXN-9222
+RHEA:44564	all-trans-decaprenyl diphosphate + 4-hydroxybenzoate = 4-hydroxy-3-(all-trans-decaprenyl)benzoate + diphosphate	EC:2.5.1.39	CHEBI:60721;CHEBI:17879;CHEBI:84503;CHEBI:33019		MetaCyc:RXN-9230
+RHEA:26478	an all-trans-polyprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = a 2-demethylmenaquinol + CO2 + diphosphate	EC:2.5.1.74	CHEBI:58914;CHEBI:11173;CHEBI:15378;CHEBI:55437;CHEBI:16526;CHEBI:33019	KEGG:R05617	MetaCyc:RXN-11047
+RHEA:30099	all-trans-octaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = 2-demethylmenaquinol-8 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:57711;CHEBI:11173;CHEBI:15378;CHEBI:61873;CHEBI:16526;CHEBI:33019	KEGG:R05617	MetaCyc:DMK-RXN
+RHEA:33211	all-trans-heptaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = 2-demethylmenaquinol-7 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:58206;CHEBI:11173;CHEBI:15378;CHEBI:64806;CHEBI:16526;CHEBI:33019		MetaCyc:RXN-9190
+RHEA:44800	1,4-dihydroxy-2-naphthoate + all-trans-hexaprenyl diphosphate + H(+) = 2-demethylmenaquinol-6 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:11173;CHEBI:58179;CHEBI:15378;CHEBI:84539;CHEBI:16526;CHEBI:33019		MetaCyc:RXN-9217
+RHEA:44804	all-trans-nonaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = 2-demethylmenaquinol-9 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:58391;CHEBI:11173;CHEBI:15378;CHEBI:84542;CHEBI:16526;CHEBI:33019		MetaCyc:RXN-9204
+RHEA:44808	all-trans-decaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = 2-demethylmenaquinol-10 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:60721;CHEBI:11173;CHEBI:15378;CHEBI:84546;CHEBI:16526;CHEBI:33019		MetaCyc:RXN-9358
+RHEA:44812	all-trans-undecaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = 2-demethylmenaquinol-11 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:57995;CHEBI:11173;CHEBI:15378;CHEBI:84548;CHEBI:16526;CHEBI:33019		MetaCyc:RXN-9359
+RHEA:44816	all-trans-dodecaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = 2-demethylmenaquinol-12 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:84602;CHEBI:11173;CHEBI:15378;CHEBI:84551;CHEBI:16526;CHEBI:33019		MetaCyc:RXN-9360
+RHEA:44820	all-trans-tridecaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H(+) = 2-demethylmenaquinol-13 + CO2 + diphosphate	EC:2.5.1.74	CHEBI:84603;CHEBI:11173;CHEBI:15378;CHEBI:84553;CHEBI:16526;CHEBI:33019		MetaCyc:RXN-9365

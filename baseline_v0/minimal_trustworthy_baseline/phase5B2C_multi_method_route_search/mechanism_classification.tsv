@@ -1,0 +1,7 @@
+transport	condition	biomass_gain_pct	glucose_carbon_enters	co2_reduced	glycolysis_used	oxidative_PPP_used	CBB_still_active	mechanism	Q1_classification	Q5_gain_source
+T0	FIM	10.0	YES	YES	NO	NO	YES	glucose carbon (pre-reduced) reduces CO2-fixation energy demand; same Fe2 makes more biomass	carbon routing limitation (CO2-forced -2.0 artifact)	glucose carbon efficiency + reduced CBB ATP cost
+T0	TTM	10.0	YES	YES	NO	NO	YES	glucose carbon (pre-reduced) reduces CO2-fixation energy demand; same Fe2 makes more biomass	carbon routing limitation (CO2-forced -2.0 artifact)	glucose carbon efficiency + reduced CBB ATP cost
+T0	TSM	10.0	YES	YES	NO	NO	YES	glucose carbon (pre-reduced) reduces CO2-fixation energy demand; same Fe2 makes more biomass	carbon routing limitation (CO2-forced -2.0 artifact)	glucose carbon efficiency + reduced CBB ATP cost
+TH	FIM	10.0	YES	YES	NO	NO	YES	glucose carbon (pre-reduced) reduces CO2-fixation energy demand; same Fe2 makes more biomass	carbon routing limitation (CO2-forced -2.0 artifact)	glucose carbon efficiency + reduced CBB ATP cost
+TH	TTM	10.0	YES	YES	NO	NO	YES	glucose carbon (pre-reduced) reduces CO2-fixation energy demand; same Fe2 makes more biomass	carbon routing limitation (CO2-forced -2.0 artifact)	glucose carbon efficiency + reduced CBB ATP cost
+TH	TSM	10.0	YES	YES	NO	NO	YES	glucose carbon (pre-reduced) reduces CO2-fixation energy demand; same Fe2 makes more biomass	carbon routing limitation (CO2-forced -2.0 artifact)	glucose carbon efficiency + reduced CBB ATP cost

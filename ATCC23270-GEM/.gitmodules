@@ -1,0 +1,6 @@
+[submodule "external/straindesign"]
+	path = external/straindesign
+	url = https://github.com/klamt-lab/straindesign.git
+[submodule "external/gapseq"]
+	path = external/gapseq
+	url = https://github.com/jotech/gapseq.git

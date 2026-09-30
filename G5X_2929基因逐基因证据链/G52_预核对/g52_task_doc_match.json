@@ -1,0 +1,10 @@
+{
+  "task_document_id": "1tUSXPtaTYA8u1SQthnR4YBR5GwnlToUPudalLySccd8",
+  "task_document_url": "https://docs.google.com/document/d/1tUSXPtaTYA8u1SQthnR4YBR5GwnlToUPudalLySccd8/edit",
+  "task_document_revision": "ANLCKQkVJjlfmRyhzhlUVjXzleCqENVAl-eniHFEugI7VyTVukDs74jWMaqTKEVxTQiavQ41xGN4EywsWSFFmAJsgWBBLEZL5OJODI_p4L0",
+  "checked_fields": ["ordinal", "current_locus", "WP", "start", "end", "strand", "current_product"],
+  "document_rows": 293,
+  "local_rows": 293,
+  "mismatches": 0,
+  "note": "Compared all 293 list lines in the G52 task document with g52_precheck.json after GFF percent-decoding."
+}

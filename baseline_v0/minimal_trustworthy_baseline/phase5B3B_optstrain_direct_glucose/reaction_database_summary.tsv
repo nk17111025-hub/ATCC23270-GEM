@@ -1,0 +1,13 @@
+id	name	EC	mechanism	reversible	native_likelihood	source
+G6PDH_NAD	glucose-6-phosphate dehydrogenase (NAD)	1.1.1.363	ED	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+PGDH6	6-phosphogluconate dehydrogenase (decarboxylating)	1.1.1.44	PPP	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+ICL	isocitrate lyase	4.1.3.1	glyoxylate	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+ME_NADP	malic enzyme (NADP)	1.1.1.40	anaplerosis	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+PC	pyruvate carboxylase	6.4.1.1	anaplerosis	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+PEPCK	PEP carboxykinase (ATP)	4.1.1.49	gluconeogenesis	True	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+PEPS	PEP synthase	2.7.9.2	gluconeogenesis	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+PPDK	pyruvate phosphate dikinase	2.7.9.1	gluconeogenesis	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+NADHDH	NADH:ubiquinone oxidoreductase (forward)	1.6.5.3	redox	False	POTENTIAL_MODEL_OMISSION	curated universal central-carbon (EC)
+NADHox	NADH oxidase	1.6.3.4	redox	False	LIKELY_HETEROLOGOUS	curated universal central-carbon (EC)
+PFL	pyruvate formate lyase	2.3.1.54	pyruvate	False	POSSIBLY_NATIVE	curated universal central-carbon (EC)
+GAPDH_NADP_fwd	glyceraldehyde-3-P dehydrogenase (NADP, oxidative)	1.2.1.13	glycolysis	False	MODEL_EQUIVALENT_GAPD2	curated universal central-carbon (EC)

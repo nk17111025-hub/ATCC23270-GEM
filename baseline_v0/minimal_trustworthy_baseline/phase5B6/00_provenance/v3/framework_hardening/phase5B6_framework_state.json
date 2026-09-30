@@ -1,0 +1,16 @@
+{
+  "authoritative_model_path": "D:\\嗜酸氧化亚铁硫杆菌\\baseline_v0\\minimal_trustworthy_baseline\\phase5B6\\00_provenance\\v3\\minimal_trustworthy_baseline_v3_T0.xml",
+  "T0_hash": "5ba88e6dd31d375ea0acbd94442e190b0de9f67d2e61169f8b73380d57becb77",
+  "TH_hash": "4c5c5474c43d215bea6d4b24f999f1f21eab3a75dea10a997e4ffeaf47fbe1b2",
+  "runtime": "v3_model.py (XML loader)",
+  "solver": "scipy.optimize.linprog (HiGHS)",
+  "glucose_min_uptake": 0.0001,
+  "basic_smoke_regression": "4/4",
+  "published_2016_regression": "20/20",
+  "published_2016_validation_series": "7/7",
+  "milp_unit_tests": "6/6",
+  "closed_zero_background": "OPTIMAL",
+  "free_loop_all_optimal": true,
+  "free_loop_all_pass": true,
+  "framework_status": "FRAMEWORK_HARDENING_PASS"
+}

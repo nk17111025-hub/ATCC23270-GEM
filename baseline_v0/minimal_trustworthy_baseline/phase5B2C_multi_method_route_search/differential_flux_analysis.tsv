@@ -1,0 +1,16 @@
+reaction	WT_flux	targetD_flux	interpretation
+Ex_glc-B[e]	0.0	-0.652	glucose uptake turns on
+Ex_h2co3[e]	-2.0	0.0	external CO2 fully substituted
+Ex_fe2[e]	-164.5	-158.3	Fe2 slightly below WT
+Ex_o2[e]	-38.66	-38.66	O2 at WT bound
+BDGK	0.0	0.652	glucose phosphorylation on
+PGI1	-0.01	0.633	G6P->F6P forward
+PFK	0.0	0.0	glycolysis OFF
+GAPD1	24.99	0.0	gluconeogenic GAPDH off in target
+PGK	24.99	0.0	gluconeogenic PGK off in target
+G6PDH2	0.0	0.0	oxidative PPP OFF
+PRUK	14.46	0.627	CBB still active but lower
+RUBISCO	14.46	0.627	CBB still active but lower
+PYK	2.21	0.801	lower EMP pyruvate formation
+PDH	1.09	0.474	acetyl-CoA via PDH
+NADHI	5.21	2.36	reverse ETC reduced

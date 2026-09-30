@@ -1,0 +1,65 @@
+﻿G5X 系列总说明｜ATCC 23270 当前 2929 个蛋白编码基因逐基因证据审查
+
+
+一、任务边界与冻结基线
+研究对象：Acidithiobacillus ferrooxidans ATCC 23270；当前官方组装 GCF_049532655.1（AFEATCC23270_v5.2），染色体 NZ_CP136162.1。
+以本目录所附来源的 NCBI RefSeq genomic.gff 中 gene_biotype=protein_coding 的 gene 行为全集，共 2929 条。非蛋白编码基因此轮暂不处理。每条 gene 按 locus_tag 连接同版 CDS，提取 protein_id（WP）及 product。
+冻结顺序：GFF 原始 gene 行的染色体坐标升序；组内序号 1—2929 不再按功能、旧模型状态、AFE 有无或注释强弱重排。若官方注释以后更新，单独登记版本差异，不静默改本批名单。
+来源 GFF：https://drive.google.com/file/d/19ijnng4VELvWQH8QID6cII9TqYMUhes4/view
+本次下载文件 SHA-256：758a8b72423a824840a52e1e4184571474500c7fce155944a28e05fef6577091
+旧 AFE_xxxx 只作 2016 模型与旧论文的历史溯源；old_locus_tag=RU820_xxxxx 也是另一套旧 RefSeq 编号，不能自动当作 AFE_xxxx。映射须逐条核实；无可靠对应写“未确认”。
+
+
+二、十组固定分配
+G51：总序号 1—293，293 条；首 RU820_RS00005，末 RU820_RS01505。
+G52：总序号 294—586，293 条；首 RU820_RS01515，末 RU820_RS03035。
+G53：总序号 587—879，293 条；首 RU820_RS03040，末 RU820_RS04565。
+G54：总序号 880—1172，293 条；首 RU820_RS04570，末 RU820_RS06225。
+G55：总序号 1173—1465，293 条；首 RU820_RS06230，末 RU820_RS07745。
+G56：总序号 1466—1758，293 条；首 RU820_RS07750，末 RU820_RS09275。
+G57：总序号 1759—2051，293 条；首 RU820_RS09280，末 RU820_RS10800。
+G58：总序号 2052—2344，293 条；首 RU820_RS10805，末 RU820_RS12355。
+G59：总序号 2345—2637，293 条；首 RU820_RS12360，末 RU820_RS13870。
+G510：总序号 2638—2929，292 条；首 RU820_RS13875，末 RU820_RS15395。
+十份同名任务文档各含逐条 RU820、WP、坐标、链向、当前 product；其列出的基因是唯一责任清单。总说明与本任务文档足以界定工作范围和交付口径；证据核查时按下面的来源索引打开原始资料。
+
+
+三、每个基因的完整证据链（逐项执行并记录结果）
+1. 身份：核对 GCF_049532655.1 的 RU820_RS locus、WP 版本、CDS、坐标和当前 NCBI product；检查同名/多拷贝、截短、假基因和版本冲突。
+2. 历史映射：通过已核验的 B1/G5 映射、序列与邻域证据找 AFE_xxxx；保留映射依据及歧义。不得凭编号相似或 old_locus_tag 直接推断。
+3. 蛋白功能：查 UniProt、InterPro、Pfam 的家族/结构域、保守位点和人工审校状态；区分实际实验与自动转注。家族名不能单独确定底物、产物或膜侧。
+4. 反应与通路：查 KEGG/KO/EC、Rhea/ChEBI、BioCyc/MetaCyc、BRENDA；转运蛋白另查 TCDB。记录 accession、版本/访问时间、原始链接、具体 gene→protein→enzyme→reaction 链接以及数据库间的继承关系。
+5. 原始论文：检索同株 ATCC 23270 及已核实同株收藏号 DSM 14882 的实验；逐篇记录 DOI、菌株、基因/蛋白、实验类型、测量条件、直接测得的事实。异株或同源蛋白结果单独标出，不转作本株直接验证。
+6. 化学与定位：如主张代谢/转运功能，核对精确底物、产物、反应式、原子/电荷平衡、辅因子、方向、区室、膜侧、离子/ATP 耦联、电子受体、复合体及同工酶；逐字段写明证据与未证部分。没有足够信息时不编造反应。
+7. 2016 对照：用 iMC507 原始补表逐项核对 Reaction ID/name/formula、原 Confidence Level、EC、PMID、Subsystem、Gene-Reaction Association、Gene-Protein-Reaction Association、Protein-Reaction-Association 以及 Fe²⁺/tetrathionate/sulfur 培养条件的 lb/ub。核实该功能是已表示、部分表示还是缺失。
+8. 动作裁决：逐基因给出“新增 reaction / 修改 reaction / 修改或补充 GPR / 仅更新证据或编号 / 无需修改 / 证据不足暂缓”。必要时注明“保留旧低可信建模假设”或“独立 QC 问题”，并写出可执行的具体反应或 GPR 差异。一个基因可关联多个反应；一条反应也可由多基因共同承担，但不能重复新增。
+9. 结果复核：再次核对原始链接、对象、菌株、反应式、分数和动作是否一致；矛盾证据并列呈现，说明未决实验。
+
+
+四、证据核验与裁决原则
+同一数据库的交叉引用或数据库之间互相复制只算一条来源链。NCBI、UniProt 自动注释、KEGG、BioCyc Tier-3 和 EC 标签均不能冒充基因专属湿实验。转录/蛋白检出支持表达，通常不能单独证明具体反应；全链生理速率不能当成单酶 kcat。
+2016 iMC507 是对照基线；2024 iATF-ENG 仅作差异参考。异源工程模块、人工交换/转运和纯建模假设应单独标记，不从新版本年份推定为宿主真实反应。已有 45 项候选裁决可复用为历史证据，但不能代替本轮对全部 2929 基因逐条核查。
+GPR 采用“and”为复合体必要成员、“or”为有独立催化能力的同工酶的含义；基因邻近、共表达或同家族不足以写入 AND/OR。反应存在的证据不能自动证明新增亚基、质子系数、方向、区室或参数。模型 QC 修复与生物学证据支持的变更分别登记。
+
+
+五、Alpha 表格式与交付字段
+Alpha 现有最终证据表：https://drive.google.com/file/d/11KtlD3IIvaI4iwBX4bFVJQzscnTjviHv/view
+保持 Alpha Sheet 1“2026-extended from 2016”原 A—P 核心列与顺序：Reaction ID；Reaction Name；Reaction Formula；Confidence Level；EC Number；PMID；Subsystem；Gene-Reaction Association；Gene-Protein-Reaction Association；Protein-Reaction-Association；Fe²⁺ lb/ub；tetrathionate lb/ub；sulfur lb/ub。不能改写 2016 原行来填入未经接受的结论。
+扩展列依 Alpha 当前 Q—AD：Record class；Candidate ID；Candidate group；2016 linked Reaction ID；2026 reaction object；Legacy AFE locus；Current locus；Primary evidence DOI；Evidence type；Evidence boundary；2026 action；2026 reaction score；Source ID；Score scope。
+每个基因至少交一条逐基因审查记录，即使最终为非代谢功能、无动作或暂缓。若同一基因涉及多条不同反应，另列 reaction-level 行并保持同一当前 locus；不要让 2016 原反应计数与 2929 基因覆盖数混淆。另附“基因索引/审查状态”表，至少有总序号、RU820、WP、旧 AFE、当前 product、是否找到精确 reaction、动作、关联行 ID 和未决点。
+证据来源表沿用 Alpha Sheet 2“2026-61 papers sources”的列：Source ID；Full citation；Year；DOI；Source type；Strain；Experimental type；Genes / proteins studied；Related Reaction IDs / candidate IDs；What was directly measured；Applicable confidence level；Evidence limitation。Source ID 在组内唯一，跨组整合时加组号前缀；“61”是历史命名，不要求凑 61 篇。
+Primary evidence DOI 优先原始研究；若无对应论文写空并说明。Evidence boundary 用一句话分开“直接证实”与“尚未证实”。各来源应能从逐基因记录追到 DOI、数据库 accession 和原始版本。
+
+
+六、2016 confidence score（按具体 reaction 评分）
+4：具体酶对该精确反应有直接生化表征；3：有与该反应相对应的遗传敲除或生理证据；2：间接证据、功能注释或序列同源；1：无其他生物学证据、因补缺或网络功能需要保留/加入的建模反应。
+评分对象是反应，不是 gene、GPR、方向、辅因子、区室或参数。逐项并列记录 2016 原分数、本轮精确反应分数、Score scope 与理由。未能定义反应时写“不评分”；新候选缺证据不能自动给 1。表达组学通常属间接证据。已发表旧反应的高分不能转给拟新增 GPR 或另一化学反应。
+2016 原始论文：https://drive.google.com/file/d/1vQTFQQKaJ_uyF6tSqB3il6peJ1ChOKMM/view
+2016 原始补表：https://drive.google.com/file/d/1u23dFDLoG27LJvEi6BjYKIK3Tr-zR2-f/view
+已完成的 45 项历史裁决：https://drive.google.com/file/d/1Ohgpct-dx5zly6AJTOVGZpQr3s1JQhPT/view
+
+
+七、每组交付和验收
+交付：①覆盖责任清单全部基因的逐基因索引/状态表；②可并入 Alpha 结构的 reaction-level 审查表；③来源表及原始链接；④明确的新增/修改/仅证据/无动作/暂缓清单；⑤冲突、缺证与待验证实验清单；⑥简短验收报告。仅提出模型动作，本轮不直接改 SBML。
+验收逐条检查：责任数与本组序号完整、RU820 唯一、WP 均来自同版官方 CDS、无跨组重复或漏项；每基因有结论与可追溯来源；反应评分有明确对象与证据边界；2016 对照可复查；所有正式修改均有具体化学式/GPR/方向/区室及依据；未决内容不冒充正式修改；与此前 45 项裁决冲突时有明示差异与新证据。
+总控合并十组时再检查 293×9＋292＝2929、全部编号 1—2929 连续、所有当前 locus 恰好一次，reaction-level 重复及跨组复合体关系单独合并。

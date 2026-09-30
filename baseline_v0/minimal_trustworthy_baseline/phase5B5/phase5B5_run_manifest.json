@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-09-26T23:39:03+08:00",
+  "input_model": "minimal_trustworthy_baseline_v2_T0.xml (Phase 5B-4 promoted)",
+  "input_sha256": "97e31dd7b87852e8f639b72408e6e9ea05713dc0a48e99bc77edf087f0919e96",
+  "rubisco_constraint": "RUBISCO flux = 0; RUBISCOX flux = 0",
+  "glucose_bounds": "(-5.0, 0.0)",
+  "fe_s_bounds": "donor <= WT reference",
+  "o2_bounds": "O2 <= WT reference",
+  "co2_hco3_bounds": "free (lb=-1000, ub=0); no forced external Ci",
+  "biomass_threshold": "> 1e-6",
+  "candidate_universe": "14 reactions (BiGG-derived + curated, incl. RPIr + G6PDH2r_fwd)",
+  "n_candidate_reactions": 14,
+  "solver": "scipy.optimize.linprog (HiGHS)",
+  "numerical_tolerance": "1e-6",
+  "search_depth": "1..6 reactions (exhaustive combinations)",
+  "python": "3.14.6"
+}

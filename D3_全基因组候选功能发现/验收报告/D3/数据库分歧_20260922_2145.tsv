@@ -1,0 +1,4 @@
+对象	来源A	来源B	分歧	处理	是否计为独立证据
+organism/strain	KEGG afe=ATCC 53993	B1 NCBI=ATCC 23270	菌株身份不一致	KEGG记录保留为非同株参考，不用于同株注释	否
+反应/交叉引用	Rhea提供RHEA/ChEBI/KEGG/MetaCyc字段	A0模型使用内部反应与代谢物ID	标识体系不同，不能直接合并	待逐反应映射；本轮不改模型	否
+PGDB访问	C2 BioCyc连续超时	MetaCyc官方请求失败	官方数据层未取得	标记部分完成/访问阻塞	否

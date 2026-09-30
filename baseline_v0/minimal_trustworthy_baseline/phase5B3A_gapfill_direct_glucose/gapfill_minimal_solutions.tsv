@@ -1,0 +1,7 @@
+scenario	ci_mode	added	n_added	max_biomass	G0	G10
+R0	zero	NONE_FOUND_<=2			no	no
+R0	low	NONE_FOUND_<=2			no	no
+R10	zero	G6PDH_NAD	1	0.068065	yes	yes
+R10	low	G6PDH_NAD	1	0.068065	yes	yes
+R25	zero	NONE	0	0.099408	yes	yes
+R25	low	NONE	0	0.099408	yes	yes

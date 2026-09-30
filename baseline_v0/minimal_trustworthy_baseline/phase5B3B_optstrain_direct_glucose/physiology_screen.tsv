@@ -1,0 +1,3 @@
+solution	biomass	glucose	fe2	fe2_frac	o2	o2_frac	co2	flag	note
+G6PDH_NAD (R10)	0.068	-0.436	-113.3	0.69	-27.7	0.72	0.0	PHYSIOLOGY_OK	glucose 0.44, Fe2 69% WT, O2 72% WT, CO2=0
+PFL (R10)	0.054	-0.36	-96	0.58	-23	0.6	0.0	PHYSIOLOGY_WATCH	formate byproduct via PFL

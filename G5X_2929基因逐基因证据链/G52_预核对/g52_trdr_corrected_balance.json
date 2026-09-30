@@ -1,0 +1,37 @@
+{
+  "reaction_id": "TRDR",
+  "legacy_formula": "nadph[c] + trdrd[c] -> 3 h[c] + nadp[c] + trdox[c]",
+  "candidate_formula": "h[c] + nadph[c] + trdox[c] -> nadp[c] + trdrd[c]",
+  "metabolites": {
+    "h[c]": {
+      "formula": "H",
+      "charge": 1,
+      "name": "h"
+    },
+    "nadp[c]": {
+      "formula": "C21H25N7O17P3",
+      "charge": -3,
+      "name": "NADP"
+    },
+    "nadph[c]": {
+      "formula": "C21H26N7O17P3",
+      "charge": -4,
+      "name": "NADPH"
+    },
+    "trdox[c]": {
+      "formula": "C6H7NO2S2",
+      "charge": 0,
+      "name": "Thioredoxin_1"
+    },
+    "trdrd[c]": {
+      "formula": "C6H9NO2S2",
+      "charge": 0,
+      "name": "Thioredoxin_1_disulfide"
+    }
+  },
+  "products_minus_reactants": {},
+  "balanced": true,
+  "biochemical_support": "10.1007/s00284-009-9390-2",
+  "source": "2016 iMC507 Supplementary Table 2 formulas and charges",
+  "limitation": "Full model network and transport/compartment consistency remain to be tested."
+}

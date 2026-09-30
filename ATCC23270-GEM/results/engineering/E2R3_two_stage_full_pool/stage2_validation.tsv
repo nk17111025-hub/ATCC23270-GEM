@@ -1,0 +1,4 @@
+support_set_id	reaction_count	Stage1_status	Stage2_status	Stage2_biomass	Stage2_glucose_uptake	Stage2_Rubisco_flux	Stage2_CO2_flux	Stage2_Fe2_flux	Stage2_O2_flux	Stage2_glucose_off_biomass	Stage2_delta_biomass	final_classification
+S01	3	optimal	optimal	0.07950623572120567	-0.5	0.07913449575127987	-0.05344668263409889	-127.90106613391961	-31.213665243110345	0.002067023544739748	0.07743921217646592	PASS_BOTH
+S02	4	optimal	infeasible									PASS_30_ONLY
+S03	2	optimal	optimal	0.080089852603804	-0.5	0.07913449575127987	-0.07586056021130604	-130.79494312467182	-31.909522392215845	0.0020825725542079846	0.078007280049596	PASS_BOTH

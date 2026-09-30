@@ -1,0 +1,2913 @@
+[
+  {
+    "seq": 587,
+    "locus": "RU820_RS03040",
+    "wp": "WP_012536246.1",
+    "coordinates": "560634-561386(-)",
+    "current_product": "type 1 glutamine amidotransferase domain-containing protein",
+    "legacy_afe": "AFE_0630",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：type 1 glutamine amidotransferase domain-containing protein；B1旧新映射：AFE_0630（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536246.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 588,
+    "locus": "RU820_RS03045",
+    "wp": "WP_012536247.1",
+    "coordinates": "562152-563117(+)",
+    "current_product": "ubiquinol oxidase subunit II",
+    "legacy_afe": "AFE_0631",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02297",
+      "EC": "7.1.1.3",
+      "KEGG_reaction": [
+        "R11335",
+        "R13247"
+      ],
+      "BioCyc_reaction": [
+        "RXN-6883",
+        "RXN0-5266",
+        "RXN0-5268"
+      ],
+      "Rhea": [
+        "RHEA:30251",
+        "RHEA:30255",
+        "RHEA:40527"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CYTBO3",
+        "name": "cytochrome oxidase bo3 (ubiquinol-8: 1.8 protons) (periplasm)",
+        "formula": "1.8 h[c] + q8h2[c] + 0.5 o2[c]  -> 1.8 h[p] + h2o[c] + q8[c]",
+        "confidence_2016": 3,
+        "gpr": "(AFE_0631 and AFE_0632 and AFE_0633 and AFE_0634)",
+        "subsystem": "Oxidative Phosphorylation"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：ubiquinol oxidase subunit II；B1旧新映射：AFE_0631（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536247.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02297",
+      "https://enzyme.expasy.org/EC/7.1.1.3",
+      "https://www.rhea-db.org/rhea/30251",
+      "https://www.rhea-db.org/rhea/30255",
+      "https://www.rhea-db.org/rhea/40527",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 589,
+    "locus": "RU820_RS03050",
+    "wp": "WP_012536248.1",
+    "coordinates": "563137-565287(+)",
+    "current_product": "cbb3-type cytochrome c oxidase subunit I",
+    "legacy_afe": "AFE_0632",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02298",
+      "EC": "7.1.1.3",
+      "KEGG_reaction": [
+        "R11335",
+        "R13247"
+      ],
+      "BioCyc_reaction": [
+        "CYTOCHROME-C-OXIDASE-RXN"
+      ],
+      "Rhea": [
+        "RHEA:11436"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CYTBO3",
+        "name": "cytochrome oxidase bo3 (ubiquinol-8: 1.8 protons) (periplasm)",
+        "formula": "1.8 h[c] + q8h2[c] + 0.5 o2[c]  -> 1.8 h[p] + h2o[c] + q8[c]",
+        "confidence_2016": 3,
+        "gpr": "(AFE_0631 and AFE_0632 and AFE_0633 and AFE_0634)",
+        "subsystem": "Oxidative Phosphorylation"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：cbb3-type cytochrome c oxidase subunit I；B1旧新映射：AFE_0632（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536248.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02298",
+      "https://enzyme.expasy.org/EC/7.1.1.3",
+      "https://www.rhea-db.org/rhea/11436",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 590,
+    "locus": "RU820_RS03055",
+    "wp": "WP_012536249.1",
+    "coordinates": "565354-565989(+)",
+    "current_product": "cytochrome c oxidase subunit 3",
+    "legacy_afe": "AFE_0633",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02299",
+      "BioCyc_reaction": [
+        "CYTOCHROME-C-OXIDASE-RXN"
+      ],
+      "Rhea": [
+        "RHEA:11436"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CYTBO3",
+        "name": "cytochrome oxidase bo3 (ubiquinol-8: 1.8 protons) (periplasm)",
+        "formula": "1.8 h[c] + q8h2[c] + 0.5 o2[c]  -> 1.8 h[p] + h2o[c] + q8[c]",
+        "confidence_2016": 3,
+        "gpr": "(AFE_0631 and AFE_0632 and AFE_0633 and AFE_0634)",
+        "subsystem": "Oxidative Phosphorylation"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：cytochrome c oxidase subunit 3；B1旧新映射：AFE_0633（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536249.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02299",
+      "https://www.rhea-db.org/rhea/11436",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 591,
+    "locus": "RU820_RS03060",
+    "wp": "WP_012536250.1",
+    "coordinates": "565986-566342(+)",
+    "current_product": "cytochrome o ubiquinol oxidase subunit IV",
+    "legacy_afe": "AFE_0634",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02300",
+      "BioCyc_reaction": [
+        "RXN-17801",
+        "RXN-21817",
+        "RXN0-5268"
+      ],
+      "Rhea": [
+        "RHEA:30251"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CYTBO3",
+        "name": "cytochrome oxidase bo3 (ubiquinol-8: 1.8 protons) (periplasm)",
+        "formula": "1.8 h[c] + q8h2[c] + 0.5 o2[c]  -> 1.8 h[p] + h2o[c] + q8[c]",
+        "confidence_2016": 3,
+        "gpr": "(AFE_0631 and AFE_0632 and AFE_0633 and AFE_0634)",
+        "subsystem": "Oxidative Phosphorylation"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：cytochrome o ubiquinol oxidase subunit IV；B1旧新映射：AFE_0634（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536250.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02300",
+      "https://www.rhea-db.org/rhea/30251",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 592,
+    "locus": "RU820_RS03065",
+    "wp": "WP_012536251.1",
+    "coordinates": "566371-567315(+)",
+    "current_product": "heme o synthase",
+    "legacy_afe": "未确认",
+    "mapping_status": "未确认; 一致",
+    "verified_accessions": {
+      "KO": "K02257",
+      "EC": "2.5.1.141",
+      "KEGG_reaction": [
+        "R07411"
+      ],
+      "BioCyc_reaction": [
+        "HEMEOSYN-RXN",
+        "RXN-20645"
+      ],
+      "Rhea": [
+        "RHEA:28070"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：heme o synthase；B1旧新映射：未确认（未确认/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536251.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02257",
+      "https://enzyme.expasy.org/EC/2.5.1.141",
+      "https://www.rhea-db.org/rhea/28070"
+    ],
+    "open_questions": [
+      "AFE历史映射仍需通过序列/邻域证据解决；不可按编号推断。",
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 593,
+    "locus": "RU820_RS03070",
+    "wp": "WP_012536252.1",
+    "coordinates": "567335-568537(+)",
+    "current_product": "MFS transporter",
+    "legacy_afe": "AFE_0637",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：MFS transporter；B1旧新映射：AFE_0637（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536252.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 594,
+    "locus": "RU820_RS03075",
+    "wp": "WP_012536253.1",
+    "coordinates": "568531-569364(-)",
+    "current_product": "undecaprenyl-diphosphate phosphatase",
+    "legacy_afe": "AFE_0636",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K06153",
+      "EC": "3.6.1.27",
+      "KEGG_reaction": [
+        "R05627"
+      ],
+      "BioCyc_reaction": [
+        "UNDECAPRENYL-DIPHOSPHATASE-RXN"
+      ],
+      "Rhea": [
+        "RHEA:28094"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "UDCPDP",
+        "name": "undecaprenyl-diphosphatase",
+        "formula": "h2o[c] + udcpdp[c]  -> h[c] + pi[c] + udcpp[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0636",
+        "subsystem": "Cell Envelope Biosynthesis"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：undecaprenyl-diphosphate phosphatase；B1旧新映射：AFE_0636（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536253.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K06153",
+      "https://enzyme.expasy.org/EC/3.6.1.27",
+      "https://www.rhea-db.org/rhea/28094",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 595,
+    "locus": "RU820_RS03080",
+    "wp": "WP_009564109.1",
+    "coordinates": "569376-569852(-)",
+    "current_product": "transcription elongation factor GreA",
+    "legacy_afe": "AFE_0638",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03624"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：transcription elongation factor GreA；B1旧新映射：AFE_0638（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009564109.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03624"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 596,
+    "locus": "RU820_RS03085",
+    "wp": "WP_012536254.1",
+    "coordinates": "569849-573088(-)",
+    "current_product": "carbamoyl-phosphate synthase large subunit",
+    "legacy_afe": "AFE_0639",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01955",
+      "EC": "6.3.5.5",
+      "KEGG_reaction": [
+        "R00256",
+        "R00575",
+        "R01395",
+        "R10948",
+        "R10949"
+      ],
+      "BioCyc_reaction": [
+        "CARBPSYN-RXN"
+      ],
+      "Rhea": [
+        "RHEA:18633"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CBPS",
+        "name": "carbamoyl-phosphate synthase (glutamine-hydrolysing)",
+        "formula": "h2o[c] + 2 atp[c] + gln-L[c] + hco3[c]  -> 2 h[c] + glu-L[c] + pi[c] + 2 adp[c] + cbp[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_0640 and AFE_0639)",
+        "subsystem": "Arginine and Proline Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：carbamoyl-phosphate synthase large subunit；B1旧新映射：AFE_0639（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536254.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01955",
+      "https://enzyme.expasy.org/EC/6.3.5.5",
+      "https://www.rhea-db.org/rhea/18633",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 597,
+    "locus": "RU820_RS03090",
+    "wp": "WP_012536255.1",
+    "coordinates": "573081-574223(-)",
+    "current_product": "glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit",
+    "legacy_afe": "AFE_0640",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01956",
+      "EC": "6.3.5.5",
+      "KEGG_reaction": [
+        "R00256",
+        "R00575",
+        "R01395",
+        "R10948",
+        "R10949"
+      ],
+      "BioCyc_reaction": [
+        "CARBPSYN-RXN"
+      ],
+      "Rhea": [
+        "RHEA:18633"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CBPS",
+        "name": "carbamoyl-phosphate synthase (glutamine-hydrolysing)",
+        "formula": "h2o[c] + 2 atp[c] + gln-L[c] + hco3[c]  -> 2 h[c] + glu-L[c] + pi[c] + 2 adp[c] + cbp[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_0640 and AFE_0639)",
+        "subsystem": "Arginine and Proline Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit；B1旧新映射：AFE_0640（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536255.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01956",
+      "https://enzyme.expasy.org/EC/6.3.5.5",
+      "https://www.rhea-db.org/rhea/18633",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 598,
+    "locus": "RU820_RS03095",
+    "wp": "WP_012536256.1",
+    "coordinates": "574458-575144(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0641",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0641（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536256.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 599,
+    "locus": "RU820_RS03100",
+    "wp": "WP_230959330.1",
+    "coordinates": "575260-575448(+)",
+    "current_product": "sulfur carrier protein ThiS",
+    "legacy_afe": "AFE_0642",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03154"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：sulfur carrier protein ThiS；B1旧新映射：AFE_0642（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_230959330.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03154"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 600,
+    "locus": "RU820_RS03105",
+    "wp": "WP_012536257.1",
+    "coordinates": "575493-576275(+)",
+    "current_product": "thiazole synthase",
+    "legacy_afe": "AFE_0643",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03149",
+      "EC": "2.8.1.10",
+      "KEGG_reaction": [
+        "R10247"
+      ],
+      "BioCyc_reaction": [
+        "THIAZOLSYN2-RXN"
+      ],
+      "Rhea": [
+        "RHEA:26297"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "TTMS",
+        "name": "Thiamine thiazole moiety synthesis",
+        "formula": "atp[c] + amet[c] + nadph[c] + tyr-L[c] + dxyl5p[c] + iscssulfcys[c]  -> 2 h[c] + h2o[c] + co2[c] + ppi[c] + nadp[c] + met-L[c] + amp[c] + dad-5[c] + iscscys[c] + 4mpetz[c] + 4hba[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_0643 and AFE_1974)",
+        "subsystem": "( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：thiazole synthase；B1旧新映射：AFE_0643（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536257.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03149",
+      "https://enzyme.expasy.org/EC/2.8.1.10",
+      "https://www.rhea-db.org/rhea/26297",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 601,
+    "locus": "RU820_RS03110",
+    "wp": "WP_225487412.1",
+    "coordinates": "576268-576846(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0644",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0644（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_225487412.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 602,
+    "locus": "RU820_RS03115",
+    "wp": "WP_012536259.1",
+    "coordinates": "576858-578225(+)",
+    "current_product": "UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase",
+    "legacy_afe": "AFE_0645",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02558",
+      "EC": "6.3.2.45",
+      "BioCyc_reaction": [
+        "RXN0-2361",
+        "RXN0-7022"
+      ],
+      "Rhea": [
+        "RHEA:29563"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase；B1旧新映射：AFE_0645（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536259.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02558",
+      "https://enzyme.expasy.org/EC/6.3.2.45",
+      "https://www.rhea-db.org/rhea/29563"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 603,
+    "locus": "RU820_RS03120",
+    "wp": "WP_012536260.1",
+    "coordinates": "578257-578874(+)",
+    "current_product": "flavin prenyltransferase UbiX",
+    "legacy_afe": "AFE_0647",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03186",
+      "EC": "2.5.1.129",
+      "KEGG_reaction": [
+        "R01238",
+        "R04985",
+        "R04986",
+        "R11225",
+        "R12895"
+      ],
+      "Rhea": [
+        "RHEA:27778",
+        "RHEA:37743",
+        "RHEA:41680"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "OPHBDC",
+        "name": "Octaprenyl-hydroxybenzoate decarboxylase",
+        "formula": "h[c] + 3ophb[c]  <=> co2[c] + 2oph[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_0647 or AFE_2383)",
+        "subsystem": "( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：flavin prenyltransferase UbiX；B1旧新映射：AFE_0647（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536260.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03186",
+      "https://enzyme.expasy.org/EC/2.5.1.129",
+      "https://www.rhea-db.org/rhea/27778",
+      "https://www.rhea-db.org/rhea/37743",
+      "https://www.rhea-db.org/rhea/41680",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 604,
+    "locus": "RU820_RS03125",
+    "wp": "WP_012536261.1",
+    "coordinates": "578807-579658(-)",
+    "current_product": "ABC transporter ATP-binding protein",
+    "legacy_afe": "AFE_0646",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02065"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：ABC transporter ATP-binding protein；B1旧新映射：AFE_0646（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536261.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02065"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 605,
+    "locus": "RU820_RS03130",
+    "wp": "WP_009569367.1",
+    "coordinates": "579658-580794(-)",
+    "current_product": "ABC transporter permease",
+    "legacy_afe": "AFE_0648",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02066"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：ABC transporter permease；B1旧新映射：AFE_0648（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009569367.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02066"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 606,
+    "locus": "RU820_RS03135",
+    "wp": "WP_009569366.1",
+    "coordinates": "580839-581342(+)",
+    "current_product": "LEA type 2 family protein",
+    "legacy_afe": "AFE_0650",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：LEA type 2 family protein；B1旧新映射：AFE_0650（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009569366.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 607,
+    "locus": "RU820_RS03140",
+    "wp": "WP_012536262.1",
+    "coordinates": "581287-582063(-)",
+    "current_product": "endonuclease/exonuclease/phosphatase family protein",
+    "legacy_afe": "AFE_0649",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：endonuclease/exonuclease/phosphatase family protein；B1旧新映射：AFE_0649（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536262.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 608,
+    "locus": "RU820_RS03145",
+    "wp": "WP_012536263.1",
+    "coordinates": "582056-582406(-)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0651",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0651（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536263.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 609,
+    "locus": "RU820_RS03150",
+    "wp": "WP_009560923.1",
+    "coordinates": "582403-583158(-)",
+    "current_product": "HesA/MoeB/ThiF family protein",
+    "legacy_afe": "AFE_0652",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K21029",
+      "EC": "2.7.7.80",
+      "KEGG_reaction": [
+        "R07459"
+      ],
+      "Rhea": [
+        "RHEA:43616"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：HesA/MoeB/ThiF family protein；B1旧新映射：AFE_0652（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560923.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K21029",
+      "https://enzyme.expasy.org/EC/2.7.7.80",
+      "https://www.rhea-db.org/rhea/43616"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 610,
+    "locus": "RU820_RS03155",
+    "wp": "WP_012536264.1",
+    "coordinates": "583295-584437(-)",
+    "current_product": "lipocalin-like domain-containing protein",
+    "legacy_afe": "AFE_0653",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "BioCyc_reaction": [
+        "RXN-10643",
+        "RXN-10665",
+        "RXN-12722",
+        "RXN-12723",
+        "RXN-16055",
+        "RXN-19138"
+      ],
+      "Rhea": [
+        "RHEA:31607",
+        "RHEA:31611",
+        "RHEA:54148",
+        "RHEA:54220"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：lipocalin-like domain-containing protein；B1旧新映射：AFE_0653（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536264.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.rhea-db.org/rhea/31607",
+      "https://www.rhea-db.org/rhea/31611",
+      "https://www.rhea-db.org/rhea/54148",
+      "https://www.rhea-db.org/rhea/54220"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 611,
+    "locus": "RU820_RS03160",
+    "wp": "WP_229129765.1",
+    "coordinates": "584430-586871(-)",
+    "current_product": "ABC transporter permease",
+    "legacy_afe": "AFE_0654",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02004"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：ABC transporter permease；B1旧新映射：AFE_0654（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_229129765.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02004"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 612,
+    "locus": "RU820_RS03165",
+    "wp": "WP_012536266.1",
+    "coordinates": "586934-587650(-)",
+    "current_product": "ABC transporter ATP-binding protein",
+    "legacy_afe": "AFE_0655",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02003"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：ABC transporter ATP-binding protein；B1旧新映射：AFE_0655（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536266.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02003"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 613,
+    "locus": "RU820_RS03175",
+    "wp": "WP_012536267.1",
+    "coordinates": "588058-588384(+)",
+    "current_product": "thioredoxin TrxA",
+    "legacy_afe": "AFE_0657",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03671"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：thioredoxin TrxA；B1旧新映射：AFE_0657（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536267.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03671"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 614,
+    "locus": "RU820_RS03180",
+    "wp": "WP_012536268.1",
+    "coordinates": "588501-589757(+)",
+    "current_product": "transcription termination factor Rho",
+    "legacy_afe": "未确认",
+    "mapping_status": "未确认; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：transcription termination factor Rho；B1旧新映射：未确认（未确认/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536268.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "AFE历史映射仍需通过序列/邻域证据解决；不可按编号推断。",
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 615,
+    "locus": "RU820_RS03185",
+    "wp": "WP_012536269.1",
+    "coordinates": "589832-590038(+)",
+    "current_product": "50S ribosomal protein L31",
+    "legacy_afe": "AFE_0659",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02909"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：50S ribosomal protein L31；B1旧新映射：AFE_0659（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536269.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02909"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 616,
+    "locus": "RU820_RS03190",
+    "wp": "WP_009560818.1",
+    "coordinates": "590045-591283(+)",
+    "current_product": "malic enzyme-like NAD(P)-binding protein",
+    "legacy_afe": "AFE_0660",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K00029",
+      "EC": "1.1.1.40",
+      "KEGG_reaction": [
+        "R00216"
+      ],
+      "BioCyc_reaction": [
+        "1.1.1.39-RXN",
+        "MALATE-DEH-RXN"
+      ],
+      "Rhea": [
+        "RHEA:12653",
+        "RHEA:18253",
+        "RHEA:21432"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：malic enzyme-like NAD(P)-binding protein；B1旧新映射：AFE_0660（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560818.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K00029",
+      "https://enzyme.expasy.org/EC/1.1.1.40",
+      "https://www.rhea-db.org/rhea/12653",
+      "https://www.rhea-db.org/rhea/18253",
+      "https://www.rhea-db.org/rhea/21432",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 617,
+    "locus": "RU820_RS03195",
+    "wp": "WP_009560819.1",
+    "coordinates": "591290-592345(+)",
+    "current_product": "AI-2E family transporter",
+    "legacy_afe": "AFE_0661",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：AI-2E family transporter；B1旧新映射：AFE_0661（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560819.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 618,
+    "locus": "RU820_RS03200",
+    "wp": "WP_009560820.1",
+    "coordinates": "592616-594292(+)",
+    "current_product": "dihydroxy-acid dehydratase",
+    "legacy_afe": "AFE_0662",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01687",
+      "EC": "4.2.1.9",
+      "KEGG_reaction": [
+        "R01209",
+        "R04441",
+        "R05070"
+      ],
+      "BioCyc_reaction": [
+        "DIHYDROXYISOVALDEHYDRAT-RXN",
+        "DIHYDROXYMETVALDEHYDRAT-RXN"
+      ],
+      "Rhea": [
+        "RHEA:24809",
+        "RHEA:27694"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "DHAD1",
+        "name": "dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)",
+        "formula": "23dhmb[c]  -> h2o[c] + 3mob[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_1673 and AFE_0662)",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism"
+      },
+      {
+        "id": "DHAD2",
+        "name": "Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)",
+        "formula": "23dhmp[c]  <=> h2o[c] + 3mop[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_1673 or AFE_0662)",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：dihydroxy-acid dehydratase；B1旧新映射：AFE_0662（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560820.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01687",
+      "https://enzyme.expasy.org/EC/4.2.1.9",
+      "https://www.rhea-db.org/rhea/24809",
+      "https://www.rhea-db.org/rhea/27694",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 619,
+    "locus": "RU820_RS03205",
+    "wp": "WP_012536270.1",
+    "coordinates": "594299-595255(+)",
+    "current_product": "NYN domain-containing protein",
+    "legacy_afe": "AFE_0663",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：NYN domain-containing protein；B1旧新映射：AFE_0663（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536270.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 620,
+    "locus": "RU820_RS03210",
+    "wp": "WP_009560821.1",
+    "coordinates": "595270-596577(-)",
+    "current_product": "amino-acid N-acetyltransferase",
+    "legacy_afe": "AFE_0664",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K14682",
+      "EC": "2.3.1.1",
+      "KEGG_reaction": [
+        "R00259"
+      ],
+      "BioCyc_reaction": [
+        "N-ACETYLTRANSFER-RXN",
+        "RXN0-6948"
+      ],
+      "Rhea": [
+        "RHEA:24292"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "ACGS",
+        "name": "N-acetylglutamate synthase",
+        "formula": "glu-L[c] + accoa[c]  -> h[c] + coa[c] + acglu[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0664",
+        "subsystem": "Arginine and Proline Metabolism"
+      },
+      {
+        "id": "GLAT",
+        "name": "glutamate N-acetyltransferase",
+        "formula": "glu-L[c] + acorn[c]  <=> orn[c] + acglu[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0664",
+        "subsystem": "Arginine and Proline Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：amino-acid N-acetyltransferase；B1旧新映射：AFE_0664（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560821.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K14682",
+      "https://enzyme.expasy.org/EC/2.3.1.1",
+      "https://www.rhea-db.org/rhea/24292",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 621,
+    "locus": "RU820_RS03215",
+    "wp": "WP_009560822.1",
+    "coordinates": "596593-596904(-)",
+    "current_product": "BolA family protein",
+    "legacy_afe": "AFE_0665",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K05527"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：BolA family protein；B1旧新映射：AFE_0665（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560822.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K05527"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 622,
+    "locus": "RU820_RS03220",
+    "wp": "WP_012536271.1",
+    "coordinates": "596901-597203(-)",
+    "current_product": "YciI family protein",
+    "legacy_afe": "AFE_0666",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K09780"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：YciI family protein；B1旧新映射：AFE_0666（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536271.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K09780"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 623,
+    "locus": "RU820_RS03225",
+    "wp": "WP_009561407.1",
+    "coordinates": "597286-597843(-)",
+    "current_product": "septation protein A",
+    "legacy_afe": "AFE_0667",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K06190"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：septation protein A；B1旧新映射：AFE_0667（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009561407.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K06190"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 624,
+    "locus": "RU820_RS03230",
+    "wp": "WP_012536272.1",
+    "coordinates": "597906-598769(+)",
+    "current_product": "ATP-binding protein",
+    "legacy_afe": "AFE_0668",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K06923"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：ATP-binding protein；B1旧新映射：AFE_0668（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536272.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K06923"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 625,
+    "locus": "RU820_RS03235",
+    "wp": "WP_009564866.1",
+    "coordinates": "598854-599657(-)",
+    "current_product": "inositol monophosphatase family protein",
+    "legacy_afe": "AFE_0669",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01092",
+      "EC": "3.1.3.25",
+      "KEGG_reaction": [
+        "R01185",
+        "R01186",
+        "R01187"
+      ],
+      "BioCyc_reaction": [
+        "MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN",
+        "RXN-7253",
+        "RXN0-5408"
+      ],
+      "Rhea": [
+        "RHEA:27670",
+        "RHEA:30735",
+        "RHEA:30739",
+        "RHEA:44152"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：inositol monophosphatase family protein；B1旧新映射：AFE_0669（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009564866.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01092",
+      "https://enzyme.expasy.org/EC/3.1.3.25",
+      "https://www.rhea-db.org/rhea/27670",
+      "https://www.rhea-db.org/rhea/30735",
+      "https://www.rhea-db.org/rhea/30739",
+      "https://www.rhea-db.org/rhea/44152"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 626,
+    "locus": "RU820_RS03240",
+    "wp": "WP_225487413.1",
+    "coordinates": "599706-600509(+)",
+    "current_product": "RNA methyltransferase",
+    "legacy_afe": "AFE_0670",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K15396",
+      "EC": "2.1.1.200"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：RNA methyltransferase；B1旧新映射：AFE_0670（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_225487413.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K15396",
+      "https://enzyme.expasy.org/EC/2.1.1.200"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 627,
+    "locus": "RU820_RS03245",
+    "wp": "WP_009566459.1",
+    "coordinates": "600554-601303(+)",
+    "current_product": "serine O-acetyltransferase",
+    "legacy_afe": "未确认",
+    "mapping_status": "未确认; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：serine O-acetyltransferase；B1旧新映射：未确认（未确认/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566459.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "AFE历史映射仍需通过序列/邻域证据解决；不可按编号推断。",
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 628,
+    "locus": "RU820_RS03250",
+    "wp": "WP_012536275.1",
+    "coordinates": "601349-601837(+)",
+    "current_product": "Rrf2 family transcriptional regulator",
+    "legacy_afe": "AFE_0672",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K13643"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：Rrf2 family transcriptional regulator；B1旧新映射：AFE_0672（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536275.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K13643"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 629,
+    "locus": "RU820_RS03255",
+    "wp": "WP_012536276.1",
+    "coordinates": "601857-603122(+)",
+    "current_product": "IscS subfamily cysteine desulfurase",
+    "legacy_afe": "AFE_0673",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04487",
+      "EC": "2.8.1.7",
+      "KEGG_reaction": [
+        "R07460",
+        "R11528",
+        "R11529"
+      ],
+      "BioCyc_reaction": [
+        "RXN-12588",
+        "RXN-14384",
+        "RXN-14385",
+        "RXN-14386",
+        "RXN-15881",
+        "RXN-20037",
+        "RXN-21560",
+        "RXN-21566",
+        "RXN-9787"
+      ],
+      "Rhea": [
+        "RHEA:43892"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CYSDSS",
+        "name": "Cysteine desulfurase IscS ",
+        "formula": "h[c] + cys-L[c] + iscscys[c]  -> ala-L[c] + iscssulfcys[c]",
+        "confidence_2016": 4,
+        "gpr": "(AFE_0674 and AFE_1537 and AFE_1507 and AFE_0673)",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：IscS subfamily cysteine desulfurase；B1旧新映射：AFE_0673（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536276.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04487",
+      "https://enzyme.expasy.org/EC/2.8.1.7",
+      "https://www.rhea-db.org/rhea/43892",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 630,
+    "locus": "RU820_RS03260",
+    "wp": "WP_009566457.1",
+    "coordinates": "603147-603578(+)",
+    "current_product": "Fe-S cluster assembly scaffold IscU",
+    "legacy_afe": "AFE_0674",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04488",
+      "BioCyc_reaction": [
+        "RXN-14381"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "CYSDSS",
+        "name": "Cysteine desulfurase IscS ",
+        "formula": "h[c] + cys-L[c] + iscscys[c]  -> ala-L[c] + iscssulfcys[c]",
+        "confidence_2016": 4,
+        "gpr": "(AFE_0674 and AFE_1537 and AFE_1507 and AFE_0673)",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：Fe-S cluster assembly scaffold IscU；B1旧新映射：AFE_0674（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566457.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04488",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 631,
+    "locus": "RU820_RS03265",
+    "wp": "WP_009566456.1",
+    "coordinates": "603588-603911(+)",
+    "current_product": "iron-sulfur cluster assembly protein IscA",
+    "legacy_afe": "AFE_0675",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K13628"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：iron-sulfur cluster assembly protein IscA；B1旧新映射：AFE_0675（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566456.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K13628"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 632,
+    "locus": "RU820_RS03270",
+    "wp": "WP_012536277.1",
+    "coordinates": "603911-604528(+)",
+    "current_product": "Fe-S protein assembly co-chaperone HscB",
+    "legacy_afe": "AFE_0676",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04082"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：Fe-S protein assembly co-chaperone HscB；B1旧新映射：AFE_0676（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536277.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04082"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 633,
+    "locus": "RU820_RS03275",
+    "wp": "WP_012536278.1",
+    "coordinates": "604562-606427(+)",
+    "current_product": "Fe-S protein assembly chaperone HscA",
+    "legacy_afe": "AFE_0677",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04044",
+      "BioCyc_reaction": [
+        "RXN-14389",
+        "RXN-14390",
+        "RXN-14391"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：Fe-S protein assembly chaperone HscA；B1旧新映射：AFE_0677（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536278.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04044"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 634,
+    "locus": "RU820_RS03280",
+    "wp": "WP_009566453.1",
+    "coordinates": "606428-606766(+)",
+    "current_product": "ISC system 2Fe-2S type ferredoxin",
+    "legacy_afe": "AFE_0678",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04755",
+      "KEGG_reaction": [
+        "R13327"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：ISC system 2Fe-2S type ferredoxin；B1旧新映射：AFE_0678（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566453.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04755",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 635,
+    "locus": "RU820_RS03285",
+    "wp": "WP_009566452.1",
+    "coordinates": "606766-606960(+)",
+    "current_product": "Fe-S cluster assembly protein IscX",
+    "legacy_afe": "AFE_0679",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：Fe-S cluster assembly protein IscX；B1旧新映射：AFE_0679（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566452.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 636,
+    "locus": "RU820_RS03290",
+    "wp": "WP_012536279.1",
+    "coordinates": "606974-608032(+)",
+    "current_product": "tRNA 2-thiouridine(34) synthase MnmA",
+    "legacy_afe": "AFE_0680",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K00566",
+      "EC": "2.8.1.13",
+      "KEGG_reaction": [
+        "R08700"
+      ],
+      "BioCyc_reaction": [
+        "RXN-16820",
+        "RXN-18693",
+        "RXN0-2023"
+      ],
+      "Rhea": [
+        "RHEA:47032"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：tRNA 2-thiouridine(34) synthase MnmA；B1旧新映射：AFE_0680（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536279.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K00566",
+      "https://enzyme.expasy.org/EC/2.8.1.13",
+      "https://www.rhea-db.org/rhea/47032"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 637,
+    "locus": "RU820_RS03295",
+    "wp": "WP_012536280.1",
+    "coordinates": "608051-608950(-)",
+    "current_product": "patatin-like phospholipase family protein",
+    "legacy_afe": "AFE_0681",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K07001"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：patatin-like phospholipase family protein；B1旧新映射：AFE_0681（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536280.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K07001"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 638,
+    "locus": "RU820_RS03300",
+    "wp": "WP_009564014.1",
+    "coordinates": "609153-609260(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0682",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0682（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009564014.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 639,
+    "locus": "RU820_RS03305",
+    "wp": "WP_012536281.1",
+    "coordinates": "609273-611627(+)",
+    "current_product": "EcoAI/FtnUII family type I restriction enzme subunit R",
+    "legacy_afe": "AFE_0683",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01153",
+      "EC": "3.1.21.3"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：EcoAI/FtnUII family type I restriction enzme subunit R；B1旧新映射：AFE_0683（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536281.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01153",
+      "https://enzyme.expasy.org/EC/3.1.21.3"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 640,
+    "locus": "RU820_RS03310",
+    "wp": "WP_012536282.1",
+    "coordinates": "611624-613093(+)",
+    "current_product": "type I restriction-modification system subunit M",
+    "legacy_afe": "AFE_0684",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03427",
+      "EC": "2.1.1.72"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：type I restriction-modification system subunit M；B1旧新映射：AFE_0684（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536282.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03427",
+      "https://enzyme.expasy.org/EC/2.1.1.72"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 641,
+    "locus": "RU820_RS03315",
+    "wp": "WP_012536283.1",
+    "coordinates": "613099-614073(+)",
+    "current_product": "virulence protein RhuM/Fic/DOC family protein",
+    "legacy_afe": "AFE_0685",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：virulence protein RhuM/Fic/DOC family protein；B1旧新映射：AFE_0685（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536283.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 642,
+    "locus": "RU820_RS03320",
+    "wp": "WP_012536284.1",
+    "coordinates": "614073-615764(+)",
+    "current_product": "restriction endonuclease subunit S",
+    "legacy_afe": "AFE_0686",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01154",
+      "EC": "3.1.21.3"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：restriction endonuclease subunit S；B1旧新映射：AFE_0686（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536284.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01154",
+      "https://enzyme.expasy.org/EC/3.1.21.3"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 643,
+    "locus": "RU820_RS03325",
+    "wp": "WP_157293221.1",
+    "coordinates": "615706-617616(+)",
+    "current_product": "SIR2 family NAD-dependent protein deacylase",
+    "legacy_afe": "AFE_0687",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：SIR2 family NAD-dependent protein deacylase；B1旧新映射：AFE_0687（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_157293221.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 644,
+    "locus": "RU820_RS03335",
+    "wp": "WP_012536288.1",
+    "coordinates": "618650-619507(-)",
+    "current_product": "formate dehydrogenase accessory sulfurtransferase FdhD",
+    "legacy_afe": "AFE_0690",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02379"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：formate dehydrogenase accessory sulfurtransferase FdhD；B1旧新映射：AFE_0690（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536288.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02379"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 645,
+    "locus": "RU820_RS03340",
+    "wp": "WP_009567441.1",
+    "coordinates": "619477-619776(-)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0691",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0691（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009567441.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 646,
+    "locus": "RU820_RS03345",
+    "wp": "WP_012536289.1",
+    "coordinates": "619766-622042(-)",
+    "current_product": "FdhF/YdeP family oxidoreductase",
+    "legacy_afe": "AFE_0692",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [
+      {
+        "id": "FDH",
+        "name": "formate dehydrogenase",
+        "formula": "for[c] + nad[c]  -> co2[c] + nadh[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_0692 or AFE_1652)",
+        "subsystem": "Pyruvate Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：FdhF/YdeP family oxidoreductase；B1旧新映射：AFE_0692（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536289.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 647,
+    "locus": "RU820_RS03350",
+    "wp": "WP_012606622.1",
+    "coordinates": "622270-624201(+)",
+    "current_product": "sigma-54-dependent Fis family transcriptional regulator",
+    "legacy_afe": "AFE_0693",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K21405"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：sigma-54-dependent Fis family transcriptional regulator；B1旧新映射：AFE_0693（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606622.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K21405"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 648,
+    "locus": "RU820_RS03355",
+    "wp": "WP_012536292.1",
+    "coordinates": "624615-625199(+)",
+    "current_product": "S-(hydroxymethyl)glutathione synthase",
+    "legacy_afe": "AFE_0696",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03396",
+      "EC": "4.4.1.22",
+      "KEGG_reaction": [
+        "R06982"
+      ],
+      "BioCyc_reaction": [
+        "RXN-2961"
+      ],
+      "Rhea": [
+        "RHEA:22488"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：S-(hydroxymethyl)glutathione synthase；B1旧新映射：AFE_0696（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536292.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03396",
+      "https://enzyme.expasy.org/EC/4.4.1.22",
+      "https://www.rhea-db.org/rhea/22488"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 649,
+    "locus": "RU820_RS03360",
+    "wp": "WP_012536293.1",
+    "coordinates": "625298-626407(+)",
+    "current_product": "S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase",
+    "legacy_afe": "AFE_0697",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K00121",
+      "EC": "1.1.1.1;1.1.1.284",
+      "KEGG_reaction": [
+        "R00623",
+        "R00754",
+        "R02124",
+        "R04880",
+        "R05233",
+        "R05234",
+        "R06917",
+        "R06927",
+        "R06983",
+        "R07105",
+        "R08281",
+        "R08306",
+        "R08310"
+      ],
+      "BioCyc_reaction": [
+        "RXN-17884",
+        "RXN-2962"
+      ],
+      "Rhea": [
+        "RHEA:10736",
+        "RHEA:19981",
+        "RHEA:19985",
+        "RHEA:25290"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase；B1旧新映射：AFE_0697（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536293.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K00121",
+      "https://enzyme.expasy.org/EC/1.1.1.1;1.1.1.284",
+      "https://www.rhea-db.org/rhea/10736",
+      "https://www.rhea-db.org/rhea/19981",
+      "https://www.rhea-db.org/rhea/19985",
+      "https://www.rhea-db.org/rhea/25290",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 650,
+    "locus": "RU820_RS03365",
+    "wp": "WP_012606625.1",
+    "coordinates": "626407-627261(+)",
+    "current_product": "S-formylglutathione hydrolase",
+    "legacy_afe": "AFE_0698",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01070",
+      "EC": "3.1.2.12",
+      "KEGG_reaction": [
+        "R00527"
+      ],
+      "BioCyc_reaction": [
+        "S-FORMYLGLUTATHIONE-HYDROLASE-RXN"
+      ],
+      "Rhea": [
+        "RHEA:14961"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：S-formylglutathione hydrolase；B1旧新映射：AFE_0698（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606625.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01070",
+      "https://enzyme.expasy.org/EC/3.1.2.12",
+      "https://www.rhea-db.org/rhea/14961"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 651,
+    "locus": "RU820_RS03370",
+    "wp": "WP_012536295.1",
+    "coordinates": "627286-628248(-)",
+    "current_product": "CysB family HTH-type transcriptional regulator",
+    "legacy_afe": "AFE_0699",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K13634"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：CysB family HTH-type transcriptional regulator；B1旧新映射：AFE_0699（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536295.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K13634"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 652,
+    "locus": "RU820_RS03375",
+    "wp": "WP_012536296.1",
+    "coordinates": "628304-629752(-)",
+    "current_product": "sigma-54 dependent transcriptional regulator",
+    "legacy_afe": "AFE_0700",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K19641"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：sigma-54 dependent transcriptional regulator；B1旧新映射：AFE_0700（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536296.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K19641"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 653,
+    "locus": "RU820_RS03380",
+    "wp": "WP_012536297.1",
+    "coordinates": "629934-630896(+)",
+    "current_product": "hydrogenase",
+    "legacy_afe": "AFE_0701",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K23548",
+      "EC": "1.12.99.6",
+      "KEGG_reaction": [
+        "R08034"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：hydrogenase；B1旧新映射：AFE_0701（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536297.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K23548",
+      "https://enzyme.expasy.org/EC/1.12.99.6",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 654,
+    "locus": "RU820_RS03385",
+    "wp": "WP_012536298.1",
+    "coordinates": "630947-632545(+)",
+    "current_product": "nickel-dependent hydrogenase large subunit",
+    "legacy_afe": "AFE_0702",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K23549",
+      "EC": "1.12.99.6",
+      "KEGG_reaction": [
+        "R08034"
+      ],
+      "BioCyc_reaction": [
+        "RXN0-5256"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：nickel-dependent hydrogenase large subunit；B1旧新映射：AFE_0702（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。 Bellenberg等2019补表对该旧AFE蛋白提供同株蛋白检出/丰度证据，仅支持表达，不能证明反应、GPR、方向或化学计量。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536298.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K23549",
+      "https://enzyme.expasy.org/EC/1.12.99.6",
+      "https://doi.org/10.3389/fmicb.2019.00592",
+      "https://www.frontiersin.org/api/v4/articles/434788/file/Data_Sheet_2.pdf/434788_supplementary-materials_datasheets_2_pdf/2"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。",
+      "2019蛋白组仅为表达证据；具体底物、产物、催化、复合体归属未由该实验测定。"
+    ]
+  },
+  {
+    "seq": 655,
+    "locus": "RU820_RS03390",
+    "wp": "WP_009564318.1",
+    "coordinates": "632635-632955(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0703",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0703（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009564318.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 656,
+    "locus": "RU820_RS03395",
+    "wp": "WP_009564317.1",
+    "coordinates": "632974-633306(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "未确认",
+    "mapping_status": "未确认; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：未确认（未确认/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009564317.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "AFE历史映射仍需通过序列/邻域证据解决；不可按编号推断。",
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 657,
+    "locus": "RU820_RS03400",
+    "wp": "WP_012536299.1",
+    "coordinates": "633309-633782(+)",
+    "current_product": "hydrogenase maturation protease",
+    "legacy_afe": "AFE_0705",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03605"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：hydrogenase maturation protease；B1旧新映射：AFE_0705（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536299.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03605"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 658,
+    "locus": "RU820_RS03405",
+    "wp": "WP_009560810.1",
+    "coordinates": "633779-634108(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0706",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0706（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560810.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 659,
+    "locus": "RU820_RS03410",
+    "wp": "WP_012536300.1",
+    "coordinates": "634207-635187(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0707",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0707（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536300.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 660,
+    "locus": "RU820_RS03415",
+    "wp": "WP_009560836.1",
+    "coordinates": "635212-635439(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0708",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0708（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560836.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 661,
+    "locus": "RU820_RS03420",
+    "wp": "WP_009560835.1",
+    "coordinates": "635468-635692(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0709",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0709（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009560835.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 662,
+    "locus": "RU820_RS03425",
+    "wp": "WP_012536301.1",
+    "coordinates": "635694-636599(+)",
+    "current_product": "NifU family protein",
+    "legacy_afe": "AFE_0710",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：NifU family protein；B1旧新映射：AFE_0710（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536301.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 663,
+    "locus": "RU820_RS03430",
+    "wp": "WP_012536302.1",
+    "coordinates": "636592-637788(+)",
+    "current_product": "hypothetical protein",
+    "legacy_afe": "AFE_0711",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：hypothetical protein；B1旧新映射：AFE_0711（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536302.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 664,
+    "locus": "RU820_RS03435",
+    "wp": "WP_012536303.1",
+    "coordinates": "637785-640196(+)",
+    "current_product": "carbamoyltransferase HypF",
+    "legacy_afe": "AFE_0712",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04656"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：carbamoyltransferase HypF；B1旧新映射：AFE_0712（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536303.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04656"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 665,
+    "locus": "RU820_RS03440",
+    "wp": "WP_009566904.1",
+    "coordinates": "640187-640480(+)",
+    "current_product": "HypC/HybG/HupF family hydrogenase formation chaperone",
+    "legacy_afe": "AFE_0713",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04653"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：HypC/HybG/HupF family hydrogenase formation chaperone；B1旧新映射：AFE_0713（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009566904.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04653"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 666,
+    "locus": "RU820_RS03445",
+    "wp": "WP_012536304.1",
+    "coordinates": "640496-641194(+)",
+    "current_product": "D-sedoheptulose-7-phosphate isomerase",
+    "legacy_afe": "AFE_0714",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03271",
+      "EC": "5.3.1.28",
+      "KEGG_reaction": [
+        "R05645",
+        "R09768",
+        "R09769"
+      ],
+      "Rhea": [
+        "RHEA:27489"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "S7PI",
+        "name": "sedoheptulose 7-phosphate isomerase",
+        "formula": "s7p[c]  <=> gmhep7p[c]",
+        "confidence_2016": 2,
+        "gpr": "(AFE_0714 or AFE_0141)",
+        "subsystem": "Lipopolysaccharide Biosynthesis"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：D-sedoheptulose-7-phosphate isomerase；B1旧新映射：AFE_0714（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536304.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03271",
+      "https://enzyme.expasy.org/EC/5.3.1.28",
+      "https://www.rhea-db.org/rhea/27489",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 667,
+    "locus": "RU820_RS03450",
+    "wp": "WP_009564855.1",
+    "coordinates": "641178-642323(+)",
+    "current_product": "hydrogenase formation protein HypD",
+    "legacy_afe": "AFE_0715",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04654"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：hydrogenase formation protein HypD；B1旧新映射：AFE_0715（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009564855.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04654"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 668,
+    "locus": "RU820_RS03455",
+    "wp": "WP_012536305.1",
+    "coordinates": "642323-643381(+)",
+    "current_product": "hydrogenase expression/formation protein HypE",
+    "legacy_afe": "AFE_0716",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04655"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：hydrogenase expression/formation protein HypE；B1旧新映射：AFE_0716（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536305.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04655"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 669,
+    "locus": "RU820_RS03460",
+    "wp": "WP_012536306.1",
+    "coordinates": "643395-643724(+)",
+    "current_product": "hydrogenase maturation nickel metallochaperone HypA",
+    "legacy_afe": "AFE_0717",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04651"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：hydrogenase maturation nickel metallochaperone HypA；B1旧新映射：AFE_0717（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536306.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04651"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 670,
+    "locus": "RU820_RS03465",
+    "wp": "WP_229129766.1",
+    "coordinates": "643809-644642(+)",
+    "current_product": "hydrogenase nickel incorporation protein HypB",
+    "legacy_afe": "AFE_0718",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K04652"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：hydrogenase nickel incorporation protein HypB；B1旧新映射：AFE_0718（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_229129766.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K04652"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 671,
+    "locus": "RU820_RS03470",
+    "wp": "WP_012536307.1",
+    "coordinates": "644668-646077(+)",
+    "current_product": "APC family permease",
+    "legacy_afe": "AFE_0719",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：APC family permease；B1旧新映射：AFE_0719（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536307.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 672,
+    "locus": "RU820_RS03475",
+    "wp": "WP_012606628.1",
+    "coordinates": "646142-647392(+)",
+    "current_product": "NAD(P)/FAD-dependent oxidoreductase",
+    "legacy_afe": "AFE_0720",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K26064",
+      "KEGG_reaction": [
+        "R13034"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：NAD(P)/FAD-dependent oxidoreductase；B1旧新映射：AFE_0720（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012606628.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K26064"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 673,
+    "locus": "RU820_RS03480",
+    "wp": "WP_009567574.1",
+    "coordinates": "647477-647875(+)",
+    "current_product": "group III truncated hemoglobin",
+    "legacy_afe": "AFE_0721",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K06886"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：group III truncated hemoglobin；B1旧新映射：AFE_0721（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009567574.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K06886"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 674,
+    "locus": "RU820_RS03485",
+    "wp": "WP_012536309.1",
+    "coordinates": "647890-649410(-)",
+    "current_product": "threonine ammonia-lyase, biosynthetic",
+    "legacy_afe": "AFE_0722",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01754",
+      "EC": "4.3.1.19",
+      "KEGG_reaction": [
+        "R00220",
+        "R00996"
+      ],
+      "BioCyc_reaction": [
+        "THREDEHYD-RXN"
+      ],
+      "Rhea": [
+        "RHEA:22108"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "THRD_L",
+        "name": "L-threonine deaminase",
+        "formula": "thr-L[c]  -> nh4[c] + 2obut[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0722",
+        "subsystem": "Valine, Leucine, and Isoleucine Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：threonine ammonia-lyase, biosynthetic；B1旧新映射：AFE_0722（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536309.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01754",
+      "https://enzyme.expasy.org/EC/4.3.1.19",
+      "https://www.rhea-db.org/rhea/22108",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 675,
+    "locus": "RU820_RS03490",
+    "wp": "WP_009567572.1",
+    "coordinates": "649407-649778(-)",
+    "current_product": "winged helix-turn-helix domain-containing protein",
+    "legacy_afe": "AFE_0723",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K02019"
+    },
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：winged helix-turn-helix domain-containing protein；B1旧新映射：AFE_0723（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009567572.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K02019"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 676,
+    "locus": "RU820_RS03495",
+    "wp": "WP_012536310.1",
+    "coordinates": "649775-650740(-)",
+    "current_product": "YheT family hydrolase",
+    "legacy_afe": "AFE_0724",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K07019"
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：YheT family hydrolase；B1旧新映射：AFE_0724（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536310.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K07019"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 677,
+    "locus": "RU820_RS03500",
+    "wp": "WP_012536311.1",
+    "coordinates": "650737-650946(-)",
+    "current_product": "(2Fe-2S)-binding protein",
+    "legacy_afe": "AFE_0725",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {},
+    "2016_reaction_ids": [],
+    "decision": "无需修改（本轮未见代谢反应）",
+    "reason": "官方当前注释：(2Fe-2S)-binding protein；B1旧新映射：AFE_0725（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：未找到。 当前核查材料未给出可追溯的精确反应；没有足够依据编造代谢反应或GPR。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536311.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/"
+    ],
+    "open_questions": [
+      "精确反应与可靠功能尚待UniProt人工审校、InterPro/Pfam和原始论文逐项补查。"
+    ]
+  },
+  {
+    "seq": 678,
+    "locus": "RU820_RS03505",
+    "wp": "WP_009562842.1",
+    "coordinates": "651292-652068(+)",
+    "current_product": "GNAT family N-acetyltransferase",
+    "legacy_afe": "AFE_0726",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K22310",
+      "EC": "2.3.2.30",
+      "KEGG_reaction": [
+        "R11801"
+      ],
+      "Rhea": [
+        "RHEA:20633"
+      ]
+    },
+    "2016_reaction_ids": [],
+    "decision": "证据不足暂缓",
+    "reason": "官方当前注释：GNAT family N-acetyltransferase；B1旧新映射：AFE_0726（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：候选，未核实反应等价。 数据库列有候选反应，但尚未从2016模型GPR确认覆盖；底物/产物、化学式或基因专属催化链未证实，暂不提出新增。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009562842.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K22310",
+      "https://enzyme.expasy.org/EC/2.3.2.30",
+      "https://www.rhea-db.org/rhea/20633"
+    ],
+    "open_questions": [
+      "需核对原始数据库注释及反应式、辅因子、方向、区室和证据来源；确认后再与2016逐反应比对。"
+    ]
+  },
+  {
+    "seq": 679,
+    "locus": "RU820_RS03510",
+    "wp": "WP_012536312.1",
+    "coordinates": "652065-652967(+)",
+    "current_product": "lysophospholipid acyltransferase family protein",
+    "legacy_afe": "AFE_0727",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K22617",
+      "EC": "2.3.1.270",
+      "BioCyc_reaction": [
+        "1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN",
+        "RXN-1623"
+      ],
+      "Rhea": [
+        "RHEA:19709"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "G3PAT2",
+        "name": "1-acyl-sn-glycerol-3-phosphate acyltransferase ",
+        "formula": "faplACP[c] + faplg3p_AFE[c]  -> ACP[c] + dag3pi_AFE[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0727",
+        "subsystem": "Glycerophospholipid Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：lysophospholipid acyltransferase family protein；B1旧新映射：AFE_0727（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536312.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K22617",
+      "https://enzyme.expasy.org/EC/2.3.1.270",
+      "https://www.rhea-db.org/rhea/19709",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 680,
+    "locus": "RU820_RS03515",
+    "wp": "WP_012536313.1",
+    "coordinates": "652987-654051(-)",
+    "current_product": "uroporphyrinogen decarboxylase",
+    "legacy_afe": "AFE_0728",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01599",
+      "EC": "4.1.1.37",
+      "KEGG_reaction": [
+        "R03197",
+        "R04972"
+      ],
+      "BioCyc_reaction": [
+        "RXN-10642",
+        "UROGENDECARBOX-RXN"
+      ],
+      "Rhea": [
+        "RHEA:19865"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "UPPDC1",
+        "name": "uroporphyrinogen decarboxylase (uroporphyrinogen III)",
+        "formula": "4 h[c] + uppg3[c]  -> 4 co2[c] + cpppg3[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0728",
+        "subsystem": "(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：uroporphyrinogen decarboxylase；B1旧新映射：AFE_0728（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536313.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01599",
+      "https://enzyme.expasy.org/EC/4.1.1.37",
+      "https://www.rhea-db.org/rhea/19865",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 681,
+    "locus": "RU820_RS03520",
+    "wp": "WP_012536314.1",
+    "coordinates": "654055-655452(-)",
+    "current_product": "glutamate synthase small subunit",
+    "legacy_afe": "AFE_0729",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K00266",
+      "EC": "1.4.1.13",
+      "KEGG_reaction": [
+        "R00114",
+        "R00248"
+      ],
+      "Rhea": [
+        "RHEA:15501"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "GLUSy",
+        "name": "glutamate synthase (NADPH)",
+        "formula": "h[c] + akg[c] + gln-L[c] + nadph[c]  -> 2 glu-L[c] + nadp[c]",
+        "confidence_2016": 4,
+        "gpr": "(AFE_0730 and AFE_0729)",
+        "subsystem": "Glutamate Metabolism "
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：glutamate synthase small subunit；B1旧新映射：AFE_0729（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536314.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K00266",
+      "https://enzyme.expasy.org/EC/1.4.1.13",
+      "https://www.rhea-db.org/rhea/15501",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 682,
+    "locus": "RU820_RS03525",
+    "wp": "WP_012536315.1",
+    "coordinates": "655476-659903(-)",
+    "current_product": "glutamate synthase large subunit",
+    "legacy_afe": "AFE_0730",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K00265",
+      "EC": "1.4.1.13",
+      "KEGG_reaction": [
+        "R00114",
+        "R00248"
+      ],
+      "BioCyc_reaction": [
+        "GLUTAMATESYN-RXN"
+      ],
+      "Rhea": [
+        "RHEA:15501"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "GLUSy",
+        "name": "glutamate synthase (NADPH)",
+        "formula": "h[c] + akg[c] + gln-L[c] + nadph[c]  -> 2 glu-L[c] + nadp[c]",
+        "confidence_2016": 4,
+        "gpr": "(AFE_0730 and AFE_0729)",
+        "subsystem": "Glutamate Metabolism "
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：glutamate synthase large subunit；B1旧新映射：AFE_0730（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536315.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K00265",
+      "https://enzyme.expasy.org/EC/1.4.1.13",
+      "https://www.rhea-db.org/rhea/15501",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 683,
+    "locus": "RU820_RS03530",
+    "wp": "WP_009569566.1",
+    "coordinates": "660041-661213(-)",
+    "current_product": "deoxyguanosinetriphosphate triphosphohydrolase",
+    "legacy_afe": "AFE_0731",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K01129",
+      "EC": "3.1.5.1",
+      "KEGG_reaction": [
+        "R01856"
+      ],
+      "BioCyc_reaction": [
+        "DGTPTRIPHYDRO-RXN"
+      ],
+      "Rhea": [
+        "RHEA:15193"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "NTPTP1",
+        "name": "Nucleoside triphosphate tripolyhydrolase",
+        "formula": "h2o[c] + dgtp[c]  -> pppi[c] + dgsn[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0731 ",
+        "subsystem": "Nucleotide Salvage Pathway"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：deoxyguanosinetriphosphate triphosphohydrolase；B1旧新映射：AFE_0731（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_009569566.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K01129",
+      "https://enzyme.expasy.org/EC/3.1.5.1",
+      "https://www.rhea-db.org/rhea/15193",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  },
+  {
+    "seq": 684,
+    "locus": "RU820_RS03535",
+    "wp": "WP_012536316.1",
+    "coordinates": "661206-662048(-)",
+    "current_product": "FAD-dependent thymidylate synthase",
+    "legacy_afe": "AFE_0732",
+    "mapping_status": "已核验; 一致",
+    "verified_accessions": {
+      "KO": "K03465",
+      "EC": "2.1.1.148",
+      "KEGG_reaction": [
+        "R06613"
+      ],
+      "BioCyc_reaction": [
+        "RXN-8850"
+      ],
+      "Rhea": [
+        "RHEA:29043"
+      ]
+    },
+    "2016_reaction_ids": [
+      {
+        "id": "TTSF",
+        "name": "thymidylate synthase (FAD)",
+        "formula": "mlthf[c] + dump[c] + fadh2[c]  <=> fad[c] + thf[c] + dtmp[c]",
+        "confidence_2016": 2,
+        "gpr": "AFE_0732 ",
+        "subsystem": "Threonine and Lysine Metabolism"
+      }
+    ],
+    "decision": "仅更新证据或编号（待确认）",
+    "reason": "官方当前注释：FAD-dependent thymidylate synthase；B1旧新映射：AFE_0732（已核验/一致）。D3数据库关联仅作为注释线索，不能替代本株酶学验证。模型状态：2016 已有公式；基因专属等价未全面复核。 2016 iMC507原表中该基因出现在所列反应/GPR，按已表示处理；原置信分仅属于原反应。",
+    "evidence_links": [
+      "https://www.ncbi.nlm.nih.gov/protein/WP_012536316.1",
+      "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/",
+      "https://www.genome.jp/dbget-bin/www_bget?ko:K03465",
+      "https://enzyme.expasy.org/EC/2.1.1.148",
+      "https://www.rhea-db.org/rhea/29043",
+      "https://doi.org/10.1016/j.meteno.2016.03.003"
+    ],
+    "open_questions": [
+      "未找到基因专属本株生化或遗传证据以验证该亚基/酶的独立功能、GPR必要性及反应方向/计量；沿用原模型仅作基线。"
+    ]
+  }
+]

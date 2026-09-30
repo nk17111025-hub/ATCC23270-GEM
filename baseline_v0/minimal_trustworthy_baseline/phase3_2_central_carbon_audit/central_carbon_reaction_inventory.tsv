@@ -1,0 +1,61 @@
+reaction_id	name	equation	reversible	lb	ub	confidence	ec	pmid	gpr	subsystem
+PGI1	glucose-6-phosphate isomerase	g6p_DASH_B_c <=> f6p_DASH_B_c	True	-1000.0	1000.0	2	5.3.1.9	19077236	AFE_2924	Glycolysis/Gluconeogenesis
+PFK	phosphofructokinase	atp_c + f6p_DASH_B_c --> adp_c + fdp_c + h_c	False	0.0	1000.0	2	2.7.1.11	19077236	AFE_1807	Glycolysis/Gluconeogenesis
+FBP	fructose-bisphosphatase	fdp_c + h2o_c --> f6p_DASH_B_c + pi_c	False	0.0	1000.0	2	3.1.3.11	19077236	AFE_0189	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)
+FBA	fructose-bisphosphate aldolase	fdp_c <=> dhap_c + g3p_c	True	-1000.0	1000.0	2	4.1.2.13	19077236	AFE_1802	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)
+FBA3	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	dhap_c + e4p_c <=> s17bp_c	True	-1000.0	1000.0	2	4.1.2.13	19077236	(AFE_1676 and AFE_3248)	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)
+TPI	triose-phosphate isomerase	g3p_c <=> dhap_c	True	-1000.0	1000.0	2	5.3.1.1	19077236	AFE_2633	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)
+GAPD1	glyceraldehyde-3-phosphate dehydrogenase	13dpg_c + h_c + nadh_c --> g3p_c + nad_c + pi_c	False	0.0	1000.0	2	1.2.1.12	19077236	AFE_3251	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)
+GAPD2	Glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	13dpg_c + h_c + nadph_c --> g3p_c + nadp_c + pi_c	False	0.0	1000.0	2	1.2.1.13	19077236	AFE_3251	Glycolysis/Gluconeogenesis
+PGK	phosphoglycerate kinase	3pg_c + atp_c --> 13dpg_c + adp_c	False	0.0	1000.0	2	2.7.2.3	19077236	AFE_3250	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)
+PGM1	phosphoglycerate mutase	3pg_c <=> 2pg_c	True	-1000.0	1000.0	2	5.4.2.1	19077236	(AFE_1815 or AFE_0155 or AFE_0526 or AFE_0621)	Glycolysis/Gluconeogenesis
+PGMT	phosphoglucomutase	g1p_DASH_B_c <=> g6p_DASH_B_c	True	-1000.0	1000.0	2	5.4.2.6	19077236	AFE_2324	Glycolysis/Gluconeogenesis
+PGMT2	phosphoglucomutase	g1p_c <=> g6p_DASH_A_c	True	-1000.0	1000.0	2	5.4.2.2	19077236	AFE_2324	Glycolysis/Gluconeogenesis
+ENO	enolase	2pg_c <=> h2o_c + pep_c	True	-1000.0	1000.0	2	4.2.1.11	19077236	(AFE_1800 or AFE_0849)	Glycolysis/Gluconeogenesis
+PYK	pyruvate kinase	adp_c + h_c + pep_c --> atp_c + pyr_c	False	0.0	1000.0	2	2.7.1.40	19077236	(AFE_0749 or AFE_1801 or AFE_3249)	Glycolysis/Gluconeogenesis
+PDH	pyruvate dehydrogenase	coa_c + nad_c + pyr_c --> accoa_c + co2_c + nadh_c	False	0.0	1000.0	2	1.2.4.1		(AFE_3070 and AFE_3069 and AFE_3068)	Glycolysis/Gluconeogenesis
+BDGK	Glucokinase	atp_c + glc_DASH_B_c <=> adp_c + g6p_DASH_B_c + h_c	True	-1000.0	1000.0	1	2.7.1.2	19077236		Glycolysis/Gluconeogenesis
+MTRP	maltodextrin phosphorylase	maltttr_c + pi_c <=> g1p_c + malttr_c	True	-1000.0	1000.0	2	2.4.1.1		AFE_0527	Glycolysis/Gluconeogenesis
+G6PDH2	glucose 6-phosphate dehydrogenase	6pgl_c + h_c + nadph_c --> g6p_DASH_B_c + nadp_c	False	0.0	1000.0	2	1.1.1.49	19077236	AFE_2025 	Pentose Phosphate Pathway
+PGL	6-phosphogluconolactonase	6pgl_c + h2o_c <=> 6pgc_c + h_c	True	-1000.0	1000.0	2	3.1.1.31	19077236	AFE_2833	Pentose Phosphate Pathway
+PGDH	phosphogluconate dehydratase	6pgc_c --> 2ddg6p_c + h2o_c	False	0.0	1000.0	2			AFE_2432	Pentose Phosphate Pathway
+RPE	ribulose 5-phosphate 3-epimerase	ru5p_DASH_D_c <=> xu5p_DASH_D_c	True	-1000.0	1000.0	2	5.1.3.1		AFE_3247	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)
+RPI	ribose-5-phosphate isomerase	r5p_c --> ru5p_DASH_D_c	False	0.0	1000.0	2	5.3.1.6	19077236	AFE_0629	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)
+TKT1	transketolase	e4p_c + xu5p_DASH_D_c <=> f6p_DASH_B_c + g3p_c	True	-1000.0	1000.0	2	2.2.1.1	19077236	(AFE_1843 and AFE_3252)	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)
+TKT2	transketolase	g3p_c + s7p_c <=> r5p_c + xu5p_DASH_D_c	True	-1000.0	1000.0	2	2.2.1.1	19077236	(AFE_1843 and AFE_3252)	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)
+TALA	transaldolase	g3p_c + s7p_c <=> e4p_c + f6p_DASH_B_c	True	-1000.0	1000.0	2	2.2.1.2	19077236	AFE_0419	Pentose Phosphate Pathway
+DDGPA	2-keto-3-deoxy-6-phosphogluconate aldolase	2ddg6p_c --> g3p_c + pyr_c	False	0.0	1000.0	2			AFE_1816	Pentose Phosphate Pathway
+RUBISCO	Ribulose-bisphosphate carboxylase	co2_c + h2o_c + rb15bp_c <=> 2.0 3pg_c + 2.0 h_c	True	-1000.0	1000.0	3	4.1.1.39		(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)
+RUBISCOX	ribulose-bisphosphate carboxylase	o2_c + rb15bp_c --> 2pglyc_c + 3pg_c + 2.0 h_c	False	0.0	1000.0	3		12070689		(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)
+PRUK	Phosphoribulokinase	atp_c + ru5p_DASH_D_c --> adp_c + h_c + rb15bp_c	False	0.0	1000.0	2	2.7.1.19	19077236	AFE_0536	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)
+SBPASE	Sedoheptulose-bisphosphatase	h2o_c + s17bp_c <=> pi_c + s7p_c	True	-1000.0	1000.0	2	3.1.3.37	19077236	AFE_3253	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)
+GLYCH	D-lactate dehydrogenase (cytochrome) (EC:1.1.2.4)	glyclt_c + o2_c <=> glx_c + h2o2_c	True	-1000.0	1000.0	2	1.1.2.4	19077236	(AFE_1663 and AFE_1664 and AFE_1665)	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)
+HCO3E	HCO3 equilibration reaction	co2_c + h2o_c <=> h_c + hco3_c	True	-1000.0	1000.0	2	4.2.1.1	19077236	AFE_0287	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle) 
+HCO3tpp	hco3 transport (citoplasm)	h2co3_p <=> h_c + hco3_c	True	-1000.0	1000.0	1				Transport, Inner Membrane
+CS	citrate synthase	accoa_c + h2o_c + oaa_c --> cit_c + coa_c + h_c	False	0.0	1000.0	2	2.3.3.1	19077236	AFE_3065	Citric Acid Cycle
+ACONT1	aconitase (half-reaction A, Citrate hydro-lyase)	cit_c <=> acon_DASH_C_c + h2o_c	True	-1000.0	1000.0	2	4.2.1.3		AFE_0423	Citric Acid Cycle
+ACONT2	aconitase (half-reaction B, Isocitrate hydro-lyase)	acon_DASH_C_c + h2o_c <=> icit_c	True	-1000.0	1000.0	2	4.2.1.3		AFE_0423	Citric Acid Cycle
+ICDHyr	isocitrate dehydrogenase (NADP)	icit_c + nadp_c <=> akg_c + co2_c + nadph_c	True	-1000.0	1000.0	2	1.1.1.42		AFE_0424	Citric Acid Cycle
+ICITRED		icit_c + nadp_c <=> h_c + nadph_c + osuc_c	True	-1000.0	1000.0	2	1.1.1.42		AFE_0424	Citric Acid Cycle
+SUCOAS	succinyl-CoA synthetase (ADP-forming)	atp_c + coa_c + succ_c <=> adp_c + pi_c + succoa_c	True	-1000.0	1000.0	2	6.2.1.5	19077236	(AFE_0427 and AFE_0425)	Citric Acid Cycle
+SUCD	succinate dehydrogenase	fum_c + h_c + nadh_c <=> nad_c + succ_c	True	-1000.0	1000.0	2		19077236	AFE_2550	Citric Acid Cycle
+FUM	fumarase	mal_DASH_L_c <=> fum_c + h2o_c	True	-1000.0	1000.0	2	4.2.1.2	19077236	AFE_2673	Citric Acid Cycle
+MDH	malate dehydrogenase	mal_DASH_L_c + nad_c <=> h_c + nadh_c + oaa_c	True	-1000.0	1000.0	2	1.1.1.37	19077236	AFE_3000	Citric Acid Cycle
+PPC	phosphoenolpyruvate carboxylase	co2_c + h2o_c + pep_c --> h_c + oaa_c + pi_c	False	0.0	1000.0	2	4.1.1.31	19077236	AFE_1810	Anaplerotic Reactions
+PPA	inorganic diphosphatase	h2o_c + ppi_c --> h_c + 2.0 pi_c	False	0.0	1000.0	2	3.6.1.1		AFE_0492	Anaplerotic Reactions
+MALS	malate synthase	accoa_c + glx_c + h2o_c --> coa_c + h_c + mal_DASH_L_c	False	0.0	1000.0	1	2.3.3.9			Anaplerotic Reactions
+ACS	acetyl-CoA synthetase	ac_c + atp_c + coa_c --> accoa_c + amp_c + ppi_c	False	0.0	1000.0	2	6.2.1.1		AFE_1969	Pyruvate Metabolism
+FDH	formate dehydrogenase	for_c + nad_c --> co2_c + nadh_c	False	0.0	1000.0	2	1.2.1.2		(AFE_0692 or AFE_1652)	Pyruvate Metabolism
+ACCOAC	Acetyl-CoA carboxylase	accoa_c + atp_c + hco3_c <=> adp_c + h_c + malcoa_c + pi_c	True	-1000.0	1000.0	2	6.4.1.2		(AFE_1462 or AFE_0196 or AFE_0195 or AFE_2067)	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)
+MCOATA	Malonyl-CoA-ACP transacylase	ACP_c + malcoa_c <=> coa_c + malACP_c	True	-1000.0	1000.0	3	2.3.1.39	238956	AFE_1907	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)
+MACPD	Malonyl-ACP decarboxylase	h_c + malACP_c --> acACP_c + co2_c	False	0.0	0.0	1	2.3.1.38			(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)
+ACOATA	Acetyl-CoA ACP transacylase	ACP_c + accoa_c --> acACP_c + coa_c	False	0.0	1000.0	1	2.3.1.38			(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)
+BIOC1	Biotin carboxylase	accoa_c + bcCPco2_AFE_c --> 2.0 bcCP_AFE_c + h_c + malcoa_c	False	0.0	1000.0	3	6.4.1.2	238956	(AFE_1462 and AFE_2067 and AFE_0196 and AFE_0195)	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)
+BIOC2	Biotin carboxylase	atp_c + 2.0 bcCP_AFE_c + hco3_c --> adp_c + bcCPco2_AFE_c + pi_c	False	0.0	1000.0	2	6.3.4.14		(AFE_0196 and AFE_0195)	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)
+GLXCL	glyoxalate carboligase	2.0 glx_c + h_c <=> 2h3oppan_c + co2_c	True	-1000.0	1000.0	1	4.1.1.47			Glyoxylate Metabolism
+GLYCK	glycerate kinase	atp_c + glyc_DASH_R_c <=> 3pg_c + adp_c + h_c	True	-1000.0	1000.0	1	2.7.1.31			Glyoxylate Metabolism
+GLXR	glyoxylate reductase	glx_c + h_c + nadph_c --> glyclt_c + nadp_c	False	0.0	1000.0	2	1.1.99.14			(Alternate Carbon Metabolism) or (Glycolate Metabolism)
+NADTRHD	NAD transhydrogenase	h_p + nadh_c + nadp_c --> h_c + nad_c + nadph_c	False	0.0	1000.0	1				Oxidative Phosphorylation
+3OAS1	3-oxoacyl-[acyl-carrier-protein] synthase	butACP_c + h_c + malACP_c --> 3ohexACP_c + ACP_c + co2_c	False	0.0	1000.0	3	2.3.1.41	238956	(AFE_0796 or AFE_1910)	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)
+3OAS27	3-oxoacyl-(acyl-carrier-protein) synthase III	acACP_c + h_c + malACP_c --> ACP_c + actACP_c + co2_c	False	0.0	1000.0	3	2.3.1.180	238956	AFE_1906	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)
+3OAS28	3-oxoacyl-(acyl-carrier-protein) synthase III	h_c + malACP_c + ppcoa_c <=> 3oxpenACP_c + co2_c + coa_c	True	-1000.0	1000.0	3	2.3.1.180	238956	AFE_1906	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)

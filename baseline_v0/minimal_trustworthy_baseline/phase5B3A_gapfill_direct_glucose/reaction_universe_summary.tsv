@@ -1,0 +1,9 @@
+id	name	EC	reversible	equation	source
+ICL	isocitrate lyase	4.1.3.1	False	1.0 icit[c] -> 1.0 glx[c] + 1.0 succ[c]	curated central-carbon (EC-annotated)
+ME_NADP	malic enzyme (NADP)	1.1.1.40	False	1.0 mal-L[c] + 1.0 nadp[c] -> 1.0 pyr[c] + 1.0 co2[c] + 1.0 nadph[c]	curated central-carbon (EC-annotated)
+ME_NAD	malic enzyme (NAD)	1.1.1.38	False	1.0 mal-L[c] + 1.0 nad[c] -> 1.0 pyr[c] + 1.0 co2[c] + 1.0 nadh[c]	curated central-carbon (EC-annotated)
+PC	pyruvate carboxylase	6.4.1.1	False	1.0 pyr[c] + 1.0 co2[c] + 1.0 atp[c] -> 1.0 oaa[c] + 1.0 adp[c] + 1.0 pi[c] + 1.0 h[c]	curated central-carbon (EC-annotated)
+PEPCK	PEP carboxykinase (ATP)	4.1.1.49	True	1.0 oaa[c] + 1.0 atp[c] -> 1.0 pep[c] + 1.0 co2[c] + 1.0 adp[c]	curated central-carbon (EC-annotated)
+PEPS	PEP synthase	2.7.9.2	False	1.0 pyr[c] + 1.0 atp[c] + 1.0 h2o[c] -> 1.0 pep[c] + 1.0 amp[c] + 1.0 pi[c] + 2.0 h[c]	curated central-carbon (EC-annotated)
+NADHDH	NADH:ubiquinone oxidoreductase (forward)	1.6.5.3	False	1.0 nadh[c] + 1.0 q8[c] + 1.0 h[c] -> 1.0 nad[c] + 1.0 q8h2[c]	curated central-carbon (EC-annotated)
+G6PDH_NAD	glucose-6-phosphate dehydrogenase (NAD)	1.1.1.363	False	1.0 g6p-B[c] + 1.0 nad[c] -> 1.0 6pgl[c] + 1.0 nadh[c] + 1.0 h[c]	curated central-carbon (EC-annotated)

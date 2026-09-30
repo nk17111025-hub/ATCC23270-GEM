@@ -1,0 +1,1831 @@
+{
+  "schema_version": "3.0",
+  "title": "2016 iMC507 scenario constraints (complete condition-specific bound overrides)",
+  "generated_at": "2026-09-25T18:30:05+08:00",
+  "note": "Complete Table 1 (mmc1.xls cols 11-16) condition bounds, including internal transport/sulfur reactions. Afe_biomass published bound 0/0 is recorded but flagged as growth-blocking artifact (see special_cases).",
+  "source_files": {
+    "sbml": "01_原始数据\\02_2016_iMC507原始模型\\mmc3.xml",
+    "reaction_table": "01_原始数据\\02_2016_iMC507原始模型\\mmc1.xls",
+    "supplementary_word": "01_原始数据\\02_2016_iMC507原始模型\\mmc2.docx",
+    "paper": "02_论文\\02_基因组与代谢模型\\2016主要模型GEM.pdf"
+  },
+  "model_scope": {
+    "total_reactions_sbml": 615,
+    "exchange_reactions": 28,
+    "non_exchange_reactions": 587,
+    "metabolites": 573,
+    "genes": 507,
+    "compartments": [
+      "c",
+      "e",
+      "p"
+    ],
+    "objective_reaction": "Ex_bio[e] (R_Ex_bio_LSQBKT_e_RSQBKT_)"
+  },
+  "raw_sbml_defaults": {
+    "note": "mmc3.xml default bounds; see phase1_6_bound_reconciliation.tsv for every reaction where published condition bounds differ."
+  },
+  "condition_bound_overrides": {
+    "FIM": [
+      {
+        "reaction_id": "Afe_biomass_mc507_WT_139p0M",
+        "table1_id": "Afe_biomass_mc507_WT_139p0M",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_4hba_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_4hba[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2co3_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2co3[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -2,
+          -2
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2s_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2s[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_nh4_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_nh4[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_polypi_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_polypi[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_ppt_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_ppt[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_s_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_s[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_so4_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_so4[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_so4aa_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_so4aa[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -1000,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_tsul_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_tsul[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_ttton_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_ttton[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Htpp",
+        "table1_id": "Htpp",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "NH4pp",
+        "table1_id": "NH4pp",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "PPTtpp",
+        "table1_id": "PPTtpp",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "SO41tpp",
+        "table1_id": "SO41tpp",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "SO42tpp",
+        "table1_id": "SO42tpp",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "SQRED1",
+        "table1_id": "SQRED1",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      }
+    ],
+    "TTM": [
+      {
+        "reaction_id": "Afe_biomass_mc507_WT_139p0M",
+        "table1_id": "Afe_biomass_mc507_WT_139p0M",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "CYT2",
+        "table1_id": "CYT2",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_4hba_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_4hba[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_eps_AFE_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_eps_AFE[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2co3_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2co3[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -2,
+          -2
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2s_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2s[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_nh4_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_nh4[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_polypi_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_polypi[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_ppt_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_ppt[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_s_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_s[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_so4_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_so4[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_so4aa_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_so4aa[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -1000,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_tsul_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_tsul[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_ttton_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_ttton[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -1000,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Htpp",
+        "table1_id": "Htpp",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "NH4pp",
+        "table1_id": "NH4pp",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "PPTtpp",
+        "table1_id": "PPTtpp",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "SQRED1",
+        "table1_id": "SQRED1",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      }
+    ],
+    "TSM": [
+      {
+        "reaction_id": "Afe_biomass_mc507_WT_139p0M",
+        "table1_id": "Afe_biomass_mc507_WT_139p0M",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "CYT2",
+        "table1_id": "CYT2",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_4hba_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_4hba[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_eps_AFE_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_eps_AFE[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2co3_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2co3[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -2,
+          -2
+        ]
+      },
+      {
+        "reaction_id": "Ex_h2s_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_h2s[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_nh4_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_nh4[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_polypi_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_polypi[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_ppt_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_ppt[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_s_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_s[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_so4_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_so4[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          1000
+        ]
+      },
+      {
+        "reaction_id": "Ex_so4aa_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_so4aa[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -1000,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_tsul_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_tsul[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          -1000,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Ex_ttton_LSQBKT_e_RSQBKT_",
+        "table1_id": "Ex_ttton[e]",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "Htpp",
+        "table1_id": "Htpp",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "NH4pp",
+        "table1_id": "NH4pp",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "PPTtpp",
+        "table1_id": "PPTtpp",
+        "raw_sbml_bounds": [
+          0.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      },
+      {
+        "reaction_id": "SQRED1",
+        "table1_id": "SQRED1",
+        "raw_sbml_bounds": [
+          -1000.0,
+          1000.0
+        ],
+        "published_condition_bounds": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "special_cases": [
+    {
+      "reaction_id": "Afe_biomass_mc507_WT_139p0M",
+      "issue": "Table 1 cols 11-16 set 0/0 for all conditions, but raw SBML is 0/1000; applying 0/0 makes growth zero. Requires decision before strict reproduction."
+    },
+    {
+      "reaction_id": "Htpp",
+      "issue": "Table 1 sets 0/0 in all three conditions (published minimal media); this disables the reversible proton transport and blocks the ATP energy-generating cycle."
+    }
+  ],
+  "base_medium_definition": {
+    "carbon_source": {
+      "metabolite": "H2CO3 (inorganic carbon / CO2)",
+      "role": "sole carbon source",
+      "availability": "available (uptake)",
+      "note": "The published minimal media (mmc1.xls Table 1) fixes Ex_h2co3[e] at -2/-2; that fixed value is a model normalization, not an experimental uptake. Per-point experimental H2CO3 uptake is in experimental_validation_table5; other fixed values (2.0, 2.34) are in special_analysis_scenarios."
+    },
+    "electron_donors": {
+      "FIM": "fe2 (ferrous iron)",
+      "TTM": "s4o6 (tetrathionate)",
+      "TSM": "s2o3 (thiosulfate)"
+    },
+    "nitrogen_source": "N2 (dinitrogen fixation, NITF); NH4 exchange is closed",
+    "interpretation_rule": "An open bound (e.g. -1000/1000) means the compound is freely available to enter/leave; it is NOT a measured uptake rate. Measured uptake rates only appear in experimental_validation_table5.",
+    "exchanges": [
+      {
+        "reaction_id": "Ex_4hba[e]",
+        "equation": "4hba[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        }
+      },
+      {
+        "reaction_id": "Ex_bio[e]",
+        "equation": "bio[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_ca2[e]",
+        "equation": "ca2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_cu2[e]",
+        "equation": "cu2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_eps_AFE[e]",
+        "equation": "eps_AFE[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        }
+      },
+      {
+        "reaction_id": "Ex_fe2[e]",
+        "equation": "fe2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_fe3[e]",
+        "equation": "fe3[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_h2[e]",
+        "equation": "h2[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        }
+      },
+      {
+        "reaction_id": "Ex_h2co3[e]",
+        "equation": "h2co3[e]  <=>",
+        "FIM": {
+          "lower_bound": -2,
+          "upper_bound": -2,
+          "status": "fixed_uptake"
+        },
+        "TTM": {
+          "lower_bound": -2,
+          "upper_bound": -2,
+          "status": "fixed_uptake"
+        },
+        "TSM": {
+          "lower_bound": -2,
+          "upper_bound": -2,
+          "status": "fixed_uptake"
+        }
+      },
+      {
+        "reaction_id": "Ex_h2o[e]",
+        "equation": "h2o[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_h2s[e]",
+        "equation": "h2s[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        }
+      },
+      {
+        "reaction_id": "Ex_h[e]",
+        "equation": "h[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_k[e]",
+        "equation": "k[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_mg2[e]",
+        "equation": "mg2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_mn2[e]",
+        "equation": "mn2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_n2[e]",
+        "equation": "n2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_na1[e]",
+        "equation": "na1[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_nh4[e]",
+        "equation": "nh4[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        }
+      },
+      {
+        "reaction_id": "Ex_o2[e]",
+        "equation": "o2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_pi[e]",
+        "equation": "pi[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      },
+      {
+        "reaction_id": "Ex_polypi[e]",
+        "equation": "polypi[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        }
+      },
+      {
+        "reaction_id": "Ex_ppt[e]",
+        "equation": "ppt[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        }
+      },
+      {
+        "reaction_id": "Ex_s[e]",
+        "equation": "s[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        }
+      },
+      {
+        "reaction_id": "Ex_so4[e]",
+        "equation": "so4[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 1000,
+          "status": "export_only"
+        }
+      },
+      {
+        "reaction_id": "Ex_so4aa[e]",
+        "equation": "so4aa[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 0,
+          "status": "uptake_only"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 0,
+          "status": "uptake_only"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 0,
+          "status": "uptake_only"
+        }
+      },
+      {
+        "reaction_id": "Ex_tsul[e]",
+        "equation": "tsul[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 0,
+          "status": "uptake_only"
+        }
+      },
+      {
+        "reaction_id": "Ex_ttton[e]",
+        "equation": "ttton[e]  <=>",
+        "FIM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 0,
+          "status": "uptake_only"
+        },
+        "TSM": {
+          "lower_bound": 0,
+          "upper_bound": 0,
+          "status": "closed"
+        }
+      },
+      {
+        "reaction_id": "Ex_zn2[e]",
+        "equation": "zn2[e]  <=>",
+        "FIM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TTM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        },
+        "TSM": {
+          "lower_bound": -1000,
+          "upper_bound": 1000,
+          "status": "open_free"
+        }
+      }
+    ]
+  },
+  "experimental_validation_table5": {
+    "point_count": 20,
+    "source": "2016 paper Supplementary Table 5 (mmc1.xls sheet Table 5)",
+    "variable_roles": {
+      "growth_rate_mu_h_minus1": {
+        "role": "VALIDATION_TARGET",
+        "basis": "Methods 2.5: Fitness compares FBA predictions to experimental growth rate; Supp Note 3: model validated by comparing growth predictions with experimental values; FBA objective is growth maximization."
+      },
+      "electron_donor_uptake_mmol_gDW_h": {
+        "role": "VALIDATION_TARGET",
+        "basis": "Methods 2.5: Fitness compares FBA predictions for fe2/ttton/tsul uptake rate; the donor exchange is left open (electron donor allowed to freely enter), so its uptake is predicted, not fixed as input."
+      },
+      "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+        "role": "MODEL_INPUT_CONSTRAINT",
+        "basis": "Methods 2.5: each of the 20 metabolism-specific models was generated by setting the specific experimental h2co3 uptake rate."
+      },
+      "o2_uptake_mmol_gDW_h": {
+        "role": "VALIDATION_TARGET",
+        "basis": "Methods 2.5: Fitness compares FBA predictions for o2 uptake rate; o2 exchange is left open (-1000/1000). Only present for FIM in Table 5."
+      }
+    },
+    "points": [
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.086,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 296.6691666666667,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 3.8950000000000005,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 65.04650000000001,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "TTM",
+        "electron_donor": "s4o6",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.02,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 2.6,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 0.7199815837937384,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "TSM",
+        "electron_donor": "s2o3",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.026,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 4.5,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 0.93597605893186,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.08,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 277.19416666666666,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 3.408125,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 58.42500000000001,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "TTM",
+        "electron_donor": "s4o6",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.029,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 3.5,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.0439732965009207,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "TSM",
+        "electron_donor": "s2o3",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.039,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 6.7,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.40396408839779,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.0575,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 204.16291666666666,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 2.337,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 48.68750000000001,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "TTM",
+        "electron_donor": "s4o6",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.037,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 4.2,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.3319659300184161,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "TSM",
+        "electron_donor": "s2o3",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.051,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 7.6,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.835953038674033,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.0475,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 171.70458333333335,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 2.0448750000000007,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 43.81875000000001,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "TTM",
+        "electron_donor": "s4o6",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.041,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 4.45,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.4759622467771638,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "TSM",
+        "electron_donor": "s2o3",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.065,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 9.25,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 2.33994014732965,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.044,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 160.34416666666667,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.9475000000000002,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 38.95,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "TTM",
+        "electron_donor": "s4o6",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.063,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 6.0,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 2.2679419889502763,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "TSM",
+        "electron_donor": "s2o3",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.079,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 11.0,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 2.843927255985267,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.04,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 147.36083333333335,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.5580000000000003,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 33.1075,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "TSM",
+        "electron_donor": "s2o3",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.125,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 15.6,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 4.4998848987108655,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": null,
+            "role": "NOT_REPORTED_IN_TABLE5"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.03,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 114.9025,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 1.3048250000000001,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 27.265000000000004,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.019,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 79.19833333333334,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 0.6426750000000001,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 17.527500000000003,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      },
+      {
+        "condition": "FIM",
+        "electron_donor": "fe2",
+        "measurements": {
+          "growth_rate_mu_h_minus1": {
+            "value": 0.01,
+            "role": "VALIDATION_TARGET"
+          },
+          "electron_donor_uptake_mmol_gDW_h": {
+            "value": 49.98583333333333,
+            "role": "VALIDATION_TARGET"
+          },
+          "h2co3_inorganic_carbon_uptake_mmol_gDW_h": {
+            "value": 0.35055000000000003,
+            "role": "MODEL_INPUT_CONSTRAINT"
+          },
+          "o2_uptake_mmol_gDW_h": {
+            "value": 12.853500000000002,
+            "role": "VALIDATION_TARGET"
+          }
+        }
+      }
+    ],
+    "residual_ambiguity": "Methods 2.5 writes '20 different experimental points specifying the growth rate, h2co3 uptake rate, o2 uptake rate (only for FIM), and the corresponding final electron donor ... were used for simulations'. Only h2co3 is explicitly singled out as 'set' per model; growth, donor uptake and o2 uptake appear in the fitness comparison as FBA predictions, so they are classified as VALIDATION_TARGET. The 'used for simulations' phrasing is loose, but no variable is left as REPORTED_BUT_ROLE_REQUIRES_CONFIRMATION because the Methods fitness-comparison sentence resolves the roles."
+  },
+  "special_analysis_scenarios": [
+    {
+      "scenario_id": "minimal_media_table1_columns",
+      "h2co3_mmol_gDW_h": 2.0,
+      "conditions": [
+        "FIM",
+        "TTM",
+        "TSM"
+      ],
+      "electron_donor": "condition-specific donor (fe2 / ttton / tsul), exchange left open on the uptake side",
+      "source": "mmc1.xls Table 1 cols 11-16 (Minimal Media for fe2/ttton/tsul); Ex_h2co3[e] fixed lb=ub=-2",
+      "note": "This is the published model minimal-media setting, not an experimental uptake and not a universal growth constraint; the value 2.0 also appears as the normalization below."
+    },
+    {
+      "scenario_id": "flux_distribution_normalization",
+      "h2co3_mmol_gDW_h": 2.0,
+      "conditions": [
+        "FIM",
+        "TTM",
+        "TSM"
+      ],
+      "electron_donor": "corresponding donor allowed to freely enter the system",
+      "source": "Results Fig 2; Fig 3 caption; Supplementary Note 4",
+      "note": "FBA maximizing BOF with h2co3 uptake normalized to 2 mmol/gDW/h to compare flux states across donors."
+    },
+    {
+      "scenario_id": "reaction_knockdown_fim",
+      "h2co3_mmol_gDW_h": 2.0,
+      "conditions": [
+        "FIM"
+      ],
+      "electron_donor": "fe2 and o2 freely enter/leave",
+      "source": "Methods 2.7; Results Fig 4",
+      "note": "Individual reaction knock-down with external CO2 transport constraints (0/50/100%)."
+    },
+    {
+      "scenario_id": "reaction_essentiality_analysis",
+      "h2co3_mmol_gDW_h": 2.34,
+      "conditions": [
+        "FIM",
+        "TTM",
+        "TSM"
+      ],
+      "electron_donor": "condition-specific donor (Methods 2.6 describes sequential reaction removal)",
+      "source": "Methods 2.6 (Reaction essentiality analysis)",
+      "note": "h2co3 uptake set to 2.34 mmol/gDW/h; reactions removed by lb=ub=0; growth>0 = non-lethal knockout."
+    },
+    {
+      "scenario_id": "eps_growth_coupled_knockout_design",
+      "h2co3_mmol_gDW_h": 2.34,
+      "conditions": [
+        "FIM"
+      ],
+      "electron_donor": "fe2 and o2 freely enter/leave; external metabolic CO2 transport step added",
+      "source": "Methods 2.8 (Reaction knock-out simulations)",
+      "note": "Single/double/triple knockouts for growth-coupled EPS production; 134 designs reported."
+    }
+  ],
+  "energy_parameters": {
+    "GAM": {
+      "value": 139,
+      "units": "mmol ATP/gDW",
+      "where_embedded": "biomass objective function Afe_biomass_mc507_WT_139p0M (139 h2o + 139.1 atp on the reactant side)",
+      "applies_to": [
+        "final fitted model used for the 20-point validation (genetic algorithm fit)",
+        "electron-transfer flux-distribution analyses",
+        "reaction essentiality / knock-down / knock-out / EPS design analyses"
+      ],
+      "excluded_from": [
+        "minimal medium formulation and gap-filling (Methods 2.4: GAM and NGAM were not considered)"
+      ],
+      "basis": "Methods 2.2/2.5; Supplementary Note 3; biomass reaction label 'with 139 GAM estimate'."
+    },
+    "NGAM_ATPM": {
+      "value": 3.475,
+      "units": "mmol/gDW/h",
+      "relation": "2.5% of GAM (Feist et al., 2006); 139 * 0.025 = 3.475",
+      "where_embedded": "ATPM reaction (ATP maintenance requirement), lb=ub=3.475 in mmc1.xls Table 1",
+      "applies_to": [
+        "final fitted model used for validation and downstream analyses (same scope as GAM)"
+      ],
+      "excluded_from": [
+        "minimal medium formulation and gap-filling (Methods 2.4)"
+      ],
+      "basis": "Methods 2.5 (NGAM set as 2.5% of GAM); mmc1.xls Table 1 ATPM row."
+    }
+  }
+}

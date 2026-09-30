@@ -1,0 +1,2 @@
+condition	fraction	method	exception
+ALL	ALL	fastSNP	GLPK MILP too slow: fastSNP loopless FVA did not complete within 30-40 min budget per context (2 reactions > 5 min). Requires commercial MILP solver (Gurobi/CPLEX).

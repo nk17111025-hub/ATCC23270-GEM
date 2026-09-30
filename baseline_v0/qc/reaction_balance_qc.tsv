@@ -1,0 +1,616 @@
+reaction_id	reaction_name	type	subsystem	equation	mass_status	charge_status	overall_status	element_imbalance	charge_imbalance	note
+3OAR1	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + actACP[c]  <=> nadp[c] + 3hydbutACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR10	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3ohexACP[c]  <=> nadp[c] + 3hhexACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR11	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3ooctACP[c]  <=> nadp[c] + 3hoctACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR12	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3odecACP[c]  <=> nadp[c] + 3hdecACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR13	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3oddecACP[c]  <=> nadp[c] + 3hddecACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR14	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3omrsACP[c]  <=> nadp[c] + 3hmrsACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR15	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3opalmACP[c]  <=> nadp[c] + 3hpalmACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR16	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3ooctdACP[c]  <=> nadp[c] + 3hoctaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR17	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3oxeicACP[c]  <=> nadp[c] + R-3hyeicACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR2	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + coxododACP[c]  <=> nadp[c] + chydodeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR3	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + coxtdeACP[c]  <=> nadp[c] + chytedeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR4	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + coxhxcsACP[c]  <=> nadp[c] + chyhecdeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR5	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + coxocdaACP[c]  <=> nadp[c] + chyocdeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR6	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] +3oxpenACP[c]  <=> nadp[c] + R-3hptACP[c]  	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR7	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	5 h[c] + 5 nadph[c] + v3oaACP[c]  <=> 5 nadp[c] + v3haACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR8	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3oxhepACP[c]  <=> nadp[c] + R-3hyhepACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAR9	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 3oxnonACP[c]  <=> nadp[c] + 3hynonACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS1	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + malACP[c] + butACP[c]  -> co2[c] + ACP[c] + 3ohexACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS10	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + malACP[c] + dcaACP[c]  -> co2[c] + ACP[c] + 3oddecACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS11	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + ddcaACP[c] + malACP[c]  -> co2[c] + ACP[c] + 3omrsACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS12	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + myrsACP[c] + malACP[c]  -> co2[c] + ACP[c] + 3opalmACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS13	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + palmACP[c] + malACP[c]  -> co2[c] + ACP[c] + 3ooctdACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS14	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + ocdcaACP[c] + malACP[c]  -> co2[c] + ACP[c] + 3oxeicACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS15	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + dec3ACP[c] + malACP[c]  -> co2[c] + ACP[c] + coxododACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS2	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + malACP[c] + 3cddACP[c]  -> co2[c] + ACP[c] + coxtdeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS27	3-oxoacyl-(acyl-carrier-protein) synthase III	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + acACP[c] + malACP[c]  -> co2[c] + ACP[c] + actACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS28	3-oxoacyl-(acyl-carrier-protein) synthase III	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + malACP[c] + ppcoa[c]  <=> co2[c] + coa[c] + 3oxpenACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS3	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + malACP[c] + ctdeACP[c]  -> co2[c] + ACP[c] + coxhxcsACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS4	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + chexcaACP[c] + malACP[c]  -> co2[c] + ACP[c] + coxocdaACP[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	-1.0	
+3OAS5	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	5 h[c] + 5 malACP[c] + ptACP[c]  -> 5 co2[c] + 5 ACP[c] + v3oaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS6	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + ptdcaACP[c] + malACP[c]  -> co2[c] + ACP[c] + 3oxhepACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS7	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + hpdcaACP[c] + malACP[c]  -> co2[c] + ACP[c] + 3oxnonACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS8	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + malACP[c] + hexACP[c]  -> co2[c] + ACP[c] + 3ooctACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+3OAS9	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + malACP[c] + ocACP[c]  -> co2[c] + ACP[c] + 3odecACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+4HBAtex	4hba transport	transport	Transport, Outer Membrane Porin	4hba[p]  <=> 4hba[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+4HBAtpp	4hba transport (citoplasm)	transport	Transport, Inner Membrane	4hba[c]  <=> 4hba[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+4THASE1	tetrathionate hydrolase	internal	Sulfur Metabolism 	ttton[p] + h2o[p]  -> tsul[p] + s[p] + 2 h[p] + so4[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+4THASE2	tetrathionate hydrolase	internal	Sulfur Metabolism 	4 ttton[p] + 5 h2o[p]  -> 7 tsul[p] + 10 h[p] + 2 so4[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+5OXOP	5-oxoprolinase (ATP-hydrolysing)	internal	Glutathione Metabolism	5oxpro[c] + 2 h2o[c] + atp[c]  <=> h[c] + glu-L[c] + pi[c] + adp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+A5PISO	Arabinose-5-phosphate isomerase	internal	(Lipopolysaccharide Biosynthesis) or (Alternate Carbon Metabolism)	ru5p-D[c]  <=> ara5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACCOAC	Acetyl-CoA carboxylase	internal	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	atp[c] + accoa[c] + hco3[c]  <=> h[c] + pi[c] + adp[c] + malcoa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACGK	acetylglutamate kinase	internal	Arginine and Proline Metabolism	atp[c] + acglu[c]  -> adp[c] + acg5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACGS	N-acetylglutamate synthase	internal	Arginine and Proline Metabolism	glu-L[c] + accoa[c]  -> h[c] + coa[c] + acglu[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACHBS	2-aceto-2-hydroxybutanoate synthase	internal	Valine, Leucine, and Isoleucine Metabolism	h[c] + pyr[c] + 2obut[c]  -> co2[c] + 2ahbut[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACLS	acetolactate synthase	internal	Valine, Leucine, and Isoleucine Metabolism	h[c] + 2 pyr[c]  -> alac-S[c] + co2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACOATA	Acetyl-CoA ACP transacylase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	accoa[c] + ACP[c]  <=> coa[c] + acACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACODA	Acetylornithine deacetylase	internal	Arginine and Proline Metabolism	h2o[c] + acorn[c]  -> orn[c] + ac[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACONT1	aconitase (half-reaction A, Citrate hydro-lyase)	internal	Citric Acid Cycle	cit[c]  <=> h2o[c] + acon-C[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACONT2	aconitase (half-reaction B, Isocitrate hydro-lyase)	internal	Citric Acid Cycle	h2o[c] + acon-C[c]  <=> icit[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACOTA	acetylornithine transaminase	internal	Arginine and Proline Metabolism	acorn[c] + akg[c]  <=> glu-L[c] + acg5sa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACPS1	holo-[acyl-carrier protein] synthase	internal	Cofactor and Prosthetic Group Biosynthesis	coa[c] + apoACP[c]  -> h[c] + ACP[c] + pap[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACPpds	acyl carrier protein phosphodiesterase	internal	Sulfur Metabolism	h2o[c] + ACP[c]  -> h[c] + apoACP[c] + 4ppan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ACS	acetyl-CoA synthetase	internal	Pyruvate Metabolism	atp[c] + ac[c] + coa[c]  -> ppi[c] + accoa[c] + amp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADA	Adenosine deaminase	internal	Nucleotide Salvage Pathway	h[c] + h2o[c] + adn[c]  <=> ins[c] + nh4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADCL	4-aminobenzoate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	4adcho[c]  -> h[c] + pyr[c] + 4abz[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADCS	4-amino-4-deoxychorismate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	chor[c] + gln-L[c]  -> glu-L[c] + 4adcho[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADK1	Adenylate kinase	internal	Nucleotide Salvage Pathway	atp[c] + amp[c]  <=> 2 adp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADMDC	Adenosylmethionine decarboxylase	internal	Arginine and Proline Metabolism	h[c] + amet[c]  <=> co2[c] + ametam[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADNSE	Adenosylhomocysteinase	internal	Methionine Metabolism	h2o[c] + ahcys[c]  <=> adn[c] + hcys-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADPT	adenine phosphoribosyltransferase	internal	Nucleotide Salvage Pathway	ppi[c] + amp[c]  <=> ade[c] + prpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADSK	adenylyl-sulfate kinase	internal	Cysteine Metabolism	atp[c] + aps[c]  <=> h[c] + adp[c] + paps[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADSL1	adenylsuccinate lyase	internal	Purine and Pyrimidine Biosynthesis	dcamp[c]  <=> amp[c] + fum[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADSL2	adenylosuccinate lyase	internal	Purine and Pyrimidine Biosynthesis	25aics[c]  <=> fum[c] + aicar[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADSR	adenylylsulfate reductase 	internal	Sulfur Metabolism 	2 h[c] + amp[c] + q8[c] + so3[c]  -> q8h2[c] + aps[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ADSS	adenylosuccinate synthase	internal	Purine and Pyrimidine Biosynthesis	asp-L[c] + gtp[c] + imp[c]  -> 2 h[c] + pi[c] + gdp[c] + dcamp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AGAD	NAD dependent UDP-N-acetylglucosamine 3-dehydrogenase 	internal	Lipopolysaccharide Biosynthesis	nad[c] + uacgam[c]  -> h[c] + nadh[c] + uacgamo[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AGMHE	ADP-D-glycero-D-manno-heptose epimerase	internal	Lipopolysaccharide Biosynthesis	adphep-DD[c]  <=> adphep-LD[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AGPR	N-acetyl-g-glutamyl-phosphate reductase	internal	Arginine and Proline Metabolism	pi[c] + nadp[c] + acg5sa[c]  <=> h[c] + nadph[c] + acg5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AHCYSNS	Adenosylhomocysteine nucleosidase	internal	Methionine Metabolism	h2o[c] + ahcys[c]  -> ade[c] + rhcys[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AICART	phosphoribosylaminoimidazolecarboxamide formyltransferase	internal	Purine and Pyrimidine Biosynthesis	10fthf[c] + aicar[c]  <=> thf[c] + fprica[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AIRC	Phosphoribosylaminoimidazole carboxylase	internal	Purine and Pyrimidine Biosynthesis	h[c] + 5aizc[c]  <=> co2[c] + air[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ALAALAr	D-alanine-D-alanine ligase	internal	(Cell Envelope Biosynthesis) or (Murein Biosynthesis)	atp[c] + 2 ala-D[c]  <=> h[c] + pi[c] + adp[c] + alaala[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ALAR	alanine racemase	internal	Alanine and Aspartate Metabolism	ala-L[c]  <=> ala-D[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ALDEP	aldose 1-epimerase	internal	Glycogen Metabolism	glc-B[c]  <=> glc-A[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AMALT1	Amylomaltase (maltotriose)	internal	Alternate Carbon Metabolism	malttr[c] + mal-B[c]  <=> glc-B[c] + maltttr[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AMAOT	adenosylmethionine-8-amino-7-oxononanoate transaminase	internal	Cofactor and Prosthetic Group Biosynthesis	amet[c] + 8aonn[c]  <=> amob[c] + dann[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AMPMS	Reaction of thiamine biosynthesis protein thiC	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	2 h2o[c] + nad[c] + air[c]  -> 3 h[c] + pi[c] + nadh[c] + 2 for[c] + 4ahmmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AMPN	AMP nucleosidase	internal	Nucleotide Salvage Pathway	h2o[c] + amp[c]  -> ade[c] + r5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AMPTASECG	alanyl aminopeptidase (cys-gly)	internal	Cysteine Metabolism	h2o[c] + cgly[c]  <=> cys-L[c] + gly[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ANPRT	anthranilate phosphoribosyltransferase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	anth[c] + prpp[c]  -> ppi[c] + pran[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ANSYN	Anthranilate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	chor[c] + gln-L[c]  <=> h[c] + glu-L[c] + pyr[c] + anth[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AOXS	8-amino-7-oxononanoate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	h[c] + ala-L[c] + pmcoa[c]  <=> co2[c] + coa[c] + 8aonn[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+APRAUR	5-amino-6-(5-phosphoribosylamino)uracil reductase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	nadp[c] + 5a65pilamura[c]  <=> h[c] + nadph[c] + 5apru[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+AREDO	acireductone dioxygenase	internal	Methionine Metabolism	o2[c] + 12dhy3meten[c]  -> h[c] + for[c] + 2kmb[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ARGDC	Arginine decarboxylase	internal	Arginine and Proline Metabolism	h[c] + arg-L[c]  <=> co2[c] + agm[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ARGSL	argininosuccinate lyase	internal	Arginine and Proline Metabolism	argsuc[c]  -> arg-L[c] + fum[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ARGSS	argininosuccinate synthase	internal	Arginine and Proline Metabolism	atp[c] + asp-L[c] + citr-L[c]  -> h[c] + ppi[c] + amp[c] + argsuc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASAD	aspartate-semialdehyde dehydrogenase	internal	Threonine and Lysine Metabolism	pi[c] + nadp[c] + aspsa[c]  <=> h[c] + 4pasp[c] + nadph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASNS1	asparagine synthase (glutamine-hydrolysing)	internal	Alanine and Aspartate Metabolism	h2o[c] + atp[c] + asp-L[c] + gln-L[c]  -> h[c] + glu-L[c] + ppi[c] + asn-L[c] + amp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASP1DC	aspartate 1-decarboxylase	internal	Cofactor and Prosthetic Group Biosynthesis	h[c] + asp-L[c]  -> co2[c] + ala-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASPCT	aspartate carbamoyltransferase	internal	Purine and Pyrimidine Biosynthesis	asp-L[c] + cbp[c]  -> h[c] + pi[c] + cbasp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASPK	Aspartate kinase	internal	Threonine and Lysine Metabolism	atp[c] + asp-L[c]  <=> adp[c] + 4pasp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASPO5	L-aspartate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	asp-L[c] + fum[c]  -> h[c] + succ[c] + iasp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASPO6	L-aspartate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	asp-L[c] + o2[c]  -> h[c] + h2o2[c] + iasp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ASPTA	aspartate transaminase	internal	Alanine and Aspartate Metabolism	asp-L[c] + akg[c]  <=> glu-L[c] + oaa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ATPM	ATP maintenance requirement	internal	Unassigned	h2o[c] + atp[c]  -> h[c] + pi[c] + adp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ATPPRT	ATP phosphoribosyltransferase	internal	Histidine Metabolism	ppi[c] + prbatp[c]  <=> atp[c] + prpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ATPS5rpp	ATP synthase (5 protons for one ATP) (periplasm)	internal	Oxidative Phosphorylation	5 h[p] + pi[c] + adp[c]  -> 4 h[c] + h2o[c] + atp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+Afe_biomass_mc507_WT_139p0M	Afe biomass objective function (mc507) - WT - with 139 GAM estimate	biomass	Exchange	0.26 glu-L[c] + 139 h2o[c] + 139.1 atp[c] + 2e-005 amet[c] + 0.27 asp-L[c] + 0.00019 nad[c] + 2e-005 chor[c] + 0.26 gln-L[c] + 0.28 arg-L[c] + 0.00358 ptrc[c] + 0.00073 spmd[c] + 3e-005 accoa[c] + 2e-005 gthrd[c] + 1e-005 succoa[c] + 2e-005 sheme[c] + 2e-005 hemeO[c] + 4e-005 nadph[c] + 2e-005 coa[c] + 1e-005 nadp[c] + 2e-005 fad[c] + 2e-005 thf[c] + 2e-005 mlthf[c] + 2e-005 5mthf[c] + 2e-005 10fthf[c] + 2e-005 thmpp[c] + 2e-005 q8h2[c] + 2e-005 pydx5p[c] + 2e-005 pheme[c] + 1e-005 udcpdp[c] + 2e-005 ribflv[c] + 0.094 utp[c] + 0.14 gtp[c] + 0.13 ctp[c] + 0.015 datp[c] + 0.015 dttp[c] + 0.022 dgtp[c] + 0.022 dctp[c] + 0.046 k[c] + 0.14 na1[c] + 0.24 mg2[c] + 0.087 ca2[c] + 0.067 fe2[c] + 0.067 fe3[c] + 0.001 cu2[c] + 0.03 mn2[c] + 0.002 zn2[c] + 0.09 so4[c] + 0.024 lps_AFE[c] + 0.07 ppl_AFE[c] + 0.013 murein5px4p[c] + 0.15 glycogen[c] + 0.17 met-L[c] + 0.33 lys-L[c] + 0.24 his-L[c] + 0.26 thr-L[c] + 0.66 ala-L[c] + 0.23 ser-L[c] + 0.55 gly[c] + 0.18 phe-L[c] + 0.14 tyr-L[c] + 0.41 val-L[c] + 0.29 ile-L[c] + 0.51 leu-L[c] + 0.27 pro-L[c] + 0.27 asn-L[c]  -> 139 h[c] + 139 pi[c] + 139 adp[c] + bio[c] + 0.531 ppi[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-0.55313	
+BDGK	Glucokinase 	internal	Glycolysis/Gluconeogenesis	atp[c] + glc-B[c]  <=> h[c] + adp[c] + g6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH1	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hydbutACP[c]  <=> h2o[c] + but2eACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH10	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hhexACP[c]  <=> h2o[c] + thex2eACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH11	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hoctACP[c]  <=> h2o[c] + toct2eACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH12	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hdecACP[c]  <=> h2o[c] + tdec2eACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH13	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hddecACP[c]  <=> h2o[c] + tddec2eACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH14	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hmrsACP[c]  <=> h2o[c] + tmrs2eACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH15	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hpalmACP[c]  <=> h2o[c] + tpalm2eACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH16	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hoctaACP[c]  <=> h2o[c] + 2tadeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH17	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	R-3hyeicACP[c]  <=> h2o[c] + 2teicACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH2	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	chydodeACP[c]  <=> h2o[c] + c2tdodeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH3	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	chytedeACP[c]  <=> h2o[c] + c2ttedeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH4	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	chyhecdeACP[c]  <=> h2o[c] + c2thedeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH5	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	chyocdeACP[c]  <=> h2o[c] + c2tocdeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH6	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	R-3hptACP[c]  <=> h2o[c] + 2tpenACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH7	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	v3haACP[c]  <=> 5 h2o[c] + vtenACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BHAH8	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	R-3hyhepACP[c]  <=> h2o[c] + thepcaACP[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+BHAH9	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	3hynonACP[c]  <=> h2o[c] + noncaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BILG	Biotin--[acetyl-CoA-carboxylase] ligase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	atp[c] + btn[c] + bccp[c]  -> h[c] + ppi[c] + bcCP_AFE[c] + amp[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		1.0	
+BIOC1	Biotin carboxylase	internal	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	accoa[c] + bcCPco2_AFE[c]  -> h[c] + malcoa[c] + 2 bcCP_AFE[c] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+BIOC2	Biotin carboxylase	internal	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	atp[c] + hco3[c] + 2 bcCP_AFE[c]  -> pi[c] + adp[c] + bcCPco2_AFE[c] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+BIOMASStex		biomass	Transport, Outer Membrane Porin	bio[p]  <=> bio[e] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+BIOMASStpp		biomass	Transport, Inner Membrane	bio[c]  <=> bio[p] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+BPNT	3,5-bisphosphate nucleotidase	internal	Cysteine Metabolism	h2o[c] + pap[c]  -> pi[c] + amp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+BTS5	Biotin synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	2 amet[c] + dtbt[c] + RSH[c]  -> h[c] + 2 met-L[c] + btn[c] + 2 dad-5[c] + R[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	-1.0	
+CA2tex	ca2 transport (citoplasm)	transport	Transport, Outer Membrane Porin	ca2[e]  <=> ca2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CA2tpp	Na+/Ca+2 symporter (periplasm)	transport	Transport, Inner Membrane	ca2[p]  -> ca2[c] + na1[p] 	MASS_IMBALANCED	CHARGE_IMBALANCED	MASS_AND_CHARGE_IMBALANCED	"{""Na"": 1.0}"	1.0	
+CAT	catalase	internal	Unassigned	2 h2o2[c]  <=> 2 h2o[c] + o2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CBPS	carbamoyl-phosphate synthase (glutamine-hydrolysing)	internal	Arginine and Proline Metabolism	h2o[c] + 2 atp[c] + gln-L[c] + hco3[c]  -> 2 h[c] + glu-L[c] + pi[c] + 2 adp[c] + cbp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CDPMEK	4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol kinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	atp[c] + 4c2me[c]  <=> h[c] + adp[c] + 2p4c2me[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CFAS190	cyclopropane-fatty-acyl-phospholipid synthase	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis)	amet[c] + noncaACP[c]  -> h[c] + c190cACP[c] + ahcys[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+CHORM	chorismate mutase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	chor[c]  <=> pphn[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CHORS	chorismate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	3psme[c]  -> pi[c] + chor[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CHRPL	Chorismate pyruvate lyase	internal	(Ubiquinone Synthesis) or (Cofactor and Prosthetic Group Biosynthesis)	chor[c]  <=> pyr[c] + 4hbz[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CLPNS120	cardiolipin synthase	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis) or (Cardiolipin Biosynthesis)	2 pg120[c]  <=> clpn120[c] + glyc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CPPPGO1	coproporphyrinogen oxidase (O2 required)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	2 h[c] + o2[c] + cpppg3[c]  <=> 2 h2o[c] + 2 co2[c] + pppg9[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CPPPGO2	Oxygen Independent coproporphyrinogen-III oxidase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	2 amet[c] + cpppg3[c]  <=> 2 co2[c] + 2 met-L[c] + 2 dad-5[c] + pppg9[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CS	citrate synthase	internal	Citric Acid Cycle	h2o[c] + accoa[c] + oaa[c]  -> h[c] + coa[c] + cit[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CSND	Cytosine deaminase	internal	Nucleotide Salvage Pathway	h[c] + h2o[c] + csn[c]  -> nh4[c] + ura[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CTPS2	CTP synthase (glutamine)	internal	Purine and Pyrimidine Biosynthesis	h2o[c] + atp[c] + gln-L[c] + utp[c]  <=> 2 h[c] + glu-L[c] + pi[c] + adp[c] + ctp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CU2tex	cu2 transport	transport	Transport, Outer Membrane Porin	cu2[e]  <=> cu2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CU2tpp	metalion trabsporter, NRAMP family	transport	Transport, Inner Membrane	cu2[p]  -> cu2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYSDSS	Cysteine desulfurase IscS 	internal	Valine, Leucine, and Isoleucine Metabolism	h[c] + cys-L[c] + iscscys[c]  -> ala-L[c] + iscssulfcys[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYSS	cysteine synthase	internal	Cysteine Metabolism	acser[c] + h2s[c]  -> h[c] + ac[c] + cys-L[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+CYT1	cytochrome c552/rusticyanin complex	internal	Oxidative Phosphorylation	rustred[p] + cytcco[p]  -> rust[p] + cytccr[p] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+CYT2	cytochrome c/rusticyanin complex	internal	Oxidative Phosphorylation	rust[p] + 2 fe2[e]  -> rustred[p] + 2 fe3[e] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		2.0	
+CYTA2	cytochrome c4/rusticyanin complex	internal	Oxidative Phosphorylation	rustred[p] + cytcAo[p]  -> rust[p] + cytcAr[p] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+CYTAA31	cytochrome c oxidase, aa3-type	internal	Oxidative Phosphorylation	2 h[c] + 0.5 o2[c] + cytccr[p]  -> h2o[c] + cytcco[p] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-2.0	
+CYTAA32	cytochrome c oxidase, aa3-type (1.3 protons)	internal	Oxidative Phosphorylation	1.3 h[c] + 0.5 o2[c] + etpcycArd[p]  -> 1.3 h[p] + h2o[c] + etpcycAox[p] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+CYTBC1	cytochrome oxidase bc1 (5 protons) (periplasm)	internal	Oxidative Phosphorylation	5 h[p] + q8[c] + cytcAr[p]  -> 5 h[c] + q8h2[c] + cytcAo[p] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+CYTBD	cytochrome oxidase bd (ubiquinol-8: 1.8 protons) (periplasm)	internal	Oxidative Phosphorylation	1.8 h[c] + q8h2[c] + 0.5 o2[c]  -> 1.8 h[p] + h2o[c] + q8[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYTBO3	cytochrome oxidase bo3 (ubiquinol-8: 1.8 protons) (periplasm)	internal	Oxidative Phosphorylation	1.8 h[c] + q8h2[c] + 0.5 o2[c]  -> 1.8 h[p] + h2o[c] + q8[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYTD	cytidine deaminase	internal	Nucleotide Salvage Pathway	h[c] + h2o[c] + cytd[c]  <=> nh4[c] + uri[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYTDK1	cytidine kinase (ATP)	internal	Nucleotide Salvage Pathway	atp[c] + cytd[c]  -> h[c] + adp[c] + cmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYTDK2	cytidine kinase (GTP)	internal	Nucleotide Salvage Pathway	gtp[c] + cytd[c]  -> h[c] + cmp[c] + gdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYTK1	cytidylate kinase (CMP)	internal	Nucleotide Salvage Pathway	atp[c] + cmp[c]  <=> adp[c] + cdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYTK2	cytidylate kinase (dCMP)	internal	Nucleotide Salvage Pathway	atp[c] + dcmp[c]  <=> adp[c] + dcdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+CYTRED	bc1 complex (0.5 protons)	internal	Oxidative Phosphorylation	0.5 h[p] + q8h2[c] + etpcycAox[p]  -> 0.5 h[c] + q8[c] + etpcycArd[p] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+DADA	Deoxyadenosine deaminase	internal	Nucleotide Salvage Pathway	h[c] + h2o[c] + dad-2[c]  -> nh4[c] + din[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DAPDC	diaminopimelate decarboxylase	internal	Threonine and Lysine Metabolism	h[c] + 26dap-M[c]  <=> co2[c] + lys-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DAPE	diaminopimelate epimerase	internal	Threonine and Lysine Metabolism	26dap-LL[c]  <=> 26dap-M[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DB4PS	3,4-Dihydroxy-2-butanone-4-phosphate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	ru5p-D[c]  <=> h[c] + for[c] + db4p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DBTS	dethiobiotin synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	atp[c] + co2[c] + dann[c]  <=> 3 h[c] + pi[c] + adp[c] + dtbt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DCTPD	dCTP deaminase	internal	Nucleotide Salvage Pathway	h[c] + h2o[c] + dctp[c]  -> nh4[c] + dutp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DCYTD	deoxycytidine deaminase	internal	Nucleotide Salvage Pathway	h[c] + h2o[c] + dcyt[c]  -> nh4[c] + duri[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DDGPA	2-keto-3-deoxy-6-phosphogluconate aldolase 	internal	Pentose Phosphate Pathway	2ddg6p[c]  -> pyr[c] + g3p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DDPA	2-dehydro-3-deoxyphosphoheptonate aldolase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	h2o[c] + pep[c] + e4p[c]  -> pi[c] + 2dda7p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DGAMK	D-Glucosamine Kinase 	internal	Lipopolysaccharide Biosynthesis	h[c] + adp[c] + gam6p[c]  <=> atp[c] + gam[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DGPE	D-glucose-6-phosphate 1-epimerase	internal	Glycogen Metabolism	g6p-A[c]  <=> g6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHAD1	dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	internal	Valine, Leucine, and Isoleucine Metabolism	23dhmb[c]  -> h2o[c] + 3mob[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHAD2	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	internal	Valine, Leucine, and Isoleucine Metabolism	23dhmp[c]  <=> h2o[c] + 3mop[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHDPRy	dihydrodipicolinate reductase (NADPH)	internal	Threonine and Lysine Metabolism	nadp[c] + thdp[c]  <=> h[c] + nadph[c] + 23dhdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHDPS	dihydrodipicolinate synthase	internal	Threonine and Lysine Metabolism	pyr[c] + aspsa[c]  <=> h[c] + 2 h2o[c] + 23dhdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHFR	dihydrofolate reductase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	nadp[c] + thf[c]  <=> h[c] + nadph[c] + dhf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHFS	dihydrofolate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	glu-L[c] + atp[c] + dhpt[c]  -> h[c] + pi[c] + adp[c] + dhf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHNPA2	dihydroneopterin aldolase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	dhnpt[c]  <=> gcald[c] + 6hmhpt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHORD	dihydoorotic acid dehydrogenase (quinone8)	internal	Purine and Pyrimidine Biosynthesis	o2[c] + dhor-S[c]  -> h2o2[c] + orot[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHORTS	dihydroorotase	internal	Purine and Pyrimidine Biosynthesis	h[c] + cbasp[c]  <=> h2o[c] + dhor-S[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHPPDA	diaminohydroxyphosphoribosylaminopryrimidine deaminase (2dhpp)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	h2o[c] + 2dhpp[c]  -> nh4[c] + 5apru[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHPS2	dihydropteroate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	2ahhmd[c] + 4abz[c]  <=> ppi[c] + dhpt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHQS	3-dehydroquinate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	2dda7p[c]  -> pi[c] + 3dhq[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DHQT	3-dehydroquinate dehydratase, irreversible	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	3dhq[c]  <=> h2o[c] + 3dhsk[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DKMPE	2,3-diketo-5-methylthiopentyl-1-phosphate enolase	internal	Methionine Metabolism	dkmpp[c]  <=> 2h3kto5me1pe[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DMATT	dimethylallyltranstransferase	internal	Cofactor and Prosthetic Group Biosynthesis	dmpp[c] + ipdp[c]  -> ppi[c] + grdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DMPPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	h[c] + nadph[c] + h2mb4p[c]  -> h2o[c] + nadp[c] + dmpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DNMPPA	Dihydroneopterin monophosphate dephosphorylase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	h2o[c] + dhpmp[c]  -> pi[c] + dhnpt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DNTPPA	Dihydroneopterin triphosphate pyrophosphatase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	h2o[c] + ahdt[c]  -> h[c] + ppi[c] + dhpmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DOXRI	1-deoxy-D-xylulose-5-phosphate reductoisomerase	internal	(Ubiquinone Synthesis) or (Cofactor and Prosthetic Group Biosynthesis)	nadp[c] + 2me4p[c]  <=> h[c] + nadph[c] + dxyl5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DOXS	1-deoxy-D-xylulose-5-phosphate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Thiamin biosynthesis)	h[c] + pyr[c] + g3p[c]  <=> co2[c] + dxyl5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DPCOAK	dephospho-CoA kinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A Biosynthesis)	atp[c] + dpcoa[c]  -> h[c] + adp[c] + coa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DPR	2-dehydropantoate 2-reductase	internal	Cofactor and Prosthetic Group Biosynthesis	nadp[c] + pant-R[c]  <=> h[c] + nadph[c] + 2dhp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DTDCT	di-trans-poly-cis-decaprenylcistransferase	internal	Cell Envelope Biosynthesis	ipdp[c] + frdp[c]  <=> ppi[c] + ttc-ggdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DTMPK	dTMP kinase	internal	Nucleotide Salvage Pathway	atp[c] + dtmp[c]  <=> adp[c] + dtdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+DUQM	3-demethylubiquinone-9 3-methyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	amet[c] + 3dmq[c]  <=> 3 h[c] + ahcys[c] + q8[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	2.0	
+DUTPDP	dUTP diphosphatase	internal	Nucleotide Salvage Pathway	h2o[c] + dutp[c]  <=> h[c] + ppi[c] + dump[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+E4PD	erythrose-4-phosphate dehydrogenase	internal	Cofactor and Prosthetic Group Biosynthesis	h2o[c] + nad[c] + e4p[c]  <=> 2 h[c] + nadh[c] + 4per[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR1	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + but2eACP[c]  <=> nadp[c] + butACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR10	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + thex2eACP[c]  <=> nadp[c] + hexACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR11	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + toct2eACP[c]  <=> nadp[c] + ocACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR12	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + tdec2eACP[c]  <=> nadp[c] + dcaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR13	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + tddec2eACP[c]  <=> nadp[c] + ddcaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR14	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + tmrs2eACP[c]  <=> nadp[c] + myrsACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR15	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + tpalm2eACP[c]  <=> nadp[c] + palmACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR16	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 2tadeACP[c]  <=> nadp[c] + ocdcaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR17	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 2teicACP[c]  <=> nadp[c] + arachACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR2	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + c2tdodeACP[c]  <=> nadp[c] + 3cddACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR3	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + c2ttedeACP[c]  <=> nadp[c] + ctdeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR4	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + c2thedeACP[c]  <=> nadp[c] + chexcaACP[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+EAR5	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + c2tocdeACP[c]  <=> nadp[c] + octeACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR6	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + 2tpenACP[c]  <=> nadp[c] + ptACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR7	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	5 h[c] + 5 nadph[c] + vtenACP[c]  <=> 5 nadp[c] + ptdcaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EAR8	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + thepcaACP[c]  <=> nadp[c] + hpdcaACP[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	-1.0	
+EAR9	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	h[c] + nadph[c] + noncaACP[c]  <=> nadp[c] + nodcaACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ENO	enolase	internal	Glycolysis/Gluconeogenesis	2pg[c]  <=> h2o[c] + pep[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+EPS	EPS formation	internal	EPS biosynthesis	0.17 dtdprmn[c] + 0.255 gdpfuc[c] + 0.01 udpxyl[c] + 0.005 gdpmann[c] + 0.11 dtdpglu[c] + 0.04 udpglcur[c] + 0.02 ddcaACP[c] + 0.004 myrsACP[c] + 0.08 palmACP[c] + 0.01 hpdcaACP[c] + 0.17 ocdcaACP[c] + 0.03 nodcaACP[c] + 0.01 arachACP[c]  -> eps_AFE[c] + 0.28 dtdp[c] + 0.25 gdp[c] + 0.05 udp[c] + 0.324 ACP[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-0.78	
+EPStex	EPS transport	transport	Transport, Outer Membrane Porin	eps_AFE[p]  <=> eps_AFE[e] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+EPStpp	EPS transport (citoplasm)	transport	Transport, Inner Membrane	eps_AFE[c]  -> eps_AFE[p] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+Ex_4hba[e]	4 hydroxybenzyl alcohol exchange	exchange	Exchange	4hba[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_bio[e]	biomass exchange	exchange	Exchange	bio[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_ca2[e]	calcium exchange	exchange	Exchange	ca2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_cu2[e]	cu2+ exchange	exchange	Exchange	cu2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_eps_AFE[e]	eps exchange	exchange	Exchange	eps_AFE[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_fe2[e]	fe2+ exchange	exchange	Exchange	fe2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_fe3[e]	fe3+ exchange	exchange	Exchange	fe3[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_h2[e]	h2 exchange	exchange	Exchange	h2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_h2co3[e]	h3co3 exchange	exchange	Exchange	h2co3[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_h2o[e]	h2o exchange	exchange	Exchange	h2o[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_h2s[e]	hydrogen sulfide exchange	exchange	Exchange	h2s[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_h[e]	h+ exchange	exchange	Exchange	h[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_k[e]	k+ exchange	exchange	Exchange	k[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_mg2[e]	mg2+ exchange	exchange	Exchange	mg2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_mn2[e]	mn2+ exchange	exchange	Exchange	mn2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_n2[e]	n2 exchange	exchange	Exchange	n2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_na1[e]	sodium exchange	exchange	Exchange	na1[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_nh4[e]	ammonia exchange	exchange	Exchange	nh4[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_o2[e]	o2 exchange	exchange	Exchange	o2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_pi[e]	phosphate exchange	exchange	Exchange	pi[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_polypi[e]	polyphosphate exchange	exchange	Exchange	polypi[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_ppt[e]	phosphonate exchange	exchange	Exchange	ppt[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_s[e]	sulfur exchange	exchange	Exchange	s[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_so4[e]	sulfate exchange	exchange	Exchange	so4[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_so4aa[e]	sulfate exchange	exchange	Exchange	so4aa[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_tsul[e]	thiosulfate exchange	exchange	Exchange	tsul[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_ttton[e]	tetrathionate exchange	exchange	Exchange	ttton[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+Ex_zn2[e]	zinc exchange	exchange	Exchange	zn2[e]  <=> 	NOT_ASSESSABLE	NOT_ASSESSABLE	NOT_ASSESSABLE			boundary exchange
+FA_PL-ACP-AFE	Fatty Acid formation	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis)	0.08 ddcaACP[c] + 0.11 palmACP[c] + 0.02 hpdcaACP[c] + 0.02 ocdcaACP[c] + 0.1 3hmrsACP[c] + 0.01 ptdcaACP[c] + 0.21 chexcaACP[c] + 0.02 thepcaACP[c] + 0.36 octeACP[c] + 0.07 c190cACP[c]  -> faplACP[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		0.7	
+FBA	fructose-bisphosphate aldolase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	fdp[c]  <=> g3p[c] + dhap[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FBA3	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	e4p[c] + dhap[c]  <=> s17bp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FBP	fructose-bisphosphatase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	h2o[c] + fdp[c]  -> pi[c] + f6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FCLT	Ferrochelatase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	fe2[c] + ppp9[c]  <=> 2 h[c] + pheme[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FDH	formate dehydrogenase	internal	Pyruvate Metabolism	for[c] + nad[c]  -> co2[c] + nadh[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FE2tex	fe2 transport	transport	Transport, Outer Membrane Porin	fe2[e]  <=> fe2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FE2tpp	Fe(II) ABC inner membrane transporter	transport	(Transport, Inner Membrane) or (Fe+2 Metabolism)	h2o[c] + atp[c] + fe2[p]  -> h[c] + pi[c] + adp[c] + fe2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FE32tpp	fe3 ton transporter	transport	Transport, Inner Membrane	fe3[e]  -> fe3[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FE3tpp	Fe(III) ABC inner membrane transporter	transport	(Transport, Inner Membrane) or (Fe+2 Metabolism)	h2o[c] + atp[c] + fe3[p]  -> h[c] + pi[c] + adp[c] + fe3[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FMNAT	FMN adenylyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	h[c] + atp[c] + fmn[c]  -> ppi[c] + fad[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FTHFD	formyltetrahydrofolate deformylase	internal	Folate Metabolism	h2o[c] + 10fthf[c]  -> h[c] + for[c] + thf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FTHFL	formate-tetrahydrofolate ligase	internal	Folate Metabolism	pi[c] + adp[c] + 10fthf[c]  -> atp[c] + for[c] + thf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+FUM	fumarase	internal	Citric Acid Cycle	mal-L[c]  <=> h2o[c] + fum[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+G1PACT	glucosamine-1-phosphate N-acetyltransferase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	accoa[c] + gam1p[c]  -> h[c] + coa[c] + acgam1p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+G1PTT	glucose-1-phosphate thymidylyltransferase	internal	Cell Envelope Biosynthesis	dttp[c] + g1p[c]  -> ppi[c] + dtdpglu[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+G1SAT	glutamate-1-semialdehyde aminotransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	glu1sa[c]  <=> 5aop[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+G3PAT1	acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase 	internal	Glycerophospholipid Metabolism	faplACP[c] + glyc3p[c]  -> ACP[c] + faplg3p_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		1.0	
+G3PAT2	1-acyl-sn-glycerol-3-phosphate acyltransferase 	internal	Glycerophospholipid Metabolism	faplACP[c] + faplg3p_AFE[c]  -> ACP[c] + dag3pi_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-1.0	
+G3PD2	glycerol-3-phosphate dehydrogenase (NADP)	internal	Alternate Carbon Metabolism	h[c] + nadph[c] + dhap[c]  -> nadp[c] + glyc3p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+G5SADs	L-glutamate 5-semialdehyde dehydratase (spontaneous)	internal	Arginine and Proline Metabolism	glu5sa[c]  -> h[c] + h2o[c] + 1pyr5c[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+G5SD	glutamate-5-semialdehyde dehydrogenase	internal	Arginine and Proline Metabolism	pi[c] + nadp[c] + glu5sa[c]  <=> h[c] + nadph[c] + glu5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+G6PDH2	glucose 6-phosphate dehydrogenase	internal	Pentose Phosphate Pathway	h[c] + nadph[c] + 6pgl[c]  -> nadp[c] + g6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GALU	UTP-glucose-1-phosphate uridylyltransferase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	h[c] + utp[c] + g1p[c]  -> ppi[c] + udpg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GAP2		internal	Glycogen Metabolism	g1p[c]  <=> g1p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GAPD1	glyceraldehyde-3-phosphate dehydrogenase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	h[c] + nadh[c] + 13dpg[c]  -> pi[c] + nad[c] + g3p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GAPD2	Glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) 	internal	Glycolysis/Gluconeogenesis	h[c] + nadph[c] + 13dpg[c]  -> pi[c] + nadp[c] + g3p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GARFT	phosphoribosylglycinamide formyltransferase	internal	Purine and Pyrimidine Biosynthesis	10fthf[c] + gar[c]  <=> h[c] + thf[c] + fgam[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GART	GAR transformylase-T	internal	Purine and Pyrimidine Biosynthesis	atp[c] + for[c] + gar[c]  -> h[c] + pi[c] + adp[c] + fgam[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GCALDD	Glycolaldehyde dehydrogenase	internal	Folate Metabolism	h2o[c] + nad[c] + gcald[c]  -> 2 h[c] + nadh[c] + glyclt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GF6PTA	glutamine-fructose-6-phosphate transaminase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	gln-L[c] + f6p-B[c]  <=> glu-L[c] + gam6p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GFUCS		internal	EPS biosynthesis	h[c] + nadph[c] + gdpddman[c]  -> nadp[c] + gdpfuc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GHMT2	glycine hydroxymethyltransferase, reversible	internal	Glycine and Serine Metabolism	thf[c] + ser-L[c]  <=> h2o[c] + mlthf[c] + gly[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GHMT3	glycine hydroxymethyltransferase	internal	Glycine and Serine Metabolism	nad[c] + thf[c] + gly[c]  -> co2[c] + nadh[c] + mlthf[c] + nh4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GK1	guanylate kinase (GMP:ATP)	internal	Nucleotide Salvage Pathway	atp[c] + gmp[c]  <=> adp[c] + gdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLAT	glutamate N-acetyltransferase	internal	Arginine and Proline Metabolism	glu-L[c] + acorn[c]  <=> orn[c] + acglu[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLBRAN1	1,4-alpha-glucan branching enzyme (glycogen -> bglycogen)	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	2 h[c] + glycogendeb[c]  -> glycogen[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	-2.0	
+GLCP	glycogen phosphorylase	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	pi[c] + h2o[c] + 4 glycogendeb[c]  <=> g1p[c] + malttr[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLCS1	glycogen synthase (ADPGlc)	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	adpglc[c]  -> h[c] + adp[c] + glycogendeb[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLDBRAN2	glycogen debranching enzyme	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	glycogen[c]  -> 2 h[c] + glycogendeb[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	2.0	
+GLGC	glucose-1-phosphate adenylyltransferase	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	h[c] + atp[c] + g1p[c]  -> ppi[c] + adpglc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLNS	glutamine synthetase	internal	Glutamate Metabolism 	glu-L[c] + atp[c] + nh4[c]  -> h[c] + pi[c] + adp[c] + gln-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLU5K	glutamate 5-kinase	internal	Arginine and Proline Metabolism	glu-L[c] + atp[c]  -> adp[c] + glu5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLUCYS	gamma-glutamylcysteine synthetase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Glutathione biosynthesis)	glu-L[c] + atp[c] + cys-L[c]  -> h[c] + pi[c] + adp[c] + glucys[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLUPRT	glutamine phosphoribosyldiphosphate amidotransferase	internal	Purine and Pyrimidine Biosynthesis	h2o[c] + gln-L[c] + prpp[c]  -> glu-L[c] + ppi[c] + pram[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLUR	glutamate racemase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	glu-L[c]  <=> glu-D[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLUSy	glutamate synthase (NADPH)	internal	Glutamate Metabolism 	h[c] + akg[c] + gln-L[c] + nadph[c]  -> 2 glu-L[c] + nadp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLUTRR	glutamyl-tRNA reductase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	h[c] + nadph[c] + LtRNAglu[c]  -> nadp[c] + tRNAglu[c] + glu1sa[c] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+GLUTRS	Glutamyl-tRNA synthetase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	glu-L[c] + atp[c] + tRNAglu[c]  -> h[c] + ppi[c] + amp[c] + LtRNAglu[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		1.0	
+GLXCL	glyoxalate carboligase	internal	Glyoxylate Metabolism	h[c] + 2 glx[c]  <=> co2[c] + 2h3oppan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLXR	glyoxylate reductase	internal	(Alternate Carbon Metabolism) or (Glycolate Metabolism)	h[c] + nadph[c] + glx[c]  <=> nadp[c] + glyclt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLYCH	D-lactate dehydrogenase (cytochrome) (EC:1.1.2.4) 	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	o2[c] + glyclt[c]  <=> h2o2[c] + glx[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLYCK	glycerate kinase	internal	Glyoxylate Metabolism	atp[c] + glyc-R[c]  <=> h[c] + adp[c] + 3pg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GLYK	glycerol kinase	internal	Alternate Carbon Metabolism	atp[c] + glyc[c]  <=> h[c] + adp[c] + glyc3p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GMAND	GDP-D-mannose dehydratase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	gdpmann[c]  <=> h2o[c] + gdpddman[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GMHEPAT	D-glycero-D-manno-hepose 1-phosphate adenyltransferase	internal	Lipopolysaccharide Biosynthesis	h[c] + atp[c] + gmhep1p[c]  -> ppi[c] + adphep-DD[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GMHEPK	D-glycero-D-manno-heptose 7-phosphate kinase	internal	Lipopolysaccharide Biosynthesis	atp[c] + gmhep7p[c]  -> h[c] + adp[c] + gmhep17bp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GMHEPPA	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase	internal	Lipopolysaccharide Biosynthesis	h2o[c] + gmhep17bp[c]  -> pi[c] + gmhep1p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GMPS2	GMP synthase	internal	Purine and Pyrimidine Biosynthesis	h2o[c] + atp[c] + gln-L[c] + xmp[c]  -> 2 h[c] + glu-L[c] + ppi[c] + amp[c] + gmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GRTT	geranyltranstransferase	internal	Cofactor and Prosthetic Group Biosynthesis	ipdp[c] + grdp[c]  -> ppi[c] + frdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GSNK	guanosine kinase	internal	Nucleotide Salvage Pathway	atp[c] + gsn[c]  <=> h[c] + adp[c] + gmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GTHS	glutathione synthetase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Glutathione biosynthesis)	atp[c] + gly[c] + glucys[c]  -> h[c] + pi[c] + adp[c] + gthrd[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GTPCI	GTP cyclohydrolase I	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	h2o[c] + gtp[c]  -> h[c] + for[c] + ahdt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GTPCII2	GTP cyclohydrolase II (2dhpp)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	3 h2o[c] + gtp[c]  -> h[c] + for[c] + ppi[c] + 2dhpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GUAD	Guanine deaminase 	internal	Nucleotide Salvage Pathway	h[c] + h2o[c] + gua[c]  -> nh4[c] + xan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+GUAPRT	guanine phosphoribosyltransferase	internal	Nucleotide Salvage Pathway	ppi[c] + gmp[c]  <=> prpp[c] + gua[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+H2Otex	h2o transport	transport	Transport, Outer Membrane Porin	h2o[e]  <=> h2o[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+H2Otpp	h2o transport (citoplasm)	transport	Transport, Inner Membrane	h2o[p]  <=> h2o[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+H2Stex	h2s transport	transport	Transport, Outer Membrane Porin	h2s[p]  <=> h2s[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+H2Stpp	h2s transport (citoplasm)	transport	Transport, Inner Membrane	h2s[c]  <=> h2s[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+H2tex	h2 transport	transport	Transport, Outer Membrane Porin	h2[p]  <=> h2[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+H2tpp	h2 transport (citoplasm)	transport	Transport, Inner Membrane	h2[p]  <=> h2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HACT	O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase	internal	Methionine Metabolism	h2s[c] + achms[c]  <=> h[c] + ac[c] + hcys-L[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+HBPPT	4-hydroxybenzoate polyprenyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	4hbz[c] + octdp[c]  <=> ppi[c] + 3ophb[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HCO3E	carbonic anhydrase	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle) 	h2o[c] + co2[c]  <=> h[c] + hco3[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HCO3tex	hco3 transport	transport	Transport, Outer Membrane Porin	h2co3[e]  <=> h2co3[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HCO3tpp	hco3 transport (citoplasm)	transport	Transport, Inner Membrane	h2co3[p]  <=> h[c] + hco3[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+HCYSMT	homocysteine S-methyltransferase	internal	Methionine Metabolism	amet[c] + hcys-L[c]  <=> h[c] + met-L[c] + ahcys[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HETZK	hydroxyethylthiazole kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	atp[c] + 4mhetz[c]  <=> h[c] + adp[c] + 4mpetz[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HISTD1	histidinol dehydrogenase	internal	Histidine Metabolism	nad[c] + histd[c]  <=> h[c] + nadh[c] + hist-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HISTD2	Histidinal dehydrogenase 	internal	Histidine Metabolism	h2o[c] + nad[c] + hist-L[c]  -> 2 h[c] + nadh[c] + his-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HISTP	Histidinol-phosphatase	internal	Histidine Metabolism	h2o[c] + hisp[c]  -> pi[c] + histd[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HKDOS	Lipopolysaccharide heptosyltransferase Iacyltransferase 	internal	( Lipopolysaccharide Biosynthesis ) or ( KDO(2)-AFE synthesis )	kdo2_AFE[c] + 0.03 adphep-LD[c]  -> hlipa_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		0.06	
+HKMPP	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase	internal	Methionine Metabolism	h2o[c] + 2h3kto5me1pe[c]  -> h[c] + pi[c] + 12dhy3meten[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HMBS	hydroxymethylbilane synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Thiamin biosynthesis)	h2o[c] + 4 ppbng[c]  <=> hmbil[c] + 4 nh4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HMPK1	hydroxymethylpyrimidine kinase (ATP)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	atp[c] + 4ahmmp[c]  <=> h[c] + adp[c] + 4ampm[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HMSK	Homoserine kinase 	internal	Threonine and Lysine Metabolism	atp[c] + hom-L[c]  <=> h[c] + adp[c] + phom[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HPPK2	6-hydroxymethyl-dihydropterin pyrophosphokinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	atp[c] + 6hmhpt[c]  -> h[c] + amp[c] + 2ahhmd[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HSDy	homoserine dehydrogenase (NADPH)	internal	Threonine and Lysine Metabolism	nadp[c] + hom-L[c]  <=> h[c] + nadph[c] + aspsa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HSERTA	Homoserine O-acetyltransferase	internal	Methionine Metabolism	accoa[c] + hom-L[c]  <=> coa[c] + achms[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HSTPT	histidinol-phosphate transaminase	internal	Histidine Metabolism	glu-L[c] + imacp[c]  <=> akg[c] + hisp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HXAND	hypoxanthine dehydrogenase	internal	Nucleotide Salvage Pathway	h2o[c] + nad[c] + hxan[c]  <=> h[c] + nadh[c] + xan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HXPRT	hypoxanthine phosphoribosyltransferase (Hypoxanthine)	internal	Nucleotide Salvage Pathway	prpp[c] + hxan[c]  -> ppi[c] + imp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HYD1pp	hydrogenase I	internal	Hydrogen and Formate Utilization	2 h[c] + q8[c] + h2[p]  -> 2 h[p] + q8h2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HYD3pp	hydrogenase III	internal	Hydrogen and Formate Utilization	2 h[c] + q8[c] + h2[c]  -> 2 h[p] + q8h2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+HYD4	hydrogenase IV	internal	Hydrogen and Formate Utilization	h[c] + for[c]  -> co2[c] + h2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+Htex	h transport	transport	Transport, Outer Membrane Porin	h[p]  <=> h[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+Htpp	h transport (citoplasm)	transport	Transport, Inner Membrane	h[c]  <=> h[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ICDHyr	isocitrate dehydrogenase (NADP)	internal	Citric Acid Cycle	nadp[c] + icit[c]  <=> co2[c] + akg[c] + nadph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ICITRED		internal	Citric Acid Cycle	nadp[c] + icit[c]  <=> h[c] + nadph[c] + osuc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IG3PS	Imidazole-glycerol-3-phosphate synthase	internal	Histidine Metabolism	gln-L[c] + prlp[c]  -> h[c] + glu-L[c] + eig3p[c] + aicar[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IGPDH	imidazoleglycerol-phosphate dehydratase	internal	Histidine Metabolism	eig3p[c]  -> h2o[c] + imacp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IGPS	indole-3-glycerol-phosphate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	h[c] + 2cpr5p[c]  <=> h2o[c] + co2[c] + 3ig3p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ILETA	isoleucine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	akg[c] + ile-L[c]  <=> glu-L[c] + 3mop[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IMPC	IMP cyclohydrolase	internal	Purine and Pyrimidine Biosynthesis	h2o[c] + imp[c]  <=> fprica[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IMPD	IMP dehydrogenase	internal	Purine and Pyrimidine Biosynthesis	h2o[c] + nad[c] + imp[c]  -> h[c] + nadh[c] + xmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+INSK	insosine kinase	internal	Nucleotide Salvage Pathway	atp[c] + ins[c]  <=> h[c] + adp[c] + imp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IPDDI	isopentenyl-diphosphate D-isomerase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (trans,trans-farnesyl diphosphate Biosynthesis)	ipdp[c]  <=> dmpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IPDPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	h[c] + nadph[c] + h2mb4p[c]  -> h2o[c] + nadp[c] + ipdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IPMD	3-isopropylmalate dehydrogenase	internal	Valine, Leucine, and Isoleucine Metabolism	nad[c] + 3c2hmp[c]  -> h[c] + nadh[c] + 3c4mop[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IPPMIa	3-isopropylmalate dehydratase	internal	Valine, Leucine, and Isoleucine Metabolism	3c3hmp[c]  <=> 3c2hmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+IPPS	2-isopropylmalate synthase	internal	Valine, Leucine, and Isoleucine Metabolism	h2o[c] + accoa[c] + 3mob[c]  -> h[c] + coa[c] + 3c3hmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+KARA1	ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)	internal	Valine, Leucine, and Isoleucine Metabolism	nadp[c] + 23dhmb[c]  <=> h[c] + alac-S[c] + nadph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+KARA2	ketol-acid reductoisomerase (2-Acetolactate)	internal	Valine, Leucine, and Isoleucine Metabolism	h[c] + nadph[c] + 2ahbut[c]  <=> nadp[c] + 23dhmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+KDOCT	3-deoxy-D-manno-octulosonic-acid transferase	internal	( Lipopolysaccharide Biosynthesis ) or ( KDO(2)-AFE synthesis )	ckdo[c]  -> h[c] + cmp[c] + kdo_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		1.0	
+KDOCT2	3-deoxy-manno-octulosonate cytidylyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( CMP-KDO biosynthesis )	ctp[c] + kdo[c]  <=> ppi[c] + ckdo[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+KDOCT3	3-deoxy-D-manno-octulosonic-acid transferase	internal	( Lipopolysaccharide Biosynthesis ) or ( KDO(2)-AFE synthesis )	ckdo[c] + kdo_AFE[c]  -> kdo2_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		2.0	
+KDOPP	3-deoxy-manno-octulosonate-8-phosphatase	internal	( Lipopolysaccharide Biosynthesis ) or ( CMP-KDO biosynthesis )	h2o[c] + kdo8p[c]  <=> pi[c] + kdo[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+KDOPS	3-deoxy -D-manno-octulosonic -acid 8-phosphate synthase	internal	( Lipopolysaccharide Biosynthesis ) or ( CMP-KDO biosynthesis )	h2o[c] + pep[c] + ara5p[c]  -> pi[c] + kdo8p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+KMBT	2-keto-4-methylthiobutyrate transamination	internal	Methionine Metabolism	glu-L[c] + 2kmb[c]  -> akg[c] + met-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+Ktex	k transport	transport	Transport, Outer Membrane Porin	k[e]  <=> k[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+Ktpp	voltage-gated potassium channel	transport	Transport, Inner Membrane	k[p]  -> k[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+LDAS	Lipid A biosynthesis lauroyl acyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	ddcaACP[c] + lipid4A_AFE[c]  -> ACP[c] + ddcalipid4A_AFE[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+LEUTA	leucine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	akg[c] + leu-L[c]  <=> glu-L[c] + 4mop[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+LIPA		internal	Lipopolysaccharide Biosynthesis	0.43 dtdprmn[c] + 0.01 gdpmann[c] + 0.52 dtdpglu[c] + hlipa_AFE[c] + 0.01 gam[c]  -> 0.94 dtdp[c] + 0.01 gdp[c] + polysac_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-0.95	
+LIPS	Myristoyl-acyl carrier protein-dependent acyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	myrsACP[c] + ddcalipid4A_AFE[c]  -> ACP[c] + lip_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		4.0	
+LPADSS	Lipid A disaccaride synthase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	biglucpypi[c] + udpglucpy[c]  -> h[c] + udp[c] + lipidA_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		2.0	
+LPS	lipolysaccharide formation	internal	Lipopolysaccharide Biosynthesis	1.6 polysac_AFE[c] + 0.3 lip_AFE[c]  -> lps_AFE[c] 	NOT_ASSESSABLE	BALANCED	NOT_ASSESSABLE		0.0	
+MACPD	Malonyl-ACP decarboxylase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	h[c] + malACP[c]  -> co2[c] + acACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MALS	malate synthase	internal	Anaplerotic Reactions	h2o[c] + accoa[c] + glx[c]  -> h[c] + coa[c] + mal-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MAN1PT	Phosphomannomutase	internal	(EPS biosynthesis) or (GDP-mannose biosynthesis)	2 h[c] + gtp[c] + man1p[c]  -> ppi[c] + gdpmann[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MAN6PI	mannose-6-phosphate isomerase	internal	Alternate Carbon Metabolism	f6p-B[c]  <=> man6p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MBDR	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase 	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	nadph[c] + 2mecdp[c]  -> h2o[c] + nadp[c] + h2mb4p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MCOATA	Malonyl-CoA-ACP transacylase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	malcoa[c] + ACP[c]  <=> coa[c] + malACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MCTP1A	murein crosslinking transpeptidase 1A:(A2pm->D-ala) 	internal	(Cell Envelope Biosynthesis) or (Murein Biosynthesis) 	murein5p5p[c]  -> murein5px4p[c] + ala-D[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MDH	malate dehydrogenase	internal	Citric Acid Cycle	nad[c] + mal-L[c]  <=> h[c] + nadh[c] + oaa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MECDPS	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	2p4c2me[c]  -> cmp[c] + 2mecdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MEPCT	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	h[c] + ctp[c] + 2me4p[c]  -> ppi[c] + 4c2me[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+METAT	Methionine adenosyltransferase	internal	Methionine Metabolism	h2o[c] + atp[c] + met-L[c]  -> pi[c] + amet[c] + ppi[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+METS	5-methyltetrahydrofolate--homocysteine S-methyltransferase	internal	Methionine Metabolism	5mthf[c] + hcys-L[c]  <=> thf[c] + met-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MG2tex	mg2 transport	transport	Transport, Outer Membrane Porin	mg2[e]  <=> mg2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MG2tpp	magnesium-translocating P-type ATPase	transport	Transport, Inner Membrane	h2o[c] + atp[c] + mg2[p]  -> h[c] + pi[c] + adp[c] + mg2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MMCD	Methylmalonyl-CoA decarboxylase	internal	Alternate Carbon Metabolism	h[c] + mmcoa[c]  -> co2[c] + ppcoa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MMM	Methylmalonyl-CoA mutase	internal	( Alternate Carbon Metabolism ) or ( Methylmalonyl pathway )	mmcoa[c]  <=> succoa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MN2tex	mn2 transport	transport	Transport, Outer Membrane Porin	mn2[e]  <=> mn2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MN2tpp	metalion trabsporter, NRAMP family	transport	Transport, Inner Membrane	mn2[p]  -> mn2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MNTH	NRAMP dual Mn(II)/Fe(II) MntH-like transporter	transport	Transport, Inner Membrane	h[p] + fe2[p]  -> h[c] + fe2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MOHMT	3-methyl-2-oxobutanoate hydroxymethyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pantothenate biosynthesis )	h2o[c] + mlthf[c] + 3mob[c]  <=> thf[c] + 2dhp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTAP	5-methylthioadenosine phosphorylase	internal	Methionine Metabolism	pi[c] + 5mta[c]  <=> ade[c] + mtribp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTHFC	methenyltetrahydrofolate cyclohydrolase	internal	Folate Metabolism	h2o[c] + methf[c]  <=> h[c] + 10fthf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP)	internal	Folate Metabolism	nadp[c] + mlthf[c]  <=> nadph[c] + methf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTHFD2	methylenetetrahydrofolate dehydrogenase (NAD+)	internal	Folate Metabolism	nad[c] + mlthf[c]  -> nadh[c] + methf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTHFR3	Cobalamin-dependent homocysteine transmethylase	internal	Methionine Metabolism	h[c] + nadph[c] + mlthf[c]  <=> nadp[c] + 5mthf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTHPTGHM	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	internal	Methionine Metabolism	hcys-L[c] + 5mthglu[c]  <=> met-L[c] + thglu[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTOD	methylthioribulose 1-phosphate dehydratase activity	internal	Methionine Metabolism	mtrp[c]  <=> h2o[c] + dkmpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTRG	alpha-D-glucoside glucohydrolase	internal	Alternate Carbon Metabolism	h2o[c] + malttr[c]  -> glc-A[c] + mal-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTROI		internal	Methionine Metabolism	mtribp[c]  <=> mtrp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+MTRP	maltodextrin phosphorylase	internal	Glycolysis/Gluconeogenesis	pi[c] + maltttr[c]  <=> g1p[c] + malttr[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+N2tex	n2 transport	transport	Transport, Outer Membrane Porin	n2[e]  <=> n2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+N2tpp	n2 transport (citoplasm)	transport	Transport, Inner Membrane	n2[p]  <=> n2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NA1tex	na transport	transport	Transport, Outer Membrane Porin	na1[e]  <=> na1[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NA1tpp	na transport in via proton symport	transport	Transport, Inner Membrane	h[p] + na1[p]  -> h[c] + na1[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NADHI	NADH dehydrogenase (ubiquinone-8 & 5 protons) (periplasm)	internal	Oxidative Phosphorylation	5 h[p] + nad[c] + q8h2[c]  -> 6 h[c] + nadh[c] + q8[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NADK	NAD kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD phosphorylation and dephosphorylation )	atp[c] + nad[c]  -> h[c] + adp[c] + nadp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NADPPPS	NADP phosphatase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD salvage pathway )	h2o[c] + nadp[c]  -> pi[c] + nad[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NADS1	NAD synthase (nh3)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	atp[c] + nh4[c] + dnad[c]  -> h[c] + nad[c] + ppi[c] + amp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NADS2	NAD(+) synthetase (glutamine-hydrolysing) 	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	h2o[c] + atp[c] + gln-L[c] + dnad[c]  -> h[c] + glu-L[c] + nad[c] + ppi[c] + amp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NADTRHD	NAD transhydrogenase	internal	Oxidative Phosphorylation	h[p] + nadh[c] + nadp[c]  -> h[c] + nad[c] + nadph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NDPK1	nucleoside-diphosphate kinase (ATP:GDP)	internal	Nucleotide Salvage Pathway	atp[c] + gdp[c]  <=> adp[c] + gtp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NDPK2	nucleoside-diphosphate kinase (ATP:UDP)	internal	Nucleotide Salvage Pathway	atp[c] + udp[c]  <=> adp[c] + utp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NDPK3	nucleoside-diphosphate kinase (ATP:CDP)	internal	Nucleotide Salvage Pathway	atp[c] + cdp[c]  <=> adp[c] + ctp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NDPK4	nucleoside-diphosphate kinase (ATP:dTDP)	internal	Nucleotide Salvage Pathway	h[c] + atp[c] + dtdp[c]  <=> adp[c] + dttp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NDPK5	nucleoside-diphosphate kinase (ATP:dGDP)	internal	Nucleotide Salvage Pathway	atp[c] + dgdp[c]  <=> adp[c] + dgtp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NDPK6	nucleoside-diphosphate kinase (ATP:dUDP)	internal	Nucleotide Salvage Pathway	atp[c] + dudp[c]  <=> h[c] + adp[c] + dutp[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+NDPK7	nucleoside-diphosphate kinase (ATP:dCDP)	internal	Nucleotide Salvage Pathway	atp[c] + dcdp[c]  <=> adp[c] + dctp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NDPK8	nucleoside-diphosphate kinase (ATP:dADP)	internal	Nucleotide Salvage Pathway	atp[c] + dadp[c]  <=> adp[c] + datp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NH4pp	Amt1 ammonium Amt transporter	transport	Transport, Inner Membrane	nh4[c]  <=> nh4[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NH4tex	nh4 transport	transport	Transport, Outer Membrane Porin	nh4[p]  <=> nh4[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NITF	sulfide quinone reductase	internal	Nitrogen fixation	16 h2o[c] + 16 atp[c] + 4 nadh[c] + n2[c]  -> 10 h[c] + 16 pi[c] + 16 adp[c] + 4 nad[c] + 2 nh4[c] + h2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NNAT	nicotinate-nucleotide adenylyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	h[c] + atp[c] + nicrnt[c]  <=> ppi[c] + dnad[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NNDPR	nicotinate-nucleotide diphosphorylase (carboxylating)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	2 h[c] + prpp[c] + quln[c]  <=> co2[c] + ppi[c] + nicrnt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+NTPTP1	Nucleoside triphosphate tripolyhydrolase	internal	Nucleotide Salvage Pathway	h2o[c] + dgtp[c]  -> pppi[c] + dgsn[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+O2tex	o2 transport	transport	Transport, Outer Membrane Porin	o2[e]  <=> o2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+O2tpp	o2 transport (citoplasm)	transport	Transport, Inner Membrane	o2[p]  <=> o2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OCBT	ornithine carbamoyltransferase	internal	Arginine and Proline Metabolism	orn[c] + cbp[c]  <=> h[c] + pi[c] + citr-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OCTDPS	Octaprenyl pyrophosphate synthase	internal	Cofactor and Prosthetic Group Biosynthesis	5 ipdp[c] + frdp[c]  -> 5 ppi[c] + octdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OHPBAT	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	internal	Cofactor and Prosthetic Group Biosynthesis	glu-L[c] + ohpb[c]  <=> akg[c] + phthr[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OHPHM	2-octaprenyl-6-hydroxyphenol methylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	amet[c] + 2ohph[c]  <=> h[c] + ahcys[c] + 2omph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OMBQM	2-octaprenyl-6-methoxy-1,4-benzoquinone methylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	h[c] + amet[c] + 2ombz[c]  <=> ahcys[c] + 2ommb[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	-2.0	
+OMCDC	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation (spontaneous)	internal	Valine, Leucine, and Isoleucine Metabolism	h[c] + 3c4mop[c]  <=> co2[c] + 4mop[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OMMBH	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	h[c] + nadph[c] + o2[c] + 2ommb[c]  -> h2o[c] + nadp[c] + 3dmq[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OMPDC	orotidine-5-phosphate decarboxylase	internal	Purine and Pyrimidine Biosynthesis	h[c] + orot5p[c]  -> co2[c] + ump[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OMPHHX	2-octaprenyl-6-methoxyphenol hydroxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	o2[c] + 2omph[c]  <=> h2o[c] + 2ombz[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OPHBDC	Octaprenyl-hydroxybenzoate decarboxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	h[c] + 3ophb[c]  <=> co2[c] + 2oph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+OPHHX	2-Octaprenylphenol hydroxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	o2[c] + 2 2oph[c]  -> 2 2ohph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ORNDC	Ornithine Decarboxylase	internal	Arginine and Proline Metabolism	h[c] + orn[c]  -> co2[c] + ptrc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ORPT	orotate phosphoribosyltransferase	internal	Purine and Pyrimidine Biosynthesis	prpp[c] + orot[c]  -> ppi[c] + orot5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+P5CR	pyrroline-5-carboxylate reductase	internal	Arginine and Proline Metabolism	nadp[c] + pro-L[c]  <=> 2 h[c] + nadph[c] + 1pyr5c[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PANTS	pantothenate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pantothenate biosynthesis )	atp[c] + pant-R[c] + ala-B[c]  <=> h[c] + ppi[c] + amp[c] + pnto-R[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PAPPT3	phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	udcpp[c] + ugmda[c]  -> ump[c] + uagmda[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PAPSR	3-phospho-adenylylsulfate reductase	internal	Cysteine Metabolism	2 h[c] + paps[c] + trdox[c]  -> pap[c] + so3[c] + trdrd[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	-4.0	
+PCYT	phosphatidate cytidylyltransferase	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis)	ctp[c] + dag3pi_AFE[c]  -> ppi[c] + cdpdag_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		1.0	
+PDH	pyruvate dehydrogenase	internal	Glycolysis/Gluconeogenesis	pyr[c] + nad[c] + coa[c]  -> co2[c] + nadh[c] + accoa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PDX5PO	pyridoxine 5-phosphate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	o2[c] + pdx5p[c]  <=> pydx5p[c] + h2o2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PDX5PS	pyridoxine 5?-phosphate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	amoxoylph[c] + dxyl5p[c]  <=> h[c] + pi[c] + 2 h2o[c] + pdx5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PERD	Erythronate 4-phosphate (4per) dehydrogenase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	nad[c] + 4per[c]  <=> h[c] + nadh[c] + ohpb[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PFK	phosphofructokinase	internal	Glycolysis/Gluconeogenesis	atp[c] + f6p-B[c]  -> h[c] + adp[c] + fdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGAMT	phosphoglucosamine mutase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	gam1p[c]  <=> gam6p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGCD	phosphoglycerate dehydrogenase	internal	Glycine and Serine Metabolism	nad[c] + 3pg[c]  <=> h[c] + nadh[c] + 3php[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGDH	phosphogluconate dehydratase 	internal	Pentose Phosphate Pathway	6pgc[c]  -> h2o[c] + 2ddg6p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGI1	glucose-6-phosphate isomerase	internal	Glycolysis/Gluconeogenesis	g6p-B[c]  <=> f6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGK	phosphoglycerate kinase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	atp[c] + 3pg[c]  -> adp[c] + 13dpg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGL	6-phosphogluconolactonase	internal	Pentose Phosphate Pathway	h2o[c] + 6pgl[c]  <=> h[c] + 6pgc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGLT	peptidoglycan glycosyltransferase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	2 ugmdal[c]  <=> 2 h[c] + 2 udcpdp[c] + murein5p5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGLYCP	Phosphoglycolate phosphatase	internal	Alternate Carbon Metabolism	h2o[c] + 2pglyc[c]  -> pi[c] + glyclt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGM1	phosphoglycerate mutase	internal	Glycolysis/Gluconeogenesis	3pg[c]  <=> 2pg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGMT	phosphoglucomutase	internal	Glycolysis/Gluconeogenesis	g1p-B[c]  <=> g6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGMT2	phosphoglucomutase	internal	Glycolysis/Gluconeogenesis	g1p[c]  <=> g6p-A[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PGPP120	Phosphatidylglycerophosphatase 	internal	Glycerophospholipid Metabolism	h2o[c] + pgp_AFE[c]  -> pi[c] + pg120[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-3.0	
+PGSA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 	internal	Glycerophospholipid Metabolism	cdpdag_AFE[c] + glyc3p[c]  -> h[c] + cmp[c] + pgp_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		1.0	
+PHETA1	phenylalanine transaminase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	akg[c] + phe-L[c]  <=> glu-L[c] + phpyr[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PHFT	protoheme IX farnesyltransferase	internal	(Ubiquinone Synthesis) or (Cofactor and Prosthetic Group Biosynthesis)	h2o[c] + pheme[c] + frdp[c]  -> ppi[c] + hemeO[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PHSTG1	polyphosphate storage	internal	Polyphosphate Storage	polypi[c]  <=> polypi[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PHSTG2	polyphosphate storage	internal	Polyphosphate Storage	polypi[p]  <=> polypi[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PL-AFE	phospholipids formation	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis)	0.37 pg120[c] + 0.15 pe_AFE[c] + 0.43 ptdmeeta_AFE[c] + 0.05 clpn120[c]  -> ppl_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		0.47	
+PMANM	phosphomannomutase	internal	(EPS biosynthesis) or (GDP-mannose biosynthesis)	man6p[c]  <=> man1p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PMEAS	Phosphatidylserine decarboxylase	internal	( Glycerophospholipid Metabolism ) or (Phosphatidylethanolamine biosynthesis )	amet[c] + pe_AFE[c]  <=> ptdmeeta_AFE[c] + ahcys[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-1.0	
+PMPK	phosphomethylpyrimidine kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	atp[c] + 4ampm[c]  -> adp[c] + 2mahmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PNTK	pantothenate kinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A Biosynthesis)	atp[c] + pnto-R[c]  <=> h[c] + adp[c] + d4ppp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPA	inorganic diphosphatase	internal	Anaplerotic Reactions	h2o[c] + ppi[c]  -> h[c] + 2 pi[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPBNGS	porphobilinogen synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	2 5aop[c]  <=> h[c] + 2 h2o[c] + ppbng[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPC	phosphoenolpyruvate carboxylase	internal	Anaplerotic Reactions	h2o[c] + co2[c] + pep[c]  -> h[c] + pi[c] + oaa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPCDC	phosphopantothenoylcysteine decarboxylase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A biosynthesis)	h[c] + 4ppcys[c]  <=> co2[c] + 4ppan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPK2	polyphosphate kinase	internal	Oxidative Phosphorylation	pi[c] + atp[c]  -> adp[c] + polypi[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPNCL2	phosphopantothenate-cysteine ligase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A biosynthesis)	ctp[c] + cys-L[c] + d4ppp[c]  <=> h[c] + ppi[c] + cmp[c] + 4ppcys[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPND	prephenate dehydrogenase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	nad[c] + pphn[c]  -> co2[c] + nadh[c] + 34hpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPNDH	prephenate dehydratase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	h[c] + pphn[c]  -> h2o[c] + co2[c] + phpyr[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPPGO	protoporphyrinogen oxidase (aerobic)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	3 o2[c] + pppg9[c]  -> 3 h2o2[c] + ppp9[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPTtex	ppt transport	transport	Transport, Outer Membrane Porin	ppt[p]  <=> ppt[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PPTtpp	Phosphonate ABC transporter 	transport	Transport, Inner Membrane	h2o[c] + atp[c] + ppt[p]  -> h[c] + pi[c] + adp[c] + ppt[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRAGS	phosphoribosylglycinamide synthase	internal	Purine and Pyrimidine Biosynthesis	atp[c] + gly[c] + pram[c]  <=> h[c] + pi[c] + adp[c] + gar[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRAI	phosphoribosylanthranilate isomerase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	pran[c]  <=> 2cpr5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRAIS	phosphoribosylaminoimidazole synthase	internal	Purine and Pyrimidine Biosynthesis	atp[c] + fpram[c]  -> 2 h[c] + pi[c] + adp[c] + air[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRAMPC	phosphoribosyl-AMP cyclohydrolase	internal	Histidine Metabolism	h2o[c] + prbamp[c]  -> prfp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRASCS	phosphoribosylaminoimidazolesuccinocarboxamide synthase	internal	Purine and Pyrimidine Biosynthesis	atp[c] + asp-L[c] + 5aizc[c]  <=> h[c] + pi[c] + adp[c] + 25aics[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRATPP	phosphoribosyl-ATP pyrophosphatase	internal	Histidine Metabolism	h2o[c] + prbatp[c]  -> h[c] + ppi[c] + prbamp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRFGS	phosphoribosylformylglycinamidine synthase	internal	Purine and Pyrimidine Biosynthesis	h2o[c] + atp[c] + gln-L[c] + fgam[c]  -> h[c] + glu-L[c] + pi[c] + adp[c] + fpram[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRMICI	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	internal	Histidine Metabolism	prfp[c]  -> prlp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRPPS	phosphoribosylpyrophosphate synthetase	internal	Histidine Metabolism	atp[c] + r5p[c]  -> h[c] + amp[c] + prpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PRUK	Phosphoribulokinase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	atp[c] + ru5p-D[c]  -> h[c] + adp[c] + rb15bp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PSCVT	3-phosphoshikimate 1-carboxyvinyltransferase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	pep[c] + skm5p[c]  <=> pi[c] + 3psme[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PSD120	Phosphatidylserine decarboxylase	internal	( Glycerophospholipid Metabolism ) or (Phosphatidylethanolamine biosynthesis )	h[c] + ps120[c]  <=> co2[c] + pe_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		1.0	
+PSERT	phosphoserine transaminase	internal	Glycine and Serine Metabolism	akg[c] + pser-L[c]  <=> glu-L[c] + 3php[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PSP_L	phosphoserine phosphatase (L-serine)	internal	Glycine and Serine Metabolism	h2o[c] + pser-L[c]  -> pi[c] + ser-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PSSA120	CDP-diacylglycerol--serine O-phosphatidyltransferase 	internal	( Glycerophospholipid Metabolism ) or (Phosphatidylethanolamine biosynthesis )	ser-L[c] + cdpdag_AFE[c]  <=> h[c] + cmp[c] + ps120[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-3.0	
+PTPAT	pantetheine-phosphate adenylyltransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A Biosynthesis)	h[c] + atp[c] + 4ppan[c]  <=> ppi[c] + dpcoa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PUNP1	purine-nucleoside phosphorylase (Adenosine)	internal	Nucleotide Salvage Pathway	pi[c] + adn[c]  <=> ade[c] + r1p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PUNP2	inosine phosphorylase 	internal	Nucleotide Salvage Pathway	pi[c] + ins[c]  <=> r1p[c] + hxan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PUNP3	guanosine phosphorylase 	internal	Nucleotide Salvage Pathway	pi[c] + gsn[c]  <=> r1p[c] + gua[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PUNP4	xanthosine phosphorylase 	internal	Nucleotide Salvage Pathway	pi[c] + xtsn[c]  <=> r1p[c] + xan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PYAM5PO	pyridoxamine 5-phosphate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	h2o[c] + o2[c] + pyam5p[c]  <=> pydx5p[c] + nh4[c] + h2o2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PYDAMK	pyridoxamine kinase	internal	Cofactor and Prosthetic Group Biosynthesis	atp[c] + pydam[c]  <=> h[c] + adp[c] + pyam5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PYDXK1	Pyridoxal kinase	internal	Cofactor and Prosthetic Group Biosynthesis	atp[c] + pydx[c]  <=> h[c] + adp[c] + pydx5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PYDXK2	pyridoxal kinase	internal	Cofactor and Prosthetic Group Biosynthesis	atp[c] + pydxn[c]  <=> h[c] + adp[c] + pdx5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PYK	pyruvate kinase	internal	Glycolysis/Gluconeogenesis	h[c] + adp[c] + pep[c]  -> atp[c] + pyr[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+PYRDB		internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5''-phosphate biosynthesis ) 	h[c] + amopbut-L[c]  <=> co2[c] + amoxoylph[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+Pitex	pi transport	transport	Transport, Outer Membrane Porin	pi[p]  <=> pi[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+Pitpp	Phosphate ABC transporter	transport	Transport, Inner Membrane	h2o[c] + atp[c] + pi[p]  -> h[c] + 2 pi[c] + adp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+QULNS	quinolinate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	dhap[c] + iasp[c]  <=> pi[c] + 2 h2o[c] + quln[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RBFK1	riboflavin kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	atp[c] + ribflv[c]  -> h[c] + adp[c] + fmn[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RBFS	riboflavin synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	2 dmlz[c]  -> ribflv[c] + 4r5au[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RBFS2	riboflavin synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	4r5au[c] + db4p[c]  <=> pi[c] + 2 h2o[c] + dmlz[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RHCCE	S-ribosylhomocysteine cleavage enzyme	internal	Methionine Metabolism	rhcys[c]  -> hcys-L[c] + dhptd[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RIBPH		internal	(Cofactor and Prosthetic Group Biosynthesis) or (Flavin Biosynthesis)	h2o[c] + 5a65pilamura[c]  <=> pi[c] + 4r5au[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RNDR1	ribonucleoside-diphosphate reductase (ADP)	internal	Nucleotide Salvage Pathway	adp[c] + trdrd[c]  -> h2o[c] + trdox[c] + dadp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RNDR2	ribonucleoside-diphosphate reductase (GDP)	internal	Nucleotide Salvage Pathway	gdp[c] + trdrd[c]  -> h2o[c] + trdox[c] + dgdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RNDR3	ribonucleoside-diphosphate reductase (CDP)	internal	Nucleotide Salvage Pathway	cdp[c] + trdrd[c]  -> h2o[c] + dcdp[c] + trdox[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RNDR4	ribonucleoside-diphosphate reductase (UDP)	internal	Nucleotide Salvage Pathway	h[c] + udp[c] + trdrd[c]  -> h2o[c] + trdox[c] + dudp[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	-1.0	
+RPE	ribulose 5-phosphate 3-epimerase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	ru5p-D[c]  <=> xu5p-D[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RPI	ribose-5-phosphate isomerase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	r5p[c]  -> ru5p-D[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RUBISCO	Ribulose-bisphosphate carboxylase	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	h2o[c] + co2[c] + rb15bp[c]  <=> 2 h[c] + 2 3pg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+RUBISCOX	ribulose-bisphosphate carboxylase	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	rb15bp[c] + o2[c]  -> 2 h[c] + 3pg[c] + 2pglyc[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+S7PI	sedoheptulose 7-phosphate isomerase	internal	Lipopolysaccharide Biosynthesis	s7p[c]  <=> gmhep7p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SADT	sulfate adenylate transferase	internal	Sulfur Metabolism 	h[c] + atp[c] + so4[c]  -> ppi[c] + aps[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SBPASE	Sedoheptulose-bisphosphatase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	h2o[c] + s17bp[c]  <=> pi[c] + s7p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SCCR	sulfite cytochrome c reductase	internal	Sulfur Metabolism	h2o[p] + so3[p] + etpcycAox[p]  -> 2 h[p] + so4[p] + etpcycArd[p] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		2.0	
+SDPDS	succinyl-diaminopimelate desuccinylase	internal	Threonine and Lysine Metabolism	h2o[c] + sl26da[c]  <=> 26dap-LL[c] + succ[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SDPTA	succinyldiaminopimelate transaminase	internal	Threonine and Lysine Metabolism	akg[c] + sl26da[c]  <=> glu-L[c] + sl2a6o[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SERAT	serine O-acetyltransferase	internal	Cysteine Metabolism	accoa[c] + ser-L[c]  <=> coa[c] + acser[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SFAT1	sulfate adenylyltransferase	internal	Sulfur Metabolism	ppi[c] + aps[c]  -> h[c] + atp[c] + so4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SFAT2	sulfate adenylyltransferase	internal	Sulfur Metabolism	pi[c] + aps[c]  -> h[c] + adp[c] + so4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SHBI		internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	fe2[c] + scl[c]  <=> 3 h[c] + sheme[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SHCHD2	sirohydrochlorin dehydrogenase (NAD)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	nad[c] + dscl[c]  <=> h[c] + nadh[c] + scl[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SHK3D	shikimate dehydrogenase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	nadp[c] + skm[c]  <=> h[c] + nadph[c] + 3dhsk[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SHKK	shikimate-kinase	internal	(Tyrosine, Tryptophan, and Phenylalanine Metabolism) or (Chorismate Biosynthesis)	atp[c] + skm[c]  -> h[c] + adp[c] + skm5p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SO41tpp	sulfate ABC transporter	transport	(Transport, Inner Membrane) or (Sulfur Metabolism)	so4[p] + h2o[c] + atp[c]  -> h[c] + pi[c] + adp[c] + so4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SO42tpp	sulfate permease	transport	Transport, Inner Membrane	so4[p]  -> so4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SO4AA1tpp	sulfate ABC transporter	transport	(Transport, Inner Membrane) or (Sulfur Metabolism)	h2o[c] + atp[c] + so4aa[p]  -> h[c] + pi[c] + adp[c] + so4[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SO4AA2tpp	sulfate transport inner membrane	internal	Sulfur Metabolism	so4aa[p]  <=> so4aa[e] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		2.0	
+SO4tex	so4 transport	transport	Transport, Outer Membrane Porin	so4[p]  <=> so4[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SPMS	Spermidine synthase	internal	( Arginine and Proline Metabolism ) or ( Spermidine biosynthesis )	ametam[c] + ptrc[c]  <=> h[c] + spmd[c] + 5mta[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SQRED1	sulfide quinone reductase	internal	Sulfur Metabolism	q8[c] + h2s[p]  <=> s[p] + q8h2[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+SUCD	succinate dehydrogenase	internal	Citric Acid Cycle	h[c] + nadh[c] + fum[c]  <=> nad[c] + succ[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SUCOAS	succinyl-CoA synthetase (ADP-forming)	internal	Citric Acid Cycle	atp[c] + coa[c] + succ[c]  <=> pi[c] + adp[c] + succoa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SULDO	sulfur dioxygenase	internal	Sulfur Metabolism	s[p] + h2o[p] + o2[p]  <=> 2 h[p] + so3[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+SULR2	Sulfite reductase (NADPH)	internal	Cysteine Metabolism	3 h2o[c] + 3 nadp[c] + h2s[c]  <=> 5 h[c] + 3 nadph[c] + so3[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	1.0	
+Stex	s transport	transport	Transport, Outer Membrane Porin	s[p]  <=> s[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+T2DECAI	trans-2-decenoyl-(acyl-carrier protein) isomerase 	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	tdec2eACP[c]  <=> dec3ACP[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TALA	transaldolase	internal	Pentose Phosphate Pathway	g3p[c] + s7p[c]  <=> e4p[c] + f6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TDPDRE1	dTDP-4-dehydrorhamnose 3,5-epimerase	internal	Cell Envelope Biosynthesis	dtdp4d6dg[c]  <=> dtdp4d6dm[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TDPDRE2	dTDP-L-rhamnose synthetase 	internal	Cell Envelope Biosynthesis	h[c] + nadh[c] + dtdp4d6dg[c]  -> nad[c] + dtdprmn[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TDPDRR	dTDP-4-dehydrorhamnose reductase	internal	Cell Envelope Biosynthesis	h[c] + nadph[c] + dtdp4d6dm[c]  -> nadp[c] + dtdprmn[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TDPGDH	dTDPglucose 4,6-dehydratase	internal	Cell Envelope Biosynthesis	dtdpglu[c]  <=> h2o[c] + dtdp4d6dg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TDSK	Tetraacyldisaccharide 4kinase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	atp[c] + lipidA_AFE[c]  -> h[c] + adp[c] + lipid4A_AFE[c] 	NOT_ASSESSABLE	CHARGE_IMBALANCED	NOT_ASSESSABLE		-2.0	
+THDPS	tetrahydrodipicolinate succinylase	internal	Threonine and Lysine Metabolism	h2o[c] + succoa[c] + thdp[c]  <=> sl2a6o[c] + coa[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+THFAT	Tetrahydrofolate aminomethyltransferase	internal	Folate Metabolism	h2o[c] + methf[c]  <=> h[c] + 5fthf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+THMP	thiamin phosphatase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	h2o[c] + thmmp[c]  <=> pi[c] + thm[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+THPDH	4-hydroxythreonine-4-phosphate dehydrogenase 	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	nad[c] + phthr[c]  <=> h[c] + nadh[c] + amopbut-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+THRD_L	L-threonine deaminase	internal	Valine, Leucine, and Isoleucine Metabolism	thr-L[c]  -> nh4[c] + 2obut[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+THRS	threonine synthase	internal	Threonine and Lysine Metabolism	h2o[c] + phom[c]  -> pi[c] + thr-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TKT1	transketolase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	e4p[c] + xu5p-D[c]  <=> g3p[c] + f6p-B[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TKT2	transketolase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	g3p[c] + s7p[c]  <=> r5p[c] + xu5p-D[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TMDK1	Deoxyuridine kinase (ATP:Deoxyuridine)	internal	Nucleotide Salvage Pathway	atp[c] + duri[c]  -> h[c] + adp[c] + dump[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TMDK2	thymidine kinase (ATP:thymidine)	internal	Nucleotide Salvage Pathway	atp[c] + thymd[c]  -> h[c] + adp[c] + dtmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TMDS	Thymidylate synthase	internal	Nucleotide Salvage Pathway	mlthf[c] + dump[c]  <=> dtmp[c] + dhf[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TMPK	thiamine-phosphate kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	atp[c] + thmmp[c]  <=> adp[c] + thmpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TMPPP	thiamine-phosphate diphosphorylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	h[c] + 2mahmp[c] + 4mpetz[c]  -> ppi[c] + thmmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TPI	triose-phosphate isomerase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	g3p[c]  <=> dhap[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TRDR	thioredoxin reductase (NADPH)	internal	Oxidative Phosphorylation	nadph[c] + trdrd[c]  -> 3 h[c] + nadp[c] + trdox[c] 	BALANCED	CHARGE_IMBALANCED	CHARGE_IMBALANCED	{}	4.0	
+TRPS2	tryptophan synthase (indole)	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	ser-L[c] + indole[c]  <=> h2o[c] + trp-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TRPS3	tryptophan synthase (indoleglycerol phosphate)	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	3ig3p[c]  <=> g3p[c] + indole[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TRSAR	2-hydroxy-3-oxopropionate reductase 	internal	Alternate Carbon Metabolism	nad[c] + glyc-R[c]  <=> h[c] + nadh[c] + 2h3oppan[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TSQOC	thiosulfate-quinone oxireductase complex	internal	Sulfur Metabolism	2 tsul[p] + 2 h[c] + q8[c]  -> ttton[p] + q8h2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TSULtex	tsul transport	transport	Transport, Outer Membrane Porin	tsul[p]  <=> tsul[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TTMS	Thiamine thiazole moiety synthesis	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	atp[c] + amet[c] + nadph[c] + tyr-L[c] + dxyl5p[c] + iscssulfcys[c]  -> 2 h[c] + h2o[c] + co2[c] + ppi[c] + nadp[c] + met-L[c] + amp[c] + dad-5[c] + iscscys[c] + 4mpetz[c] + 4hba[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TTSF	thymidylate synthase (FAD)	internal	Threonine and Lysine Metabolism	mlthf[c] + dump[c] + fadh2[c]  <=> fad[c] + thf[c] + dtmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TTTONtex	ttton transport	transport	Transport, Outer Membrane Porin	ttton[p]  <=> ttton[e] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+TYRTA	tyrosine transaminase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	glu-L[c] + 34hpp[c]  <=> akg[c] + tyr-L[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAAA	UDP-3-O-3-hydroxymiristoyl glucosamine N-acetyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	3hmrsACP[c] + udpglucpypi[c]  -> h[c] + ACP[c] + udpglucpy[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAAD	UDP-3-O-acyl N-acetylglucosamine deacetylase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	h2o[c] + u3aga[c]  -> ac[c] + udpglucpypi[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAAGDS	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	atp[c] + 26dap-M[c] + uamag[c]  <=> h[c] + pi[c] + adp[c] + ugmd[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UACAA	Pyridoxal phosphate-dependent UDP 2-acetamido-2-deoxy-alpha-D-ribo-hexopyranos-3-ulose 3-aminotransferase 	internal	Lipopolysaccharide Biosynthesis	glu-L[c] + uacgamo[c]  -> akg[c] + u3agn[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAGAAT	UDP-N-acetylglucosamine acyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	3hmrsACP[c] + u3agn[c]  -> h[c] + ACP[c] + u3aga[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAGCVT	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	pep[c] + uacgam[c]  <=> pi[c] + uaccg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAGDP	UDP-N-acetylglucosamine diphosphorylase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	h[c] + utp[c] + acgam1p[c]  -> ppi[c] + uacgam[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAMAGS	UDP-N-acetylmuramoylalanine--D-glutamate ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	atp[c] + uama[c] + glu-D[c]  <=> h[c] + pi[c] + adp[c] + uamag[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAMAS	UDP-N-acetylmuramate--alanine ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	atp[c] + ala-L[c] + uamr[c]  <=> h[c] + pi[c] + adp[c] + uama[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UAPGR	UDP-N-acetylmuramate dehydrogenase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	nadp[c] + uamr[c]  <=> h[c] + nadph[c] + uaccg[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UCMAT	undecaprenyldiphospho-muramoylpentapeptide ?-N-acetylglucosaminyltransferase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	uacgam[c] + uagmda[c]  -> h[c] + udp[c] + ugmdal[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UDCPDP	undecaprenyl-diphosphatase	internal	Cell Envelope Biosynthesis	h2o[c] + udcpdp[c]  -> h[c] + pi[c] + udcpp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UDCPDPS	Undecaprenyl diphosphate synthase	internal	Cofactor and Prosthetic Group Biosynthesis	h[c] + 8 ipdp[c] + frdp[c]  <=> 8 ppi[c] + dtpcudcpdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UDDS	undecaprenyl diphosphate synthase	internal	Cell Envelope Biosynthesis	8 ipdp[c] + frdp[c]  -> 8 ppi[c] + udcpdp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UDPGD	UDPglucose 6-dehydrogenase	internal	( Cell Envelope Biosynthesis ) or ( UDP-D-xylose biosynthesis )	h2o[c] + 2 nad[c] + udpg[c]  <=> 3 h[c] + 2 nadh[c] + udpglcur[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UGDC	UDP-glucuronate decarboxylase	internal	( Cell Envelope Biosynthesis ) or ( UDP-D-xylose biosynthesis )	h[c] + udpglcur[c]  -> co2[c] + udpxyl[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UGLDDS	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	atp[c] + alaala[c] + ugmd[c]  -> h[c] + pi[c] + adp[c] + ugmda[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UHGA	UDP-3-O-3-hydroxymiristoyl glucosamine N-acetyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	h2o[c] + udpglucpy[c]  -> 2 h[c] + biglucpypi[c] + ump[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UPP3MT1	Uroporphyrinogen-III C-methyltransferase 	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	amet[c] + pre1[c]  <=> dscl[c] + ahcys[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UPP3MT2	uroporphyrinogen methyltransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	amet[c] + uppg3[c]  <=> h[c] + ahcys[c] + pre1[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UPP3S	uroporphyrinogen-III synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme Biosynthesis)	hmbil[c]  -> h2o[c] + uppg3[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UPPDC1	uroporphyrinogen decarboxylase (uroporphyrinogen III)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	4 h[c] + uppg3[c]  -> 4 co2[c] + cpppg3[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+UPPRT	uracil phosphoribosyltransferase	internal	Purine and Pyrimidine Biosynthesis	ppi[c] + ump[c]  <=> prpp[c] + ura[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+URIDK	uridylate kinase	internal	Purine and Pyrimidine Biosynthesis	atp[c] + ump[c]  <=> adp[c] + udp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+URIK1	uridine kinase (ATP:Uridine)	internal	Nucleotide Salvage Pathway	atp[c] + uri[c]  -> h[c] + adp[c] + ump[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+URIK2	uridine kinase (GTP:Uridine)	internal	Nucleotide Salvage Pathway	gtp[c] + uri[c]  -> h[c] + gdp[c] + ump[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+URIP	uridine phosphorylase	internal	Nucleotide Salvage Pathway	pi[c] + uri[c]  <=> ura[c] + r1p[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+VALTA1	valine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	pyr[c] + val-L[c]  <=> ala-L[c] + 3mob[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+VALTA2	valine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	akg[c] + val-L[c]  <=> glu-L[c] + 3mob[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+XAND	xanthine dehydrogenase	internal	Nucleotide Salvage Pathway	h2o[c] + nad[c] + xan[c]  -> h[c] + nadh[c] + urate[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+XPPT	xanthine phosphoribosyltransferase	internal	Nucleotide Salvage Pathway	prpp[c] + xan[c]  -> ppi[c] + xmp[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ZN2tex	zn2 transport	transport	Transport, Outer Membrane Porin	zn2[e]  <=> zn2[p] 	BALANCED	BALANCED	BALANCED	{}	0.0	
+ZN2tpp	metalion trabsporter, NRAMP family	transport	Transport, Inner Membrane	zn2[p]  -> zn2[c] 	BALANCED	BALANCED	BALANCED	{}	0.0	

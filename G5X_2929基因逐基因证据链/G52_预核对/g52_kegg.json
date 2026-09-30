@@ -1,0 +1,2591 @@
+{
+  "accessed_utc": "2026-09-25T01:29:18.528508+00:00",
+  "source_info": "https://rest.kegg.jp/info/afr",
+  "by_afe": {
+    "AFE_0343": {
+      "ko": [
+        "ko:K02881"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0369": {
+      "ko": [
+        "ko:K03723"
+      ],
+      "enzyme": [
+        "ec:5.6.2.4"
+      ],
+      "pathway": [
+        "path:afr03420"
+      ]
+    },
+    "AFE_0331": {
+      "ko": [
+        "ko:K02965"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0446": {},
+    "AFE_0450": {
+      "ko": [
+        "ko:K03631"
+      ]
+    },
+    "AFE_0513": {},
+    "AFE_0432": {
+      "ko": [
+        "ko:K05810"
+      ],
+      "enzyme": [
+        "ec:2.4.2.1",
+        "ec:2.4.2.28",
+        "ec:3.5.4.4"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr00270",
+        "path:afr01100",
+        "path:afr01232"
+      ]
+    },
+    "AFE_0491": {
+      "ko": [
+        "ko:K00979"
+      ],
+      "enzyme": [
+        "ec:2.7.7.38"
+      ],
+      "pathway": [
+        "path:afr00541",
+        "path:afr01100",
+        "path:afr01250"
+      ]
+    },
+    "AFE_0366": {
+      "ko": [
+        "ko:K00383"
+      ],
+      "enzyme": [
+        "ec:1.8.1.7"
+      ],
+      "pathway": [
+        "path:afr00480",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0341": {
+      "ko": [
+        "ko:K02994"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0338": {
+      "ko": [
+        "ko:K02895"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0455": {},
+    "AFE_0462": {
+      "ko": [
+        "ko:K08641"
+      ],
+      "enzyme": [
+        "ec:3.4.13.22"
+      ],
+      "pathway": [
+        "path:afr01502",
+        "path:afr02020"
+      ]
+    },
+    "AFE_0416": {
+      "ko": [
+        "ko:K02650"
+      ],
+      "pathway": [
+        "path:afr02020"
+      ]
+    },
+    "AFE_0424": {
+      "ko": [
+        "ko:K00031"
+      ],
+      "enzyme": [
+        "ec:1.1.1.42"
+      ],
+      "pathway": [
+        "path:afr00020",
+        "path:afr00480",
+        "path:afr00720",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200",
+        "path:afr01210",
+        "path:afr01230",
+        "path:afr04146"
+      ]
+    },
+    "AFE_0569": {},
+    "AFE_0590": {
+      "ko": [
+        "ko:K03704"
+      ]
+    },
+    "AFE_0614": {},
+    "AFE_0459": {
+      "ko": [
+        "ko:K01869"
+      ],
+      "enzyme": [
+        "ec:6.1.1.4"
+      ],
+      "pathway": [
+        "path:afr00970"
+      ]
+    },
+    "AFE_0457": {
+      "ko": [
+        "ko:K02340"
+      ],
+      "enzyme": [
+        "ec:2.7.7.7"
+      ],
+      "pathway": [
+        "path:afr03030",
+        "path:afr03430",
+        "path:afr03440"
+      ]
+    },
+    "AFE_0546": {},
+    "AFE_0436": {
+      "ko": [
+        "ko:K08964"
+      ],
+      "enzyme": [
+        "ec:4.2.1.109"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0451": {
+      "ko": [
+        "ko:K00858"
+      ],
+      "enzyme": [
+        "ec:2.7.1.23"
+      ],
+      "pathway": [
+        "path:afr00760",
+        "path:afr01100",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0525": {
+      "ko": [
+        "ko:K22719"
+      ]
+    },
+    "AFE_0500": {},
+    "AFE_0619": {},
+    "AFE_0593": {
+      "ko": [
+        "ko:K03181"
+      ],
+      "enzyme": [
+        "ec:4.1.3.40"
+      ],
+      "pathway": [
+        "path:afr00130",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0329": {
+      "ko": [
+        "ko:K02892"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0392": {
+      "ko": [
+        "ko:K02834"
+      ]
+    },
+    "AFE_0427": {
+      "ko": [
+        "ko:K01902"
+      ],
+      "enzyme": [
+        "ec:6.2.1.5"
+      ],
+      "pathway": [
+        "path:afr00020",
+        "path:afr00640",
+        "path:afr00660",
+        "path:afr00720",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200"
+      ]
+    },
+    "AFE_0443": {},
+    "AFE_0529": {},
+    "AFE_0473": {
+      "ko": [
+        "ko:K00003"
+      ],
+      "enzyme": [
+        "ec:1.1.1.3"
+      ],
+      "pathway": [
+        "path:afr00260",
+        "path:afr00270",
+        "path:afr00300",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0524": {
+      "ko": [
+        "ko:K03797"
+      ],
+      "enzyme": [
+        "ec:3.4.21.102"
+      ]
+    },
+    "AFE_0549": {},
+    "AFE_0354": {
+      "ko": [
+        "ko:K03040"
+      ],
+      "enzyme": [
+        "ec:2.7.7.6"
+      ],
+      "pathway": [
+        "path:afr03020"
+      ]
+    },
+    "AFE_0332": {
+      "ko": [
+        "ko:K02890"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0358": {
+      "ko": [
+        "ko:K03630"
+      ]
+    },
+    "AFE_0421": {
+      "ko": [
+        "ko:K08307"
+      ],
+      "enzyme": [
+        "ec:4.2.2.29"
+      ]
+    },
+    "AFE_0493": {},
+    "AFE_0452": {
+      "ko": [
+        "ko:K03525"
+      ],
+      "enzyme": [
+        "ec:2.7.1.33"
+      ],
+      "pathway": [
+        "path:afr00770",
+        "path:afr01100",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0391": {
+      "ko": [
+        "ko:K02519"
+      ]
+    },
+    "AFE_0404": {
+      "ko": [
+        "ko:K01940"
+      ],
+      "enzyme": [
+        "ec:6.3.4.5"
+      ],
+      "pathway": [
+        "path:afr00220",
+        "path:afr00250",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0601": {
+      "ko": [
+        "ko:K03820"
+      ],
+      "enzyme": [
+        "ec:2.3.1.269"
+      ]
+    },
+    "AFE_0345": {
+      "ko": [
+        "ko:K02907"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0539": {
+      "ko": [
+        "ko:K00958"
+      ],
+      "enzyme": [
+        "ec:2.7.7.4"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr00261",
+        "path:afr00450",
+        "path:afr00920",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01320"
+      ]
+    },
+    "AFE_0378": {
+      "ko": [
+        "ko:K06076"
+      ]
+    },
+    "AFE_0626": {
+      "ko": [
+        "ko:K01704"
+      ],
+      "enzyme": [
+        "ec:4.2.1.33",
+        "ec:4.2.1.35"
+      ],
+      "pathway": [
+        "path:afr00290",
+        "path:afr00660",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01210",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0365": {
+      "ko": [
+        "ko:K19696"
+      ],
+      "enzyme": [
+        "ec:2.4.2.44"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0407": {
+      "ko": [
+        "ko:K00928"
+      ],
+      "enzyme": [
+        "ec:2.7.2.4"
+      ],
+      "pathway": [
+        "path:afr00260",
+        "path:afr00261",
+        "path:afr00270",
+        "path:afr00300",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01210",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0507": {},
+    "AFE_0337": {
+      "ko": [
+        "ko:K02874"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0363": {
+      "ko": [
+        "ko:K07092"
+      ]
+    },
+    "AFE_0622": {},
+    "AFE_0318": {
+      "ko": [
+        "ko:K02935"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0486": {
+      "ko": [
+        "ko:K03559"
+      ]
+    },
+    "AFE_0527": {
+      "ko": [
+        "ko:K00688"
+      ],
+      "enzyme": [
+        "ec:2.4.1.1"
+      ],
+      "pathway": [
+        "path:afr00500",
+        "path:afr01100",
+        "path:afr01110"
+      ]
+    },
+    "AFE_0314": {
+      "ko": [
+        "ko:K02601"
+      ]
+    },
+    "AFE_0534": {
+      "ko": [
+        "ko:K01251"
+      ],
+      "enzyme": [
+        "ec:3.13.2.1"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr00670",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0444": {},
+    "AFE_0599": {
+      "ko": [
+        "ko:K06189"
+      ]
+    },
+    "AFE_0617": {
+      "ko": [
+        "ko:K06147"
+      ]
+    },
+    "AFE_0397": {
+      "ko": [
+        "ko:K01069"
+      ],
+      "enzyme": [
+        "ec:3.1.2.6"
+      ],
+      "pathway": [
+        "path:afr00620",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0522": {
+      "ko": [
+        "ko:K03769"
+      ],
+      "enzyme": [
+        "ec:5.2.1.8"
+      ]
+    },
+    "AFE_0629": {
+      "ko": [
+        "ko:K01807"
+      ],
+      "enzyme": [
+        "ec:5.3.1.6"
+      ],
+      "pathway": [
+        "path:afr00030",
+        "path:afr00710",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0316": {
+      "ko": [
+        "ko:K02863"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0372": {
+      "ko": [
+        "ko:K06176"
+      ],
+      "enzyme": [
+        "ec:5.4.99.27"
+      ]
+    },
+    "AFE_0502": {},
+    "AFE_0359": {
+      "ko": [
+        "ko:K00887"
+      ],
+      "enzyme": [
+        "ec:2.7.1.66"
+      ],
+      "pathway": [
+        "path:afr00550"
+      ]
+    },
+    "AFE_0566": {},
+    "AFE_0620": {},
+    "AFE_0606": {},
+    "AFE_0553": {},
+    "AFE_0394": {
+      "ko": [
+        "ko:K02956"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0508": {
+      "ko": [
+        "ko:K04763"
+      ]
+    },
+    "AFE_0479": {
+      "ko": [
+        "ko:K02836"
+      ]
+    },
+    "AFE_0408": {},
+    "AFE_0559": {
+      "ko": [
+        "ko:K03980"
+      ]
+    },
+    "AFE_0361": {},
+    "AFE_0401": {
+      "ko": [
+        "ko:K07131"
+      ]
+    },
+    "AFE_0554": {},
+    "AFE_0595": {},
+    "AFE_0382": {
+      "ko": [
+        "ko:K19236"
+      ],
+      "pathway": [
+        "path:afr01503"
+      ]
+    },
+    "AFE_0438": {
+      "ko": [
+        "ko:K01462"
+      ],
+      "enzyme": [
+        "ec:3.5.1.88"
+      ]
+    },
+    "AFE_0453": {
+      "ko": [
+        "ko:K03524"
+      ],
+      "enzyme": [
+        "ec:6.3.4.15"
+      ],
+      "pathway": [
+        "path:afr00780",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0370": {
+      "ko": [
+        "ko:K00991"
+      ],
+      "enzyme": [
+        "ec:2.7.7.60"
+      ],
+      "pathway": [
+        "path:afr00900",
+        "path:afr01100",
+        "path:afr01110"
+      ]
+    },
+    "AFE_0449": {
+      "ko": [
+        "ko:K07711"
+      ],
+      "enzyme": [
+        "ec:2.7.13.3"
+      ],
+      "pathway": [
+        "path:afr02020",
+        "path:afr02024"
+      ]
+    },
+    "AFE_0468": {
+      "ko": [
+        "ko:K03787"
+      ],
+      "enzyme": [
+        "ec:3.1.3.5",
+        "ec:3.1.3.6"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr00240",
+        "path:afr00760",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01232"
+      ]
+    },
+    "AFE_0326": {
+      "ko": [
+        "ko:K02946"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0344": {
+      "ko": [
+        "ko:K02988"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0618": {
+      "ko": [
+        "ko:K00012"
+      ],
+      "enzyme": [
+        "ec:1.1.1.22"
+      ],
+      "pathway": [
+        "path:afr00040",
+        "path:afr00053",
+        "path:afr00520",
+        "path:afr00541",
+        "path:afr01100",
+        "path:afr01120",
+        "path:afr01240",
+        "path:afr01250"
+      ]
+    },
+    "AFE_0531": {
+      "ko": [
+        "ko:K03286"
+      ]
+    },
+    "AFE_0465": {},
+    "AFE_0585": {},
+    "AFE_0530": {
+      "ko": [
+        "ko:K00856"
+      ],
+      "enzyme": [
+        "ec:2.7.1.20"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr01100",
+        "path:afr01232"
+      ]
+    },
+    "AFE_0423": {
+      "ko": [
+        "ko:K27802"
+      ],
+      "enzyme": [
+        "ec:4.2.1.3",
+        "ec:4.2.1.99"
+      ],
+      "pathway": [
+        "path:afr00020",
+        "path:afr00630",
+        "path:afr00640",
+        "path:afr00720",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200",
+        "path:afr01210",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0466": {
+      "ko": [
+        "ko:K01915"
+      ],
+      "enzyme": [
+        "ec:6.3.1.2"
+      ],
+      "pathway": [
+        "path:afr00220",
+        "path:afr00250",
+        "path:afr00630",
+        "path:afr00910",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01230",
+        "path:afr02020"
+      ]
+    },
+    "AFE_0574": {
+      "ko": [
+        "ko:K04069"
+      ],
+      "enzyme": [
+        "ec:1.97.1.4"
+      ]
+    },
+    "AFE_0348": {
+      "ko": [
+        "ko:K00939"
+      ],
+      "enzyme": [
+        "ec:2.7.4.3"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr00730",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01232",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0520": {
+      "ko": [
+        "ko:K03694"
+      ]
+    },
+    "AFE_0551": {
+      "ko": [
+        "ko:K11206"
+      ],
+      "enzyme": [
+        "ec:3.5.1.128"
+      ]
+    },
+    "AFE_0418": {},
+    "AFE_0557": {
+      "ko": [
+        "ko:K11753"
+      ],
+      "enzyme": [
+        "ec:2.7.1.26",
+        "ec:2.7.7.2"
+      ],
+      "pathway": [
+        "path:afr00740",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0350": {
+      "ko": [
+        "ko:K02919"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0355": {
+      "ko": [
+        "ko:K02879"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0347": {
+      "ko": [
+        "ko:K03076"
+      ],
+      "pathway": [
+        "path:afr02024",
+        "path:afr03060",
+        "path:afr03070"
+      ]
+    },
+    "AFE_0409": {
+      "ko": [
+        "ko:K07126"
+      ]
+    },
+    "AFE_0481": {
+      "ko": [
+        "ko:K09808"
+      ],
+      "pathway": [
+        "path:afr02010"
+      ]
+    },
+    "AFE_0487": {},
+    "AFE_0437": {
+      "ko": [
+        "ko:K03567"
+      ]
+    },
+    "AFE_0540": {},
+    "AFE_0544": {},
+    "AFE_0349": {
+      "ko": [
+        "ko:K02518"
+      ]
+    },
+    "AFE_0471": {},
+    "AFE_0470": {
+      "ko": [
+        "ko:K03087"
+      ]
+    },
+    "AFE_0484": {
+      "ko": [
+        "ko:K02238"
+      ]
+    },
+    "AFE_0616": {},
+    "AFE_0592": {
+      "ko": [
+        "ko:K03179"
+      ],
+      "enzyme": [
+        "ec:2.5.1.39"
+      ],
+      "pathway": [
+        "path:afr00130",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0362": {},
+    "AFE_0327": {
+      "ko": [
+        "ko:K02906"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0405": {
+      "ko": [
+        "ko:K00611"
+      ],
+      "enzyme": [
+        "ec:2.1.3.3"
+      ],
+      "pathway": [
+        "path:afr00220",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0357": {
+      "ko": [
+        "ko:K13038"
+      ],
+      "enzyme": [
+        "ec:4.1.1.36",
+        "ec:6.3.2.5"
+      ],
+      "pathway": [
+        "path:afr00770",
+        "path:afr01100",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0373": {
+      "ko": [
+        "ko:K19591"
+      ]
+    },
+    "AFE_0339": {
+      "ko": [
+        "ko:K02931"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0328": {
+      "ko": [
+        "ko:K02926"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0532": {
+      "ko": [
+        "ko:K00789"
+      ],
+      "enzyme": [
+        "ec:2.5.1.6"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr00670",
+        "path:afr00999",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01230",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0364": {
+      "ko": [
+        "ko:K00760"
+      ],
+      "enzyme": [
+        "ec:2.4.2.8"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01232"
+      ]
+    },
+    "AFE_0469": {
+      "ko": [
+        "ko:K00573"
+      ],
+      "enzyme": [
+        "ec:2.1.1.77"
+      ]
+    },
+    "AFE_0336": {
+      "ko": [
+        "ko:K02961"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0402": {
+      "ko": [
+        "ko:K01759"
+      ],
+      "enzyme": [
+        "ec:4.4.1.5"
+      ],
+      "pathway": [
+        "path:afr00620",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0495": {},
+    "AFE_0543": {
+      "ko": [
+        "ko:K04078"
+      ]
+    },
+    "AFE_0581": {},
+    "AFE_0573": {
+      "ko": [
+        "ko:K09141"
+      ]
+    },
+    "AFE_0414": {
+      "ko": [
+        "ko:K28280"
+      ]
+    },
+    "AFE_0509": {},
+    "AFE_0564": {
+      "ko": [
+        "ko:K03060"
+      ],
+      "enzyme": [
+        "ec:2.7.7.6"
+      ],
+      "pathway": [
+        "path:afr03020"
+      ]
+    },
+    "AFE_0607": {},
+    "AFE_0615": {},
+    "AFE_0426": {},
+    "AFE_0454": {
+      "ko": [
+        "ko:K00147"
+      ],
+      "enzyme": [
+        "ec:1.2.1.41"
+      ],
+      "pathway": [
+        "path:afr00330",
+        "path:afr00332",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0475": {},
+    "AFE_0562": {},
+    "AFE_0389": {
+      "ko": [
+        "ko:K09748"
+      ]
+    },
+    "AFE_0588": {},
+    "AFE_0556": {
+      "ko": [
+        "ko:K01870"
+      ],
+      "enzyme": [
+        "ec:6.1.1.5"
+      ],
+      "pathway": [
+        "path:afr00970"
+      ]
+    },
+    "AFE_0430": {
+      "ko": [
+        "ko:K05807"
+      ]
+    },
+    "AFE_0367": {
+      "ko": [
+        "ko:K24136"
+      ],
+      "enzyme": [
+        "ec:1.11.1.27"
+      ],
+      "pathway": [
+        "path:afr00480",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0623": {},
+    "AFE_0377": {
+      "ko": [
+        "ko:K03634"
+      ]
+    },
+    "AFE_0434": {
+      "ko": [
+        "ko:K08965"
+      ],
+      "enzyme": [
+        "ec:5.3.2.5"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0461": {},
+    "AFE_0555": {
+      "ko": [
+        "ko:K03101"
+      ],
+      "enzyme": [
+        "ec:3.4.23.36"
+      ],
+      "pathway": [
+        "path:afr03060"
+      ]
+    },
+    "AFE_0558": {},
+    "AFE_0393": {
+      "ko": [
+        "ko:K03177"
+      ],
+      "enzyme": [
+        "ec:5.4.99.25"
+      ]
+    },
+    "AFE_0499": {},
+    "AFE_0482": {
+      "ko": [
+        "ko:K09928"
+      ]
+    },
+    "AFE_0603": {
+      "ko": [
+        "ko:K02074"
+      ]
+    },
+    "AFE_0512": {},
+    "AFE_0463": {
+      "ko": [
+        "ko:K10563"
+      ],
+      "enzyme": [
+        "ec:3.2.2.23",
+        "ec:4.2.99.18"
+      ],
+      "pathway": [
+        "path:afr03410"
+      ]
+    },
+    "AFE_0542": {
+      "ko": [
+        "ko:K04077"
+      ],
+      "enzyme": [
+        "ec:5.6.1.7"
+      ],
+      "pathway": [
+        "path:afr03018",
+        "path:afr04156"
+      ]
+    },
+    "AFE_0628": {
+      "ko": [
+        "ko:K00275"
+      ],
+      "enzyme": [
+        "ec:1.4.3.5"
+      ],
+      "pathway": [
+        "path:afr00750",
+        "path:afr01100",
+        "path:afr01120",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0342": {
+      "ko": [
+        "ko:K02933"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0526": {
+      "ko": [
+        "ko:K15633"
+      ],
+      "enzyme": [
+        "ec:5.4.2.12"
+      ],
+      "pathway": [
+        "path:afr00010",
+        "path:afr00260",
+        "path:afr00680",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0489": {
+      "ko": [
+        "ko:K00912"
+      ],
+      "enzyme": [
+        "ec:2.7.1.130"
+      ],
+      "pathway": [
+        "path:afr00540",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0472": {
+      "ko": [
+        "ko:K14261"
+      ]
+    },
+    "AFE_0624": {
+      "ko": [
+        "ko:K01703"
+      ],
+      "enzyme": [
+        "ec:4.2.1.33",
+        "ec:4.2.1.35"
+      ],
+      "pathway": [
+        "path:afr00290",
+        "path:afr00660",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01210",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0317": {
+      "ko": [
+        "ko:K02864"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0576": {
+      "ko": [
+        "ko:K01665"
+      ],
+      "enzyme": [
+        "ec:2.6.1.85"
+      ],
+      "pathway": [
+        "path:afr00790",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0340": {
+      "ko": [
+        "ko:K02954"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0490": {
+      "ko": [
+        "ko:K09791"
+      ]
+    },
+    "AFE_0431": {
+      "ko": [
+        "ko:K06180"
+      ],
+      "enzyme": [
+        "ec:5.4.99.23"
+      ]
+    },
+    "AFE_0498": {},
+    "AFE_0485": {
+      "ko": [
+        "ko:K03561"
+      ]
+    },
+    "AFE_0545": {
+      "ko": [
+        "ko:K04084"
+      ],
+      "enzyme": [
+        "ec:1.8.4.16"
+      ]
+    },
+    "AFE_0433": {
+      "ko": [
+        "ko:K08967"
+      ],
+      "enzyme": [
+        "ec:1.13.11.53",
+        "ec:1.13.11.54"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0552": {
+      "ko": [
+        "ko:K02471"
+      ],
+      "pathway": [
+        "path:afr02010"
+      ]
+    },
+    "AFE_0476": {
+      "ko": [
+        "ko:K07462"
+      ],
+      "pathway": [
+        "path:afr03410",
+        "path:afr03430",
+        "path:afr03440"
+      ]
+    },
+    "AFE_0403": {
+      "ko": [
+        "ko:K09913"
+      ],
+      "enzyme": [
+        "ec:2.4.2.1",
+        "ec:2.4.2.2"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr00240",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01232"
+      ]
+    },
+    "AFE_0419": {
+      "ko": [
+        "ko:K00616"
+      ],
+      "enzyme": [
+        "ec:2.2.1.2"
+      ],
+      "pathway": [
+        "path:afr00030",
+        "path:afr00710",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0346": {
+      "ko": [
+        "ko:K02876"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0441": {
+      "ko": [
+        "ko:K01710"
+      ],
+      "enzyme": [
+        "ec:4.2.1.46"
+      ],
+      "pathway": [
+        "path:afr00521",
+        "path:afr00523",
+        "path:afr00525",
+        "path:afr00541",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01250"
+      ]
+    },
+    "AFE_0379": {
+      "ko": [
+        "ko:K07478"
+      ]
+    },
+    "AFE_0439": {},
+    "AFE_0568": {
+      "ko": [
+        "ko:K03655"
+      ],
+      "enzyme": [
+        "ec:5.6.2.4"
+      ],
+      "pathway": [
+        "path:afr03440"
+      ]
+    },
+    "AFE_0320": {
+      "ko": [
+        "ko:K03043"
+      ],
+      "enzyme": [
+        "ec:2.7.7.6"
+      ],
+      "pathway": [
+        "path:afr03020"
+      ]
+    },
+    "AFE_0413": {
+      "ko": [
+        "ko:K28279"
+      ]
+    },
+    "AFE_0396": {},
+    "AFE_0356": {
+      "ko": [
+        "ko:K01520"
+      ],
+      "enzyme": [
+        "ec:3.6.1.23"
+      ],
+      "pathway": [
+        "path:afr00240",
+        "path:afr01100",
+        "path:afr01232"
+      ]
+    },
+    "AFE_0519": {
+      "ko": [
+        "ko:K08997"
+      ],
+      "enzyme": [
+        "ec:2.7.7.108"
+      ]
+    },
+    "AFE_0538": {},
+    "AFE_0596": {
+      "ko": [
+        "ko:K06168"
+      ],
+      "enzyme": [
+        "ec:2.8.4.3"
+      ]
+    },
+    "AFE_0604": {
+      "ko": [
+        "ko:K02075"
+      ]
+    },
+    "AFE_0460": {
+      "ko": [
+        "ko:K03809"
+      ],
+      "enzyme": [
+        "ec:1.6.5.2"
+      ],
+      "pathway": [
+        "path:afr00130",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0565": {
+      "ko": [
+        "ko:K01139"
+      ],
+      "enzyme": [
+        "ec:2.7.6.5",
+        "ec:3.1.7.2"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0400": {
+      "ko": [
+        "ko:K02342"
+      ],
+      "enzyme": [
+        "ec:2.7.7.7"
+      ],
+      "pathway": [
+        "path:afr03030",
+        "path:afr03430",
+        "path:afr03440"
+      ]
+    },
+    "AFE_0353": {
+      "ko": [
+        "ko:K02986"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0535": {
+      "ko": [
+        "ko:K00297"
+      ],
+      "enzyme": [
+        "ec:1.5.1.54"
+      ],
+      "pathway": [
+        "path:afr00670",
+        "path:afr00720",
+        "path:afr01100",
+        "path:afr01120",
+        "path:afr01200"
+      ]
+    },
+    "AFE_0571": {},
+    "AFE_0398": {},
+    "AFE_0518": {},
+    "AFE_0477": {
+      "ko": [
+        "ko:K18829"
+      ]
+    },
+    "AFE_0406": {
+      "ko": [
+        "ko:K00821"
+      ],
+      "enzyme": [
+        "ec:2.6.1.11",
+        "ec:2.6.1.17"
+      ],
+      "pathway": [
+        "path:afr00220",
+        "path:afr00300",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01210",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0483": {
+      "ko": [
+        "ko:K09810"
+      ],
+      "pathway": [
+        "path:afr02010"
+      ]
+    },
+    "AFE_0496": {},
+    "AFE_0515": {},
+    "AFE_0575": {
+      "ko": [
+        "ko:K12340"
+      ],
+      "pathway": [
+        "path:afr01501",
+        "path:afr01503",
+        "path:afr02020",
+        "path:afr03070"
+      ]
+    },
+    "AFE_0501": {},
+    "AFE_0492": {
+      "ko": [
+        "ko:K01507"
+      ],
+      "enzyme": [
+        "ec:3.6.1.1"
+      ],
+      "pathway": [
+        "path:afr00190"
+      ]
+    },
+    "AFE_0324": {
+      "ko": [
+        "ko:K02355"
+      ]
+    },
+    "AFE_0580": {},
+    "AFE_0442": {
+      "ko": [
+        "ko:K00067"
+      ],
+      "enzyme": [
+        "ec:1.1.1.133"
+      ],
+      "pathway": [
+        "path:afr00521",
+        "path:afr00523",
+        "path:afr00541",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01250"
+      ]
+    },
+    "AFE_0374": {},
+    "AFE_0445": {
+      "ko": [
+        "ko:K00963"
+      ],
+      "enzyme": [
+        "ec:2.7.7.9"
+      ],
+      "pathway": [
+        "path:afr00040",
+        "path:afr00052",
+        "path:afr00500",
+        "path:afr00520",
+        "path:afr00541",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01240",
+        "path:afr01250"
+      ]
+    },
+    "AFE_0503": {},
+    "AFE_0547": {
+      "ko": [
+        "ko:K00826"
+      ],
+      "enzyme": [
+        "ec:2.6.1.42"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr00280",
+        "path:afr00290",
+        "path:afr00770",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01210",
+        "path:afr01230",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0597": {
+      "ko": [
+        "ko:K06217"
+      ]
+    },
+    "AFE_0375": {
+      "ko": [
+        "ko:K00384"
+      ],
+      "enzyme": [
+        "ec:1.8.1.9"
+      ],
+      "pathway": [
+        "path:afr00450"
+      ]
+    },
+    "AFE_0429": {
+      "ko": [
+        "ko:K04751"
+      ],
+      "pathway": [
+        "path:afr02020"
+      ]
+    },
+    "AFE_0602": {
+      "ko": [
+        "ko:K02077"
+      ]
+    },
+    "AFE_0411": {},
+    "AFE_0528": {},
+    "AFE_0447": {
+      "ko": [
+        "ko:K07715"
+      ],
+      "pathway": [
+        "path:afr02020",
+        "path:afr02024"
+      ]
+    },
+    "AFE_0598": {
+      "ko": [
+        "ko:K07042"
+      ]
+    },
+    "AFE_0611": {},
+    "AFE_0567": {},
+    "AFE_0521": {
+      "ko": [
+        "ko:K06891"
+      ]
+    },
+    "AFE_0570": {
+      "ko": [
+        "ko:K00231"
+      ],
+      "enzyme": [
+        "ec:1.3.3.4",
+        "ec:1.3.3.15"
+      ],
+      "pathway": [
+        "path:afr00860",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0582": {},
+    "AFE_0334": {
+      "ko": [
+        "ko:K02878"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0351": {
+      "ko": [
+        "ko:K02952"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0594": {
+      "ko": [
+        "ko:K00570"
+      ],
+      "enzyme": [
+        "ec:2.1.1.17",
+        "ec:2.1.1.71"
+      ],
+      "pathway": [
+        "path:afr00564",
+        "path:afr01100",
+        "path:afr01110"
+      ]
+    },
+    "AFE_0335": {
+      "ko": [
+        "ko:K02904"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0321": {
+      "ko": [
+        "ko:K03046"
+      ],
+      "enzyme": [
+        "ec:2.7.7.6"
+      ],
+      "pathway": [
+        "path:afr03020"
+      ]
+    },
+    "AFE_0315": {
+      "ko": [
+        "ko:K02867"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0325": {
+      "ko": [
+        "ko:K02358"
+      ]
+    },
+    "AFE_0425": {
+      "ko": [
+        "ko:K01903"
+      ],
+      "enzyme": [
+        "ec:6.2.1.5"
+      ],
+      "pathway": [
+        "path:afr00020",
+        "path:afr00640",
+        "path:afr00660",
+        "path:afr00720",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200"
+      ]
+    },
+    "AFE_0322": {
+      "ko": [
+        "ko:K02950"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0537": {},
+    "AFE_0583": {},
+    "AFE_0467": {},
+    "AFE_0395": {
+      "ko": [
+        "ko:K00962"
+      ],
+      "enzyme": [
+        "ec:2.7.7.8"
+      ],
+      "pathway": [
+        "path:afr03018"
+      ]
+    },
+    "AFE_0313": {
+      "ko": [
+        "ko:K03073"
+      ],
+      "pathway": [
+        "path:afr02024",
+        "path:afr03060",
+        "path:afr03070"
+      ]
+    },
+    "AFE_0560": {},
+    "AFE_0360": {},
+    "AFE_0589": {
+      "ko": [
+        "ko:K05592"
+      ],
+      "enzyme": [
+        "ec:5.6.2.7"
+      ],
+      "pathway": [
+        "path:afr03018"
+      ]
+    },
+    "AFE_0605": {
+      "ko": [
+        "ko:K02075"
+      ]
+    },
+    "AFE_0330": {
+      "ko": [
+        "ko:K02886"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0323": {
+      "ko": [
+        "ko:K02992"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0333": {
+      "ko": [
+        "ko:K02982"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0380": {
+      "ko": [
+        "ko:K01875"
+      ],
+      "enzyme": [
+        "ec:6.1.1.11"
+      ],
+      "pathway": [
+        "path:afr00970"
+      ]
+    },
+    "AFE_0368": {
+      "ko": [
+        "ko:K01079"
+      ],
+      "enzyme": [
+        "ec:3.1.3.3"
+      ],
+      "pathway": [
+        "path:afr00260",
+        "path:afr00680",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01200",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0488": {},
+    "AFE_0523": {},
+    "AFE_0536": {
+      "ko": [
+        "ko:K28462"
+      ],
+      "enzyme": [
+        "ec:2.7.1.19"
+      ],
+      "pathway": [
+        "path:afr00710",
+        "path:afr01100",
+        "path:afr01120",
+        "path:afr01200"
+      ]
+    },
+    "AFE_0627": {},
+    "AFE_0371": {
+      "ko": [
+        "ko:K01770"
+      ],
+      "enzyme": [
+        "ec:4.6.1.12"
+      ],
+      "pathway": [
+        "path:afr00900",
+        "path:afr01100",
+        "path:afr01110"
+      ]
+    },
+    "AFE_0422": {
+      "ko": [
+        "ko:K01885"
+      ],
+      "enzyme": [
+        "ec:6.1.1.17"
+      ],
+      "pathway": [
+        "path:afr00860",
+        "path:afr00970",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0474": {
+      "ko": [
+        "ko:K01733"
+      ],
+      "enzyme": [
+        "ec:4.2.3.1"
+      ],
+      "pathway": [
+        "path:afr00260",
+        "path:afr00750",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01120",
+        "path:afr01230"
+      ]
+    },
+    "AFE_0480": {
+      "ko": [
+        "ko:K04567"
+      ],
+      "enzyme": [
+        "ec:6.1.1.6"
+      ],
+      "pathway": [
+        "path:afr00970"
+      ]
+    },
+    "AFE_0548": {
+      "ko": [
+        "ko:K00982"
+      ],
+      "enzyme": [
+        "ec:2.7.7.42",
+        "ec:2.7.7.89"
+      ]
+    },
+    "AFE_0577": {
+      "ko": [
+        "ko:K07027"
+      ]
+    },
+    "AFE_0609": {
+      "ko": [
+        "ko:K08679"
+      ],
+      "enzyme": [
+        "ec:5.1.3.6"
+      ],
+      "pathway": [
+        "path:afr00053",
+        "path:afr00520",
+        "path:afr01100",
+        "path:afr01240",
+        "path:afr01250"
+      ]
+    },
+    "AFE_0591": {
+      "ko": [
+        "ko:K04066"
+      ],
+      "enzyme": [
+        "ec:5.6.2.4"
+      ],
+      "pathway": [
+        "path:afr03440"
+      ]
+    },
+    "AFE_0352": {
+      "ko": [
+        "ko:K02948"
+      ],
+      "pathway": [
+        "path:afr03010"
+      ]
+    },
+    "AFE_0612": {},
+    "AFE_0621": {},
+    "AFE_0435": {
+      "ko": [
+        "ko:K08966"
+      ],
+      "enzyme": [
+        "ec:3.1.3.87"
+      ],
+      "pathway": [
+        "path:afr00270",
+        "path:afr01100"
+      ]
+    },
+    "AFE_0448": {},
+    "AFE_0572": {
+      "ko": [
+        "ko:K06990"
+      ]
+    },
+    "AFE_0390": {
+      "ko": [
+        "ko:K02600"
+      ]
+    },
+    "AFE_0399": {
+      "ko": [
+        "ko:K03469"
+      ],
+      "enzyme": [
+        "ec:3.1.26.4"
+      ],
+      "pathway": [
+        "path:afr03030"
+      ]
+    },
+    "AFE_0600": {
+      "ko": [
+        "ko:K03592"
+      ]
+    },
+    "AFE_0478": {
+      "ko": [
+        "ko:K18828"
+      ]
+    },
+    "AFE_0428": {
+      "ko": [
+        "ko:K01950"
+      ],
+      "enzyme": [
+        "ec:6.3.5.1"
+      ],
+      "pathway": [
+        "path:afr00760",
+        "path:afr01100",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0381": {
+      "ko": [
+        "ko:K19000"
+      ]
+    },
+    "AFE_0420": {
+      "ko": [
+        "ko:K00208"
+      ],
+      "enzyme": [
+        "ec:1.3.1.9",
+        "ec:1.3.1.10"
+      ],
+      "pathway": [
+        "path:afr00061",
+        "path:afr00780",
+        "path:afr01100",
+        "path:afr01110",
+        "path:afr01212",
+        "path:afr01240"
+      ]
+    },
+    "AFE_0563": {
+      "ko": [
+        "ko:K00942"
+      ],
+      "enzyme": [
+        "ec:2.7.4.8"
+      ],
+      "pathway": [
+        "path:afr00230",
+        "path:afr01100",
+        "path:afr01232"
+      ]
+    },
+    "AFE_0458": {
+      "ko": [
+        "ko:K03643"
+      ]
+    }
+  },
+  "request_status": {
+    "ko": {
+      "url": "https://rest.kegg.jp/link/ko/afr",
+      "lines": 1757,
+      "status": "ok"
+    },
+    "enzyme": {
+      "url": "https://rest.kegg.jp/link/enzyme/afr",
+      "lines": 871,
+      "status": "ok"
+    },
+    "pathway": {
+      "url": "https://rest.kegg.jp/link/pathway/afr",
+      "lines": 2946,
+      "status": "ok"
+    }
+  },
+  "ko_reactions": {
+    "ko:K00003": [
+      "rn:R01773",
+      "rn:R01775"
+    ],
+    "ko:K00012": [
+      "rn:R00286"
+    ],
+    "ko:K00031": [
+      "rn:R00267",
+      "rn:R00268",
+      "rn:R01899"
+    ],
+    "ko:K00067": [
+      "rn:R02777"
+    ],
+    "ko:K00147": [
+      "rn:R03313"
+    ],
+    "ko:K00208": [
+      "rn:R01403",
+      "rn:R01404",
+      "rn:R04429",
+      "rn:R04430",
+      "rn:R04724",
+      "rn:R04725",
+      "rn:R04955",
+      "rn:R04956",
+      "rn:R04958",
+      "rn:R04959",
+      "rn:R04961",
+      "rn:R04962",
+      "rn:R04966",
+      "rn:R04967",
+      "rn:R04969",
+      "rn:R04970",
+      "rn:R07765",
+      "rn:R10118",
+      "rn:R10122",
+      "rn:R11671"
+    ],
+    "ko:K00231": [
+      "rn:R03222",
+      "rn:R04178"
+    ],
+    "ko:K00275": [
+      "rn:R00277",
+      "rn:R00278",
+      "rn:R01710",
+      "rn:R01711"
+    ],
+    "ko:K00297": [
+      "rn:R07168"
+    ],
+    "ko:K00383": [
+      "rn:R00094",
+      "rn:R00115"
+    ],
+    "ko:K00384": [
+      "rn:R02016",
+      "rn:R03596",
+      "rn:R09372"
+    ],
+    "ko:K00570": [
+      "rn:R01320",
+      "rn:R02056",
+      "rn:R03424"
+    ],
+    "ko:K00573": [],
+    "ko:K00611": [
+      "rn:R01398"
+    ],
+    "ko:K00616": [
+      "rn:R01827",
+      "rn:R08575"
+    ],
+    "ko:K00688": [
+      "rn:R02111"
+    ],
+    "ko:K00760": [
+      "rn:R01132",
+      "rn:R01229",
+      "rn:R02142",
+      "rn:R08237",
+      "rn:R08238",
+      "rn:R08245"
+    ],
+    "ko:K00789": [
+      "rn:R00177",
+      "rn:R04771"
+    ],
+    "ko:K00821": [
+      "rn:R02283",
+      "rn:R04475"
+    ],
+    "ko:K00826": [
+      "rn:R01090",
+      "rn:R01214",
+      "rn:R02199",
+      "rn:R08622",
+      "rn:R08626",
+      "rn:R10991"
+    ],
+    "ko:K00856": [
+      "rn:R00185"
+    ],
+    "ko:K00858": [
+      "rn:R00104"
+    ],
+    "ko:K00887": [
+      "rn:R05626"
+    ],
+    "ko:K00912": [
+      "rn:R04657"
+    ],
+    "ko:K00928": [
+      "rn:R00480"
+    ],
+    "ko:K00939": [
+      "rn:R00127",
+      "rn:R01547",
+      "rn:R11319"
+    ],
+    "ko:K00942": [
+      "rn:R00332",
+      "rn:R02090",
+      "rn:R12852"
+    ],
+    "ko:K00958": [
+      "rn:R00529",
+      "rn:R04929"
+    ],
+    "ko:K00962": [],
+    "ko:K00963": [
+      "rn:R00289"
+    ],
+    "ko:K00979": [
+      "rn:R03351",
+      "rn:R11396"
+    ],
+    "ko:K00982": [],
+    "ko:K00991": [
+      "rn:R05633"
+    ],
+    "ko:K01069": [
+      "rn:R01736"
+    ],
+    "ko:K01079": [
+      "rn:R00582"
+    ],
+    "ko:K01139": [
+      "rn:R00336",
+      "rn:R00429"
+    ],
+    "ko:K01251": [
+      "rn:R00192"
+    ],
+    "ko:K01462": [],
+    "ko:K01507": [],
+    "ko:K01520": [
+      "rn:R02100",
+      "rn:R11896"
+    ],
+    "ko:K01665": [
+      "rn:R01716"
+    ],
+    "ko:K01703": [
+      "rn:R03896",
+      "rn:R03898",
+      "rn:R03968",
+      "rn:R04001",
+      "rn:R08620",
+      "rn:R08624",
+      "rn:R08628",
+      "rn:R08634",
+      "rn:R08641",
+      "rn:R08645",
+      "rn:R10170"
+    ],
+    "ko:K01704": [
+      "rn:R03896",
+      "rn:R03898",
+      "rn:R03968",
+      "rn:R04001",
+      "rn:R10170"
+    ],
+    "ko:K01710": [
+      "rn:R06513"
+    ],
+    "ko:K01733": [
+      "rn:R01466",
+      "rn:R05086"
+    ],
+    "ko:K01759": [
+      "rn:R02530"
+    ],
+    "ko:K01770": [
+      "rn:R05637"
+    ],
+    "ko:K01807": [
+      "rn:R01056"
+    ],
+    "ko:K01869": [
+      "rn:R03657"
+    ],
+    "ko:K01870": [
+      "rn:R03656"
+    ],
+    "ko:K01875": [
+      "rn:R03662",
+      "rn:R08218"
+    ],
+    "ko:K01885": [
+      "rn:R05578"
+    ],
+    "ko:K01902": [
+      "rn:R00405",
+      "rn:R02404"
+    ],
+    "ko:K01903": [
+      "rn:R00405",
+      "rn:R02404"
+    ],
+    "ko:K01915": [
+      "rn:R00253"
+    ],
+    "ko:K01940": [
+      "rn:R01954"
+    ],
+    "ko:K01950": [
+      "rn:R00257"
+    ],
+    "ko:K02074": [],
+    "ko:K02075": [],
+    "ko:K02077": [],
+    "ko:K02238": [],
+    "ko:K02340": [],
+    "ko:K02342": [],
+    "ko:K02355": [],
+    "ko:K02358": [],
+    "ko:K02471": [],
+    "ko:K02518": [],
+    "ko:K02519": [],
+    "ko:K02600": [],
+    "ko:K02601": [],
+    "ko:K02650": [],
+    "ko:K02834": [],
+    "ko:K02836": [],
+    "ko:K02863": [],
+    "ko:K02864": [],
+    "ko:K02867": [],
+    "ko:K02874": [],
+    "ko:K02876": [],
+    "ko:K02878": [],
+    "ko:K02879": [],
+    "ko:K02881": [],
+    "ko:K02886": [],
+    "ko:K02890": [],
+    "ko:K02892": [],
+    "ko:K02895": [],
+    "ko:K02904": [],
+    "ko:K02906": [],
+    "ko:K02907": [],
+    "ko:K02919": [],
+    "ko:K02926": [],
+    "ko:K02931": [],
+    "ko:K02933": [],
+    "ko:K02935": [],
+    "ko:K02946": [],
+    "ko:K02948": [],
+    "ko:K02950": [],
+    "ko:K02952": [],
+    "ko:K02954": [],
+    "ko:K02956": [],
+    "ko:K02961": [],
+    "ko:K02965": [],
+    "ko:K02982": [],
+    "ko:K02986": [],
+    "ko:K02988": [],
+    "ko:K02992": [],
+    "ko:K02994": [],
+    "ko:K03040": [],
+    "ko:K03043": [],
+    "ko:K03046": [],
+    "ko:K03060": [],
+    "ko:K03073": [],
+    "ko:K03076": [],
+    "ko:K03087": [],
+    "ko:K03101": [],
+    "ko:K03177": [],
+    "ko:K03179": [
+      "rn:R05000",
+      "rn:R05615"
+    ],
+    "ko:K03181": [
+      "rn:R01302"
+    ],
+    "ko:K03286": [],
+    "ko:K03469": [],
+    "ko:K03524": [
+      "rn:R01074",
+      "rn:R05145"
+    ],
+    "ko:K03525": [
+      "rn:R02971",
+      "rn:R03018",
+      "rn:R04391"
+    ],
+    "ko:K03559": [],
+    "ko:K03561": [],
+    "ko:K03567": [],
+    "ko:K03592": [],
+    "ko:K03630": [],
+    "ko:K03631": [],
+    "ko:K03634": [],
+    "ko:K03643": [],
+    "ko:K03655": [],
+    "ko:K03694": [],
+    "ko:K03704": [],
+    "ko:K03723": [],
+    "ko:K03769": [],
+    "ko:K03787": [
+      "rn:R00183",
+      "rn:R00511",
+      "rn:R00963",
+      "rn:R01126",
+      "rn:R01227",
+      "rn:R01562",
+      "rn:R01569",
+      "rn:R01664",
+      "rn:R01877",
+      "rn:R01968",
+      "rn:R02088",
+      "rn:R02102",
+      "rn:R02148",
+      "rn:R02323",
+      "rn:R02370",
+      "rn:R02719",
+      "rn:R03346",
+      "rn:R12958"
+    ],
+    "ko:K03797": [],
+    "ko:K03809": [
+      "rn:R02964",
+      "rn:R03643",
+      "rn:R03816"
+    ],
+    "ko:K03820": [],
+    "ko:K03980": [],
+    "ko:K04066": [],
+    "ko:K04069": [
+      "rn:R04710"
+    ],
+    "ko:K04077": [],
+    "ko:K04078": [],
+    "ko:K04084": [],
+    "ko:K04567": [
+      "rn:R03658"
+    ],
+    "ko:K04751": [],
+    "ko:K04763": [],
+    "ko:K05592": [],
+    "ko:K05807": [],
+    "ko:K05810": [
+      "rn:R01402",
+      "rn:R01560",
+      "rn:R01561",
+      "rn:R01863",
+      "rn:R02147"
+    ],
+    "ko:K06076": [],
+    "ko:K06147": [],
+    "ko:K06168": [],
+    "ko:K06176": [],
+    "ko:K06180": [],
+    "ko:K06189": [],
+    "ko:K06217": [],
+    "ko:K06891": [],
+    "ko:K06990": [],
+    "ko:K07027": [],
+    "ko:K07042": [],
+    "ko:K07092": [],
+    "ko:K07126": [],
+    "ko:K07131": [],
+    "ko:K07462": [],
+    "ko:K07478": [],
+    "ko:K07711": [],
+    "ko:K07715": [],
+    "ko:K08307": [],
+    "ko:K08641": [],
+    "ko:K08679": [
+      "rn:R01385"
+    ],
+    "ko:K08964": [
+      "rn:R07392"
+    ],
+    "ko:K08965": [
+      "rn:R07393"
+    ],
+    "ko:K08966": [
+      "rn:R07394"
+    ],
+    "ko:K08967": [
+      "rn:R07363",
+      "rn:R07364"
+    ],
+    "ko:K08997": [],
+    "ko:K09141": [],
+    "ko:K09748": [],
+    "ko:K09791": [],
+    "ko:K09808": [],
+    "ko:K09810": [],
+    "ko:K09913": [
+      "rn:R01561",
+      "rn:R01570",
+      "rn:R01863",
+      "rn:R01876",
+      "rn:R02147",
+      "rn:R02296",
+      "rn:R02297"
+    ],
+    "ko:K09928": [],
+    "ko:K10563": [],
+    "ko:K11206": [
+      "rn:R12024"
+    ],
+    "ko:K11753": [
+      "rn:R00161",
+      "rn:R00549"
+    ],
+    "ko:K12340": [],
+    "ko:K13038": [
+      "rn:R03269",
+      "rn:R04231"
+    ],
+    "ko:K14261": [],
+    "ko:K15633": [
+      "rn:R01518"
+    ],
+    "ko:K18828": [],
+    "ko:K18829": [],
+    "ko:K19000": [],
+    "ko:K19236": [],
+    "ko:K19591": [],
+    "ko:K19696": [
+      "rn:R09668"
+    ],
+    "ko:K22719": [],
+    "ko:K24136": [
+      "rn:R12578"
+    ],
+    "ko:K27802": [
+      "rn:R01324",
+      "rn:R01325",
+      "rn:R01900",
+      "rn:R04425"
+    ],
+    "ko:K28279": [],
+    "ko:K28280": [],
+    "ko:K28462": [
+      "rn:R01523"
+    ]
+  }
+}

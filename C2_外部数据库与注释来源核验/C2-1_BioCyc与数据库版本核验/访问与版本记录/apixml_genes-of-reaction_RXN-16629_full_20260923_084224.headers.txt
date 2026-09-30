@@ -1,0 +1,14 @@
+HTTP/1.1 307 Temporary Redirect
+Date: Wed, 23 Sep 2026 00:42:31 GMT
+Connection: Close
+Server: AllegroServe/1.3.89
+Content-Type: text/xml
+Transfer-Encoding: chunked
+CACHE-CONTROL: no-cache,no-store,must-revalidate
+LOCATION: /account-required.shtml?redirect=http%3a%2f%2fwebsvc.biocyc.org%2fapixml%3ffn%3dgenes-of-reaction%26id%3dGCF_000021485%3aRXN-16629%26detail%3dfull
+SET-COOKIE: PTools-session=biocyc14-3999112951%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20NIL%20NIL%20NIL%20%7Csc8qxc9t68lghzjla2osqrnlmf6xrj4; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+SET-COOKIE: PTools-session=biocyc14-3999112951%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20NIL%20NIL%20NIL%20%7Csc8qxc9t68lghzjla2osqrnlmf6xrj4; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+SET-COOKIE: PTools-session=biocyc14-3999112951%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20NIL%20NIL%20NIL%20%7Csc8qxc9t68lghzjla2osqrnlmf6xrj4; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+SET-COOKIE: anonID=17520285; expires=Tue, 22 Dec 2026 00:42:31 GMT; domain=.biocyc.org; path=/
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+

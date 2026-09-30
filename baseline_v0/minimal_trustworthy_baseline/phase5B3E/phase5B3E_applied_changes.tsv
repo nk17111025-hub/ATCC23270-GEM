@@ -1,0 +1,2 @@
+reaction	field_changed	old_value	new_value	source	verification_status	biological_reason
+GHMT3	GPR	AFE_0295 (GlyA)	(removed)	G51/G54	VERIFIED_GPR_ERROR_FIXED	GlyA is serine hydroxymethyltransferase (GHMT2), not the glycine-cleavage complex (GHMT3); GPR is metadata-only (not in SBML)

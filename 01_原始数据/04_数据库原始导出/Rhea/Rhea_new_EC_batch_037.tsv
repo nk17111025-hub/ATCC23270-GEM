@@ -1,0 +1,13 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:11304	(S)-ureidoglycolate = urea + glyoxylate	EC:4.3.2.3	CHEBI:57296;CHEBI:16199;CHEBI:36655	KEGG:R00776	MetaCyc:UREIDOGLYCOLATE-LYASE-RXN
+RHEA:18121	an S-substituted L-cysteine + H2O = a thiol + pyruvate + NH4(+)	EC:4.4.1.13	CHEBI:58717;CHEBI:15377;CHEBI:29256;CHEBI:15361;CHEBI:28938	KEGG:R03528	MetaCyc:RXN-6763
+RHEA:19069	(R)-S-lactoylglutathione = methylglyoxal + glutathione	EC:4.4.1.5	CHEBI:57474;CHEBI:17158;CHEBI:57925	KEGG:R02530	MetaCyc:GLYOXI-RXN
+RHEA:22108	L-threonine = 2-oxobutanoate + NH4(+)	EC:4.3.1.19	CHEBI:57926;CHEBI:16763;CHEBI:28938	KEGG:R00996	MetaCyc:THREDEHYD-RXN
+RHEA:22488	S-(hydroxymethyl)glutathione = glutathione + formaldehyde	EC:4.4.1.22	CHEBI:58758;CHEBI:57925;CHEBI:16842	KEGG:R06982	MetaCyc:RXN-2961
+RHEA:23864	4-CDP-2-C-methyl-D-erythritol 2-phosphate = 2-C-methyl-D-erythritol 2,4-cyclic diphosphate + CMP	EC:4.6.1.12	CHEBI:57919;CHEBI:58483;CHEBI:60377	KEGG:R05637	MetaCyc:RXN0-302
+RHEA:24793	5-[(5-phospho-1-deoxy-D-ribulos-1-ylimino)methylamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide + L-glutamine = D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate + 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide + L-glutamate + H(+)	EC:4.3.2.10	CHEBI:58525;CHEBI:58359;CHEBI:58278;CHEBI:58475;CHEBI:29985;CHEBI:15378	KEGG:R04558	MetaCyc:GLUTAMIDOTRANS-RXN
+RHEA:27874	isochorismate = salicylate + pyruvate	EC:4.2.99.21	CHEBI:29780;CHEBI:30762;CHEBI:15361	KEGG:R06602	MetaCyc:RXN-1981
+RHEA:27974	6-carboxy-5,6,7,8-tetrahydropterin + H(+) = 7-carboxy-7-carbaguanine + NH4(+)	EC:4.3.99.3	CHEBI:61032;CHEBI:15378;CHEBI:61036;CHEBI:28938		MetaCyc:RXN0-6575
+RHEA:34171	L-aspartate 4-semialdehyde + pyruvate = (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + H2O + H(+)	EC:4.3.3.7	CHEBI:537519;CHEBI:15361;CHEBI:67139;CHEBI:15377;CHEBI:15378	KEGG:R10147	MetaCyc:DIHYDRODIPICSYN-RXN
+RHEA:49580	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate = cyclic pyranopterin phosphate + diphosphate	EC:4.6.1.17	CHEBI:131766;CHEBI:59648;CHEBI:33019	KEGG:R11372	MetaCyc:RXN-17809
+RHEA:66592	2'-deoxyribonucleotide-(2'-deoxyribose 5'-phosphate)-2'-deoxyribonucleotide-DNA = a 3'-end 2'-deoxyribonucleotide-(2,3-dehydro-2,3-deoxyribose 5'-phosphate)-DNA + a 5'-end 5'-phospho-2'-deoxyribonucleoside-DNA + H(+)	EC:4.2.99.18	CHEBI:167181;CHEBI:157695;CHEBI:136412;CHEBI:15378		MetaCyc:4.2.99.18-RXN

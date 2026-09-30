@@ -1,0 +1,5 @@
+check	value	note
+free_ATP_under_R0	0.0	no free ATP loop
+free_NADH_under_R0	0.0	no free NADH loop
+free_NADPH_under_R0	0.0	no free NADPH loop
+biomass_under_R0	infeasible	global infeasibility, not a cofactor loop

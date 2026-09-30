@@ -1,0 +1,5 @@
+reaction	type	R0_with_all_candidates
+PC (pyruvate carboxylase)	anaplerotic carboxylase	still infeasible
+PPC (PEP carboxylase)	native anaplerotic carboxylase	still infeasible
+ME (malic enzyme)	reversible carboxylation	still infeasible
+verdict	ALTERNATIVE_CARBON_FIXATION_DEPENDENT (cannot rescue R0)	

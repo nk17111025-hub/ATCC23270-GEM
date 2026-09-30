@@ -1,0 +1,320 @@
+{
+  "RU820_RS01770": {
+    "issue": "2016 MTAP 指定 5'-methylthioadenosine 与 adenine，EC 2.4.2.28；当前 WP 的 UniProt RHEA:30643 和 KEGG R09668 均指向 S-methyl-5'-thioinosine 与 hypoxanthine，EC 2.4.2.44。",
+    "recommendation": "从旧 MTAP 反应的此基因 GPR 撤下；对应 S-methyl-5'-thioinosine phosphorylase 反应另作候选，先核对代谢物与底物专一性。",
+    "chemistry": "S-methyl-5'-thioinosine + Pi <=> hypoxanthine + S-methyl-5-thio-D-ribose 1-phosphate；与旧 MTAP 的腺嘌呤底物不同。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS01740": {
+    "issue": "当前官方和 BioCyc 指向 diacylglycerol kinase，但 KEGG K00887/R05626 实际为 undecaprenol kinase；两种受体不同，UniProt 未给精确催化反应。",
+    "recommendation": "Hold 新增反应；先以当前 WP 序列域和保守位点区分二酰甘油激酶与聚异戊二烯醇激酶。",
+    "chemistry": "DAG + ATP -> phosphatidic acid + ADP 与 undecaprenol + ATP -> undecaprenyl phosphate + ADP 均是候选，不能互代。",
+    "evidence": "G52-S001;G52-S003;G52-S006;G52-S007"
+  },
+  "RU820_RS01775": {
+    "issue": "BRENDA 的 EC 1.8.1.7 条目指向 Sugio et al. 1995 的 glutathione reductase 纯化，实验菌株为 AP19-3；现行 G52 RU820_RS01775 是 ATCC 23270，不能跨菌株转为此 WP 的直接催化证据。",
+    "recommendation": "保留当前注释和数据库支持的 glutathione reductase 候选；暂不提升为同株直接实验分数。",
+    "chemistry": "GSSG + NADPH + H+ -> 2 GSH + NADP+；当前 WP 的精确化学和区室按既有数据库核对。",
+    "evidence": "G52-S001;G52-S006;G52-S007;G52-S027"
+  },
+  "RU820_RS01780": {
+    "issue": "KEGG K24136/R12578 提供通用 ROOH 谷胱甘肽过氧化物酶反应；2019 同 WP 蛋白相对丰度变化可证表达，不能指定 H2O2 或某一有机过氧化物，旧模型亦缺 GSSG。",
+    "recommendation": "Hold 精确过氧化物还原反应；先核定底物种类及 GSSG 池。",
+    "chemistry": "2 GSH + ROOH -> GSSG + ROH + H2O；R 仍是未定基团。",
+    "evidence": "G52-S001;G52-S007;G52-S008"
+  },
+  "RU820_RS01760": {
+    "issue": "当前 NCBI 产品名为 DsrE/DsrF/DrsH-like，UniProt 同一 WP 注释为 peroxiredoxin，KEGG K07092 无精确反应；2019 同株蛋白组检出只证明表达。跨库功能相冲突。",
+    "recommendation": "Hold 硫转移与过氧化物还原两类反应候选；未核定催化位点和底物前不新增反应。",
+    "chemistry": "无可确认的精确底物和化学式。",
+    "evidence": "G52-S001;G52-S006;G52-S007;G52-S008"
+  },
+  "RU820_RS01835": {
+    "issue": "2016 CYTAA32 将 AFE_0378 接到 aa3 型细胞色素氧化酶；当前官方 WP 是 OmpP1/FadL 外膜转运蛋白，UniProt 为 PF03349。2007 同株论文把同一 AFE_0378 文本写成 CycA-2，与现行 AFE/WP 一对一表冲突；该旧论文标号不能直接投到当前 WP。",
+    "recommendation": "从 CYTAA32 的该基因 GPR 中撤下；反应本身需按其他亚基独立核查。",
+    "chemistry": "CYTAA32 旧式子涉及 O2、H2O、周质细胞色素和跨膜质子；本蛋白无相应催化证据。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S012"
+  },
+  "RU820_RS01820": {
+    "issue": "Wang et al. 2009 直接测定 ATCC 23270 重组 TrxR 对氧化型 thioredoxin 的 NADPH 依赖还原；论文两端基因特异引物均与现行 RU820_RS01820 CDS 精确匹配。2016 TRDR 式子把还原型 thioredoxin 作为反应物，并按旧补表电荷计算净差 +4。",
+    "recommendation": "确认本 WP 的 thioredoxin-disulfide reductase 催化功能；2016 TRDR 原式应替换为已配平的 h[c] + nadph[c] + trdox[c] -> nadp[c] + trdrd[c] 候选，完成全模型网络核验后落表。",
+    "chemistry": "原始实验证明 NADPH + oxidized thioredoxin -> NADP+ + reduced thioredoxin；按 2016 代谢物式与电荷，候选 h[c] + nadph[c] + trdox[c] -> nadp[c] + trdrd[c] 原子与电荷均平衡。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016;G52-S022"
+  },
+  "RU820_RS01960": {
+    "issue": "2016 PUNP1–PUNP4 均无 GPR；AFE_0403/WP 的当前注释为嘧啶/嘌呤核苷磷酸化酶，KEGG K09913 同时连接 7 种核苷底物，UniProt 未给具体催化反应。",
+    "recommendation": "PUNP1–PUNP4 均列为可能 GPR 候选，逐一核查 adenosine、inosine、guanosine、xanthosine 底物；当前证据不支持四者一并确定加入。",
+    "chemistry": "核苷 + Pi <=> 碱基 + alpha-D-ribose-1-phosphate；2016 四行的核苷种类各异。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS01930": {
+    "issue": "当前 WP 的 UniProt RHEA:21864、KEGG R01736 和 BioCyc GLYOXII-RXN 指向 lactoylglutathione hydrolase；2016 缺此基因 GPR，并且 G52 关联旧代谢物表未列 S-lactoylglutathione。",
+    "recommendation": "列为 glyoxalase II 新增候选；先核定乳酸构型、S-lactoylglutathione/GSH 代谢物和化学配平。",
+    "chemistry": "(R)-S-lactoylglutathione + H2O <=> GSH + (R)-lactate（KEGG R01736 表示）。",
+    "evidence": "G52-S001;G52-S003;G52-S006;G52-S007"
+  },
+  "RU820_RS01955": {
+    "issue": "当前 WP 的 UniProt RHEA:19069、KEGG R02530 和 BioCyc GLYOXI-RXN 指向 lactoylglutathione lyase；2016 无 GPR，且 G52 旧代谢物表未列 methylglyoxal/S-lactoylglutathione。",
+    "recommendation": "列为 glyoxalase I 新增候选；先核定手性、反应方向和新增代谢物配平，再与 glyoxalase II 成链评估。",
+    "chemistry": "GSH + methylglyoxal <=> S-lactoylglutathione（KEGG R02530 以逆向书写）。",
+    "evidence": "G52-S001;G52-S003;G52-S006;G52-S007"
+  },
+  "RU820_RS02075": {
+    "issue": "2016 NADS1 是游离 NH4+ 路线，NADS2 是谷氨酰胺供氮路线；当前 WP 的 UniProt RHEA:24384 与 KEGG R00257 只支持谷氨酰胺底物。",
+    "recommendation": "保留 NADS2 的该基因候选；从 NADS1 的该基因 GPR 撤下。",
+    "chemistry": "deamido-NAD+ + L-glutamine + ATP + H2O -> NAD+ + L-glutamate + AMP + PPi + H+。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02035": {
+    "issue": "FabI 身份和 NADPH 依赖 enoyl-ACP reductase 家族吻合；2016 EAR1–EAR17 逐链长建模，但旧补表 EAR4、EAR8 在所列代谢物电荷下注释不平衡，各差 1 电荷。其余 15 条在补表式下配平。",
+    "recommendation": "保留 FabI 反应家族候选；Hold EAR4、EAR8 精确反应式，逐一核对 ACP 代谢物电荷与底物专一性。",
+    "chemistry": "enoyl-ACP + NADPH + H+ -> acyl-ACP + NADP+；具体链长和双键构型不可由家族注释整体确认。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016"
+  },
+  "RU820_RS02055": {
+    "issue": "2016 ICDHyr/ICITRED 与当前 NADP-dependent isocitrate dehydrogenase 的 EC/反应链相符。2013 同株研究报告 AFE_0424 蛋白表达，但 2019 补表所列该旧 AFE 的 WP_012536130.1 与当前 WP_012606555.1 不同，2019 蛋白丰度不可按同一 WP 直接转移。",
+    "recommendation": "保留 ICDHyr/ICITRED 的该基因候选；把 2013/2019 表达证据与当前 WP 反应注释分开记录。",
+    "chemistry": "isocitrate + NADP+ -> alpha-ketoglutarate + CO2 + NADPH（可经 oxalosuccinate 中间体）；同株蛋白表达未验证该反应速率。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S008;G52-S018"
+  },
+  "RU820_RS02095": {
+    "issue": "当前官方注释是 PgeF 肽聚糖编辑因子；旧 AFE_0432 的 KEGG K05810 指向嘌呤核苷酶/磷酸化酶多反应，跨库功能冲突。",
+    "recommendation": "Hold；不从 KEGG K05810 批量新增嘌呤反应。",
+    "chemistry": "R01402、R01560、R01561、R01863、R02147 涉及不同底物；未确认此 WP 的具体底物。",
+    "evidence": "G52-S001;G52-S007"
+  },
+  "RU820_RS02105": {
+    "issue": "2016 同时把 AFE_0434 接到 DKMPE 与 RUBISCO；KEGG K08965/R07393、2019 同 WP 蛋白组和 Form IV 文献支持甲硫氨酸回收途径的烯醇化酶归类，未见该 WP 的 RuBP 固碳实测。",
+    "recommendation": "保留 DKMPE 为待验证候选；从 RUBISCO 的该基因 OR 分支撤下，待 2026 反应整体 GPR 校核。",
+    "chemistry": "DKMPE 为 2,3-diketo-5-methylthiopentyl-1-phosphate 烯醇化；RUBISCO 为 RuBP + CO2 + H2O -> 2 3-PG，两者不可互代。",
+    "evidence": "G52-S001;G52-S004;G52-S007;G52-S008;G52-S009"
+  },
+  "RU820_RS02115": {
+    "issue": "2016 MTOD 无 GPR；当前 WP 的 UniProt HAMAP 预测 RHEA:15549 与 KEGG K08964/R07392 指向甲硫氨酸回收途径脱水。",
+    "recommendation": "MTOD 的 GPR 候选加入 RU820_RS02115；反应方向和分数待精确式子及网络校核。",
+    "chemistry": "S-methyl-5-thio-D-ribulose 1-phosphate -> 2,3-diketo-5-methylthiopentyl-1-phosphate + H2O。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02190": {
+    "issue": "2016 PNTK 无 GPR；当前 WP 的 UniProt RHEA:16373 和 KEGG R03018 对应泛酸磷酸化。K03525 还连接泛硫乙胺与泛酰半胱氨酸反应，不能一起移入。",
+    "recommendation": "PNTK 的 GPR 候选加入 RU820_RS02190；仅评估泛酸底物，暂不新增另两种底物反应。",
+    "chemistry": "ATP + (R)-pantothenate -> ADP + (R)-4'-phosphopantothenate + H+。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02200": {
+    "issue": "Europe PMC 的 AFE_0454 命中为 2010 年其他矿区分离株的铜耐受研究，该文按早期 TIGR 库把 afe_0454 称为 CopD；当前 ATCC 23270 精确 WP 为 proA/glutamate-5-semialdehyde dehydrogenase，编号相同不能转移 CopD 功能。",
+    "recommendation": "保留 2016 G5SD 的本基因候选；不加入 CopD 或铜跨膜转运反应，也不把他株表达当作本株直接证据。",
+    "chemistry": "glutamate-5-semialdehyde + Pi + NADP+ <=> glutamate-5-phosphate + NADPH + H+；与铜转运无关。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S017"
+  },
+  "RU820_RS02225": {
+    "issue": "WrbA 的 UniProt RHEA:46160/46164 是自动推断的通用醌还原；KEGG KO 连接甲萘醌、维生素K、叶绿醌不同底物。",
+    "recommendation": "沿用 Alpha 的 Hold；无特定醌池和膜侧证据时不落反应。",
+    "chemistry": "NAD(P)H + quinone + H+ -> NAD(P)+ + quinol；具体醌种、供体和区室未证实。",
+    "evidence": "G52-S001;G52-S006;G52-S007;G52-S010"
+  },
+  "RU820_RS02265": {
+    "issue": "SurE 当前 WP 的 UniProt RHEA:12484 仅为一般核苷酸单磷酸水解，KEGG 连接多种 5'/3' 核苷酸；2016 NADPPPS 的 NADP 与 THMP 的硫胺单磷酸底物均未被上述证据直接指认。",
+    "recommendation": "Hold NADPPPS 和 THMP 中此基因的底物专一性；不按通用磷酸酶家族直接保留。",
+    "chemistry": "已注释的通用反应是 ribonucleoside-monophosphate + H2O -> ribonucleoside + Pi；旧 NADP 和 thiamine-monophosphate 需单独证明。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02285": {
+    "issue": "当前 WP 官方为 alanine transaminase，UniProt 仅 class I/II aminotransferase、无精确 EC/Rhea；KEGG K14261/alaC 标注 alanine-synthesizing transaminase 但未给反应；BioCyc 有 ALANINE-AMINOTRANSFERASE-RXN。2016 表内未见此基因 GPR。",
+    "recommendation": "列为 alanine aminotransferase 候选，Hold 精确底物配对及模型新增；先核对 alpha-ketoglutarate/pyruvate 受体与辅基。",
+    "chemistry": "L-alanine + 2-oxoglutarate <=> pyruvate + L-glutamate 是 EC 2.6.1.2 通用候选，当前 WP 未直接实测。",
+    "evidence": "G52-S001;G52-S003;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02405": {
+    "issue": "当前官方产品名含 gamma carbonic anhydrase，但同 WP 的 UniProt 给 bacterial transferase hexapeptide repeat protein，未给 CA EC、Rhea 或活性位点；同族未必有 CO2 水合活性。",
+    "recommendation": "Hold CO2/HCO3- 水合反应，不按产品名直接新增。",
+    "chemistry": "CO2 + H2O <=> HCO3- + H+ 仅为候选，尚未指认此 WP 催化。",
+    "evidence": "G52-S001;G52-S006;G52-S007"
+  },
+  "RU820_RS02540": {
+    "issue": "2016 HETZK 需要 4-methyl-5-hydroxyethylthiazole kinase；当前注释是 DJ-1 family glyoxalase III，UniProt PF01965 无激酶 EC。",
+    "recommendation": "从 HETZK 的该基因 GPR 中撤下；反应是否另有基因需另查。",
+    "chemistry": "HETZK 旧式子为 ATP + 4-methyl-5-hydroxyethylthiazole <=> ADP + phosphorylated product。",
+    "evidence": "G52-S001;G52-S004;G52-S006"
+  },
+  "RU820_RS02555": {
+    "issue": "当前 WP 为 BPG-independent phosphoglycerate mutase，UniProt EC 5.4.2.12 与 RHEA:15901；2016 PGM1 表填 EC 5.4.2.1。 Barreto et al. 2005 克隆并实测的 phosphoglucomutase 提交序列 AY789512.1 精确对应当前 WP_012537123.1，位于 G52 范围之外，不能作为此 G52 PGM1 分支的直接实验依据。",
+    "recommendation": "保留 PGM1 中本基因候选，修正该基因所对应 EC 为 5.4.2.12；另核对旧式子质子与方向。",
+    "chemistry": "(2R)-2-phosphoglycerate <=> (2R)-3-phosphoglycerate。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S031"
+  },
+  "RU820_RS02560": {
+    "issue": "2016 MTRP 指定 maltotetraose -> maltotriose；当前 WP 的 UniProt/KEGG 仅支持 alpha-1,4-glucan 链缩短的通用反应，2006 同株论文报告 glgP2 表达，未测四糖专一性与方向。",
+    "recommendation": "保留历史 MTRP 候选及旧低分；2026 不提高底物专一性或方向置信度。",
+    "chemistry": "alpha-1,4-glucan(n) + Pi <=> alpha-1,4-glucan(n-1) + alpha-D-glucose-1-phosphate；旧 MTRP 是其特定链长实例。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S011"
+  },
+  "RU820_RS02575": {
+    "issue": "KEGG K00856/R00185 指向 adenosine kinase，但当前 NCBI 仅称 carbohydrate kinase family，UniProt 未给催化反应，2016 无此基因 GPR。",
+    "recommendation": "Hold adenosine kinase 新增反应；先核查 WP 的特异位点和底物实验/同源证据。",
+    "chemistry": "adenosine + ATP -> AMP + ADP 仅为 KEGG KO 候选。",
+    "evidence": "G52-S001;G52-S006;G52-S007"
+  },
+  "RU820_RS02595": {
+    "issue": "2016 MTHFR3 的 Reaction Name 误写为 cobalamin-dependent homocysteine transmethylase，式子却是亚甲基四氢叶酸还原酶并使用 NADPH；当前 WP 的 UniProt RHEA:19821 和 KEGG R07168 指向 NADH/NAD+ 辅酶对。",
+    "recommendation": "Hold 旧 MTHFR3 与该基因的精确匹配；为 NADH 版本建立候选并核查反应方向、代谢物电荷和网络。",
+    "chemistry": "5-methyltetrahydrofolate + NAD+ <=> 5,10-methylenetetrahydrofolate + NADH + H+；旧模型使用 NADP+/NADPH。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02620": {
+    "issue": "2016 ADPT 将 AFE_0540 标成 adenine phosphoribosyltransferase；当前 WP 仅 phosphoribosyltransferase family/PF00156，UniProt 写 putative adenine PRT，无 EC、Rhea 或 KEGG KO/反应。",
+    "recommendation": "Hold ADPT 的此基因 GPR 和旧分数；先核对腺嘌呤底物识别与催化位点。",
+    "chemistry": "adenine + PRPP <=> AMP + PPi 是旧 ADPT 反应，当前 WP 仅家族级支持。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02590": {
+    "issue": "2016 ADNSE 的 EC 3.3.1.1 已由 IUBMB 转列为 3.13.2.1；KEGG R00192 与旧 ADNSE 的 S-adenosyl-L-homocysteine 水解化学一致。这是编号更新，不是底物冲突。",
+    "recommendation": "保留 ADNSE 的本基因候选；在 2026 证据栏使用现行 EC 3.13.2.1 并记录旧 EC 溯源。",
+    "chemistry": "S-adenosyl-L-homocysteine + H2O <=> adenosine + L-homocysteine。",
+    "evidence": "G52-S001;G52-S004;G52-S007;G52-S019"
+  },
+  "RU820_RS02600": {
+    "issue": "2019 ATCC 23270 CO2 梯度实验对 AFE_0536/cbbP 测 RT-qPCR 和 CbbP 蛋白 Western blot；表达随 CO2 浓度改变。该实验支持本株基因表达，未单独测定纯化蛋白的 PRUK 反应速率。",
+    "recommendation": "保留 2016 PRUK 与此基因的关联；反应分数按化学注释与同株表达证据分别评估，不把表达当成催化实测。",
+    "chemistry": "ATP + D-ribulose-5-phosphate -> ADP + D-ribulose-1,5-bisphosphate + H+。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S014"
+  },
+  "RU820_RS02675": {
+    "issue": "当前 WP 仅为 thioredoxin family protein；2016 TRDR 的 thioredoxin 是反应底物蛋白池，不能把本基因自动接到 TRDR 催化酶 GPR。",
+    "recommendation": "暂不新增小分子反应或 TRDR GPR；记录为可能的 thioredoxin 蛋白底物，并核查其氧化还原伙伴。",
+    "chemistry": "thioredoxin-oxidized/reduced 蛋白状态转换，具体伙伴和区室未证实。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02655": {
+    "issue": "当前 WP 是 GlnD 类谷氨酰胺合成酶腺苷酰化/去腺苷酰化调节酶，UniProt Rhea 的受体是蛋白质残基；2016 小分子模型无对应 GPR。",
+    "recommendation": "暂不新增独立小分子代谢反应；作为 GLNS 活性调节证据记录，需酶调控层另建模。",
+    "chemistry": "ATP/PPi 与 [glutamine synthetase]-adenylyl 蛋白状态互变；不是单纯谷氨酰胺合成式。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02665": {
+    "issue": "KEGG K11206/R12024 指向特定 N-(4-oxoglutaryl)-L-cysteinylglycine 水解；当前 WP 官方仅为 carbon-nitrogen hydrolase family，UniProt 未给精确底物。",
+    "recommendation": "Hold R12024 新增；家族级蛋白名不足以证明该罕见底物。",
+    "chemistry": "N-(4-oxoglutaryl)-L-cysteinylglycine + H2O <=> 2-oxoglutarate + Cys-Gly；本 WP 未确认。",
+    "evidence": "G52-S001;G52-S006;G52-S007"
+  },
+  "RU820_RS02615": {
+    "issue": "Jaramillo et al. 2012 克隆 ATCC 23270 atpS，在大肠杆菌表达物中测得 APS + PPi 生成 ATP；FM177944.1 与现行 RU820_RS02615 CDS 同为 1674 nt，差 7 nt/4 aa，蛋白一致率 99.2819%。实测为同株历史等位序列，现行 WP 的催化身份需保留版本差异。APS kinase 结构域仅预测，未测其活性；SFAT2 未测。",
+    "recommendation": "SFAT1 的 APS + PPi -> ATP + sulfate 核心反应有同株近同序列重组表达实验证据；2016 原式保留历史分数，2026 对核心反应可评 4，质子系数、细胞区室和网络方向待独立核对。ADSK 保留注释候选；Hold SFAT2 的该基因 GPR。",
+    "chemistry": "SFAT1: APS + PPi -> ATP + sulfate，2016 完整式 ppi[c] + aps[c] -> h[c] + atp[c] + so4[c] 已按旧补表配平；实验仅测 ATP 形成。ADSK: ATP + APS -> ADP + PAPS 未实测。SFAT2: APS + Pi -> ADP + sulfate 未实测。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016;G52-S027;G52-S028"
+  },
+  "RU820_RS02985": {
+    "issue": "2016 已有 UDPGD，却只关联 AFE_1405/AFE_1343；当前 AFE_0618/WP 的 UniProt RHEA:23596 与 KEGG R00286 均为 UDP-glucose 6-dehydrogenase，底物和辅酶与旧 UDPGD 一致。",
+    "recommendation": "候选把 RU820_RS02985 作为 UDPGD 的 OR 分支加入；先校核该 WP 的序列家族、旧式子电荷/质子与既有 GPR，暂不复制出第二条反应。",
+    "chemistry": "UDP-glucose + H2O + 2 NAD+ -> UDP-glucuronate + 2 NADH + 3 H+（UniProt RHEA）；2016 UDPGD 为同一转化。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007"
+  },
+  "RU820_RS02790": {
+    "issue": "官方产品名仅指 lysylphosphatidylglycerol synthase 的 transmembrane domain-containing protein，当前记录无明确全长合成酶结构、底物反应或同株催化试验。",
+    "recommendation": "Hold lysylphosphatidylglycerol 合成与转位反应；先确认该 WP 是否含催化域及完整 MprF 功能。",
+    "chemistry": "L-lysyl-tRNA + phosphatidylglycerol -> lysylphosphatidylglycerol + tRNA 仅为家族候选。",
+    "evidence": "G52-S001;G52-S006;G52-S007"
+  },
+  "RU820_RS02730": {
+    "issue": "RelA/SpoT family protein 的 KEGG K01139 连接 ppGpp 水解 R00336 和 pppGpp 合成 R00429；当前蛋白名不能说明两个活性域是否均完整或使用哪种磷酸化核苷酸。",
+    "recommendation": "Hold 两条 alarmone 反应；先核对该 WP 的催化域完整性与底物。",
+    "chemistry": "ppGpp + H2O <=> GDP + PPi；ATP + GTP <=> AMP + pppGpp 为不同化学，不能自动同时赋予。",
+    "evidence": "G52-S001;G52-S006;G52-S007"
+  },
+  "RU820_RS02775": {
+    "issue": "KEGG K04069/R04710 涉及 SAM、还原型 flavodoxin 和蛋白甘氨酸自由基生成；这是蛋白活化反应，当前 WP 缺同株直接催化记录。",
+    "recommendation": "暂不新增独立小分子代谢反应；保留自由基 SAM 蛋白活化候选。",
+    "chemistry": "SAM + reduced flavodoxin + protein glycine -> 5'-deoxyadenosine + methionine + glycyl-radical protein 等，反应含未指定蛋白受体。",
+    "evidence": "G52-S001;G52-S006;G52-S007"
+  },
+  "RU820_RS02940": {
+    "issue": "KEGG K08679/R01385 指向 UDP-glucuronate/UDP-galacturonate 差向异构；当前 WP 的 NCBI/UniProt 仅为 NAD-dependent epimerase family，UniProt 无具体 Rhea。",
+    "recommendation": "Hold R01385 新增；先核对底物识别位点和 UDP-galacturonate 代谢物需求。",
+    "chemistry": "UDP-glucuronate <=> UDP-D-galacturonate 为 KEGG 候选，当前 WP 未证实专一性。",
+    "evidence": "G52-S001;G52-S006;G52-S007"
+  },
+  "RU820_RS02995": {
+    "issue": "2016 PGM1 将 AFE_0621 与 AFE_0526 并列；当前 AFE_0621 WP 仅标注 histidine phosphatase family/PF00300，缺少 EC 5.4.2.12、具体 2/3-PG 反应或活性证据。 Barreto et al. 2005 克隆并实测的 phosphoglucomutase 提交序列 AY789512.1 精确对应当前 WP_012537123.1，位于 G52 范围之外，不能作为此 G52 PGM1 分支的直接实验依据。",
+    "recommendation": "Hold 此基因的 PGM1 GPR 分支；优先保留有 RHEA/EC 对应的 RU820_RS02555。",
+    "chemistry": "2-phosphoglycerate <=> 3-phosphoglycerate 对此 WP 未确认。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S031"
+  },
+  "RU820_RS03010": {
+    "issue": "2016 OMBQM 以原补表代谢物电荷计算净差 -2；当前蛋白为 UbiE/COQ5 甲基转移酶家族，无同 WP 的精确底物催化注释。",
+    "recommendation": "Hold OMBQM 精确反应与此基因 GPR；先核对 2-octaprenyl-6-methoxy-1,4-benzoquinone 代谢物和电子/质子记账。",
+    "chemistry": "SAM + quinone 类底物 -> SAH + methylated quinone；2016 旧式子在补表电荷下注释差 -2。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S016"
+  },
+  "RU820_RS02005": {
+    "issue": "Bustamante 等 2014 原文 Table 2 将 AFE_0413 列为 ATCC 23270 的 VapC 毒素，对应伴侣 RU820_RS02010；该文直接抑菌与 RNase 实验针对 ICEAfe1 上其他 TA 对，本位点仅属基因组/家族归类。",
+    "recommendation": "保留现行 TA 功能注释线索；本轮无可写入代谢模型的独立小分子反应或 GPR 修改。",
+    "chemistry": "无可确认的小分子代谢反应；毒素/抗毒素作用属于 RNA 或蛋白调控过程。",
+    "evidence": "G52-S001;G52-S002;G52-S024"
+  },
+  "RU820_RS02010": {
+    "issue": "Bustamante 等 2014 原文 Table 2 将 AFE_0414 列为 ATCC 23270 的 Phd 抗毒素，对应伴侣 RU820_RS02005；该文直接抑菌与 RNase 实验针对 ICEAfe1 上其他 TA 对，本位点仅属基因组/家族归类。",
+    "recommendation": "保留现行 TA 功能注释线索；本轮无可写入代谢模型的独立小分子反应或 GPR 修改。",
+    "chemistry": "无可确认的小分子代谢反应；毒素/抗毒素作用属于 RNA 或蛋白调控过程。",
+    "evidence": "G52-S001;G52-S002;G52-S024"
+  },
+  "RU820_RS02310": {
+    "issue": "Bustamante 等 2014 原文 Table 2 将 AFE_0477 列为 ATCC 23270 的 VapB 抗毒素，对应伴侣 RU820_RS02315；该文直接抑菌与 RNase 实验针对 ICEAfe1 上其他 TA 对，本位点仅属基因组/家族归类。",
+    "recommendation": "保留现行 TA 功能注释线索；本轮无可写入代谢模型的独立小分子反应或 GPR 修改。",
+    "chemistry": "无可确认的小分子代谢反应；毒素/抗毒素作用属于 RNA 或蛋白调控过程。",
+    "evidence": "G52-S001;G52-S002;G52-S024"
+  },
+  "RU820_RS02315": {
+    "issue": "Bustamante 等 2014 原文 Table 2 将 AFE_0478 列为 ATCC 23270 的 VapC 毒素，对应伴侣 RU820_RS02310；该文直接抑菌与 RNase 实验针对 ICEAfe1 上其他 TA 对，本位点仅属基因组/家族归类。",
+    "recommendation": "保留现行 TA 功能注释线索；本轮无可写入代谢模型的独立小分子反应或 GPR 修改。",
+    "chemistry": "无可确认的小分子代谢反应；毒素/抗毒素作用属于 RNA 或蛋白调控过程。",
+    "evidence": "G52-S001;G52-S002;G52-S024"
+  },
+  "RU820_RS02045": {
+    "issue": "2016 GLUTRS 使用 tRNA(Glu)；KEGG 将历史 AFE_0422 标作 gltX-2。Salazar et al. 2003 及 Núñez et al. 2004 的同物种重组 GluRS2 优先谷氨酰化 tRNA(Gln)-UUG，GluRS1 可作用于 tRNA(Glu)。原文早于完整基因注释，尚未找到可与现行 WP_012536128.1 精确比对的克隆序列或引物，因而该实验与本 WP 的身份关联仍须复核。",
+    "recommendation": "Hold GLUTRS 的 AFE_0422/RU820_RS02045 OR 分支；先核对旧 GluRS2 与当前 WP 的序列，再决定 tRNA(Glu) 或 tRNA(Gln) 的反应归属。旧反应的另两条 GPR 分支由所在组独立审查。",
+    "chemistry": "2016 GLUTRS: L-glutamate + ATP + tRNA(Glu) -> L-glutamyl-tRNA(Glu) + AMP + PPi；GluRS2 实验主要指向 tRNA(Gln)-UUG，同一底物类型不能直接替代。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016;G52-S027;G52-S029"
+  },
+  "RU820_RS02255": {
+    "issue": "BRENDA EC 6.3.1.2 引用 Barros et al. 1986 早期 Thiobacillus ferrooxidans glutamine synthetase 克隆纯化实验；原文未提供能与现行 RU820_RS02255/WP 精确核对的序列身份或 ATCC 23270 菌株证明。",
+    "recommendation": "保留 glutamine synthetase 化学候选；早期同物种纯化论文仅作功能线索，暂不作为本 WP 的直接实验分数。",
+    "chemistry": "L-glutamate + ammonium + ATP -> L-glutamine + ADP + phosphate；精确质子和区室以模型代谢物式核对。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S027"
+  },
+  "RU820_RS02030": {
+    "issue": "BRENDA EC 2.2.1.2 所引 He et al. 2005 是磷限制条件下差异蛋白组，报告一个 transaldolase 蛋白点；原文该点标识 STY3758，未与现行 RU820_RS02030/WP 建立序列对应。Osorio et al. 2013 同株蛋白组明确记录 AFE_0419 表达，仍未测该 WP 的催化底物。",
+    "recommendation": "保留 2016 transaldolase 关联候选和同株表达信息；精确反应分数不因差异蛋白组记录上调。",
+    "chemistry": "transaldolase 反应按 2016 式子与 KEGG/Rhea 逐式核对；蛋白丰度变化不决定底物或方向。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S018;G52-S027"
+  },
+  "RU820_RS02195": {
+    "issue": "2016 BILG 把 biotin + ATP + BCCP 写为整体反应；现行 WP 注释为 biotin--[acetyl-CoA-carboxylase] ligase，KEGG 分别给 biotinyl-AMP 生成与蛋白赖氨酸生物素化步骤。2016 代谢物 bccp[c] 缺元素式，旧式无法完整配平。",
+    "recommendation": "保留整体生物素连接反应候选；Hold 2016 精确计量式和 2026 分数，先补 BCCP 及生物素化蛋白形式，再核对合并两步时 AMP/PPi 系数。",
+    "chemistry": "biotin + ATP -> biotinyl-AMP + PPi；biotinyl-AMP + apo-BCCP lysine -> biotinyl-BCCP + AMP；整体式取决于蛋白载体定义。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016;G52-S025;G52-S026"
+  },
+  "RU820_RS02370": {
+    "issue": "2016 TDSK 使用 lipidA_AFE[c]、lipid4A_AFE[c] 两个模型特定脂质；旧补表没有足够元素式/电荷，KEGG R04657 使用通用 lipid A disaccharide 与 lipid IVA。当前注释支持 LpxK 家族，但酰链结构未与模型代谢物逐一对应。",
+    "recommendation": "保留 tetraacyldisaccharide 4-prime-kinase 功能候选；Hold 2016 精确式，先确定两个模型脂质的结构与质子平衡。",
+    "chemistry": "lipid A disaccharide + ATP -> lipid IVA + ADP；具体 lipidA_AFE/lipid4A_AFE 的酰链及磷酸化结构待定。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016"
+  },
+  "RU820_RS02870": {
+    "issue": "现行 WP 仅注释为 class I SAM-dependent methyltransferase；KEGG KO 的磷脂甲基化条目连接三种底物。2016 PMEAS 的 pe_AFE[c] 与 ptdmeeta_AFE[c] 元素式缺失，旧式无法完整配平，也没有当前 WP 特定磷脂底物实验。",
+    "recommendation": "Hold PMEAS 该基因 GPR 和精确式子；先确认具体磷脂底物、甲基化步骤以及两个模型脂质定义。",
+    "chemistry": "SAM + phosphatidylethanolamine -> SAH + phosphatidyl-N-methylethanolamine 是一种可能步骤；不可由 class I 甲基转移酶家族名直接指定。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016;G52-S025;G52-S026"
+  },
+  "RU820_RS02245": {
+    "issue": "Acosta et al. 2005 对 ATCC 23270 重组 rhodanese P16.2 测得 thiosulfate:cyanide sulfurtransferase 活性。论文同名序列 AY863108.1 与现行 RU820_RS02245 CDS 450/451 nt 对齐后仅多一个 G（历史序列第 361–363 位 G 连续区），导致蛋白 C 端读码不同；现行 WP_009564831.1 并非被测的完全相同序列。P15 的序列 AY863107 对应本组外 WP，不得混同。",
+    "recommendation": "记录 P16.2 的体外 thiosulfate + cyanide -> sulfite + thiocyanate 直接实验，反应核心可评 4；当前 WP 的 GPR 仍需序列版本和活性核验。cyanide 是体外受体，生理受体与代谢网络连通性未证实，暂不直接纳入 2026 模型。",
+    "chemistry": "thiosulfate + cyanide -> sulfite + thiocyanate；体外 TST 测定。细胞区室和生理硫受体未定。",
+    "evidence": "G52-S001;G52-S005;G52-S030"
+  },
+  "RU820_RS02155": {
+    "issue": "Barreto et al. 2005 用 ATCC 23270 galU 克隆互补 E. coli galU 缺失株，并在带克隆的细胞提取物中测得 UDP-glucose pyrophosphorylase 活性：45±7 对阴性 0.5±0.1 nmol/min/mg。论文提交 AY789511.1 与现行 RU820_RS02155/WP_009567323.1 的 897-nt CDS 完全相同。",
+    "recommendation": "确认本 WP 的 GalU 催化和 GPR；2016 GALU 历史分数 2 保留原列，2026 对 UTP + glucose-1-phosphate -> UDP-glucose + PPi 的核心反应评 4。旧式中的 H+ 系数已按补表配平，但未被实验单独测定；细胞区室及模型通量方向另以网络证据核对。",
+    "chemistry": "alpha-D-glucose 1-phosphate + UTP -> UDP-alpha-D-glucose + diphosphate；2016 完整式 h[c] + utp[c] + g1p[c] -> ppi[c] + udpg[c] 配平。",
+    "evidence": "G52-S001;G52-S004;G52-S006;G52-S007;G52-S016;G52-S031"
+  }
+}

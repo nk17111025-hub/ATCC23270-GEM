@@ -1,0 +1,58 @@
+condition	reaction_id	table1_id	subsystem	raw_sbml_lb	raw_sbml_ub	table1_lb	table1_ub	was_applied_in_phase1	omitted
+FIM	Afe_biomass_mc507_WT_139p0M	Afe_biomass_mc507_WT_139p0M	Exchange	0.0	1000.0	0	0	False	YES
+FIM	Ex_4hba_LSQBKT_e_RSQBKT_	Ex_4hba[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+FIM	Ex_h2_LSQBKT_e_RSQBKT_	Ex_h2[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+FIM	Ex_h2co3_LSQBKT_e_RSQBKT_	Ex_h2co3[e]	Exchange	-1000.0	1000.0	-2	-2	True	NO
+FIM	Ex_h2s_LSQBKT_e_RSQBKT_	Ex_h2s[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Ex_nh4_LSQBKT_e_RSQBKT_	Ex_nh4[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Ex_polypi_LSQBKT_e_RSQBKT_	Ex_polypi[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Ex_ppt_LSQBKT_e_RSQBKT_	Ex_ppt[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Ex_s_LSQBKT_e_RSQBKT_	Ex_s[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Ex_so4_LSQBKT_e_RSQBKT_	Ex_so4[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Ex_so4aa_LSQBKT_e_RSQBKT_	Ex_so4aa[e]	Exchange	-1000.0	1000.0	-1000	0	True	NO
+FIM	Ex_tsul_LSQBKT_e_RSQBKT_	Ex_tsul[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Ex_ttton_LSQBKT_e_RSQBKT_	Ex_ttton[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+FIM	Htpp	Htpp	Transport, Inner Membrane	-1000.0	1000.0	0	0	False	YES
+FIM	NH4pp	NH4pp	Transport, Inner Membrane	-1000.0	1000.0	0	0	False	YES
+FIM	PPTtpp	PPTtpp	Transport, Inner Membrane	0.0	1000.0	0	0	False	YES
+FIM	SO41tpp	SO41tpp	(Transport, Inner Membrane) or (Sulfur Metabolism)	0.0	1000.0	0	0	False	YES
+FIM	SO42tpp	SO42tpp	Transport, Inner Membrane	0.0	1000.0	0	0	False	YES
+FIM	SQRED1	SQRED1	Sulfur Metabolism	-1000.0	1000.0	0	0	False	YES
+TTM	Afe_biomass_mc507_WT_139p0M	Afe_biomass_mc507_WT_139p0M	Exchange	0.0	1000.0	0	0	False	YES
+TTM	CYT2	CYT2	Oxidative Phosphorylation	0.0	1000.0	0	0	True	NO
+TTM	Ex_4hba_LSQBKT_e_RSQBKT_	Ex_4hba[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+TTM	Ex_eps_AFE_LSQBKT_e_RSQBKT_	Ex_eps_AFE[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+TTM	Ex_h2_LSQBKT_e_RSQBKT_	Ex_h2[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TTM	Ex_h2co3_LSQBKT_e_RSQBKT_	Ex_h2co3[e]	Exchange	-1000.0	1000.0	-2	-2	True	NO
+TTM	Ex_h2s_LSQBKT_e_RSQBKT_	Ex_h2s[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TTM	Ex_nh4_LSQBKT_e_RSQBKT_	Ex_nh4[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TTM	Ex_polypi_LSQBKT_e_RSQBKT_	Ex_polypi[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TTM	Ex_ppt_LSQBKT_e_RSQBKT_	Ex_ppt[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TTM	Ex_s_LSQBKT_e_RSQBKT_	Ex_s[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TTM	Ex_so4_LSQBKT_e_RSQBKT_	Ex_so4[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+TTM	Ex_so4aa_LSQBKT_e_RSQBKT_	Ex_so4aa[e]	Exchange	-1000.0	1000.0	-1000	0	True	NO
+TTM	Ex_tsul_LSQBKT_e_RSQBKT_	Ex_tsul[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TTM	Ex_ttton_LSQBKT_e_RSQBKT_	Ex_ttton[e]	Exchange	-1000.0	1000.0	-1000	0	True	NO
+TTM	Htpp	Htpp	Transport, Inner Membrane	-1000.0	1000.0	0	0	False	YES
+TTM	NH4pp	NH4pp	Transport, Inner Membrane	-1000.0	1000.0	0	0	False	YES
+TTM	PPTtpp	PPTtpp	Transport, Inner Membrane	0.0	1000.0	0	0	False	YES
+TTM	SQRED1	SQRED1	Sulfur Metabolism	-1000.0	1000.0	0	0	False	YES
+TSM	Afe_biomass_mc507_WT_139p0M	Afe_biomass_mc507_WT_139p0M	Exchange	0.0	1000.0	0	0	False	YES
+TSM	CYT2	CYT2	Oxidative Phosphorylation	0.0	1000.0	0	0	True	NO
+TSM	Ex_4hba_LSQBKT_e_RSQBKT_	Ex_4hba[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+TSM	Ex_eps_AFE_LSQBKT_e_RSQBKT_	Ex_eps_AFE[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+TSM	Ex_h2_LSQBKT_e_RSQBKT_	Ex_h2[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TSM	Ex_h2co3_LSQBKT_e_RSQBKT_	Ex_h2co3[e]	Exchange	-1000.0	1000.0	-2	-2	True	NO
+TSM	Ex_h2s_LSQBKT_e_RSQBKT_	Ex_h2s[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TSM	Ex_nh4_LSQBKT_e_RSQBKT_	Ex_nh4[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TSM	Ex_polypi_LSQBKT_e_RSQBKT_	Ex_polypi[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TSM	Ex_ppt_LSQBKT_e_RSQBKT_	Ex_ppt[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TSM	Ex_s_LSQBKT_e_RSQBKT_	Ex_s[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TSM	Ex_so4_LSQBKT_e_RSQBKT_	Ex_so4[e]	Exchange	-1000.0	1000.0	0	1000	True	NO
+TSM	Ex_so4aa_LSQBKT_e_RSQBKT_	Ex_so4aa[e]	Exchange	-1000.0	1000.0	-1000	0	True	NO
+TSM	Ex_tsul_LSQBKT_e_RSQBKT_	Ex_tsul[e]	Exchange	-1000.0	1000.0	-1000	0	True	NO
+TSM	Ex_ttton_LSQBKT_e_RSQBKT_	Ex_ttton[e]	Exchange	-1000.0	1000.0	0	0	True	NO
+TSM	Htpp	Htpp	Transport, Inner Membrane	-1000.0	1000.0	0	0	False	YES
+TSM	NH4pp	NH4pp	Transport, Inner Membrane	-1000.0	1000.0	0	0	False	YES
+TSM	PPTtpp	PPTtpp	Transport, Inner Membrane	0.0	1000.0	0	0	False	YES
+TSM	SQRED1	SQRED1	Sulfur Metabolism	-1000.0	1000.0	0	0	False	YES

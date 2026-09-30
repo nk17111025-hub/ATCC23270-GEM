@@ -1,0 +1,10 @@
+solver_probe 2026-09-25T17:45:30+08:00
+cobra_version=0.32.1
+cobra_tolerance=1e-07
+cobra_solver=<module 'optlang.glpk_interface' from 'D:\\嗜酸氧化亚铁硫杆菌\\Archive_历史版本与废弃文件\\A0\\运行环境\\.venv\\Lib\\site-packages\\optlang\\glpk_interface.py'>
+glpk_version=5.0
+solvers_available=['glpk', 'glpk_exact']
+glp_smcp={'tol_bnd': 0.0, 'tol_dj': 0.0, 'tol_piv': 0.0}
+glp_iocp={'mip_gap': 0.0, 'tol_obj': 0.0}
+glp_iptcp={}
+glpk_exact_available=True

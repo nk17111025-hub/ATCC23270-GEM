@@ -1,0 +1,7 @@
+item	value
+direction_labels	6
+unknown_direction_labels	1
+ambiguous_metabolite_mappings	19
+duplicate_detection	normalized_signature
+new_intermediate_support	yes (gapfill union)
+full_universe_built	NO (deferred per task)

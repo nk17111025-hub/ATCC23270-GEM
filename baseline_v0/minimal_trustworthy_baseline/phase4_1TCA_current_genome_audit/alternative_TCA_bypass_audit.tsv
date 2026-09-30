@@ -1,0 +1,9 @@
+route	required_step	current_locus_tag	legacy_AFE_locus	protein_accession	status	evidence	notes
+2-OG decarboxylase → SSA → succinate	2-OG decarboxylase (EC 4.1.1.71; K01616-compatible)	ABSENT			ABSENT	No kgd/2-OG decarboxylase annotation; KEGG afr lacks K01616	No supported first step.
+2-OG decarboxylase → SSA → succinate	succinate-semialdehyde dehydrogenase	RU820_RS07175	AFE_1546	WP_012536595.1	PRESENT	RefSeq NAD-dependent SSADH; KEGG K00135; 2019 proteomics detected protein	Terminal step present, but route incomplete without 2-OG decarboxylase.
+GABA shunt	2-OG→glutamate via GDH/transaminase	multiple aminotransferases/GDH possible			PRESENT_BUT_NONSPECIFIC	Core nitrogen metabolism can generate glutamate	Not limiting; does not establish GABA shunt.
+GABA shunt	glutamate decarboxylase GadA/GadB (K01580)	ABSENT			ABSENT	No current RefSeq glutamate decarboxylase; no KEGG afr K01580	Breaks route.
+GABA shunt	GABA transaminase GabT (K13524/K07250/K00823/K16871 class)	ABSENT_AS_SUPPORTED_GABT			ABSENT	No current RefSeq GABA/4-aminobutyrate transaminase annotation	Breaks route.
+GABA shunt	succinate-semialdehyde dehydrogenase GabD-like	RU820_RS07175	AFE_1546	WP_012536595.1	PRESENT	K00135 / RefSeq / proteomics	Only terminal GABA-shunt step is supported.
+2-OG:ferredoxin oxidoreductase	KorA/OorA + KorB/OorB, EC 1.2.7.3; K00174+K00175	ABSENT			ABSENT	No korA/korB/oor annotation in current genome; no KEGG afr K00174/K00175 supported	No direct succinyl-CoA-producing OOR route.
+other documented acidophile bypasses	complete gene-supported bypass in ATCC 23270	NONE SUPPORTED			ABSENT	Literature/database review found no ATCC 23270 complete alternative closure	Do not import pathways from related acidophiles without loci.

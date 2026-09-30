@@ -1,0 +1,13 @@
+item	value
+v2_T0_sha256	97e31dd7b87852e8f639b72408e6e9ea05713dc0a48e99bc77edf087f0919e96
+v2_T0_sha256_match	True
+n_reactions	618
+n_metabolites	575
+objective	Ex_bio[e]
+WT_biomass	0.0520764
+R0_biomass_native	-0
+R0_biomass_with_v2_repair	-0
+R0_biomass_with_redox_sink_diagnostic	0.0756666
+n_candidate_universe	143
+MILP_status	INFEASIBLE
+verdict	PARTIAL

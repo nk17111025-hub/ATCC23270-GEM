@@ -1,0 +1,13 @@
+id	name	EC	class	reversible
+ME1	malic enzyme NAD	1.1.1.38	anaplerosis	no
+ME2	malic enzyme NADP	1.1.1.40	anaplerosis	no
+PPCK	PEP carboxykinase	4.1.1.49	gluconeogenesis	yes
+ICL	isocitrate lyase	4.1.3.1	glyoxylate	no
+PPS	PEP synthase	2.7.9.2	gluconeogenesis	no
+GND	6PG dehydrogenase	1.1.1.44	PPP	no
+NADH16	NADH dehydrogenase	1.6.5.3	redox	no
+PPDK	pyruvate phosphate dikinase	2.7.9.1	gluconeogenesis	no
+G6PDH_NAD	G6PDH NAD	1.1.1.363	ED	no
+PC	pyruvate carboxylase	6.4.1.1	anaplerosis	no
+PFL	pyruvate formate lyase	2.3.1.54	pyruvate	no
+NADHox	NADH oxidase	1.6.3.4	redox	no

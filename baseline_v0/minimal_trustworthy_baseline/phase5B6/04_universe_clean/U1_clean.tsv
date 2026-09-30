@@ -1,0 +1,117 @@
+universe_id	source_db	source_reaction_id	equation	reversible	metabolite_mapping	mass_balance	charge_balance	EC	candidate_class	included	exclusion_reason
+RXN0-5224	BioCyc	RXN0-5224	h[c] + hco3[c] -> co2[c] + h2o[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.2.1.1 T	U1	true	
+GLUTAMIN-RXN	BioCyc	GLUTAMIN-RXN	gln-L[c] + h2o[c] -> glu-L[c] + nh4[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.5.1.38 T;EC-3.5.1.2 T	U1	true	
+RXN0-4261	BioCyc	RXN0-4261	atp[c] + h2o[c] -> adp[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-5.6.2.c T	U1	true	
+MALIC-NADP-RXN	BioCyc	MALIC-NADP-RXN	mal-L[c] + nadp[c] -> co2[c] + nadph[c] + pyr[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.40 T	U1	true	
+PEPCARBOX-RXN	BioCyc	PEPCARBOX-RXN	oaa[c] + pi[c] -> hco3[c] + pep[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.1.1.31 T	U1	true	
+QUINOLINATE-SYNTHA-RXN	BioCyc	QUINOLINATE-SYNTHA-RXN	dhap[c] + iasp[c] -> h2o[c] + pi[c] + quln[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.5.1.72 T	U1	true	
+SEDOBISALDOL-RXN	BioCyc	SEDOBISALDOL-RXN	s17bp[c] -> dhap[c] + e4p[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.1.2.13	U1	true	
+1.2.1.13-RXN	BioCyc	1.2.1.13-RXN	g3p[c] + nadp[c] + pi[c] -> 13dpg[c] + h[c] + nadph[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.2.1.13 T	U1	true	
+2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	BioCyc	2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	2omph[c] + h[c] + nadph[c] + o2[c] -> 2ombz[c] + h2o[c] + nadp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.14.13	U1	true	
+RXN0-6490	BioCyc	RXN0-6490	h[c] + orot[c] -> dhor-S[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+RXN-7609	BioCyc	RXN-7609	gmp[c] + h2o[c] -> gsn[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.1.3.5	U1	true	
+RXN0-723	BioCyc	RXN0-723	ctp[c] + for[c] + h[c] -> co2[c] + dctp[c] + h2o[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.98.6	U1	true	
+DTDPDEHYRHAMREDUCT-RXN	BioCyc	DTDPDEHYRHAMREDUCT-RXN	dtdprmn[c] + nadp[c] -> dtdp4d6dm[c] + h[c] + nadph[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.133 T	U1	true	
+RXN0-5265	BioCyc	RXN0-5265	h[c] + o2[c] -> h2o[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+PPENTOMUT-RXN	BioCyc	PPENTOMUT-RXN	r1p[c] -> r5p[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-5.4.2.7 T	U1	true	
+PEPDEPHOS-RXN	BioCyc	PEPDEPHOS-RXN	atp[c] + pyr[c] -> adp[c] + h[c] + pep[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.1.40 T	U1	true	
+LUMAZINESYN-RXN	BioCyc	LUMAZINESYN-RXN	4r5au[c] + db4p[c] -> dmlz[c] + h2o[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.5.1.78 T	U1	true	
+3PGAREARR-RXN	BioCyc	3PGAREARR-RXN	2pg[c] -> 3pg[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-5.4.2.12 T	U1	true	
+TRYPSYN-RXN	BioCyc	TRYPSYN-RXN	3ig3p[c] + ser-L[c] -> g3p[c] + h2o[c] + trp-L[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.2.1.20 T	U1	true	
+RXN-14093	BioCyc	RXN-14093	atp[c] + dcyt[c] -> adp[c] + dcmp[c] + h[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.1.74;EC-2.7.1.145	U1	true	
+RXN-12195	BioCyc	RXN-12195	ctp[c] + h2o[c] -> cdp[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.6.1.15	U1	true	
+GAPOXNPHOSPHN-RXN	BioCyc	GAPOXNPHOSPHN-RXN	g3p[c] + nad[c] + pi[c] -> 13dpg[c] + h[c] + nadh[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.2.1.12 T	U1	true	
+PYRUVFORMLY-RXN	BioCyc	PYRUVFORMLY-RXN	accoa[c] + for[c] -> coa[c] + pyr[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.3.1.54 T	U1	true	
+RXN0-5245	BioCyc	RXN0-5245	fum[c] + h[c] -> succ[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+ASNSYNA-RXN	BioCyc	ASNSYNA-RXN	asp-L[c] + atp[c] + nh4[c] -> amp[c] + asn-L[c] + h[c] + ppi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-6.3.1.1 T	U1	true	
+RXN-14025	BioCyc	RXN-14025	h2o[c] + ump[c] -> pi[c] + uri[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.1.3.5	U1	true	
+RXN-12198	BioCyc	RXN-12198	cdp[c] + h2o[c] -> cmp[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.6.1.6	U1	true	
+DUDPKIN-RXN	BioCyc	DUDPKIN-RXN	atp[c] + dudp[c] -> adp[c] + dutp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.4.6	U1	true	
+3.6.3.6-RXN	BioCyc	3.6.3.6-RXN	atp[c] + h2o[c] -> adp[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-7.1.2.1 T	U1	true	
+MALATE-DEHYDROGENASE-NADP+-RXN	BioCyc	MALATE-DEHYDROGENASE-NADP+-RXN	mal-L[c] + nadp[c] -> h[c] + nadph[c] + oaa[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.82 T	U1	true	
+RXN-14026	BioCyc	RXN-14026	cmp[c] + h2o[c] -> cytd[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.1.3.91 T;EC-3.1.3.5	U1	true	
+PROTOPORGENOXI-RXN	BioCyc	PROTOPORGENOXI-RXN	o2[c] + pppg9[c] -> h2o2[c] + ppp9[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.3.3.4 T	U1	true	
+RXN0-746	BioCyc	RXN0-746	for[c] + gtp[c] + h[c] -> co2[c] + dgtp[c] + h2o[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.98.6	U1	true	
+ERYTH4PDEHYDROG-RXN	BioCyc	ERYTH4PDEHYDROG-RXN	e4p[c] + h2o[c] + nad[c] -> 4per[c] + h[c] + nadh[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.2.1.72 T	U1	true	
+RXN-13698	BioCyc	RXN-13698	akg[c] + ala-L[c] -> glu-L[c] + pyr[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.6.1.2	U1	true	
+MVHMETH-RXN	BioCyc	MVHMETH-RXN	h[c] -> h2[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+DGTPTRIPHYDRO-RXN	BioCyc	DGTPTRIPHYDRO-RXN	dgtp[c] + h2o[c] -> dgsn[c] + h[c] + pppi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.1.5.1 T	U1	true	
+RXN-13158	BioCyc	RXN-13158	3c2hmp[c] + nad[c] -> 4mop[c] + co2[c] + nadh[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.85 T	U1	true	
+HISTAMINOTRANS-RXN	BioCyc	HISTAMINOTRANS-RXN	akg[c] + hisp[c] -> glu-L[c] + imacp[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.6.1.9 T	U1	true	
+RXN-961	BioCyc	RXN-961	o2[c] + rb15bp[c] -> 2pglyc[c] + 3pg[c] + h[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.13.11	U1	true	
+AMP-DEPHOSPHORYLATION-RXN	BioCyc	AMP-DEPHOSPHORYLATION-RXN	amp[c] + h2o[c] -> adn[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.1.3.5	U1	true	
+5.4.2.10-RXN	BioCyc	5.4.2.10-RXN	gam6p[c] -> gam1p[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-5.4.2.10 T	U1	true	
+GLUTDEHYD-RXN	BioCyc	GLUTDEHYD-RXN	glu-L[c] + h2o[c] + nadp[c] -> akg[c] + h[c] + nadph[c] + nh4[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.4.1.4 T	U1	true	
+PRPPAMIDOTRANS-RXN	BioCyc	PRPPAMIDOTRANS-RXN	glu-L[c] + ppi[c] + pram[c] -> gln-L[c] + h2o[c] + prpp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.4.2.14 T	U1	true	
+RXN0-1483	BioCyc	RXN0-1483	fe2[c] + h[c] + o2[c] -> fe3[c] + h2o[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.16.3.1 T	U1	true	
+ALANINE-AMINOTRANSFERASE-RXN	BioCyc	ALANINE-AMINOTRANSFERASE-RXN	akg[c] + ala-L[c] -> glu-L[c] + pyr[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.6.1.2 T	U1	true	
+NADH-DEHYDROG-A-RXN	BioCyc	NADH-DEHYDROG-A-RXN	nadh[c] + q8[c] -> nad[c] + q8h2[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-7.1.1.2 T	U1	true	
+1.1.1.39-RXN	BioCyc	1.1.1.39-RXN	mal-L[c] + nad[c] -> co2[c] + nadh[c] + pyr[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.38 T	U1	true	
+RXN-14192	BioCyc	RXN-14192	datp[c] + pyr[c] -> dadp[c] + h[c] + pep[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.1.40	U1	true	
+ACETOOHBUTREDUCTOISOM-RXN	BioCyc	ACETOOHBUTREDUCTOISOM-RXN	23dhmp[c] + nadp[c] -> 2ahbut[c] + h[c] + nadph[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.86	U1	true	
+5.99.1.3-RXN	BioCyc	5.99.1.3-RXN	atp[c] -> adp[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-5.6.2.2 T	U1	true	
+DARAB5PISOM-RXN	BioCyc	DARAB5PISOM-RXN	ara5p[c] -> ru5p-D[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-5.3.1.13 T	U1	true	
+RXN0-5330	BioCyc	RXN0-5330	h[c] + nadh[c] + q8[c] -> nad[c] + q8h2[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.6.5.9	U1	true	
+2-OCTAPRENYLPHENOL-HYDROX-RXN	BioCyc	2-OCTAPRENYLPHENOL-HYDROX-RXN	2oph[c] + h[c] + nadph[c] + o2[c] -> 2ohph[c] + h2o[c] + nadp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.14.13.240	U1	true	
+2.7.7.13-RXN	BioCyc	2.7.7.13-RXN	gtp[c] + h[c] + man1p[c] -> gdpmann[c] + ppi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.7.13 T	U1	true	
+RXN-9952	BioCyc	RXN-9952	6pgc[c] + nadp[c] -> co2[c] + nadph[c] + ru5p-D[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.44 T	U1	true	
+DTDPKIN-RXN	BioCyc	DTDPKIN-RXN	atp[c] + dtdp[c] -> adp[c] + dttp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.4.6	U1	true	
+KETOBUTFORMLY-RXN	BioCyc	KETOBUTFORMLY-RXN	2obut[c] + coa[c] -> for[c] + ppcoa[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.3.1	U1	true	
+RXN-13163	BioCyc	RXN-13163	3c2hmp[c] -> 3c3hmp[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.2.1.33 T	U1	true	
+TRANS-RXN0-237	BioCyc	TRANS-RXN0-237	h[c] + q8[c] -> q8h2[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+PRTRANS-RXN	BioCyc	PRTRANS-RXN	ppi[c] + pran[c] -> anth[c] + prpp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.4.2.18 T	U1	true	
+HISTALDEHYD-RXN	BioCyc	HISTALDEHYD-RXN	h2o[c] + hist-L[c] + nad[c] -> h[c] + his-L[c] + nadh[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+GMP-SYN-NH3-RXN	BioCyc	GMP-SYN-NH3-RXN	atp[c] + nh4[c] + xmp[c] -> amp[c] + gmp[c] + h[c] + ppi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+RXN-14118	BioCyc	RXN-14118	ctp[c] + h2o[c] + h[c] -> nh4[c] + utp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.5.4.13	U1	true	
+RXN0-5255	BioCyc	RXN0-5255	h[c] -> h2[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+GMP-SYN-GLUT-RXN	BioCyc	GMP-SYN-GLUT-RXN	atp[c] + gln-L[c] + h2o[c] + xmp[c] -> amp[c] + glu-L[c] + gmp[c] + h[c] + ppi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-6.3.5.2 T	U1	true	
+SPONTPRO-RXN	BioCyc	SPONTPRO-RXN	1pyr5c[c] + h2o[c] + h[c] -> glu5sa[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+CTPSYN-RXN	BioCyc	CTPSYN-RXN	atp[c] + gln-L[c] + h2o[c] + utp[c] -> adp[c] + ctp[c] + glu-L[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-6.3.4.2 T	U1	true	
+HYPOXANPRIBOSYLTRAN-RXN	BioCyc	HYPOXANPRIBOSYLTRAN-RXN	imp[c] + ppi[c] -> hxan[c] + prpp[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.4.2.8 T	U1	true	
+RXN0-6491	BioCyc	RXN0-6491	dhor-S[c] + q8[c] -> orot[c] + q8h2[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.3.5.2	U1	true	
+RXN-21817	BioCyc	RXN-21817	o2[c] + q8h2[c] -> h2o[c] + q8[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-7.1.1.3	U1	true	
+PDXJ-RXN	BioCyc	PDXJ-RXN	amoxoylph[c] + dxyl5p[c] -> h2o[c] + h[c] + pdx5p[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.6.99.2 T	U1	true	
+RXN0-724	BioCyc	RXN0-724	for[c] + h[c] + utp[c] -> co2[c] + dutp[c] + h2o[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.98.6	U1	true	
+RXN0-5268	BioCyc	RXN0-5268	o2[c] + q8h2[c] -> h2o[c] + q8[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-7.1.1.3 T	U1	true	
+DETHIOBIOTIN-SYN-RXN	BioCyc	DETHIOBIOTIN-SYN-RXN	atp[c] + co2[c] + dann[c] -> adp[c] + dtbt[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-6.3.3.3 T	U1	true	
+RXN-16329	BioCyc	RXN-16329	h[c] + oaa[c] -> mal-L[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+QUINOPRIBOTRANS-RXN	BioCyc	QUINOPRIBOTRANS-RXN	co2[c] + nicrnt[c] + ppi[c] -> h[c] + prpp[c] + quln[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.4.2.19 T	U1	true	
+OROPRIBTRANS-RXN	BioCyc	OROPRIBTRANS-RXN	orot5p[c] + ppi[c] -> orot[c] + prpp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.4.2.10 T	U1	true	
+XMPXAN-RXN	BioCyc	XMPXAN-RXN	h2o[c] + xmp[c] -> pi[c] + xtsn[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.1.3.5	U1	true	
+RXN-21238	BioCyc	RXN-21238	h[c] + nad[c] -> nadh[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+ADENYLOSUCCINATE-SYNTHASE-RXN	BioCyc	ADENYLOSUCCINATE-SYNTHASE-RXN	asp-L[c] + gtp[c] + imp[c] -> dcamp[c] + gdp[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-6.3.4.4 T	U1	true	
+RXN-14325	BioCyc	RXN-14325	atp[c] + nh4[c] + utp[c] -> adp[c] + ctp[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+RXN-12196	BioCyc	RXN-12196	h2o[c] + utp[c] -> h[c] + pi[c] + udp[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.6.1.15	U1	true	
+RXN-16330	BioCyc	RXN-16330	h[c] + ppp9[c] -> pppg9[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+GLYCOLATEDEHYDRO-RXN	BioCyc	GLYCOLATEDEHYDRO-RXN	glyclt[c] -> glx[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.99.14 T	U1	true	
+CATAL-RXN	BioCyc	CATAL-RXN	h2o2[c] -> h2o[c] + o2[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.11.1.6 T;EC-1.11.1.21 T	U1	true	
+RXN-13179	BioCyc	RXN-13179	nad[c] + phthr[c] -> amoxoylph[c] + co2[c] + nadh[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.262 T	U1	true	
+XANPRIBOSYLTRAN-RXN	BioCyc	XANPRIBOSYLTRAN-RXN	ppi[c] + xmp[c] -> prpp[c] + xan[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.4.2.22 T	U1	true	
+RXN-8642	BioCyc	RXN-8642	h[c] + osuc[c] -> akg[c] + co2[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+RXN-19022	BioCyc	RXN-19022	glu5p[c] -> 5oxpro[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+RXN0-5266	BioCyc	RXN0-5266	o2[c] + q8h2[c] -> h2o[c] + q8[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-7.1.1.7	U1	true	
+RXN-12197	BioCyc	RXN-12197	h2o[c] + udp[c] -> h[c] + pi[c] + ump[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.6.1.6	U1	true	
+RIBOFLAVINSYNDEAM-RXN	BioCyc	RIBOFLAVINSYNDEAM-RXN	2dhpp[c] + h2o[c] + h[c] -> 5apru[c] + nh4[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.5.4.26 T	U1	true	
+RXN-15513	BioCyc	RXN-15513	2pg[c] -> 3pg[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-5.4.2.11 T	U1	true	
+RXN0-5462	BioCyc	RXN0-5462	gtp[c] + h2o[c] -> gdp[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.6.1.15;EC-3.6.1;EC-3.6.5.1 T;EC-3.6.5.2 T;EC-3.6.5.3 T;EC-3.6.5.4 T;EC-3.6.5.5 T;EC-3.6.5.6 T	U1	true	
+RXN-8001	BioCyc	RXN-8001	h2o[c] + histd[c] + nad[c] -> h[c] + his-L[c] + nadh[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.1.23 T	U1	true	
+PROTOHEMEFERROCHELAT-RXN	BioCyc	PROTOHEMEFERROCHELAT-RXN	h[c] + pheme[c] -> fe2[c] + ppp9[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.98.1.a T	U1	true	
+NADH-KINASE-RXN	BioCyc	NADH-KINASE-RXN	atp[c] + nadh[c] -> adp[c] + h[c] + nadph[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.1.86 T	U1	true	
+RXN0-5248	BioCyc	RXN0-5248	h[c] + nad[c] -> nadh[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+RXN-6883	BioCyc	RXN-6883	o2[c] + q8h2[c] -> h2o[c] + q8[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.10.3.11 T	U1	true	
+AIRS-RXN	BioCyc	AIRS-RXN	atp[c] + fpram[c] -> adp[c] + air[c] + h[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-6.3.3.1 T	U1	true	
+RXN0-745	BioCyc	RXN0-745	atp[c] + for[c] + h[c] -> co2[c] + datp[c] + h2o[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.1.98.6	U1	true	
+RXN-17900	BioCyc	RXN-17900	nh4[c] + prlp[c] -> aicar[c] + eig3p[c] + h2o[c] + h[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+RXN0-4141	BioCyc	RXN0-4141	h2[c] -> 	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.12.99.6 T	U1	true	
+PEPCARBOXYKIN-RXN	BioCyc	PEPCARBOXYKIN-RXN	atp[c] + oaa[c] -> adp[c] + co2[c] + pep[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.1.1.49 T	U1	true	
+H2SOXIREDPYRO-RXN	BioCyc	H2SOXIREDPYRO-RXN	h2[c] + s[e] -> h2s[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-1.12.98.4	U1	true	
+RXN-14117	BioCyc	RXN-14117	gtp[c] + pyr[c] -> gdp[c] + h[c] + pep[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.1.40	U1	true	
+RXN-17757	BioCyc	RXN-17757	glx[c] + h[c] -> glyclt[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+OXALODECARB-RXN	BioCyc	OXALODECARB-RXN	h[c] + oaa[c] -> co2[c] + pyr[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-4.1.1.112 T	U1	true	
+RXN0-5244	BioCyc	RXN0-5244	h[c] + q8[c] -> q8h2[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN		U1	true	
+PSERTRANSAMPYR-RXN	BioCyc	PSERTRANSAMPYR-RXN	akg[c] + phthr[c] -> glu-L[c] + ohpb[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.6.1.52 T	U1	true	
+RXN-14207	BioCyc	RXN-14207	dgtp[c] + pyr[c] -> dgdp[c] + h[c] + pep[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.1.40	U1	true	
+ATPSYN-RXN	BioCyc	ATPSYN-RXN	atp[c] + h2o[c] -> adp[c] + pi[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-7.1.2.2 T	U1	true	
+PEPSYNTH-RXN	BioCyc	PEPSYNTH-RXN	atp[c] + h2o[c] + pyr[c] -> amp[c] + h[c] + pep[c] + pi[c]	True	KEGG	BALANCED	BALANCE_UNKNOWN	EC-2.7.9.2 T	U1	true	
+3.1.21.3-RXN	BioCyc	3.1.21.3-RXN	atp[c] + h2o[c] -> adp[c] + pi[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.1.21.3 T	U1	true	
+DIHYDROOROT-RXN	BioCyc	DIHYDROOROT-RXN	dhor-S[c] + h2o[c] -> cbasp[c] + h[c]	False	KEGG	BALANCED	BALANCE_UNKNOWN	EC-3.5.2.3 T	U1	true	

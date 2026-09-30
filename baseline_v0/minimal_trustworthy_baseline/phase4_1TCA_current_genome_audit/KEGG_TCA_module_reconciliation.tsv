@@ -1,0 +1,10 @@
+module_step	M00009_requirement	afr_gene_KO	current_gene	assessment	notes
+OAA+acetyl-CoA→citrate	K01647/K05942/K01659 alternatives	AFE_3065 / K01647 (historical afr coordinate)	RU820_RS14240 / WP_012537576.1	SUPPORTED	Current RefSeq citrate synthase.
+citrate→isocitrate	K01681/K27802/K01682	AFE_0423 / K27802	RU820_RS02050 / WP_012536129.1	SUPPORTED	
+isocitrate→2-OG	K00031/K00030	AFE_0424 / K00031	RU820_RS02055 / WP_012606555.1	SUPPORTED	
+2-OG→succinyl-CoA	(K00164+K00658+K00382) OR K01616+K00382 OR K00174+K00175...	AFE_3068 / K00382 only (shared E3; PDH context); K00164, K00658, K01616, K00174/K00175 absent	RU820_RS14250 is E3-like PDH locus; no sucA/sucB/OOR	NOT_COMPLETE	K00382 alone cannot satisfy OGDH. AFE_3069/3070 are K00162/K00161 pyruvate-DH E1 beta/alpha.
+succinyl-CoA↔succinate	K01902+K01903 (or alternatives)	AFE_0427 K01902 + AFE_0425 K01903	RU820_RS02070 + RU820_RS02060	SUPPORTED	
+succinate→fumarate	one complete succinate dehydrogenase/fumarate reductase multi-subunit set	No validated complete AFR set recovered; historical AFE_2550 sdhC alias is HdrB	RU820_RS11745 = HdrB-family; no canonical SdhA/B core found	NOT_SUPPORTED_BY_CURRENT_ANNOTATION	Requires sequence-level profile search if Central Review wants to rule out a highly divergent complex.
+fumarate↔malate	K01676/K01679/K01677+K01678	AFE_2673 / class II fumarase (K01679-compatible)	RU820_RS12345 / WP_009565770.1	SUPPORTED	
+malate↔OAA	K00026/K00025/K00024/K00116 alternatives	AFE_3000 / K00024	RU820_RS13930 / WP_012537534.1	SUPPORTED	
+KEGG organism source	n/a	afr is built from GCA_000021485.1 / CP001219, created 2008	GCF_049532655.1 is not the coordinate behind KEGG afr	OUTDATED_COORDINATE	The organism module listing is not proof of module completeness.

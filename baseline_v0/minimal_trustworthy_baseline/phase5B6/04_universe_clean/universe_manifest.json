@@ -1,0 +1,13 @@
+{
+  "n_model_metabolites": 575,
+  "n_model_reactions": 618,
+  "n_bio cyc_reactions": 1313,
+  "n_mapped": 138,
+  "n_failed_unmapped": 965,
+  "n_balanced": 116,
+  "n_unbalanced": 22,
+  "n_balance_unknown": 0,
+  "n_clean_U1": 116,
+  "n_balanced_in_clean": 116,
+  "n_unknown_in_clean": 0
+}

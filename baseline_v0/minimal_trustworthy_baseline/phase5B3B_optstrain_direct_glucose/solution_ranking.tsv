@@ -1,0 +1,5 @@
+tier	reaction_set	evidence	native_check
+Tier 1	G6PDH_NAD (NAD-dependent G6PDH, EC 1.1.1.363)	1 reaction; R10 feasible (+31%); ED route; consensus GapFill+OptStrain	POSSIBLY_NATIVE (genome NAD-G6PDH paralog check needed)
+Tier 2	PFL (pyruvate formate lyase, EC 2.3.1.54)	1 reaction; R10 barely feasible (+4%); formate byproduct	LIKELY_HETEROLOGOUS; redox/fermentation tradeoff
+Tier 2	PEPCK / PEPS (PEP synthesis)	1 reaction for R25; candidate for R0 gluconeogenesis to 3PG	POSSIBLY_NATIVE; needs pairing for full Rubisco independence
+Tier 2	G6PDH_NAD + PEPS (ED + gluconeogenesis)	2 reactions; candidate for R0 (needs >2 verified)	combination candidate

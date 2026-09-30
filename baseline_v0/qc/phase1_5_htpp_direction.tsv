@@ -1,0 +1,5 @@
+case	status	atpm_max	atps5rpp_flux	htpp_flux
+original	optimal	200.00000000000003	200.00000000000003	1000.0
+c_to_p_only	optimal	200.00000000000003	200.00000000000003	1000.0
+p_to_c_only	optimal	0.0	0.0	0.0
+disabled	optimal	0.0	0.0	0.0

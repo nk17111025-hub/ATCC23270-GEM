@@ -1,0 +1,2 @@
+tier	n_candidate	solver	status	min_additions	biomass	note
+U1	143	scipy.optimize.milp (HiGHS)	The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)	None	0.0	v3-native

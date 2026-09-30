@@ -1,0 +1,4 @@
+condition	WT_biomass	HCO3E_KO	Htpp_FVA	MACPD_FVA	ACOATA_FVA	zero_carbon	zero_donor	zero_acceptor
+FIM	0.05207638710273946	infeasible	[0.0, 0.0]	[0.0, 0.0]	[0.008986301358451533, 0.008986301358435244]	0.0	infeasible	infeasible
+TTM	0.05207638540658722	infeasible	[0.0, 0.0]	[0.0, 0.0]	[0.008986301358448983, 0.008986301358453358]	0.0	infeasible	infeasible
+TSM	0.05207638710274026	infeasible	[0.0, 0.0]	[0.0, 0.0]	[0.008986301206919605, 0.008986302247301138]	0.0	infeasible	infeasible

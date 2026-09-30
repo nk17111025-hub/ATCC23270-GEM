@@ -1,0 +1,18 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:10144	a ribonucleoside 3'-phosphate + H2O = a ribonucleoside + phosphate	EC:3.1.3.6	CHEBI:13197;CHEBI:15377;CHEBI:18254;CHEBI:43474	KEGG:R03060	MetaCyc:3-NUCLEOTID-RXN
+RHEA:11500	3-deoxy-alpha-D-manno-2-octulosonate-8-phosphate + H2O = 3-deoxy-alpha-D-manno-oct-2-ulosonate + phosphate	EC:3.1.3.45	CHEBI:85985;CHEBI:15377;CHEBI:85986;CHEBI:43474	KEGG:R03350	MetaCyc:KDO-8PPHOSPHAT-RXN
+RHEA:14481	2-hydroxy-5-methylsulfanyl-3-oxopent-1-enyl phosphate + H2O = 1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one + phosphate	EC:3.1.3.87	CHEBI:59505;CHEBI:15377;CHEBI:49252;CHEBI:43474	KEGG:R07394	MetaCyc:R83-RXN
+RHEA:15193	dGTP + H2O = 2'-deoxyguanosine + triphosphate + H(+)	EC:3.1.5.1	CHEBI:61429;CHEBI:15377;CHEBI:17172;CHEBI:18036;CHEBI:15378	KEGG:R01856	MetaCyc:DGTPTRIPHYDRO-RXN
+RHEA:17461	D-sedoheptulose 1,7-bisphosphate + H2O = D-sedoheptulose 7-phosphate + phosphate	EC:3.1.3.37	CHEBI:58335;CHEBI:15377;CHEBI:57483;CHEBI:43474	KEGG:R01845	MetaCyc:SEDOHEPTULOSE-BISPHOSPHATASE-RXN
+RHEA:28518	D-glycero-beta-D-manno-heptose 1,7-bisphosphate + H2O = D-glycero-beta-D-manno-heptose 1-phosphate + phosphate	EC:3.1.3.82	CHEBI:60208;CHEBI:15377;CHEBI:61593;CHEBI:43474	KEGG:R05647	MetaCyc:RXN0-4361
+RHEA:28522	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate + H2O = D-glycero-alpha-D-manno-heptose 1-phosphate + phosphate	EC:3.1.3.83	CHEBI:60207;CHEBI:15377;CHEBI:61574;CHEBI:43474	KEGG:R09771	MetaCyc:RXN-11365
+RHEA:34795	alpha-D-ribose 1,2-cyclic phosphate 5-phosphate + H2O = alpha-D-ribose 1,5-bisphosphate + H(+)	EC:3.1.4.55	CHEBI:68687;CHEBI:15377;CHEBI:68688;CHEBI:15378		MetaCyc:RXN0-6710
+RHEA:43532	a ribonucleoside 3',5'-bisphosphate + H2O = a ribonucleoside 5'-phosphate + phosphate	EC:3.1.3.97	CHEBI:83402;CHEBI:15377;CHEBI:58043;CHEBI:43474	KEGG:R11188	MetaCyc:RXN-16009
+RHEA:10040	adenosine 3',5'-bisphosphate + H2O = AMP + phosphate	EC:3.1.3.7	CHEBI:58343;CHEBI:15377;CHEBI:456215;CHEBI:43474	KEGG:R00188	MetaCyc:325-BISPHOSPHATE-NUCLEOTIDASE-RXN
+RHEA:77639	3'-phosphoadenylyl sulfate + H2O = adenosine 5'-phosphosulfate + phosphate	EC:3.1.3.7	CHEBI:58339;CHEBI:15377;CHEBI:58243;CHEBI:43474	KEGG:R00508	MetaCyc:R163-RXN
+RHEA:77643	adenosine 2',5'-bisphosphate + H2O = AMP + phosphate	EC:3.1.3.7	CHEBI:194156;CHEBI:15377;CHEBI:456215;CHEBI:43474		
+RHEA:19621	a nucleoside 2',3'-cyclic phosphate + H2O = a nucleoside 3'-phosphate + H(+)	EC:3.1.4.16	CHEBI:66954;CHEBI:15377;CHEBI:66949;CHEBI:15378	KEGG:R03423	MetaCyc:CYCPHOSDIESTER-RXN
+RHEA:27858	2',3'-cyclophospho-GMP + H2O = 3'-GMP + H(+)	EC:3.1.4.16	CHEBI:60837;CHEBI:15377;CHEBI:60732;CHEBI:15378	KEGG:R05135	MetaCyc:RXN-14064
+RHEA:27878	2',3'-cyclophospho-UMP + H2O = 3'-UMP + H(+)	EC:3.1.4.16	CHEBI:60873;CHEBI:15377;CHEBI:60784;CHEBI:15378	KEGG:R03538	MetaCyc:RXN-14091
+RHEA:27882	2',3'-cyclophospho-CMP + H2O = 3'-CMP + H(+)	EC:3.1.4.16	CHEBI:60877;CHEBI:15377;CHEBI:60875;CHEBI:15378	KEGG:R03929	MetaCyc:RXN-14112
+RHEA:27886	2',3'-cyclophospho-AMP + H2O = 3'-AMP + H(+)	EC:3.1.4.16	CHEBI:60879;CHEBI:15377;CHEBI:60880;CHEBI:15378	KEGG:R03537	MetaCyc:RXN-14113

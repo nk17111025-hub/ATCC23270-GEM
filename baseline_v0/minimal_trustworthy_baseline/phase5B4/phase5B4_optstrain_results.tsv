@@ -1,0 +1,4 @@
+scenario	min_interventions	best_sets	note
+R25	1	G6PDH_NAD / PEPCK / PC / ICL / PFL (1-reaction)	unchanged
+R10	1	G6PDH_NAD (primary), PFL (weak)	unchanged
+R0	NOT_FOUND	none	infeasible with <=6 reactions; NADHI open does not help

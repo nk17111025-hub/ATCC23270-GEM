@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/apixml
+函数: substrates-of-reaction
+对象: GCF_000021485:RXN-16629
+detail: full
+获取时间: 2026-09-23T08:43:03.2887056+08:00
+HTTP状态: 200
+Content-Type: text/xml
+文件大小: 114398
+SHA256: 53659FB9FE94E9379074D1D2C93046E12D8C847FDC92F46B88131B077415A593
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\apixml_substrates-of-reaction_RXN-16629_full_20260923_084224.headers.txt

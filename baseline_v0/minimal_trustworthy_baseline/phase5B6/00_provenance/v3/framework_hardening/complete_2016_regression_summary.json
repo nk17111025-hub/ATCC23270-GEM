@@ -1,0 +1,10 @@
+{
+  "n_scenarios": 20,
+  "n_scenarios_optimal": 20,
+  "n_scenarios_pass": 20,
+  "n_validation_series": 7,
+  "mean_R2_SSE_SST": 0.9225205259531645,
+  "accepted_mean_R2_SSE_SST": 0.9225207085872575,
+  "max_growth_delta": 4.662394081575427e-07,
+  "overall_result": "PASS"
+}

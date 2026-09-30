@@ -1,0 +1,11 @@
+step	reaction_id	equation	lb	ub	GPR	confidence	actual_flux	force_1e-06	force_0.0001	force_0.01
+glucose -> G6P	BDGK	atp[c] + glc-B[c] -> adp[c] + g6p-B[c] + h[c]	0.0	1000.0		1	0.999992	0.208306	0.208306	0.208306
+G6P -> F6P	PGI1	g6p-B[c] -> f6p-B[c]	-1000.0	1000.0	AFE_2924	2	0.961148	0.208306	0.208306	0.208306
+F6P -> FDP	PFK	atp[c] + f6p-B[c] -> adp[c] + fdp[c] + h[c]	0.0	1000.0	AFE_1807	2	0.0	0.208306	0.208306	0.208306
+FDP -> GAP+DHAP	FBA	fdp[c] -> dhap[c] + g3p[c]	-1000.0	1000.0	AFE_1802	2	-0.047292	0.208306	0.208306	0.208306
+GAP -> 1,3-BPG	GAPD1	13dpg[c] + h[c] + nadh[c] -> g3p[c] + nad[c] + pi[c]	-1000.0	1000.0	AFE_3251	2	2.965869	0.208306	0.208306	0.208306
+1,3-BPG -> 3PG	PGK	3pg[c] + atp[c] -> 13dpg[c] + adp[c]	-1000.0	1000.0	AFE_3250	2	2.965869	infeasible	infeasible	infeasible
+3PG -> 2PG	PGM1	3pg[c] -> 2pg[c]	-1000.0	1000.0	(AFE_1815 or AFE_0155 or AFE_0526 or AFE_0621)	2	2.110547	0.208306	0.208306	0.208306
+2PG -> PEP	ENO	2pg[c] -> h2o[c] + pep[c]	-1000.0	1000.0	(AFE_1800 or AFE_0849)	2	2.110547	0.208306	0.208306	0.208306
+PEP -> pyruvate	PYK	adp[c] + h[c] + pep[c] -> atp[c] + pyr[c]	0.0	1000.0	(AFE_0749 or AFE_1801 or AFE_3249)	2	1.32363	0.208306	0.208306	0.208306
+pyruvate -> acetyl-CoA	PDH	coa[c] + nad[c] + pyr[c] -> accoa[c] + co2[c] + nadh[c]	0.0	1000.0	(AFE_3070 and AFE_3069 and AFE_3068)	2	0.654688	0.208306	0.208306	0.208306

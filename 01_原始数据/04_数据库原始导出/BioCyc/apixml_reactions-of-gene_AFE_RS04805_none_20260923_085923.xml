@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/apixml?fn=reactions-of-gene%26id=GCF_000021485:AFE_RS04805%26detail=NONE'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>apixml</service_name>
+    <query>fn=reactions-of-gene&amp;id=GCF_000021485:AFE_RS04805&amp;detail=NONE</query>
+    <num_results>0</num_results>
+  </metadata>
+</ptools-xml>

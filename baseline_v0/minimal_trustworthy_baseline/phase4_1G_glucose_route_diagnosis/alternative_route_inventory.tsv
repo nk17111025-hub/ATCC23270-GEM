@@ -1,0 +1,9 @@
+route	present	status
+Entner-Doudoroff (G6P->6PGL->6PG->KDPG->Pyr+GAP)	TRUE	COMPLETE
+oxidative PPP (G6P->6PG->Ru5P+CO2)	TRUE	PARTIAL (no 6PG dehydrogenase/decarboxylase; PGDH is ED dehydratase)
+non-oxidative PPP (F6P/GAP -> R5P/X5P/E4P/S7P)	TRUE	COMPLETE
+glycogen synthesis (G6P->G1P->glycogen)	TRUE	PARTIAL
+glycogen degradation (glycogen->G6P)	TRUE	PRESENT
+gluconate pathway	FALSE	ABSENT
+pyruvate bypass (acetyl-CoA via acetate)	FALSE	ABSENT
+glyoxylate shunt (isocitrate lyase + malate synthase)	TRUE	PARTIAL (MALS only, no ICL)

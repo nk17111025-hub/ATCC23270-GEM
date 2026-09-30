@@ -1,0 +1,2481 @@
+[
+  {
+    "locus": "RU820_RS01685",
+    "old_reaction": "ADK1",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00020": 1.0
+      },
+      {
+        "C00008": 2.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00127",
+        "similarity": 1.0,
+        "definition": "ATP + AMP <=> 2 ADP"
+      },
+      {
+        "kegg_reaction": "R01547",
+        "similarity": 0.3333,
+        "definition": "ATP + dAMP <=> ADP + dADP"
+      },
+      {
+        "kegg_reaction": "R11319",
+        "similarity": 0.3333,
+        "definition": "Thiamin diphosphate + ADP <=> Thiamin triphosphate + AMP"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01725",
+    "old_reaction": "DUTPDP",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00460": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00013": 1.0,
+        "C00365": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R02100",
+        "similarity": 0.8333,
+        "definition": "dUTP + H2O <=> dUMP + Diphosphate"
+      },
+      {
+        "kegg_reaction": "R11896",
+        "similarity": 0.2917,
+        "definition": "5-Fluorodeoxyuridine triphosphate + H2O <=> 5-Fluorodeoxyuridine monophosphate + Diphosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01730",
+    "old_reaction": "PPCDC",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C04352": 1.0
+      },
+      {
+        "C00011": 1.0,
+        "C01134": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R03269",
+        "similarity": 0.75,
+        "definition": "(R)-4'-Phosphopantothenoyl-L-cysteine <=> Pantetheine 4'-phosphate + CO2"
+      },
+      {
+        "kegg_reaction": "R04231",
+        "similarity": 0.125,
+        "definition": "CTP + D-4'-Phosphopantothenate + L-Cysteine <=> CMP + Diphosphate + (R)-4'-Phosphopantothenoyl-L-cysteine"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01730",
+    "old_reaction": "PPNCL2",
+    "model_compounds": [
+      {
+        "C00063": 1.0,
+        "C00097": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00013": 1.0,
+        "C00055": 1.0,
+        "C04352": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "d4ppp[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R04231",
+        "similarity": 0.7083,
+        "definition": "CTP + D-4'-Phosphopantothenate + L-Cysteine <=> CMP + Diphosphate + (R)-4'-Phosphopantothenoyl-L-cysteine"
+      },
+      {
+        "kegg_reaction": "R03269",
+        "similarity": 0.125,
+        "definition": "(R)-4'-Phosphopantothenoyl-L-cysteine <=> Pantetheine 4'-phosphate + CO2"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01765",
+    "old_reaction": "GUAPRT",
+    "model_compounds": [
+      {
+        "C00013": 1.0,
+        "C00144": 1.0
+      },
+      {
+        "C00119": 1.0,
+        "C00242": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01229",
+        "similarity": 1.0,
+        "definition": "GMP + Diphosphate <=> Guanine + 5-Phospho-alpha-D-ribose 1-diphosphate"
+      },
+      {
+        "kegg_reaction": "R01132",
+        "similarity": 0.3333,
+        "definition": "IMP + Diphosphate <=> Hypoxanthine + 5-Phospho-alpha-D-ribose 1-diphosphate"
+      },
+      {
+        "kegg_reaction": "R02142",
+        "similarity": 0.3333,
+        "definition": "Xanthosine 5'-phosphate + Diphosphate <=> Xanthine + 5-Phospho-alpha-D-ribose 1-diphosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01765",
+    "old_reaction": "HXPRT",
+    "model_compounds": [
+      {
+        "C00119": 1.0,
+        "C00262": 1.0
+      },
+      {
+        "C00013": 1.0,
+        "C00130": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01132",
+        "similarity": 1.0,
+        "definition": "IMP + Diphosphate <=> Hypoxanthine + 5-Phospho-alpha-D-ribose 1-diphosphate"
+      },
+      {
+        "kegg_reaction": "R01229",
+        "similarity": 0.3333,
+        "definition": "GMP + Diphosphate <=> Guanine + 5-Phospho-alpha-D-ribose 1-diphosphate"
+      },
+      {
+        "kegg_reaction": "R02142",
+        "similarity": 0.3333,
+        "definition": "Xanthosine 5'-phosphate + Diphosphate <=> Xanthine + 5-Phospho-alpha-D-ribose 1-diphosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01770",
+    "old_reaction": "MTAP",
+    "model_compounds": [
+      {
+        "C00009": 1.0,
+        "C00170": 1.0
+      },
+      {
+        "C00147": 1.0,
+        "C04188": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R09668",
+        "similarity": 0.3333,
+        "definition": "5'-S-Methyl-5'-thioinosine + Orthophosphate <=> Hypoxanthine + S-Methyl-5-thio-D-ribose 1-phosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01785",
+    "old_reaction": "PSP_L",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C01005": 1.0
+      },
+      {
+        "C00009": 1.0,
+        "C00065": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00582",
+        "similarity": 1.0,
+        "definition": "O-Phospho-L-serine + H2O <=> L-Serine + Orthophosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01795",
+    "old_reaction": "MEPCT",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00063": 1.0,
+        "C11434": 1.0
+      },
+      {
+        "C00013": 1.0,
+        "C11435": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R05633",
+        "similarity": 0.8333,
+        "definition": "2-C-Methyl-D-erythritol 4-phosphate + CTP <=> 4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol + Diphosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01800",
+    "old_reaction": "MECDPS",
+    "model_compounds": [
+      {
+        "C11436": 1.0
+      },
+      {
+        "C00055": 1.0,
+        "C11453": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R05637",
+        "similarity": 1.0,
+        "definition": "2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol <=> 2-C-Methyl-D-erythritol 2,4-cyclodiphosphate + CMP"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01820",
+    "old_reaction": "TRDR",
+    "model_compounds": [
+      {
+        "C00005": 1.0,
+        "C00342": 1.0
+      },
+      {
+        "C00080": 3.0,
+        "C00006": 1.0,
+        "C00343": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R02016",
+        "similarity": 0.3333,
+        "definition": "Thioredoxin + NADP+ <=> Thioredoxin disulfide + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R09372",
+        "similarity": 0.1389,
+        "definition": "2 NADPH + 2 H+ + Methylselenic acid <=> 2 NADP+ + 2 H2O + Methaneselenol"
+      },
+      {
+        "kegg_reaction": "R03596",
+        "similarity": 0.1364,
+        "definition": "Hydrogen selenide + 3 NADP+ + 3 H2O <=> Selenite + 3 NADPH + 5 H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01835",
+    "old_reaction": "CYTAA32",
+    "model_compounds": [
+      {
+        "C00080": 1.3,
+        "C00007": 0.5
+      },
+      {
+        "C00080": 1.3,
+        "C00001": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "etpcycAox[p]",
+      "etpcycArd[p]"
+    ],
+    "best": []
+  },
+  {
+    "locus": "RU820_RS01965",
+    "old_reaction": "ARGSS",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00049": 1.0,
+        "C00327": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00013": 1.0,
+        "C00020": 1.0,
+        "C03406": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01954",
+        "similarity": 0.875,
+        "definition": "ATP + L-Citrulline + L-Aspartate <=> AMP + Diphosphate + N-(L-Arginino)succinate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01970",
+    "old_reaction": "OCBT",
+    "model_compounds": [
+      {
+        "C00077": 1.0,
+        "C00169": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00009": 1.0,
+        "C00327": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01398",
+        "similarity": 0.8333,
+        "definition": "Carbamoyl phosphate + L-Ornithine <=> Orthophosphate + L-Citrulline"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01975",
+    "old_reaction": "ACOTA",
+    "model_compounds": [
+      {
+        "C00437": 1.0,
+        "C00026": 1.0
+      },
+      {
+        "C00025": 1.0,
+        "C01250": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R02283",
+        "similarity": 1.0,
+        "definition": "N-Acetylornithine + 2-Oxoglutarate <=> N-Acetyl-L-glutamate 5-semialdehyde + L-Glutamate"
+      },
+      {
+        "kegg_reaction": "R04475",
+        "similarity": 0.3333,
+        "definition": "N-Succinyl-LL-2,6-diaminoheptanedioate + 2-Oxoglutarate <=> N-Succinyl-2-L-amino-6-oxoheptanedioate + L-Glutamate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS01980",
+    "old_reaction": "ASPK",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00049": 1.0
+      },
+      {
+        "C00008": 1.0,
+        "C03082": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00480",
+        "similarity": 1.0,
+        "definition": "ATP + L-Aspartate <=> ADP + 4-Phospho-L-aspartate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02030",
+    "old_reaction": "TALA",
+    "model_compounds": [
+      {
+        "C00118": 1.0,
+        "C05382": 1.0
+      },
+      {
+        "C00279": 1.0,
+        "C05345": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01827",
+        "similarity": 1.0,
+        "definition": "Sedoheptulose 7-phosphate + D-Glyceraldehyde 3-phosphate <=> D-Erythrose 4-phosphate + beta-D-Fructose 6-phosphate"
+      },
+      {
+        "kegg_reaction": "R08575",
+        "similarity": 0.6667,
+        "definition": "Sedoheptulose 7-phosphate + D-Glyceraldehyde 3-phosphate <=> D-Erythrose 4-phosphate + D-Fructose 6-phosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR1",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C04246": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C05745": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 1.0,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.4167,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04429",
+        "similarity": 0.4167,
+        "definition": "Butyryl-[acp] + NAD+ <=> But-2-enoyl-[acyl-carrier protein] + NADH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR10",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C05748": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C05749": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R04956",
+        "similarity": 1.0,
+        "definition": "Hexanoyl-[acp] + NADP+ <=> trans-Hex-2-enoyl-[acp] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.4167,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.4167,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR11",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C05751": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C05752": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R04959",
+        "similarity": 1.0,
+        "definition": "Octanoyl-[acp] + NADP+ <=> trans-Oct-2-enoyl-[acp] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.4167,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.4167,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR12",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C05754": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C05755": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R04962",
+        "similarity": 1.0,
+        "definition": "Decanoyl-[acp] + NADP+ <=> trans-Dec-2-enoyl-[acp] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.4167,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.4167,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR13",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C05758": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C05223": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 1.0,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.4167,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.4167,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR14",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C05760": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C05761": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R04967",
+        "similarity": 1.0,
+        "definition": "Tetradecanoyl-[acp] + NADP+ <=> trans-Tetradec-2-enoyl-[acp] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.4167,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.4167,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR15",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C05763": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C05764": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R04970",
+        "similarity": 1.0,
+        "definition": "Hexadecanoyl-[acp] + NADP+ <=> trans-Hexadec-2-enoyl-[acp] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.4167,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.4167,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR16",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C04088": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "2tadeACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR17",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "2teicACP[c]",
+      "arachACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR2",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "3cddACP[c]",
+      "c2tdodeACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR3",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "c2ttedeACP[c]",
+      "ctdeACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR4",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "c2thedeACP[c]",
+      "chexcaACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR5",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "c2tocdeACP[c]",
+      "octeACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR6",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "2tpenACP[c]",
+      "ptACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR7",
+    "model_compounds": [
+      {
+        "C00080": 5.0,
+        "C00005": 5.0
+      },
+      {
+        "C00006": 5.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "ptdcaACP[c]",
+      "vtenACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.1742,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.1742,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.1742,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR8",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "hpdcaACP[c]",
+      "thepcaACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02035",
+    "old_reaction": "EAR9",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0
+      },
+      {
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "nodcaACP[c]",
+      "noncaACP[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01404",
+        "similarity": 0.5833,
+        "definition": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04430",
+        "similarity": 0.5833,
+        "definition": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R04725",
+        "similarity": 0.5833,
+        "definition": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02045",
+    "old_reaction": "GLUTRS",
+    "model_compounds": [
+      {
+        "C00025": 1.0,
+        "C00002": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00013": 1.0,
+        "C00020": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "LtRNAglu[c]",
+      "tRNAglu[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R05578",
+        "similarity": 0.5833,
+        "definition": "tRNA(Glu) + L-Glutamate + ATP <=> L-Glutamyl-tRNA(Glu) + Diphosphate + AMP"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02050",
+    "old_reaction": "ACONT1",
+    "model_compounds": [
+      {
+        "C00158": 1.0
+      },
+      {
+        "C00001": 1.0,
+        "C00417": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01325",
+        "similarity": 1.0,
+        "definition": "Citrate <=> cis-Aconitate + H2O"
+      },
+      {
+        "kegg_reaction": "R01324",
+        "similarity": 0.5,
+        "definition": "Citrate <=> Isocitrate"
+      },
+      {
+        "kegg_reaction": "R01900",
+        "similarity": 0.5,
+        "definition": "Isocitrate <=> cis-Aconitate + H2O"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02050",
+    "old_reaction": "ACONT2",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00417": 1.0
+      },
+      {
+        "C00311": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01900",
+        "similarity": 1.0,
+        "definition": "Isocitrate <=> cis-Aconitate + H2O"
+      },
+      {
+        "kegg_reaction": "R01324",
+        "similarity": 0.5,
+        "definition": "Citrate <=> Isocitrate"
+      },
+      {
+        "kegg_reaction": "R01325",
+        "similarity": 0.5,
+        "definition": "Citrate <=> cis-Aconitate + H2O"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02055",
+    "old_reaction": "ICDHyr",
+    "model_compounds": [
+      {
+        "C00006": 1.0,
+        "C00311": 1.0
+      },
+      {
+        "C00011": 1.0,
+        "C00026": 1.0,
+        "C00005": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00267",
+        "similarity": 0.875,
+        "definition": "Isocitrate + NADP+ <=> 2-Oxoglutarate + CO2 + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01899",
+        "similarity": 0.6,
+        "definition": "Isocitrate + NADP+ <=> Oxalosuccinate + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R00268",
+        "similarity": 0.3333,
+        "definition": "Oxalosuccinate <=> 2-Oxoglutarate + CO2"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02055",
+    "old_reaction": "ICITRED",
+    "model_compounds": [
+      {
+        "C00006": 1.0,
+        "C00311": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C05379": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01899",
+        "similarity": 1.0,
+        "definition": "Isocitrate + NADP+ <=> Oxalosuccinate + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R00267",
+        "similarity": 0.7,
+        "definition": "Isocitrate + NADP+ <=> 2-Oxoglutarate + CO2 + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R00268",
+        "similarity": 0.1667,
+        "definition": "Oxalosuccinate <=> 2-Oxoglutarate + CO2"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02060",
+    "old_reaction": "SUCOAS",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00010": 1.0,
+        "C00042": 1.0
+      },
+      {
+        "C00009": 1.0,
+        "C00008": 1.0,
+        "C00091": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00405",
+        "similarity": 1.0,
+        "definition": "ATP + Succinate + CoA <=> ADP + Orthophosphate + Succinyl-CoA"
+      },
+      {
+        "kegg_reaction": "R02404",
+        "similarity": 0.5,
+        "definition": "ATP + Itaconate + CoA <=> ADP + Orthophosphate + Itaconyl-CoA"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02070",
+    "old_reaction": "SUCOAS",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00010": 1.0,
+        "C00042": 1.0
+      },
+      {
+        "C00009": 1.0,
+        "C00008": 1.0,
+        "C00091": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00405",
+        "similarity": 1.0,
+        "definition": "ATP + Succinate + CoA <=> ADP + Orthophosphate + Succinyl-CoA"
+      },
+      {
+        "kegg_reaction": "R02404",
+        "similarity": 0.5,
+        "definition": "ATP + Itaconate + CoA <=> ADP + Orthophosphate + Itaconyl-CoA"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02075",
+    "old_reaction": "NADS1",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C01342": 1.0,
+        "C00857": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00003": 1.0,
+        "C00013": 1.0,
+        "C00020": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00257",
+        "similarity": 0.5,
+        "definition": "ATP + Deamino-NAD+ + L-Glutamine + H2O <=> AMP + Diphosphate + NAD+ + L-Glutamate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02075",
+    "old_reaction": "NADS2",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00002": 1.0,
+        "C00064": 1.0,
+        "C00857": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00025": 1.0,
+        "C00003": 1.0,
+        "C00013": 1.0,
+        "C00020": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00257",
+        "similarity": 0.9,
+        "definition": "ATP + Deamino-NAD+ + L-Glutamine + H2O <=> AMP + Diphosphate + NAD+ + L-Glutamate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02100",
+    "old_reaction": "AREDO",
+    "model_compounds": [
+      {
+        "C00007": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00058": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "12dhy3meten[c]",
+      "2kmb[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R07364",
+        "similarity": 0.4167,
+        "definition": "1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one + Oxygen <=> 4-Methylthio-2-oxobutanoic acid + Formate"
+      },
+      {
+        "kegg_reaction": "R07363",
+        "similarity": 0.375,
+        "definition": "1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one + Oxygen <=> 3-(Methylthio)propanoate + Formate + CO"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02105",
+    "old_reaction": "DKMPE",
+    "model_compounds": [
+      {
+        "C15650": 1.0
+      },
+      {}
+    ],
+    "model_missing_kegg_ids": [
+      "2h3kto5me1pe[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R07393",
+        "similarity": 0.5,
+        "definition": "2,3-Diketo-5-methylthiopentyl-1-phosphate <=> 2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02105",
+    "old_reaction": "RUBISCO",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00011": 1.0,
+        "C01182": 1.0
+      },
+      {
+        "C00080": 2.0,
+        "C00197": 2.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R07393",
+        "similarity": 0.0,
+        "definition": "2,3-Diketo-5-methylthiopentyl-1-phosphate <=> 2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02110",
+    "old_reaction": "HKMPP",
+    "model_compounds": [
+      {
+        "C00001": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00009": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "12dhy3meten[c]",
+      "2h3kto5me1pe[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R07394",
+        "similarity": 0.4167,
+        "definition": "2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate + H2O <=> 1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one + Orthophosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02135",
+    "old_reaction": "TDPGDH",
+    "model_compounds": [
+      {
+        "C00842": 1.0
+      },
+      {
+        "C00001": 1.0,
+        "C00687": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R06513",
+        "similarity": 0.6667,
+        "definition": "dTDP-glucose <=> dTDP-4-oxo-6-deoxy-D-glucose + H2O"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02140",
+    "old_reaction": "TDPDRR",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C00688": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C03319": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R02777",
+        "similarity": 1.0,
+        "definition": "dTDP-L-rhamnose + NADP+ <=> dTDP-4-dehydro-beta-L-rhamnose + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02155",
+    "old_reaction": "GALU",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00075": 1.0,
+        "C00103": 1.0
+      },
+      {
+        "C00013": 1.0,
+        "C00029": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00289",
+        "similarity": 0.8333,
+        "definition": "UTP + D-Glucose 1-phosphate <=> Diphosphate + UDP-glucose"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02185",
+    "old_reaction": "NADK",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00003": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00008": 1.0,
+        "C00006": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00104",
+        "similarity": 0.8333,
+        "definition": "ATP + NAD+ <=> ADP + NADP+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02195",
+    "old_reaction": "BILG",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00120": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00013": 1.0,
+        "C06250": 1.0,
+        "C00020": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "bccp[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01074",
+        "similarity": 0.6,
+        "definition": "ATP + Biotin <=> Diphosphate + Biotinyl-5'-AMP"
+      },
+      {
+        "kegg_reaction": "R05145",
+        "similarity": 0.25,
+        "definition": "Biotinyl-5'-AMP + Apo-[carboxylase] <=> AMP + Holo-[carboxylase]"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02200",
+    "old_reaction": "G5SD",
+    "model_compounds": [
+      {
+        "C00009": 1.0,
+        "C00006": 1.0,
+        "C01165": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C03287": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R03313",
+        "similarity": 1.0,
+        "definition": "L-Glutamate 5-semialdehyde + Orthophosphate + NADP+ <=> L-Glutamyl 5-phosphate + NADPH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02255",
+    "old_reaction": "GLNS",
+    "model_compounds": [
+      {
+        "C00025": 1.0,
+        "C00002": 1.0,
+        "C01342": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00009": 1.0,
+        "C00008": 1.0,
+        "C00064": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00253",
+        "similarity": 0.625,
+        "definition": "ATP + L-Glutamate + Ammonia <=> ADP + Orthophosphate + L-Glutamine"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02265",
+    "old_reaction": "NADPPPS",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00006": 1.0
+      },
+      {
+        "C00009": 1.0,
+        "C00003": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00183",
+        "similarity": 0.3333,
+        "definition": "AMP + H2O <=> Adenosine + Orthophosphate"
+      },
+      {
+        "kegg_reaction": "R00511",
+        "similarity": 0.3333,
+        "definition": "CMP + H2O <=> Cytidine + Orthophosphate"
+      },
+      {
+        "kegg_reaction": "R00963",
+        "similarity": 0.3333,
+        "definition": "UMP + H2O <=> Uridine + Orthophosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02265",
+    "old_reaction": "THMP",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C01081": 1.0
+      },
+      {
+        "C00009": 1.0,
+        "C00378": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00183",
+        "similarity": 0.3333,
+        "definition": "AMP + H2O <=> Adenosine + Orthophosphate"
+      },
+      {
+        "kegg_reaction": "R00511",
+        "similarity": 0.3333,
+        "definition": "CMP + H2O <=> Cytidine + Orthophosphate"
+      },
+      {
+        "kegg_reaction": "R00963",
+        "similarity": 0.3333,
+        "definition": "UMP + H2O <=> Uridine + Orthophosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02290",
+    "old_reaction": "HSDy",
+    "model_compounds": [
+      {
+        "C00006": 1.0,
+        "C00263": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C00441": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01775",
+        "similarity": 1.0,
+        "definition": "L-Homoserine + NADP+ <=> L-Aspartate 4-semialdehyde + NADPH + H+"
+      },
+      {
+        "kegg_reaction": "R01773",
+        "similarity": 0.4167,
+        "definition": "L-Homoserine + NAD+ <=> L-Aspartate 4-semialdehyde + NADH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02295",
+    "old_reaction": "THRS",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C01102": 1.0
+      },
+      {
+        "C00009": 1.0,
+        "C00188": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01466",
+        "similarity": 1.0,
+        "definition": "O-Phospho-L-homoserine + H2O <=> L-Threonine + Orthophosphate"
+      },
+      {
+        "kegg_reaction": "R05086",
+        "similarity": 0.3333,
+        "definition": "O-Phospho-4-hydroxy-L-threonine + H2O <=> 4-Hydroxy-L-threonine + Orthophosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02370",
+    "old_reaction": "TDSK",
+    "model_compounds": [
+      {
+        "C00002": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00008": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "lipid4A_AFE[c]",
+      "lipidA_AFE[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R04657",
+        "similarity": 0.4167,
+        "definition": "ATP + Lipid A disaccharide <=> ADP + 2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02380",
+    "old_reaction": "KDOCT2",
+    "model_compounds": [
+      {
+        "C00063": 1.0,
+        "C01187": 1.0
+      },
+      {
+        "C00013": 1.0,
+        "C04121": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R03351",
+        "similarity": 1.0,
+        "definition": "CTP + 3-Deoxy-D-manno-octulosonate <=> Diphosphate + CMP-3-deoxy-D-manno-octulosonate"
+      },
+      {
+        "kegg_reaction": "R11396",
+        "similarity": 0.3333,
+        "definition": "CTP + 8-Amino-3,8-dideoxy-D-manno-octulosonate <=> Diphosphate + CMP-8-amino-3,8-dideoxy-beta-D-manno-octulosonate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02385",
+    "old_reaction": "PPA",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00013": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00009": 2.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": []
+  },
+  {
+    "locus": "RU820_RS02540",
+    "old_reaction": "HETZK",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C04294": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00008": 1.0,
+        "C04327": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": []
+  },
+  {
+    "locus": "RU820_RS02555",
+    "old_reaction": "PGM1",
+    "model_compounds": [
+      {
+        "C00197": 1.0
+      },
+      {
+        "C00631": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01518",
+        "similarity": 1.0,
+        "definition": "2-Phospho-D-glycerate <=> 3-Phospho-D-glycerate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02560",
+    "old_reaction": "MTRP",
+    "model_compounds": [
+      {
+        "C00009": 1.0,
+        "C02052": 1.0
+      },
+      {
+        "C00103": 1.0,
+        "C01835": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R02111",
+        "similarity": 0.3333,
+        "definition": "Starch + Orthophosphate <=> Amylose + D-Glucose 1-phosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02585",
+    "old_reaction": "METAT",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00002": 1.0,
+        "C00073": 1.0
+      },
+      {
+        "C00009": 1.0,
+        "C00019": 1.0,
+        "C00013": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00177",
+        "similarity": 1.0,
+        "definition": "Orthophosphate + Diphosphate + S-Adenosyl-L-methionine <=> ATP + L-Methionine + H2O"
+      },
+      {
+        "kegg_reaction": "R04771",
+        "similarity": 0.5,
+        "definition": "ATP + L-Selenomethionine + H2O <=> Orthophosphate + Diphosphate + Se-Adenosylselenomethionine"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02590",
+    "old_reaction": "ADNSE",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00021": 1.0
+      },
+      {
+        "C00212": 1.0,
+        "C00155": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00192",
+        "similarity": 1.0,
+        "definition": "S-Adenosyl-L-homocysteine + H2O <=> Adenosine + L-Homocysteine"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02595",
+    "old_reaction": "MTHFR3",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00005": 1.0,
+        "C00143": 1.0
+      },
+      {
+        "C00006": 1.0,
+        "C00440": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R07168",
+        "similarity": 0.4167,
+        "definition": "5-Methyltetrahydrofolate + NAD+ <=> 5,10-Methylenetetrahydrofolate + NADH + H+"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02600",
+    "old_reaction": "PRUK",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00199": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00008": 1.0,
+        "C01182": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01523",
+        "similarity": 0.8333,
+        "definition": "ATP + D-Ribulose 5-phosphate <=> ADP + D-Ribulose 1,5-bisphosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02615",
+    "old_reaction": "ADSK",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00224": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00008": 1.0,
+        "C00053": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00529",
+        "similarity": 0.1667,
+        "definition": "ATP + Sulfate <=> Diphosphate + Adenylyl sulfate"
+      },
+      {
+        "kegg_reaction": "R04929",
+        "similarity": 0.1667,
+        "definition": "ATP + Selenate <=> Diphosphate + Adenylyl selenate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02615",
+    "old_reaction": "SFAT1",
+    "model_compounds": [
+      {
+        "C00013": 1.0,
+        "C00224": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00002": 1.0,
+        "C00059": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00529",
+        "similarity": 0.8333,
+        "definition": "ATP + Sulfate <=> Diphosphate + Adenylyl sulfate"
+      },
+      {
+        "kegg_reaction": "R04929",
+        "similarity": 0.2917,
+        "definition": "ATP + Selenate <=> Diphosphate + Adenylyl selenate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02615",
+    "old_reaction": "SFAT2",
+    "model_compounds": [
+      {
+        "C00009": 1.0,
+        "C00224": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00008": 1.0,
+        "C00059": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00529",
+        "similarity": 0.2917,
+        "definition": "ATP + Sulfate <=> Diphosphate + Adenylyl sulfate"
+      },
+      {
+        "kegg_reaction": "R04929",
+        "similarity": 0.0,
+        "definition": "ATP + Selenate <=> Diphosphate + Adenylyl selenate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02620",
+    "old_reaction": "ADPT",
+    "model_compounds": [
+      {
+        "C00013": 1.0,
+        "C00020": 1.0
+      },
+      {
+        "C00147": 1.0,
+        "C00119": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": []
+  },
+  {
+    "locus": "RU820_RS02650",
+    "old_reaction": "ILETA",
+    "model_compounds": [
+      {
+        "C00026": 1.0,
+        "C00407": 1.0
+      },
+      {
+        "C00025": 1.0,
+        "C00671": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R02199",
+        "similarity": 1.0,
+        "definition": "L-Isoleucine + 2-Oxoglutarate <=> (S)-3-Methyl-2-oxopentanoic acid + L-Glutamate"
+      },
+      {
+        "kegg_reaction": "R01090",
+        "similarity": 0.3333,
+        "definition": "L-Leucine + 2-Oxoglutarate <=> 4-Methyl-2-oxopentanoate + L-Glutamate"
+      },
+      {
+        "kegg_reaction": "R01214",
+        "similarity": 0.3333,
+        "definition": "L-Valine + 2-Oxoglutarate <=> 3-Methyl-2-oxobutanoic acid + L-Glutamate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02650",
+    "old_reaction": "LEUTA",
+    "model_compounds": [
+      {
+        "C00026": 1.0,
+        "C00123": 1.0
+      },
+      {
+        "C00025": 1.0,
+        "C00233": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01090",
+        "similarity": 1.0,
+        "definition": "L-Leucine + 2-Oxoglutarate <=> 4-Methyl-2-oxopentanoate + L-Glutamate"
+      },
+      {
+        "kegg_reaction": "R01214",
+        "similarity": 0.3333,
+        "definition": "L-Valine + 2-Oxoglutarate <=> 3-Methyl-2-oxobutanoic acid + L-Glutamate"
+      },
+      {
+        "kegg_reaction": "R02199",
+        "similarity": 0.3333,
+        "definition": "L-Isoleucine + 2-Oxoglutarate <=> (S)-3-Methyl-2-oxopentanoic acid + L-Glutamate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02650",
+    "old_reaction": "VALTA2",
+    "model_compounds": [
+      {
+        "C00026": 1.0,
+        "C00183": 1.0
+      },
+      {
+        "C00025": 1.0,
+        "C00141": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01214",
+        "similarity": 1.0,
+        "definition": "L-Valine + 2-Oxoglutarate <=> 3-Methyl-2-oxobutanoic acid + L-Glutamate"
+      },
+      {
+        "kegg_reaction": "R01090",
+        "similarity": 0.3333,
+        "definition": "L-Leucine + 2-Oxoglutarate <=> 4-Methyl-2-oxopentanoate + L-Glutamate"
+      },
+      {
+        "kegg_reaction": "R02199",
+        "similarity": 0.3333,
+        "definition": "L-Isoleucine + 2-Oxoglutarate <=> (S)-3-Methyl-2-oxopentanoic acid + L-Glutamate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02695",
+    "old_reaction": "FMNAT",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00002": 1.0,
+        "C00061": 1.0
+      },
+      {
+        "C00013": 1.0,
+        "C00016": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00161",
+        "similarity": 0.8333,
+        "definition": "ATP + FMN <=> Diphosphate + FAD"
+      },
+      {
+        "kegg_reaction": "R00549",
+        "similarity": 0.125,
+        "definition": "ATP + Riboflavin <=> ADP + FMN"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02695",
+    "old_reaction": "RBFK1",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00255": 1.0
+      },
+      {
+        "C00080": 1.0,
+        "C00008": 1.0,
+        "C00061": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00549",
+        "similarity": 0.8333,
+        "definition": "ATP + Riboflavin <=> ADP + FMN"
+      },
+      {
+        "kegg_reaction": "R00161",
+        "similarity": 0.1667,
+        "definition": "ATP + FMN <=> Diphosphate + FAD"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02720",
+    "old_reaction": "GK1",
+    "model_compounds": [
+      {
+        "C00002": 1.0,
+        "C00144": 1.0
+      },
+      {
+        "C00008": 1.0,
+        "C00035": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00332",
+        "similarity": 1.0,
+        "definition": "ATP + GMP <=> ADP + GDP"
+      },
+      {
+        "kegg_reaction": "R02090",
+        "similarity": 0.3333,
+        "definition": "ATP + dGMP <=> ADP + dGDP"
+      },
+      {
+        "kegg_reaction": "R12852",
+        "similarity": 0.3333,
+        "definition": "dZMP + ATP <=> dZDP + ADP"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02755",
+    "old_reaction": "PPPGO",
+    "model_compounds": [
+      {
+        "C00007": 3.0,
+        "C01079": 1.0
+      },
+      {
+        "C00027": 3.0,
+        "C02191": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R03222",
+        "similarity": 1.0,
+        "definition": "Protoporphyrinogen IX + 3 Oxygen <=> Protoporphyrin + 3 Hydrogen peroxide"
+      },
+      {
+        "kegg_reaction": "R04178",
+        "similarity": 0.6,
+        "definition": "Coproporphyrinogen III + 3 Oxygen <=> Coproporphyrin III + 3 Hydrogen peroxide"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02785",
+    "old_reaction": "ADCS",
+    "model_compounds": [
+      {
+        "C00251": 1.0,
+        "C00064": 1.0
+      },
+      {
+        "C00025": 1.0,
+        "C11355": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01716",
+        "similarity": 1.0,
+        "definition": "Chorismate + L-Glutamine <=> 4-Amino-4-deoxychorismate + L-Glutamate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02860",
+    "old_reaction": "HBPPT",
+    "model_compounds": [
+      {
+        "C00156": 1.0,
+        "C04146": 1.0
+      },
+      {
+        "C00013": 1.0,
+        "C05809": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R05615",
+        "similarity": 1.0,
+        "definition": "all-trans-Octaprenyl diphosphate + 4-Hydroxybenzoate <=> 3-Octaprenyl-4-hydroxybenzoate + Diphosphate"
+      },
+      {
+        "kegg_reaction": "R05000",
+        "similarity": 0.3333,
+        "definition": "all-trans-Polyprenyl diphosphate + 4-Hydroxybenzoate <=> 4-Hydroxy-3-polyprenylbenzoate + Diphosphate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02865",
+    "old_reaction": "CHRPL",
+    "model_compounds": [
+      {
+        "C00251": 1.0
+      },
+      {
+        "C00022": 1.0,
+        "C00156": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01302",
+        "similarity": 1.0,
+        "definition": "4-Hydroxybenzoate + Pyruvate <=> Chorismate"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02870",
+    "old_reaction": "PMEAS",
+    "model_compounds": [
+      {
+        "C00019": 1.0
+      },
+      {
+        "C00021": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [
+      "pe_AFE[c]",
+      "ptdmeeta_AFE[c]"
+    ],
+    "best": [
+      {
+        "kegg_reaction": "R01320",
+        "similarity": 0.5,
+        "definition": "S-Adenosyl-L-methionine + Phosphatidyl-N-dimethylethanolamine <=> S-Adenosyl-L-homocysteine + Phosphatidylcholine"
+      },
+      {
+        "kegg_reaction": "R02056",
+        "similarity": 0.5,
+        "definition": "S-Adenosyl-L-methionine + Phosphatidylethanolamine <=> S-Adenosyl-L-homocysteine + Phosphatidyl-N-methylethanolamine"
+      },
+      {
+        "kegg_reaction": "R03424",
+        "similarity": 0.5,
+        "definition": "S-Adenosyl-L-methionine + Phosphatidyl-N-methylethanolamine <=> S-Adenosyl-L-homocysteine + Phosphatidyl-N-dimethylethanolamine"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS02995",
+    "old_reaction": "PGM1",
+    "model_compounds": [
+      {
+        "C00197": 1.0
+      },
+      {
+        "C00631": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": []
+  },
+  {
+    "locus": "RU820_RS03010",
+    "old_reaction": "OMBQM",
+    "model_compounds": [
+      {
+        "C00080": 1.0,
+        "C00019": 1.0,
+        "C05813": 1.0
+      },
+      {
+        "C00021": 1.0,
+        "C05814": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": []
+  },
+  {
+    "locus": "RU820_RS03015",
+    "old_reaction": "IPPMIa",
+    "model_compounds": [
+      {
+        "C02504": 1.0
+      },
+      {
+        "C04411": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R10170",
+        "similarity": 1.0,
+        "definition": "(2R,3S)-3-Isopropylmalate <=> alpha-Isopropylmalate"
+      },
+      {
+        "kegg_reaction": "R03968",
+        "similarity": 0.5,
+        "definition": "alpha-Isopropylmalate <=> 2-Isopropylmaleate + H2O"
+      },
+      {
+        "kegg_reaction": "R04001",
+        "similarity": 0.5,
+        "definition": "(2R,3S)-3-Isopropylmalate <=> 2-Isopropylmaleate + H2O"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS03020",
+    "old_reaction": "IPPMIa",
+    "model_compounds": [
+      {
+        "C02504": 1.0
+      },
+      {
+        "C04411": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R10170",
+        "similarity": 1.0,
+        "definition": "(2R,3S)-3-Isopropylmalate <=> alpha-Isopropylmalate"
+      },
+      {
+        "kegg_reaction": "R03968",
+        "similarity": 0.5,
+        "definition": "alpha-Isopropylmalate <=> 2-Isopropylmaleate + H2O"
+      },
+      {
+        "kegg_reaction": "R04001",
+        "similarity": 0.5,
+        "definition": "(2R,3S)-3-Isopropylmalate <=> 2-Isopropylmaleate + H2O"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS03030",
+    "old_reaction": "PDX5PO",
+    "model_compounds": [
+      {
+        "C00007": 1.0,
+        "C00627": 1.0
+      },
+      {
+        "C00018": 1.0,
+        "C00027": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00278",
+        "similarity": 1.0,
+        "definition": "Pyridoxine phosphate + Oxygen <=> Hydrogen peroxide + Pyridoxal phosphate"
+      },
+      {
+        "kegg_reaction": "R00277",
+        "similarity": 0.4583,
+        "definition": "Pyridoxamine phosphate + H2O + Oxygen <=> Pyridoxal phosphate + Ammonia + Hydrogen peroxide"
+      },
+      {
+        "kegg_reaction": "R01711",
+        "similarity": 0.3333,
+        "definition": "Pyridoxine + Oxygen <=> Pyridoxal + Hydrogen peroxide"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS03030",
+    "old_reaction": "PYAM5PO",
+    "model_compounds": [
+      {
+        "C00001": 1.0,
+        "C00007": 1.0,
+        "C00647": 1.0
+      },
+      {
+        "C00018": 1.0,
+        "C01342": 1.0,
+        "C00027": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R00277",
+        "similarity": 0.75,
+        "definition": "Pyridoxamine phosphate + H2O + Oxygen <=> Pyridoxal phosphate + Ammonia + Hydrogen peroxide"
+      },
+      {
+        "kegg_reaction": "R00278",
+        "similarity": 0.4583,
+        "definition": "Pyridoxine phosphate + Oxygen <=> Hydrogen peroxide + Pyridoxal phosphate"
+      },
+      {
+        "kegg_reaction": "R01710",
+        "similarity": 0.35,
+        "definition": "Pyridoxamine + H2O + Oxygen <=> Pyridoxal + Ammonia + Hydrogen peroxide"
+      }
+    ]
+  },
+  {
+    "locus": "RU820_RS03035",
+    "old_reaction": "RPI",
+    "model_compounds": [
+      {
+        "C00117": 1.0
+      },
+      {
+        "C00199": 1.0
+      }
+    ],
+    "model_missing_kegg_ids": [],
+    "best": [
+      {
+        "kegg_reaction": "R01056",
+        "similarity": 1.0,
+        "definition": "D-Ribose 5-phosphate <=> D-Ribulose 5-phosphate"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-26T23:40:40+08:00",
+  "all_14_biomass": -0.0,
+  "reachability": {
+    "3pg[c]": 7.755854,
+    "r5p[c]": 6.0,
+    "e4p[c]": 7.5,
+    "accoa[c]": -0.0,
+    "oaa[c]": 10.0,
+    "akg[c]": -0.0
+  },
+  "artifact_tests": {
+    "free_ATP": 0.0,
+    "free_NADH": 0.0,
+    "free_NADPH": 0.0
+  },
+  "decision": "CANDIDATE_UNIVERSE_PROVEN_INSUFFICIENT"
+}

@@ -1,0 +1,8 @@
+check	result
+authoritative_v3_hash	PASS
+r0_condition_imported	PASS
+candidate_ids_unique	PASS
+no_ambiguous_strict	PASS
+no_unbalanced_strict	PASS
+no_artificial_sink_demand_exchange	PASS
+new_metabolites_in_matrix	PASS

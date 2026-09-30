@@ -1,0 +1,3 @@
+reaction	FVA_min	FVA_max	selected_reference	note
+Ex_fe2[e]	-1000	-163.7	-163.8	NOT-UNIQUE (pFBA reference used)
+Ex_o2[e]	-247.5	-38.47	-38.48	NOT-UNIQUE (pFBA reference used)

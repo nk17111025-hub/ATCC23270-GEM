@@ -1,0 +1,13 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:11332	RNA(n) + ATP = RNA(n)-3'-adenine ribonucleotide + diphosphate	EC:2.7.7.19	CHEBI:140395;CHEBI:30616;CHEBI:173115;CHEBI:33019	KEGG:R00435	MetaCyc:POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN
+RHEA:12120	alpha-D-glucose 1-phosphate + ATP + H(+) = ADP-alpha-D-glucose + diphosphate	EC:2.7.7.27	CHEBI:58601;CHEBI:30616;CHEBI:15378;CHEBI:57498;CHEBI:33019	KEGG:R00948	MetaCyc:GLUC1PADENYLTRANS-RXN
+RHEA:13509	N-acetyl-alpha-D-glucosamine 1-phosphate + UTP + H(+) = UDP-N-acetyl-alpha-D-glucosamine + diphosphate	EC:2.7.7.23	CHEBI:57776;CHEBI:46398;CHEBI:15378;CHEBI:57705;CHEBI:33019	KEGG:R00416	MetaCyc:NAG1P-URIDYLTRANS-RXN
+RHEA:13517	dTMP + ATP = dTDP + ADP	EC:2.7.4.9;EC:2.7.4.12	CHEBI:63528;CHEBI:30616;CHEBI:58369;CHEBI:456216	KEGG:R02094	MetaCyc:DTMPKI-RXN
+RHEA:15225	dTTP + alpha-D-glucose 1-phosphate + H(+) = dTDP-alpha-D-glucose + diphosphate	EC:2.7.7.24	CHEBI:37568;CHEBI:58601;CHEBI:15378;CHEBI:57477;CHEBI:33019	KEGG:R02328	MetaCyc:DTDPGLUCOSEPP-RXN
+RHEA:15229	alpha-D-mannose 1-phosphate + GTP + H(+) = GDP-alpha-D-mannose + diphosphate	EC:2.7.7.13	CHEBI:58409;CHEBI:37565;CHEBI:15378;CHEBI:57527;CHEBI:33019	KEGG:R00885	MetaCyc:2.7.7.13-RXN
+RHEA:15609	D-ribose 5-phosphate + ATP = 5-phospho-alpha-D-ribose 1-diphosphate + AMP + H(+)	EC:2.7.6.1	CHEBI:78346;CHEBI:30616;CHEBI:58017;CHEBI:456215;CHEBI:15378	KEGG:R01049	MetaCyc:PRPPSYN-RXN
+RHEA:19893	4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine + ATP = 4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine + ADP	EC:2.7.4.7	CHEBI:58354;CHEBI:30616;CHEBI:57841;CHEBI:456216	KEGG:R04509	MetaCyc:PYRIMSYN3-RXN
+RHEA:22860	nicotinate beta-D-ribonucleotide + ATP + H(+) = deamido-NAD(+) + diphosphate	EC:2.7.7.18	CHEBI:57502;CHEBI:30616;CHEBI:15378;CHEBI:58437;CHEBI:33019	KEGG:R03005	MetaCyc:NICONUCADENYLYLTRAN-RXN
+RHEA:54288	L-tyrosyl-[protein] + ATP = O-(5'-adenylyl)-L-tyrosyl-[protein] + diphosphate	EC:2.7.7.108	CHEBI:46858;CHEBI:30616;CHEBI:83624;CHEBI:33019		
+RHEA:54292	L-threonyl-[protein] + ATP = 3-O-(5'-adenylyl)-L-threonyl-[protein] + diphosphate	EC:2.7.7.108	CHEBI:30013;CHEBI:30616;CHEBI:138113;CHEBI:33019		
+RHEA:58120	L-seryl-[protein] + ATP = 3-O-(5'-adenylyl)-L-seryl-[protein] + diphosphate	EC:2.7.7.108	CHEBI:29999;CHEBI:30616;CHEBI:142516;CHEBI:33019		

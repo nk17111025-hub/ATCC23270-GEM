@@ -1,0 +1,2 @@
+tier	n_candidate_reactions	solver	solve_status	min_additions	biomass_R0	proven_optimal	note
+U1 (BioCyc+curated)	143	scipy.optimize.milp (HiGHS)	INFEASIBLE		0.0	n/a	redox/cofactor bottleneck, no closed rescue

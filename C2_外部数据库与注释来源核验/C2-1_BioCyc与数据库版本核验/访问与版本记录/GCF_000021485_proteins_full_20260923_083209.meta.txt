@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/xmlquery
+查询: [x:x<-GCF_000021485^^proteins]
+detail: full
+获取时间: 2026-09-23T08:32:30.5126357+08:00
+HTTP状态: 000
+
+结果条数: 
+文件大小: 0
+SHA256: 
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\GCF_000021485_proteins_full_20260923_083209.headers.txt

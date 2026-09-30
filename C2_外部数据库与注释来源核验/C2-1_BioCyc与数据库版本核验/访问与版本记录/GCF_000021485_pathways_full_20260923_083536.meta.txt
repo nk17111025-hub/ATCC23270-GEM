@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/xmlquery
+查询: [x:x<-GCF_000021485^^pathways]
+detail: full
+获取时间: 2026-09-23T08:35:52.7071357+08:00
+HTTP状态: 200
+Content-Type: text/xml
+结果条数: 953
+文件大小: 1770661
+SHA256: 6D4FCB7482B037C45D6A51CADDD6D854F2943041FD7B0C093DA47603246C410D
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\GCF_000021485_pathways_full_20260923_083536.headers.txt

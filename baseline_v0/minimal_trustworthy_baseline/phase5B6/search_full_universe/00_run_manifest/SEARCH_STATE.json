@@ -1,0 +1,15 @@
+{
+  "run_id": "5B6-FUS-001",
+  "model_T0_sha256": "5ba88e6dd31d375ea0acbd94442e190b0de9f67d2e61169f8b73380d57becb77",
+  "raw_bio cyc_candidates": 1313,
+  "native_candidates": 41,
+  "heterologous_candidates": 16,
+  "final_strict_universe": 57,
+  "search_A": "INFEASIBLE",
+  "search_B": "OPTIMAL",
+  "search_C": "OPTIMAL",
+  "k_min": 51,
+  "any_feasible": true,
+  "scientific_verdict": "R0_RESCUED_IN_CURRENT_CURATED_UNIVERSE",
+  "limitations": "candidate universe lacks complete amino-acid/cofactor biosynthesis reactions (BioCyc mapping failed on ACP/ferredoxin/tRNA carriers); not a biological impossibility claim"
+}

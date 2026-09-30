@@ -1,0 +1,13 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:13429	2-C-methyl-D-erythritol 4-phosphate + CTP + H(+) = 4-CDP-2-C-methyl-D-erythritol + diphosphate	EC:2.7.7.60	CHEBI:58262;CHEBI:37563;CHEBI:15378;CHEBI:57823;CHEBI:33019	KEGG:R05633	MetaCyc:2.7.7.60-RXN
+RHEA:14433	a tRNA precursor + 2 CTP + ATP = a tRNA with a 3' CCA end + 3 diphosphate	EC:2.7.7.72	CHEBI:74896;CHEBI:37563;CHEBI:30616;CHEBI:83071;CHEBI:33019	KEGG:R09382	MetaCyc:TRNA-CYTIDYLYLTRANSFERASE-RXN
+RHEA:16229	a 1,2-diacyl-sn-glycero-3-phosphate + CTP + H(+) = a CDP-1,2-diacyl-sn-glycerol + diphosphate	EC:2.7.7.41	CHEBI:58608;CHEBI:37563;CHEBI:15378;CHEBI:58332;CHEBI:33019	KEGG:R01799	MetaCyc:CDPDIGLYSYN-RXN
+RHEA:18589	[glutamine synthetase]-L-tyrosine + ATP = [glutamine synthetase]-O(4)-(5'-adenylyl)-L-tyrosine + diphosphate	EC:2.7.7.42	CHEBI:46858;CHEBI:30616;CHEBI:83624;CHEBI:33019	KEGG:R03473	MetaCyc:GSADENYLATION-RXN
+RHEA:19801	(R)-4'-phosphopantetheine + ATP + H(+) = 3'-dephospho-CoA + diphosphate	EC:2.7.7.3	CHEBI:61723;CHEBI:30616;CHEBI:15378;CHEBI:57328;CHEBI:33019	KEGG:R03035	MetaCyc:PANTEPADENYLYLTRAN-RXN
+RHEA:21248	RNA(n) + a ribonucleoside 5'-triphosphate = RNA(n+1) + diphosphate	EC:2.7.7.6;EC:2.7.7.48	CHEBI:140395;CHEBI:61557;CHEBI:33019	KEGG:R00444	MetaCyc:DNA-DIRECTED-RNA-POLYMERASE-RXN,MetaCyc:RNA-DIRECTED-RNA-POLYMERASE-RXN
+RHEA:22096	RNA(n+1) + phosphate = RNA(n) + a ribonucleoside 5'-diphosphate	EC:2.7.7.8	CHEBI:140395;CHEBI:43474;CHEBI:57930	KEGG:R07282	MetaCyc:2.7.7.8-RXN
+RHEA:23448	3-deoxy-alpha-D-manno-oct-2-ulosonate + CTP = CMP-3-deoxy-beta-D-manno-octulosonate + diphosphate	EC:2.7.7.38	CHEBI:85986;CHEBI:37563;CHEBI:85987;CHEBI:33019	KEGG:R03351	MetaCyc:CPM-KDOSYNTH-RXN
+RHEA:25690	2,3-bis-O-(geranylgeranyl)-sn-glycerol 1-phosphate + CTP + H(+) = CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol + diphosphate	EC:2.7.7.67	CHEBI:58837;CHEBI:37563;CHEBI:15378;CHEBI:58838;CHEBI:33019	KEGG:R08966	MetaCyc:RXN-9995
+RHEA:36407	L-threonine + hydrogencarbonate + ATP = L-threonylcarbamoyladenylate + diphosphate + H2O	EC:2.7.7.87	CHEBI:57926;CHEBI:17544;CHEBI:30616;CHEBI:73682;CHEBI:33019;CHEBI:15377	KEGG:R10463	MetaCyc:RXN-14569
+RHEA:43616	[molybdopterin-synthase sulfur-carrier protein]-C-terminal Gly-Gly + ATP + H(+) = [molybdopterin-synthase sulfur-carrier protein]-C-terminal Gly-Gly-AMP + diphosphate	EC:2.7.7.80	CHEBI:90778;CHEBI:30616;CHEBI:15378;CHEBI:90618;CHEBI:33019	KEGG:R07459	MetaCyc:RXN-11361
+RHEA:43716	[glutamine synthetase]-O(4)-(5'-adenylyl)-L-tyrosine + phosphate = [glutamine synthetase]-L-tyrosine + ADP	EC:2.7.7.89	CHEBI:83624;CHEBI:43474;CHEBI:46858;CHEBI:456216	KEGG:R03474	MetaCyc:GSDEADENYLATION-RXN

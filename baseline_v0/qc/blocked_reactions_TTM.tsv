@@ -1,0 +1,67 @@
+reaction_id	table1_id	name	type	subsystem	classification
+5OXOP	5OXOP	5-oxoprolinase (ATP-hydrolysing)	internal	Glutathione Metabolism	potentially suspicious
+AHCYSNS	AHCYSNS	Adenosylhomocysteine nucleosidase	internal	Methionine Metabolism	potentially suspicious
+AMAOT	AMAOT	adenosylmethionine-8-amino-7-oxononanoate transaminase	internal	Cofactor and Prosthetic Group Biosynthesis	potentially suspicious
+AMPTASECG	AMPTASECG	alanyl aminopeptidase (cys-gly)	internal	Cysteine Metabolism	potentially suspicious
+ANPRT	ANPRT	anthranilate phosphoribosyltransferase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	potentially suspicious
+ANSYN	ANSYN	Anthranilate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	potentially suspicious
+AOXS	AOXS	8-amino-7-oxononanoate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	potentially suspicious
+ARGDC	ARGDC	Arginine decarboxylase	internal	Arginine and Proline Metabolism	potentially suspicious
+BILG	BILG	Biotin--[acetyl-CoA-carboxylase] ligase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	potentially suspicious
+BTS5	BTS5	Biotin synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	potentially suspicious
+CSND	CSND	Cytosine deaminase	internal	Nucleotide Salvage Pathway	potentially suspicious
+CYT1	CYT1	cytochrome c552/rusticyanin complex	internal	Oxidative Phosphorylation	potentially suspicious
+CYT2	CYT2	cytochrome c/rusticyanin complex	internal	Oxidative Phosphorylation	potentially biologically meaningful
+CYTA2	CYTA2	cytochrome c4/rusticyanin complex	internal	Oxidative Phosphorylation	potentially suspicious
+CYTAA31	CYTAA31	cytochrome c oxidase, aa3-type	internal	Oxidative Phosphorylation	potentially suspicious
+CYTBC1	CYTBC1	cytochrome oxidase bc1 (5 protons) (periplasm)	internal	Oxidative Phosphorylation	potentially suspicious
+CYTK2	CYTK2	cytidylate kinase (dCMP)	internal	Nucleotide Salvage Pathway	potentially suspicious
+DADA	DADA	Deoxyadenosine deaminase	internal	Nucleotide Salvage Pathway	potentially suspicious
+DBTS	DBTS	dethiobiotin synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	potentially suspicious
+DCYTD	DCYTD	deoxycytidine deaminase	internal	Nucleotide Salvage Pathway	potentially suspicious
+DDGPA	DDGPA	2-keto-3-deoxy-6-phosphogluconate aldolase	internal	Pentose Phosphate Pathway	potentially suspicious
+DTDCT	DTDCT	di-trans-poly-cis-decaprenylcistransferase	internal	Cell Envelope Biosynthesis	potentially suspicious
+Ex_h2_LSQBKT_e_RSQBKT_		h2 exchange	exchange		unknown
+Ex_h2s_LSQBKT_e_RSQBKT_		hydrogen sulfide exchange	exchange		unknown
+Ex_nh4_LSQBKT_e_RSQBKT_		ammonia exchange	exchange		unknown
+Ex_polypi_LSQBKT_e_RSQBKT_		polyphosphate exchange	exchange		unknown
+Ex_ppt_LSQBKT_e_RSQBKT_		phosphonate exchange	exchange		unknown
+Ex_s_LSQBKT_e_RSQBKT_		sulfur exchange	exchange		unknown
+Ex_tsul_LSQBKT_e_RSQBKT_		thiosulfate exchange	exchange		unknown
+G6PDH2	G6PDH2	glucose 6-phosphate dehydrogenase	internal	Pentose Phosphate Pathway	potentially suspicious
+H2Stex	H2Stex	h2s transport	transport	Transport, Outer Membrane Porin	expected condition-specific block
+H2tex	H2tex	h2 transport	transport	Transport, Outer Membrane Porin	expected condition-specific block
+HETZK	HETZK	hydroxyethylthiazole kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	potentially suspicious
+ICITRED	ICITRED		internal	Citric Acid Cycle	potentially suspicious
+IGPS	IGPS	indole-3-glycerol-phosphate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	potentially suspicious
+MTHPTGHM	MTHPTGHM	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	internal	Methionine Metabolism	potentially suspicious
+NH4pp	NH4pp	Amt1 ammonium Amt transporter	transport	Transport, Inner Membrane	expected condition-specific block
+NH4tex	NH4tex	nh4 transport	transport	Transport, Outer Membrane Porin	expected condition-specific block
+NTPTP1	NTPTP1	Nucleoside triphosphate tripolyhydrolase	internal	Nucleotide Salvage Pathway	potentially suspicious
+PGDH	PGDH	phosphogluconate dehydratase	internal	Pentose Phosphate Pathway	potentially suspicious
+PGL	PGL	6-phosphogluconolactonase	internal	Pentose Phosphate Pathway	potentially suspicious
+PHSTG1	PHSTG1	polyphosphate storage	internal	Polyphosphate Storage	potentially suspicious
+PHSTG2	PHSTG2	polyphosphate storage	internal	Polyphosphate Storage	potentially suspicious
+PPK2	PPK2	polyphosphate kinase	internal	Oxidative Phosphorylation	potentially suspicious
+PPTtex	PPTtex	ppt transport	transport	Transport, Outer Membrane Porin	expected condition-specific block
+PPTtpp	PPTtpp	Phosphonate ABC transporter	transport	Transport, Inner Membrane	expected condition-specific block
+PRAI	PRAI	phosphoribosylanthranilate isomerase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	potentially suspicious
+PUNP4	PUNP4	xanthosine phosphorylase	internal	Nucleotide Salvage Pathway	potentially suspicious
+PYAM5PO	PYAM5PO	pyridoxamine 5-phosphate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	potentially suspicious
+PYDAMK	PYDAMK	pyridoxamine kinase	internal	Cofactor and Prosthetic Group Biosynthesis	potentially suspicious
+PYDXK1	PYDXK1	Pyridoxal kinase	internal	Cofactor and Prosthetic Group Biosynthesis	potentially suspicious
+PYDXK2	PYDXK2	pyridoxal kinase	internal	Cofactor and Prosthetic Group Biosynthesis	potentially suspicious
+RHCCE	RHCCE	S-ribosylhomocysteine cleavage enzyme	internal	Methionine Metabolism	potentially suspicious
+SCCR	SCCR	sulfite cytochrome c reductase	internal	Sulfur Metabolism	potentially biologically meaningful
+SULDO	SULDO	sulfur dioxygenase	internal	Sulfur Metabolism	potentially biologically meaningful
+Stex	Stex	s transport	transport	Transport, Outer Membrane Porin	expected condition-specific block
+THFAT	THFAT	Tetrahydrofolate aminomethyltransferase	internal	Folate Metabolism	potentially suspicious
+THMP	THMP	thiamin phosphatase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	potentially suspicious
+TMDK1	TMDK1	Deoxyuridine kinase (ATP:Deoxyuridine)	internal	Nucleotide Salvage Pathway	potentially suspicious
+TMDK2	TMDK2	thymidine kinase (ATP:thymidine)	internal	Nucleotide Salvage Pathway	potentially suspicious
+TRPS2	TRPS2	tryptophan synthase (indole)	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	potentially suspicious
+TRPS3	TRPS3	tryptophan synthase (indoleglycerol phosphate)	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	potentially suspicious
+TSULtex	TSULtex	tsul transport	transport	Transport, Outer Membrane Porin	expected condition-specific block
+TTSF	TTSF	thymidylate synthase (FAD)	internal	Threonine and Lysine Metabolism	potentially suspicious
+UDCPDPS	UDCPDPS	Undecaprenyl diphosphate synthase	internal	Cofactor and Prosthetic Group Biosynthesis	potentially suspicious
+XAND	XAND	xanthine dehydrogenase	internal	Nucleotide Salvage Pathway	potentially suspicious

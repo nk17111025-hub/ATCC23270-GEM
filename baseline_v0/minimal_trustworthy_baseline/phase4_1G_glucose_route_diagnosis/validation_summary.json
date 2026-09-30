@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-09-26T11:52:14+08:00",
+  "conclusions": {
+    "dominant_glucose_route": "glucose -> G6P -> F6P -> non-oxidative PPP -> Ru5P -> RuBP (PRUK) -> RUBISCO(carboxylase) or RUBISCOX(oxygenase) -> 3PG -> 2PG -> PEP -> pyruvate -> acetyl-CoA",
+    "lower_EMP_used": false,
+    "first_bottleneck": "F6P is routed to non-oxidative PPP, not PFK/FDP; GAPD1/PGK never carry glycolytic flux",
+    "rubisco_dependence": "model requires the RuBP carboxylase/oxygenase system (RUBISCO or RUBISCOX); closing BOTH makes glucose unusable (growth 0)",
+    "co2_forced_artifact": "RUBISCO KO + forced CO2 uptake (-2.0) is infeasible because CO2 has no sink"
+  }
+}

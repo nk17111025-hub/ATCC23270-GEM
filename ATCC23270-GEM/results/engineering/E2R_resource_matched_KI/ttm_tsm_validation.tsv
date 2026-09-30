@@ -1,0 +1,19 @@
+scenario_id	minimum_KI_count	condition	validation_mode	rubisco_cap	status	biomass	Fe2_bounds	O2_lower_bound	sulfur_donor	sulfur_donor_flux	glucose_flux	CO2_flux	rubisco_flux
+B1p5_R100	0	TTM	native_Rubisco_unrestricted	unrestricted	optimal	0.13019096775688668	[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]	-8.897549823265008	-0.5	-2.0	2.4142444854100282
+B1p5_R100	0	TTM	strict_FIM_cap	0.7913449575127987	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]				
+B1p5_R100	0	TTM	donor_closed_control	unrestricted	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]				
+B1p5_R100	0	TSM	native_Rubisco_unrestricted	unrestricted	optimal	0.13019096775687497	[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]	-15.57071219071332	-0.5	-2.0	2.4142444854100544
+B1p5_R100	0	TSM	strict_FIM_cap	0.7913449575127987	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]				
+B1p5_R100	0	TSM	donor_closed_control	unrestricted	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]				
+B1p5_R37p5	0	TTM	native_Rubisco_unrestricted	unrestricted	optimal	0.13019096775688668	[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]	-8.897549823265008	-0.5	-2.0	2.4142444854100282
+B1p5_R37p5	0	TTM	strict_FIM_cap	0.2967543590672995	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]				
+B1p5_R37p5	0	TTM	donor_closed_control	unrestricted	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]				
+B1p5_R37p5	0	TSM	native_Rubisco_unrestricted	unrestricted	optimal	0.13019096775687497	[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]	-15.57071219071332	-0.5	-2.0	2.4142444854100544
+B1p5_R37p5	0	TSM	strict_FIM_cap	0.2967543590672995	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]				
+B1p5_R37p5	0	TSM	donor_closed_control	unrestricted	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]				
+B1p125_R25	0	TTM	native_Rubisco_unrestricted	unrestricted	optimal	0.13019096775688668	[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]	-8.897549823265008	-0.5	-2.0	2.4142444854100282
+B1p125_R25	0	TTM	strict_FIM_cap	0.19783623937819966	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]				
+B1p125_R25	0	TTM	donor_closed_control	unrestricted	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_ttton[e]				
+B1p125_R25	0	TSM	native_Rubisco_unrestricted	unrestricted	optimal	0.13019096775687497	[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]	-15.57071219071332	-0.5	-2.0	2.4142444854100544
+B1p125_R25	0	TSM	strict_FIM_cap	0.19783623937819966	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]				
+B1p125_R25	0	TSM	donor_closed_control	unrestricted	infeasible		[-0.01,0] trace allowance	-38.48154267515412	Ex_tsul[e]				

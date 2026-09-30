@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 23 Sep 2026 00:30:35 GMT
+Connection: Close
+Server: AllegroServe/1.3.89
+Content-Type: text/plain
+Transfer-Encoding: chunked
+CACHE-CONTROL: max-age=86400, public
+SET-COOKIE: PTools-session=biocyc14-3999112235%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20GCF_000021485BASE%20NIL%20NIL%20%7C38vy1c3bfs4rj6dwf4s5jgzkqmciddx; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+

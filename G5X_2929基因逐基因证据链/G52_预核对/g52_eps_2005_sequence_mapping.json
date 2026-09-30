@@ -1,0 +1,80 @@
+{
+  "AY789511": {
+    "published_title": "ENA|AY789511|AY789511.1 Acidithiobacillus ferrooxidans UDP-glucose pyrophosphorylase gene, complete cds.",
+    "nt_length": 897,
+    "aa_length": 298,
+    "top_hits": [
+      {
+        "score": 596.0,
+        "wp": "WP_009567323.1",
+        "current_aa_length": 298,
+        "g52_locus": "RU820_RS02155"
+      },
+      {
+        "score": 17.0,
+        "wp": "WP_009566949.1",
+        "current_aa_length": 294,
+        "g52_locus": ""
+      },
+      {
+        "score": 16.0,
+        "wp": "WP_012536064.1",
+        "current_aa_length": 374,
+        "g52_locus": ""
+      },
+      {
+        "score": 15.0,
+        "wp": "WP_012537096.1",
+        "current_aa_length": 962,
+        "g52_locus": ""
+      },
+      {
+        "score": 14.0,
+        "wp": "WP_012606774.1",
+        "current_aa_length": 222,
+        "g52_locus": ""
+      }
+    ],
+    "exact_current_cds_match": true,
+    "current_locus": "RU820_RS02155",
+    "current_wp": "WP_009567323.1"
+  },
+  "AY789512": {
+    "published_title": "ENA|AY789512|AY789512.1 Acidithiobacillus ferrooxidans phosphoglucomutase gene, complete cds.",
+    "nt_length": 1632,
+    "aa_length": 543,
+    "top_hits": [
+      {
+        "score": 1086.0,
+        "wp": "WP_012537123.1",
+        "current_aa_length": 543,
+        "g52_locus": ""
+      },
+      {
+        "score": 17.0,
+        "wp": "WP_012537410.1",
+        "current_aa_length": 457,
+        "g52_locus": ""
+      },
+      {
+        "score": 16.0,
+        "wp": "WP_009566647.1",
+        "current_aa_length": 454,
+        "g52_locus": ""
+      },
+      {
+        "score": 15.0,
+        "wp": "WP_012536581.1",
+        "current_aa_length": 545,
+        "g52_locus": ""
+      },
+      {
+        "score": 15.0,
+        "wp": "WP_012536372.1",
+        "current_aa_length": 514,
+        "g52_locus": ""
+      }
+    ],
+    "best_current_wp_outside_g52": "WP_012537123.1"
+  }
+}

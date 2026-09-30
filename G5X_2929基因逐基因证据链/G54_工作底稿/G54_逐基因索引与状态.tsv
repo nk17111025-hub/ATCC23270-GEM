@@ -1,0 +1,294 @@
+﻿总序号	RU820	WP	当前产品	旧 AFE	旧 AFE 映射状态	2016 直接 GPR	反应线索	2026 动作	2026 分数	数据库核查行	论文检索行	未决点
+880	RU820_RS04570	WP_009563880.1	hypothetical protein	AFE_0953	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0880	G54-0880	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+881	RU820_RS04575	WP_012536460.1	cytochrome d ubiquinol oxidase subunit II	AFE_0954	完全匹配	CYTBD	CYTBD; RHEA:40527 / KEGG R11325；原模型 1.8 H+ / 2e− 待单独校准	保留 CYTBD 双基因 GPR；更新证据边界；质子系数进入模型质量复核	2	G54-0881	G54-0881	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+882	RU820_RS04580	WP_009567364.1	cytochrome ubiquinol oxidase subunit I	AFE_0955	完全匹配	CYTBD	CYTBD; RHEA:40527 / KEGG R11325；原模型 1.8 H+ / 2e− 待单独校准	保留 CYTBD 双基因 GPR；更新证据边界；质子系数进入模型质量复核	2	G54-0882	G54-0882	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+883	RU820_RS04585	WP_009567365.1	MBL fold metallo-hydrolase	AFE_0956	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0883	G54-0883	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+884	RU820_RS04590	WP_009567366.1	sigma-54 interaction domain-containing protein	AFE_0957	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0884	G54-0884	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+885	RU820_RS04595	WP_012536461.1	alpha/beta hydrolase	AFE_0959	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0885	G54-0885	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+886	RU820_RS04600	WP_009565875.1	dihydrolipoyl dehydrogenase family protein	AFE_0958	完全匹配		Lpd 候选；K00382 多反应，GcvL 与 PDH E3 均未唯一确定	保留 Lpd 候选；核实组外 RU820_RS08740 同源和复合体归属后定 GPR	不评分	G54-0886	G54-0886	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+887	RU820_RS04605	WP_012536462.1	glucan biosynthesis protein	AFE_0960	完全匹配			保留 glucan biosynthesis 候选；论文实验株 ATCC 53993，缺本株反应实测	不评分	G54-0887	G54-0887	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+888	RU820_RS04610	WP_012536463.1	hypothetical protein	AFE_0961	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0888	G54-0888	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+889	RU820_RS04615	WP_012536464.1	glucans biosynthesis glucosyltransferase MdoH	AFE_0962	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0889	G54-0889	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+890	RU820_RS04620	WP_012536465.1	complex I NDUFA9 subunit family protein	AFE_0963	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0890	G54-0890	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+891	RU820_RS04625	WP_012536466.1	DUF423 domain-containing protein	AFE_0964	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0891	G54-0891	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+892	RU820_RS04630	WP_012536467.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0892	G54-0892	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+893	RU820_RS04635	WP_012536468.1	hypothetical protein	AFE_0966	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0893	G54-0893	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+894	RU820_RS04640	WP_012536469.1	hypothetical protein	AFE_0967	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0894	G54-0894	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+895	RU820_RS04645	WP_012536470.1	PilX N-terminal domain-containing pilus assembly protein	AFE_0968	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0895	G54-0895	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+896	RU820_RS04650	WP_012536471.1	PilW family protein	AFE_0969	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0896	G54-0896	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+897	RU820_RS04655	WP_012536472.1	type IV pilus modification PilV family protein	AFE_0970	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0897	G54-0897	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+898	RU820_RS04660	WP_012536473.1	pilus assembly FimT family protein	AFE_0971	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0898	G54-0898	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+899	RU820_RS04665	WP_012536474.1	type II secretion system F family protein	AFE_0972	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0899	G54-0899	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+900	RU820_RS04670	WP_012536475.1	protease SohB	AFE_0973	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0900	G54-0900	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+901	RU820_RS04675	WP_012536476.1	MoaD/ThiS family protein	AFE_0975	完全匹配		候选 R09395 / RHEA:26333；2 硫化 MoaD 载体 + cyclic pyranopterin phosphate + H2O → molybdopterin + 2 非硫化 MoaD + 2 H+	候选新增钼蝶呤合酶反应；先定义蛋白载体形态与再活化步骤，再审双基因 GPR	2	G54-0901	G54-0901	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+902	RU820_RS04680	WP_012536477.1	molybdenum cofactor biosynthesis protein MoaE	AFE_0976	完全匹配		候选 R09395 / RHEA:26333；2 硫化 MoaD 载体 + cyclic pyranopterin phosphate + H2O → molybdopterin + 2 非硫化 MoaD + 2 H+	候选新增钼蝶呤合酶反应；先定义蛋白载体形态与再活化步骤，再审双基因 GPR	2	G54-0902	G54-0902	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+903	RU820_RS04685	WP_009568900.1	YajQ family cyclic di-GMP-binding protein	AFE_0977	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0903	G54-0903	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+904	RU820_RS04690	WP_009568901.1	roadblock/LC7 domain-containing protein	AFE_0978	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0904	G54-0904	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+905	RU820_RS04695	WP_041645355.1	glycine cleavage system aminomethyltransferase GcvT	AFE_0979	完全匹配		R01221 / RHEA:27758；与旧模型 GHMT3 核心物质集合相同	核查 GHMT3 原 GPR 和 EC；暂不新增同化学反应，不写未证实的 GcvL/AND GPR	不评分	G54-0905	G54-0905	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+906	RU820_RS04700	WP_009562478.1	glycine cleavage system protein GcvH	AFE_0980	完全匹配		R01221 / RHEA:27758；与旧模型 GHMT3 核心物质集合相同	核查 GHMT3 原 GPR 和 EC；暂不新增同化学反应，不写未证实的 GcvL/AND GPR	不评分	G54-0906	G54-0906	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+907	RU820_RS04705	WP_012536479.1	aminomethyl-transferring glycine dehydrogenase subunit GcvPA	AFE_0981	完全匹配		R01221 / RHEA:27758；与旧模型 GHMT3 核心物质集合相同	核查 GHMT3 原 GPR 和 EC；暂不新增同化学反应，不写未证实的 GcvL/AND GPR	不评分	G54-0907	G54-0907	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+908	RU820_RS04710	WP_049756738.1	aminomethyl-transferring glycine dehydrogenase subunit GcvPB	AFE_0982	完全匹配		R01221 / RHEA:27758；与旧模型 GHMT3 核心物质集合相同	核查 GHMT3 原 GPR 和 EC；暂不新增同化学反应，不写未证实的 GcvL/AND GPR	不评分	G54-0908	G54-0908	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+909	RU820_RS04715	WP_012536481.1	ABC transporter ATP-binding protein	AFE_0983	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0909	G54-0909	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+910	RU820_RS04720	WP_012536482.1	ferredoxin FdxA	AFE_0984	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0910	G54-0910	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+911	RU820_RS04725	WP_012536483.1	peroxiredoxin	AFE_0985	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0911	G54-0911	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+912	RU820_RS04730	WP_012536484.1	hypothetical protein	AFE_0986	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0912	G54-0912	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+913	RU820_RS04735	WP_009564598.1	PHP domain-containing protein	AFE_0987	完全匹配		R00188;R11188;RHEA:10040;RHEA:43532	保留 R00188/R11188 功能冲突；PHP 域不足以替换 BPNT 原 GPR	不评分	G54-0913	G54-0913	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+914	RU820_RS04740	WP_012536485.1	AI-2E family transporter	AFE_0988	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0914	G54-0914	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+915	RU820_RS04745	WP_012536486.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0915	G54-0915	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+916	RU820_RS04750	WP_012536487.1	hypothetical protein	AFE_0990	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0916	G54-0916	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+917	RU820_RS04755	WP_012536488.1	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	AFE_0991	完全匹配		RXN-11588;RHEA:24140	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-0917	G54-0917	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+918	RU820_RS04760	WP_009561865.1	TatD family hydrolase	AFE_0992	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0918	G54-0918	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+919	RU820_RS04765	WP_012536489.1	MBL fold metallo-hydrolase	AFE_0993	完全匹配		R10205	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-0919	G54-0919	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+920	RU820_RS04775	WP_374058766.1	tyrosine-type recombinase/integrase	AFE_0995	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0920	G54-0920	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+921	RU820_RS04780	WP_407918983.1	helix-turn-helix domain-containing protein	AFE_0996	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0921	G54-0921	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+922	RU820_RS04785	WP_012606708.1	hypothetical protein	AFE_0997	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0922	G54-0922	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+923	RU820_RS04790	WP_158303815.1	XRE family transcriptional regulator	AFE_0998	完全匹配			保留转录调控候选；同株基因组论文仅作计算预测，无代谢反应	不评分	G54-0923	G54-0923	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+924	RU820_RS04795	WP_012606710.1	Cro/CI family transcriptional regulator	AFE_0999	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0924	G54-0924	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+925	RU820_RS04800	WP_041645360.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0925	G54-0925	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+926	RU820_RS04805	WP_012606711.1	BRO-N domain-containing protein	AFE_1000	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0926	G54-0926	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+927	RU820_RS04810	WP_012606712.1	hypothetical protein	AFE_1001	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0927	G54-0927	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+928	RU820_RS04815	WP_049759407.1	DUF6475 domain-containing protein	AFE_1002	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0928	G54-0928	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+929	RU820_RS04820	WP_012606714.1	hypothetical protein	AFE_1003	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0929	G54-0929	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+930	RU820_RS04825	WP_012606715.1	hypothetical protein	AFE_1004	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0930	G54-0930	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+931	RU820_RS04830	WP_148208596.1	hypothetical protein	AFE_1005	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0931	G54-0931	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+932	RU820_RS04835	WP_012606717.1	hypothetical protein	AFE_1006	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0932	G54-0932	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+933	RU820_RS04840	WP_012606718.1	transglycosylase SLT domain-containing protein	AFE_1007	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0933	G54-0933	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+934	RU820_RS04845	WP_041645365.1	hypothetical protein	AFE_1008	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0934	G54-0934	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+935	RU820_RS04850	WP_012606721.1	hypothetical protein	AFE_1010	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0935	G54-0935	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+936	RU820_RS04855	WP_012606723.1	hypothetical protein	AFE_1012	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0936	G54-0936	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+937	RU820_RS04860	WP_012606724.1	type I DNA topoisomerase	AFE_1013	完全匹配		5.99.1.2-RXN	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-0937	G54-0937	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+938	RU820_RS04865	WP_041645368.1	YkgJ family cysteine cluster protein	AFE_1014	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0938	G54-0938	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+939	RU820_RS04870	WP_148208597.1	hypothetical protein	AFE_1015	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0939	G54-0939	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+940	RU820_RS04875	WP_012606727.1	disulfide bond formation protein B	AFE_1016	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0940	G54-0940	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+941	RU820_RS04880	WP_012606728.1	hypothetical protein	AFE_1017	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0941	G54-0941	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+942	RU820_RS04885	WP_012606729.1	thioredoxin fold domain-containing protein	AFE_1018	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0942	G54-0942	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+943	RU820_RS04890	WP_041645372.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0943	G54-0943	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+944	RU820_RS04895	WP_012606731.1	hypothetical protein	AFE_1020	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0944	G54-0944	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+945	RU820_RS04900	WP_012606732.1	hypothetical protein	AFE_1021	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0945	G54-0945	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+946	RU820_RS04905	WP_049759412.1	patatin-like phospholipase family protein	AFE_1022	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0946	G54-0946	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+947	RU820_RS04910	WP_012606734.1	RNA-guided endonuclease IscB	AFE_1023	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0947	G54-0947	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+948	RU820_RS04915	WP_012606735.1	metalloprotease	AFE_1024	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0948	G54-0948	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+949	RU820_RS04920	WP_041645376.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0949	G54-0949	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+950	RU820_RS04925	WP_148208598.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0950	G54-0950	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+951	RU820_RS04930	WP_012606739.1	phospholipase D-like domain-containing protein	AFE_1028	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0951	G54-0951	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+952	RU820_RS04935	WP_012606740.1	SIMPL domain-containing protein	AFE_1029	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0952	G54-0952	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+953	RU820_RS04940	WP_012606741.1	hypothetical protein	AFE_1030	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0953	G54-0953	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+954	RU820_RS04945	WP_012606742.1	plasmid mobilization protein	AFE_1031	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0954	G54-0954	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+955	RU820_RS04950	WP_148208600.1	hypothetical protein	AFE_1032	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0955	G54-0955	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+956	RU820_RS04955	WP_012606744.1	IS607-like element ISAfe10 family transposase	AFE_1033	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0956	G54-0956	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+957	RU820_RS04960	WP_012606745.1	zinc ribbon domain-containing protein	AFE_1034	完全匹配		RXN0-5131	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-0957	G54-0957	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+958	RU820_RS04965	WP_158303816.1	SET domain-containing protein-lysine N-methyltransferase	AFE_1035	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0958	G54-0958	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+959	RU820_RS04970	WP_041645389.1	type IV CRISPR-associated DEAD/DEAH-box helicase Csf4	AFE_1037	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0959	G54-0959	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+960	RU820_RS04975	WP_012606749.1	type IV CRISPR-associated protein Csf1	AFE_1038	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0960	G54-0960	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+961	RU820_RS04980	WP_012606750.1	type IV CRISPR-associated protein Csf2	AFE_1039	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0961	G54-0961	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+962	RU820_RS04985	WP_012606751.1	type IV CRISPR-associated protein Csf3	AFE_1040	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0962	G54-0962	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+963	RU820_RS04990	WP_041645393.1	type I-F CRISPR-associated endoribonuclease Cas6/Csy4	AFE_1042	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0963	G54-0963	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+964	RU820_RS04995	WP_158303817.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0964	G54-0964	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+965	RU820_RS05000	WP_012606755.1	hypothetical protein	AFE_1045	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0965	G54-0965	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+966	RU820_RS05005	WP_148208601.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0966	G54-0966	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+967	RU820_RS05010	WP_012606757.1	ATP-dependent RecD-like DNA helicase	AFE_1047	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0967	G54-0967	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+968	RU820_RS05015	WP_012606758.1	hypothetical protein	AFE_1048	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0968	G54-0968	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+969	RU820_RS05020	WP_012606759.1	hypothetical protein	AFE_1049	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0969	G54-0969	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+970	RU820_RS05025	WP_041645405.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0970	G54-0970	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+971	RU820_RS05030	WP_269077298.1	phosphoadenosine phosphosulfate reductase family protein	AFE_1053	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0971	G54-0971	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+972	RU820_RS05035	WP_012606764.1	hypothetical protein	AFE_1054	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0972	G54-0972	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+973	RU820_RS05040	WP_148208602.1	hypothetical protein	AFE_1055	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0973	G54-0973	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+974	RU820_RS05045	WP_041645412.1	hypothetical protein	AFE_1056	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0974	G54-0974	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+975	RU820_RS05050	WP_206382815.1	tetratricopeptide repeat-containing sulfotransferase family protein	未确认	未映射			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0975	G54-0975	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+976	RU820_RS05055	WP_012606768.1	RNA-guided endonuclease InsQ/TnpB family protein	AFE_1058	完全匹配		RXN0-5131	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-0976	G54-0976	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+977	RU820_RS05060	WP_148208603.1	hypothetical protein	AFE_1059	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0977	G54-0977	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+978	RU820_RS05065	WP_012606770.1	hypothetical protein	AFE_1060	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0978	G54-0978	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+979	RU820_RS05070	WP_012606771.1	hypothetical protein	AFE_1062	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0979	G54-0979	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+980	RU820_RS05075	WP_012606774.1	hypothetical protein	AFE_1064	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0980	G54-0980	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+981	RU820_RS05080	WP_049759491.1	lytic transglycosylase domain-containing protein	AFE_1065	完全匹配		RXN0-5190	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-0981	G54-0981	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+982	RU820_RS05085	WP_236608973.1	conjugal transfer protein TraF	AFE_1066	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0982	G54-0982	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+983	RU820_RS05090	WP_012606777.1	conjugal transfer protein TraH	AFE_1067	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0983	G54-0983	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+984	RU820_RS05095	WP_269077299.1	conjugal transfer protein TraG N-terminal domain-containing protein	AFE_1068	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0984	G54-0984	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+985	RU820_RS05100	WP_012606779.1	hypothetical protein	AFE_1069	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0985	G54-0985	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+986	RU820_RS05105	WP_012606780.1	integration host factor subunit alpha	AFE_1070	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0986	G54-0986	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+987	RU820_RS05110	WP_049759417.1	MbcA/ParS/Xre antitoxin family protein	AFE_1071	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0987	G54-0987	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+988	RU820_RS05115	WP_012606782.1	RES family NAD+ phosphorylase	AFE_1072	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-0988	G54-0988	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+989	RU820_RS05120	WP_012606783.1	BRO-N domain-containing protein	AFE_1073	完全匹配			保留异株转运功能候选；底物、方向及本株证据不足以定反应	不评分	G54-0989	G54-0989	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+990	RU820_RS05125	WP_041645424.1	hypothetical protein	AFE_1074	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0990	G54-0990	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+991	RU820_RS05130	WP_012606785.1	hypothetical protein	AFE_1075	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0991	G54-0991	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+992	RU820_RS05135	WP_201763902.1	hypothetical protein	AFE_1076	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0992	G54-0992	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+993	RU820_RS05140	WP_041645429.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0993	G54-0993	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+994	RU820_RS05145	WP_148208604.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0994	G54-0994	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+995	RU820_RS05150	WP_236608974.1	type IV conjugative transfer system protein TraL	AFE_1078	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0995	G54-0995	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+996	RU820_RS05155	WP_407918984.1	type IV conjugative transfer system protein TraE	AFE_1079	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0996	G54-0996	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+997	RU820_RS05160	WP_012606790.1	TraK domain-containing protein	AFE_1080	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0997	G54-0997	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+998	RU820_RS05165	WP_012606791.1	TrbI/VirB10 family protein	AFE_1081	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0998	G54-0998	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+999	RU820_RS05170	WP_012606792.1	type IV conjugative transfer system lipoprotein TraV	AFE_1082	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-0999	G54-0999	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1000	RU820_RS05175	WP_012606793.1	hypothetical protein	AFE_1084	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1000	G54-1000	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1001	RU820_RS05180	WP_041645435.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1001	G54-1001	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1002	RU820_RS05185	WP_012606795.1	thiol:disulfide interchange protein DsbG	AFE_1085	完全匹配		5.3.4.1-RXN	记录蛋白二硫键反应；不据此更改小分子代谢模型 TRDR	不评分	G54-1002	G54-1002	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1003	RU820_RS05190	WP_012606796.1	hypothetical protein	AFE_1086	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1003	G54-1003	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1004	RU820_RS05195	WP_012606797.1	GspE/PulE family protein	AFE_1087	完全匹配		RXN0-1081	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-1004	G54-1004	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1005	RU820_RS05200	WP_012606798.1	thiol:disulfide interchange protein, DsbA family	AFE_1088	完全匹配		5.3.4.1-RXN	记录蛋白二硫键反应；不据此更改小分子代谢模型 TRDR	不评分	G54-1005	G54-1005	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1006	RU820_RS05205	WP_012606799.1	type IV secretion system protein TraC	AFE_1089	完全匹配		TRANS-RXN-477	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-1006	G54-1006	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1007	RU820_RS05210	WP_206382869.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1007	G54-1007	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1008	RU820_RS05215	WP_012606801.1	S26 family signal peptidase	AFE_1091	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1008	G54-1008	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1009	RU820_RS05220	WP_148208605.1	hypothetical protein	AFE_1093	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1009	G54-1009	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1010	RU820_RS05225	WP_241160300.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1010	G54-1010	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1011	RU820_RS05230	WP_012606805.1	TrbC family F-type conjugative pilus assembly protein	AFE_1095	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1011	G54-1011	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1012	RU820_RS05235	WP_049759419.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1012	G54-1012	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1013	RU820_RS05240	WP_012606806.1	TraU family protein	AFE_1096	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1013	G54-1013	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1014	RU820_RS05245	WP_012606807.1	conjugal transfer protein TraN	AFE_1097	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1014	G54-1014	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1015	RU820_RS05250	WP_012606808.1	AbrB/MazE/SpoVT family DNA-binding domain-containing protein	AFE_1098	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1015	G54-1015	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1016	RU820_RS05255	WP_012606809.1	endoribonuclease MazF	AFE_1099	完全匹配			保留 MazF 家族候选；同株论文为家族分类，无已测代谢反应	不评分	G54-1016	G54-1016	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1017	RU820_RS05260	WP_236608975.1	hypothetical protein	AFE_1100	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1017	G54-1017	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1018	RU820_RS05265	WP_041645457.1	hypothetical protein	AFE_1102	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1018	G54-1018	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1019	RU820_RS05270	WP_423365450.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1019	G54-1019	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1020	RU820_RS05275	WP_423365452.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1020	G54-1020	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1021	RU820_RS05280	WP_012606815.1	IS607 family transposase	AFE_1105	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1021	G54-1021	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1022	RU820_RS05285	WP_012606816.1	IS200/IS605 family accessory protein TnpB-related protein	AFE_1106	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1022	G54-1022	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1023	RU820_RS05290	WP_041645466.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1023	G54-1023	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1024	RU820_RS05295	WP_012606817.1	hypothetical protein	AFE_1107	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1024	G54-1024	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1025	RU820_RS05300	WP_049759422.1	hypothetical protein	AFE_1108	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1025	G54-1025	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1026	RU820_RS05305	WP_041645471.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1026	G54-1026	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1027	RU820_RS05310	WP_012606819.1	nuclease-related domain-containing protein	AFE_1109	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1027	G54-1027	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1028	RU820_RS05315	WP_012606582.1	IS110-like element ISAfe3 family transposase	AFE_0550;AFE_1110;AFE_1142;AFE_1265;AFE_2432;AFE_2709;AFE_2972;AFE_3263	旁系同源/多重候选			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1028	G54-1028	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1029	RU820_RS05320	WP_041645475.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1029	G54-1029	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1030	RU820_RS05325	WP_012606821.1	hypothetical protein	AFE_1112	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1030	G54-1030	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1031	RU820_RS05330	WP_012606822.1	hypothetical protein	AFE_1113	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1031	G54-1031	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1032	RU820_RS05335	WP_041645480.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1032	G54-1032	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1033	RU820_RS05340	WP_012606823.1	zinc metalloprotease HtpX	AFE_1114	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1033	G54-1033	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1034	RU820_RS05345	WP_012606824.1	metallophosphoesterase	AFE_1115	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-1034	G54-1034	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1035	RU820_RS05350	WP_012606825.1	hypothetical protein	AFE_1116	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1035	G54-1035	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1036	RU820_RS05355	WP_041645486.1	hypothetical protein	AFE_1117	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1036	G54-1036	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1037	RU820_RS05360	WP_012606827.1	hypothetical protein	AFE_1118	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1037	G54-1037	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1038	RU820_RS05365	WP_012606829.1	hypothetical protein	AFE_1120	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1038	G54-1038	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1039	RU820_RS05370	WP_012606830.1	hypothetical protein	AFE_1121	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1039	G54-1039	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1040	RU820_RS05375	WP_012606831.1	DUF4031 domain-containing protein	AFE_1122	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1040	G54-1040	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1041	RU820_RS05380	WP_041645491.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1041	G54-1041	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1042	RU820_RS05385	WP_041645496.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1042	G54-1042	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1043	RU820_RS05390	WP_012606833.1	hypothetical protein	AFE_1124	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1043	G54-1043	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1044	RU820_RS05395	WP_012606834.1	hypothetical protein	AFE_1125	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1044	G54-1044	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1045	RU820_RS05400	WP_012606835.1	hypothetical protein	AFE_1126	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1045	G54-1045	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1046	RU820_RS05405	WP_012606836.1	nucleoside 2-deoxyribosyltransferase	AFE_1127	完全匹配		NUCLEOSIDE-DEOXYRIBOSYLTRANSFERASE-RXN	核苷脱氧核糖基转移酶候选；待定义底物特异性，PUNP1 为磷解不等同	不评分	G54-1046	G54-1046	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1047	RU820_RS05410	WP_012606837.1	hypothetical protein	AFE_1128	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1047	G54-1047	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1048	RU820_RS05415	WP_080513181.1	DNA translocase FtsK	AFE_1130	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1048	G54-1048	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1049	RU820_RS05420	WP_148208607.1	hypothetical protein	AFE_1131	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1049	G54-1049	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1050	RU820_RS05425	WP_012606841.1	cysteine hydrolase family protein	AFE_1133	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-1050	G54-1050	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1051	RU820_RS05430	WP_080513182.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1051	G54-1051	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1052	RU820_RS05435	WP_041645534.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1052	G54-1052	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1053	RU820_RS05440	WP_012606844.1	hypothetical protein	AFE_1135	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1053	G54-1053	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1054	RU820_RS05445	WP_012606845.1	DedA family protein	AFE_1136	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1054	G54-1054	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1055	RU820_RS05450	WP_012606846.1	ATP-dependent helicase	AFE_1137	完全匹配		RXN0-7388	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-1055	G54-1055	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1056	RU820_RS05455	WP_423365592.1	hypothetical protein	AFE_1140	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1056	G54-1056	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1057	RU820_RS05460	WP_012606850.1	SPFH domain-containing protein	AFE_1141	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1057	G54-1057	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1058	RU820_RS05465	WP_012606582.1	IS110-like element ISAfe3 family transposase	AFE_0550;AFE_1110;AFE_1142;AFE_1265;AFE_2432;AFE_2709;AFE_2972;AFE_3263	旁系同源/多重候选			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1058	G54-1058	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1059	RU820_RS05470	WP_041645546.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1059	G54-1059	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1060	RU820_RS05475	WP_148208608.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1060	G54-1060	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1061	RU820_RS05480	WP_041645555.1	hypothetical protein	AFE_1144	完全匹配			保留异株转运功能候选；底物、方向及本株证据不足以定反应	不评分	G54-1061	G54-1061	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1062	RU820_RS05485	WP_012606853.1	tyrosine-type recombinase/integrase	AFE_1145	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1062	G54-1062	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1063	RU820_RS05490	WP_012606854.1	hypothetical protein	AFE_1146	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1063	G54-1063	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1064	RU820_RS05495	WP_012606855.1	hypothetical protein	AFE_1147	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1064	G54-1064	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1065	RU820_RS05500	WP_012606856.1	hypothetical protein	AFE_1148	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1065	G54-1065	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1066	RU820_RS05505	WP_012606857.1	hypothetical protein	AFE_1149	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1066	G54-1066	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1067	RU820_RS05510	WP_012606858.1	hypothetical protein	AFE_1150	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1067	G54-1067	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1068	RU820_RS05515	WP_012606860.1	HNH endonuclease	AFE_1152	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1068	G54-1068	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1069	RU820_RS05520	WP_012606861.1	hypothetical protein	AFE_1153	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1069	G54-1069	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1070	RU820_RS05525	WP_041645573.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1070	G54-1070	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1071	RU820_RS05590	WP_041645583.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1071	G54-1071	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1072	RU820_RS05610	WP_041645589.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1072	G54-1072	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1073	RU820_RS05630	WP_012606865.1	hypothetical protein	AFE_1174	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1073	G54-1073	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1074	RU820_RS05640	WP_041645592.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1074	G54-1074	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1075	RU820_RS05645	WP_012606866.1	hypothetical protein	AFE_1176	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1075	G54-1075	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1076	RU820_RS05655	WP_041645597.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1076	G54-1076	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1077	RU820_RS05660	WP_423365463.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1077	G54-1077	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1078	RU820_RS05745	WP_012606870.1	DUF4326 domain-containing protein	AFE_1197	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1078	G54-1078	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1079	RU820_RS05750	WP_041645602.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1079	G54-1079	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1080	RU820_RS05755	WP_012606872.1	ribonuclease H family protein	AFE_1199	完全匹配		3.1.26.4-RXN	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-1080	G54-1080	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1081	RU820_RS05760	WP_012606873.1	hypothetical protein	AFE_1200	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1081	G54-1081	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1082	RU820_RS05765	WP_012606874.1	heteromeric transposase endonuclease subunit TnsA	AFE_1201	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1082	G54-1082	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1083	RU820_RS05770	WP_012606875.1	Mu transposase C-terminal domain-containing protein	AFE_1202	完全匹配		RXN0-5100;RXN0-5131	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-1083	G54-1083	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1084	RU820_RS05775	WP_012606876.1	ATP-binding protein	AFE_1203	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1084	G54-1084	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1085	RU820_RS05780	WP_423365467.1	TnsD family transposase	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1085	G54-1085	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1086	RU820_RS05785	WP_423365469.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1086	G54-1086	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1087	RU820_RS05790	WP_012606879.1	AAA family ATPase	AFE_1206	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1087	G54-1087	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1088	RU820_RS05795	WP_423365470.1	autotransporter domain-containing protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1088	G54-1088	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1089	RU820_RS05805	WP_236608977.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1089	G54-1089	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1090	RU820_RS05810	WP_049759432.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1090	G54-1090	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1091	RU820_RS05815	WP_423365615.1	beta strand repeat-containing protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1091	G54-1091	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1092	RU820_RS05820	WP_012606582.1	IS110-like element ISAfe3 family transposase	AFE_0550;AFE_1110;AFE_1142;AFE_1265;AFE_2432;AFE_2709;AFE_2972;AFE_3263	旁系同源/多重候选			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1092	G54-1092	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1093	RU820_RS05825	WP_423365472.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1093	G54-1093	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1094	RU820_RS05830	WP_049759436.1	prolyl hydroxylase family protein	AFE_1210	完全匹配		R01252	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-1094	G54-1094	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1095	RU820_RS05835	WP_012606884.1	tetratricopeptide repeat-containing sulfotransferase family protein	AFE_1211	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-1095	G54-1095	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1096	RU820_RS05840	WP_012606885.1	glycosyltransferase family 9 protein	AFE_1212	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-1096	G54-1096	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1097	RU820_RS05845	WP_148208610.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1097	G54-1097	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1098	RU820_RS05855	WP_012606887.1	hypothetical protein	AFE_1214	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1098	G54-1098	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1099	RU820_RS05860	WP_012606888.1	RNA-guided endonuclease InsQ/TnpB family protein	AFE_1215	完全匹配		RXN0-5131	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-1099	G54-1099	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1100	RU820_RS05865	WP_012606889.1	hypothetical protein	AFE_1216	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1100	G54-1100	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1101	RU820_RS05870	WP_012606890.1	uracil-DNA glycosylase	AFE_1217	完全匹配		RXN0-2584	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-1101	G54-1101	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1102	RU820_RS05875	WP_012606891.1	ATP-grasp domain-containing protein	AFE_1218	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-1102	G54-1102	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1103	RU820_RS05880	WP_049759437.1	DUF5131 family protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1103	G54-1103	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1104	RU820_RS05885	WP_049759438.1	DUF5131 family protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1104	G54-1104	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1105	RU820_RS05890	WP_148208611.1	hypothetical protein	AFE_1220	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1105	G54-1105	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1106	RU820_RS05895	WP_012606893.1	modification methylase	AFE_1221	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1106	G54-1106	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1107	RU820_RS05900	WP_012606894.1	outer membrane beta-barrel protein	AFE_1222	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1107	G54-1107	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1108	RU820_RS05905	WP_041645638.1	hypothetical protein	AFE_1223	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1108	G54-1108	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1109	RU820_RS05910	WP_012606898.1	AAA family ATPase	AFE_1226	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1109	G54-1109	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1110	RU820_RS05915	WP_012606899.1	metallophosphoesterase family protein	AFE_1227	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-1110	G54-1110	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1111	RU820_RS05920	WP_041645646.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1111	G54-1111	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1112	RU820_RS05925	WP_041645651.1	EAL domain-containing protein	AFE_1229	完全匹配			保留当前候选酶或辅因子功能；底物/产物或催化身份未充分确认，不新增精确反应	不评分	G54-1112	G54-1112	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1113	RU820_RS05930	WP_012606902.1	BRCT domain-containing protein	AFE_1230	完全匹配		R00382	记录核酸/移动元件加工功能；本轮无适用的小分子代谢模型反应	不评分	G54-1113	G54-1113	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1114	RU820_RS05935	WP_041645656.1	hypothetical protein	AFE_1231	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1114	G54-1114	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1115	RU820_RS05940	WP_041645660.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1115	G54-1115	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1116	RU820_RS05945	WP_206383199.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1116	G54-1116	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1117	RU820_RS05950	WP_012606905.1	endonuclease domain-containing protein	AFE_1233	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1117	G54-1117	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1118	RU820_RS05955	WP_012606906.1	glycine zipper domain-containing protein	AFE_1234	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1118	G54-1118	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1119	RU820_RS05960	WP_012606907.1	lipoprotein	AFE_1235	完全匹配		TRANS-RXN-477	保留候选并按原始反应记录裁决；未达到正式改模条件	不评分	G54-1119	G54-1119	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1120	RU820_RS05965	WP_012606908.1	hypothetical protein	AFE_1236	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1120	G54-1120	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1121	RU820_RS05970	WP_012606909.1	hypothetical protein	AFE_1237	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1121	G54-1121	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1122	RU820_RS05975	WP_041645674.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1122	G54-1122	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1123	RU820_RS05980	WP_012606914.1	HU family DNA-binding protein	AFE_1241	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1123	G54-1123	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1124	RU820_RS05985	WP_012606915.1	hypothetical protein	AFE_1243	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1124	G54-1124	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1125	RU820_RS05990	WP_012606916.1	hypothetical protein	AFE_1244	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1125	G54-1125	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1126	RU820_RS05995	WP_012606917.1	hypothetical protein	AFE_1245	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1126	G54-1126	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1127	RU820_RS06000	WP_012606918.1	hypothetical protein	AFE_1246	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1127	G54-1127	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1128	RU820_RS06005	WP_041645679.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1128	G54-1128	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1129	RU820_RS06010	WP_049759441.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1129	G54-1129	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1130	RU820_RS06015	WP_012606922.1	hypothetical protein	AFE_1250	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1130	G54-1130	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1131	RU820_RS06020	WP_012606923.1	type IV secretory system conjugative DNA transfer family protein	AFE_1251	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1131	G54-1131	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1132	RU820_RS06025	WP_041645682.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1132	G54-1132	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1133	RU820_RS06030	WP_148208612.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1133	G54-1133	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1134	RU820_RS06035	WP_041645693.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1134	G54-1134	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1135	RU820_RS06040	WP_012606926.1	hypothetical protein	AFE_1254	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1135	G54-1135	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1136	RU820_RS06045	WP_012606927.1	hypothetical protein	AFE_1255	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1136	G54-1136	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1137	RU820_RS06050	WP_012606928.1	hypothetical protein	AFE_1256	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1137	G54-1137	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1138	RU820_RS06055	WP_012606929.1	hypothetical protein	AFE_1257	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1138	G54-1138	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1139	RU820_RS06060	WP_041645700.1	hypothetical protein	AFE_1258	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1139	G54-1139	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1140	RU820_RS06065	WP_012606932.1	single-stranded DNA-binding protein	AFE_1260	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1140	G54-1140	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1141	RU820_RS06070	WP_012606935.1	AVAST type 3 anti-phage proein Avs3b	AFE_1263	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1141	G54-1141	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1142	RU820_RS06075	WP_012606936.1	hypothetical protein	AFE_1264	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1142	G54-1142	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1143	RU820_RS06080	WP_012606582.1	IS110-like element ISAfe3 family transposase	AFE_0550;AFE_1110;AFE_1142;AFE_1265;AFE_2432;AFE_2709;AFE_2972;AFE_3263	旁系同源/多重候选			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1143	G54-1143	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1144	RU820_RS06085	WP_012606937.1	NACHT domain-containing protein	AFE_1266	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1144	G54-1144	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1145	RU820_RS06090	WP_148208613.1	hypothetical protein	AFE_1269	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1145	G54-1145	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1146	RU820_RS06095	WP_012606941.1	ERF family protein	AFE_1270	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1146	G54-1146	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1147	RU820_RS06100	WP_012606942.1	hypothetical protein	AFE_1271	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1147	G54-1147	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1148	RU820_RS06105	WP_012606943.1	hypothetical protein	AFE_1272	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1148	G54-1148	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1149	RU820_RS06110	WP_012606944.1	hypothetical protein	AFE_1273	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1149	G54-1149	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1150	RU820_RS06115	WP_041645725.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1150	G54-1150	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1151	RU820_RS06120	WP_012606946.1	DUF3150 domain-containing protein	AFE_1275	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1151	G54-1151	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1152	RU820_RS06125	WP_012606947.1	hypothetical protein	AFE_1276	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1152	G54-1152	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1153	RU820_RS06130	WP_012606948.1	hypothetical protein	AFE_1277	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1153	G54-1153	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1154	RU820_RS06135	WP_012606949.1	hypothetical protein	AFE_1278	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1154	G54-1154	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1155	RU820_RS06140	WP_012606950.1	hypothetical protein	AFE_1279	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1155	G54-1155	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1156	RU820_RS06145	WP_041645736.1	hypothetical protein	未确认	未映射			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1156	G54-1156	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1157	RU820_RS06150	WP_041645740.1	hypothetical protein	AFE_1281	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1157	G54-1157	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1158	RU820_RS06155	WP_012606953.1	hypothetical protein	AFE_1282	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1158	G54-1158	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1159	RU820_RS06160	WP_012606954.1	DUF4942 domain-containing protein	AFE_1283	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1159	G54-1159	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1160	RU820_RS06165	WP_012606955.1	hypothetical protein	AFE_1284	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1160	G54-1160	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1161	RU820_RS06170	WP_012606956.1	hypothetical protein	AFE_1285	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1161	G54-1161	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1162	RU820_RS06175	WP_049759443.1	YqaJ viral recombinase family protein	AFE_1286	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1162	G54-1162	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1163	RU820_RS06180	WP_012606958.1	hypothetical protein	AFE_1287	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1163	G54-1163	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1164	RU820_RS06185	WP_012606959.1	hypothetical protein	AFE_1288	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1164	G54-1164	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1165	RU820_RS06190	WP_041645744.1	hypothetical protein	AFE_1289	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1165	G54-1165	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1166	RU820_RS06195	WP_012606961.1	hypothetical protein	AFE_1290	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1166	G54-1166	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1167	RU820_RS06200	WP_012606962.1	hypothetical protein	AFE_1291	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1167	G54-1167	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1168	RU820_RS06205	WP_012606963.1	hypothetical protein	AFE_1292	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1168	G54-1168	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1169	RU820_RS06210	WP_201763903.1	hypothetical protein	AFE_1293	完全匹配			纠正旧文献错误归属；本基因保持 hypothetical，不赋 SQR 反应或分数	不评分	G54-1169	G54-1169	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1170	RU820_RS06215	WP_012606966.1	helix-turn-helix domain-containing protein	AFE_1295	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1170	G54-1170	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1171	RU820_RS06220	WP_012606967.1	CysB family HTH-type transcriptional regulator	AFE_1296	完全匹配			保留逐基因记录；当前未证实可加入或修改的精确反应/GPR	不评分	G54-1171	G54-1171	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义
+1172	RU820_RS06225	WP_012606968.1	AAA family ATPase	AFE_1297	完全匹配		CobS 候选 K09882 / R05227 / RHEA:15341	保留 CobS 候选；先核蛋白域及 CobN/T 伙伴，再评估反应和 GPR	不评分	G54-1172	G54-1172	核验 UniProt/InterPro/Pfam/KEGG/Rhea/BioCyc/BRENDA/TCDB、原始论文及反应定义

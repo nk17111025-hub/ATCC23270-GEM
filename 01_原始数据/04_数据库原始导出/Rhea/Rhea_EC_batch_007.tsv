@@ -1,0 +1,12 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:16845	oxaloacetate + acetyl-CoA + H2O = citrate + CoA + H(+)	EC:2.3.3.1;EC:2.3.3.3;EC:2.3.3.16	CHEBI:16452;CHEBI:57288;CHEBI:15377;CHEBI:16947;CHEBI:57287;CHEBI:15378	KEGG:R00351	MetaCyc:CITSYN-RXN
+RHEA:23904	an N-terminal (5-L-glutamyl)-[peptide] + an alpha-amino acid = 5-L-glutamyl amino acid + an N-terminal L-alpha-aminoacyl-[peptide]	EC:2.3.2.2	CHEBI:78599;CHEBI:78608;CHEBI:77644;CHEBI:78597	KEGG:R04159	MetaCyc:GAMMA-GLUTAMYLTRANSFERASE-RXN
+RHEA:41732	[(1->4)-alpha-D-glucosyl](n) + phosphate = [(1->4)-alpha-D-glucosyl](n-1) + alpha-D-glucose 1-phosphate	EC:2.4.1.1	CHEBI:15444;CHEBI:43474;CHEBI:58601	KEGG:R01821,KEGG:R06050	MetaCyc:RXN0-5184
+RHEA:22668	2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosaminyl 1-phosphate + UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine = lipid A disaccharide (E. coli) + UDP + H(+)	EC:2.4.1.182	CHEBI:57957;CHEBI:78847;CHEBI:58466;CHEBI:58223;CHEBI:15378	KEGG:R04606	MetaCyc:LIPIDADISACCHARIDESYNTH-RXN
+RHEA:67828	a lipid X + a UDP-2-N,3-O-bis[(3R)-3-hydroxyacyl]-alpha-D-glucosamine = a lipid A disaccharide + UDP + H(+)	EC:2.4.1.182	CHEBI:176338;CHEBI:137748;CHEBI:176343;CHEBI:58223;CHEBI:15378		MetaCyc:RXN-22484
+RHEA:12340	N-terminal L-lysyl-[protein] + L-leucyl-tRNA(Leu) = N-terminal L-leucyl-L-lysyl-[protein] + tRNA(Leu) + H(+)	EC:2.3.2.6	CHEBI:65249;CHEBI:78494;CHEBI:133043;CHEBI:78442;CHEBI:15378	KEGG:R11443	MetaCyc:LEUCYLTRANSFERASE-RXN
+RHEA:16241	an NDP-alpha-D-glucose + D-fructose = a ribonucleoside 5'-diphosphate + sucrose + H(+)	EC:2.4.1.13	CHEBI:76533;CHEBI:37721;CHEBI:57930;CHEBI:17992;CHEBI:15378	KEGG:R07256	MetaCyc:RXN-6222
+RHEA:43632	L-phenylalanyl-tRNA(Phe) + an N-terminal L-alpha-aminoacyl-[protein] = an N-terminal L-phenylalanyl-L-alpha-aminoacyl-[protein] + tRNA(Phe)	EC:2.3.2.6	CHEBI:78531;CHEBI:78597;CHEBI:83561;CHEBI:78442		
+RHEA:50416	N-terminal L-arginyl-[protein] + L-leucyl-tRNA(Leu) = N-terminal L-leucyl-L-arginyl-[protein] + tRNA(Leu) + H(+)	EC:2.3.2.6	CHEBI:64719;CHEBI:78494;CHEBI:133044;CHEBI:78442;CHEBI:15378	KEGG:R11444	MetaCyc:RXN-17846
+RHEA:55080	ADP-alpha-D-glucose + D-fructose = sucrose + ADP + H(+)	EC:2.4.1.13	CHEBI:57498;CHEBI:37721;CHEBI:17992;CHEBI:456216;CHEBI:15378	KEGG:R08676	
+RHEA:55092	D-fructose + UDP-alpha-D-glucose = sucrose + UDP + H(+)	EC:2.4.1.13	CHEBI:37721;CHEBI:58885;CHEBI:17992;CHEBI:58223;CHEBI:15378	KEGG:R00806	MetaCyc:SUCROSE-SYNTHASE-RXN

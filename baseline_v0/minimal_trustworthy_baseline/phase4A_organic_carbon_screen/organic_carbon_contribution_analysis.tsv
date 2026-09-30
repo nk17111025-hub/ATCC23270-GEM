@@ -1,0 +1,37 @@
+condition	substrate	probe	growth	organic_uptake	donor_uptake	co2_uptake	oxygen_uptake	RUBISCO	PDH	ACS	GLYK	BDGK	classification	notes
+FIM	glucose	mixotrophic_co2_open	0.666609809	-3.933528	-999.997734	-2.0	-242.062017	4.121028	2.095109	0.123003	0.002333	3.933528	MIXOTROPHY_LIKE	glucose reaches pyruvate/acetyl-CoA only via PPP->RuBP->RUBISCO->3PG route (glycolysis and oxidative-PPP blocked); CO2 fixation stays active
+FIM	glucose	heterotrophic_co2_closed	0.710305747	-4.546552	-1000.0	0.0	-243.673388	4.375852	2.237175	0.131065	0.002486	4.546552		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+FIM	glycerol	mixotrophic_co2_open	0.052498368	-0.005389	-165.02466	-2.0	-38.791271	2.167037	0.164996	0.009687	0.005572	-0.0	UPTAKE_WITHOUT_BIOMASS_CONTRIBUTION	glycerol->glyc3p feeds only the lipid backbone (G3PD2 oxidation blocked); negligible growth change
+FIM	glycerol	heterotrophic_co2_closed	-0.0	-0.0	-17.375	0.0	-4.34375	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+FIM	acetate	mixotrophic_co2_open	0.076775567	-0.474267	-202.106095	-2.0	-47.842701	2.11947	0.0	0.488433	0.000269	-0.0	MIXOTROPHY_LIKE	
+FIM	acetate	heterotrophic_co2_closed	-0.0	-0.0	-17.375	0.0	-4.34375	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+FIM	pyruvate	mixotrophic_co2_open	0.195345694	-1.834076	-400.629996	-2.0	-95.500545	3.510747	1.206753	0.036045	0.000684	-0.0	MIXOTROPHY_LIKE	
+FIM	pyruvate	heterotrophic_co2_closed	-0.0	-0.0	-17.375	0.0	-4.34375	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+FIM	formate	mixotrophic_co2_open	0.312458323	-9.99995	-769.449703	-2.0	-182.579426	12.903378	0.982034	0.057655	0.001094	-0.0	ARTIFACT_SUSPECTED	formate is oxidized to CO2 (FDH) and the CO2 is re-fixed by RUBISCO; no C1 assimilation route
+FIM	formate	heterotrophic_co2_closed	0.260381936	-9.999952	-622.436865	0.0	-148.290054	10.752808	0.818361	0.048045	0.000911	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+FIM	4hba	mixotrophic_co2_open	0.052076387	1e-06	-164.508003	-2.0	-38.663159	2.165706	0.163682	0.009609	0.000182	-0.0	NO_UTILIZATION	
+FIM	4hba	heterotrophic_co2_closed	-0.0	-0.0	-17.375	0.0	-4.34375	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TTM	glucose	mixotrophic_co2_open	1.614368	-9.999983	-80.217921	-2.0	-264.410785	9.545353	6.679673	0.297883	0.00565	9.999983	MIXOTROPHY_LIKE	glucose reaches pyruvate/acetyl-CoA only via PPP->RuBP->RUBISCO->3PG route (glycolysis and oxidative-PPP blocked); CO2 fixation stays active
+TTM	glucose	heterotrophic_co2_closed	1.562291613	-9.999984	-76.358567	0.0	-253.366014	9.624535	8.012587	0.288274	0.005468	9.999984		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TTM	glycerol	mixotrophic_co2_open	0.052498368	-0.005389	-5.234766	-2.0	-15.857665	2.167037	0.164996	0.009687	0.005572	-0.0	UPTAKE_WITHOUT_BIOMASS_CONTRIBUTION	glycerol->glyc3p feeds only the lipid backbone (G3PD2 oxidation blocked); negligible growth change
+TTM	glycerol	heterotrophic_co2_closed	-0.0	-0.0	-0.653195	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TTM	acetate	mixotrophic_co2_open	0.076775567	-0.474267	-6.540687	-2.0	-20.20987	2.11947	0.0	0.488433	0.000269	-0.0	MIXOTROPHY_LIKE	
+TTM	acetate	heterotrophic_co2_closed	-0.0	-0.0	-0.653195	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TTM	pyruvate	mixotrophic_co2_open	0.195345694	-1.834076	-13.220231	-2.0	-41.61713	3.510747	1.206753	0.036045	0.000684	-0.0	MIXOTROPHY_LIKE	
+TTM	pyruvate	heterotrophic_co2_closed	-0.0	-0.0	-0.653195	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TTM	formate	mixotrophic_co2_open	0.312458323	-9.99995	-25.069305	-2.0	-77.964805	12.903378	0.982034	0.057655	0.001094	-0.0	ARTIFACT_SUSPECTED	formate is oxidized to CO2 (FDH) and the CO2 is re-fixed by RUBISCO; no C1 assimilation route
+TTM	formate	heterotrophic_co2_closed	0.260381936	-9.999952	-20.511219	0.0	-64.474469	10.752808	0.818361	0.048045	0.000911	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TTM	4hba	mixotrophic_co2_open	0.052076387	1e-06	-5.215798	-2.0	-15.792323	2.165706	0.163682	0.009609	0.000182	-0.0	NO_UTILIZATION	
+TTM	4hba	heterotrophic_co2_closed	-0.0	-0.0	-0.653195	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TSM	glucose	mixotrophic_co2_open	1.614368	-9.999983	-140.381489	-2.0	-264.41104	9.545353	6.679673	0.297883	0.00565	9.999983	MIXOTROPHY_LIKE	glucose reaches pyruvate/acetyl-CoA only via PPP->RuBP->RUBISCO->3PG route (glycolysis and oxidative-PPP blocked); CO2 fixation stays active
+TSM	glucose	heterotrophic_co2_closed	1.562291613	-9.999984	-133.627616	0.0	-253.36626	9.624535	8.012587	0.288274	0.005468	9.999984		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TSM	glycerol	mixotrophic_co2_open	0.052498368	-0.005389	-9.160844	-2.0	-15.857673	2.167037	0.164996	0.009687	0.005572	-0.0	UPTAKE_WITHOUT_BIOMASS_CONTRIBUTION	glycerol->glyc3p feeds only the lipid backbone (G3PD2 oxidation blocked); negligible growth change
+TSM	glycerol	heterotrophic_co2_closed	-0.0	-0.0	-1.143092	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TSM	acetate	mixotrophic_co2_open	0.076775567	-0.474267	-11.446209	-2.0	-20.209882	2.11947	0.0	0.488433	0.000269	-0.0	MIXOTROPHY_LIKE	
+TSM	acetate	heterotrophic_co2_closed	-0.0	-0.0	-1.143092	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TSM	pyruvate	mixotrophic_co2_open	0.195345694	-1.834076	-23.13542	-2.0	-41.617161	3.510747	1.206753	0.036045	0.000684	-0.0	MIXOTROPHY_LIKE	
+TSM	pyruvate	heterotrophic_co2_closed	-0.0	-0.0	-1.143092	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TSM	formate	mixotrophic_co2_open	0.312458323	-9.99995	-43.871308	-2.0	-77.964854	12.903378	0.982034	0.057655	0.001094	-0.0	ARTIFACT_SUSPECTED	formate is oxidized to CO2 (FDH) and the CO2 is re-fixed by RUBISCO; no C1 assimilation route
+TSM	formate	heterotrophic_co2_closed	0.260381936	-9.999952	-35.894653	0.0	-64.47451	10.752808	0.818361	0.048045	0.000911	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility
+TSM	4hba	mixotrophic_co2_open	0.052076387	1e-06	-9.12765	-2.0	-15.792331	2.165706	0.163682	0.009609	0.000182	-0.0	NO_UTILIZATION	
+TSM	4hba	heterotrophic_co2_closed	-0.0	-0.0	-1.143092	0.0	-2.286184	-0.0	0.0	0.0	-0.0	-0.0		CO2/HCO3 exchange closed; tests sole-carbon-source feasibility

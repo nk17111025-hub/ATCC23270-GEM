@@ -1,0 +1,12 @@
+locus	protein	function	condition	result	evidence_level	source	notes
+AFE_0423 → RU820_RS02050	WP_012536129.1	aconitase	2019 pyrite biofilm vs Fe(II)-grown	detected; log2 pyrite/Fe +0.77, q=0.01	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019, DOI 10.3389/fmicb.2019.00592	
+AFE_0424 → RU820_RS02055	WP_012606555.1 current; historical proteomics accession WP_012536130.1	NADP ICDH	2013 aerobic/anaerobic sulfur study; 2019 pyrite vs Fe	2013 differential-expression evidence; 2019 detected, log2 -0.28 q=0.15	E3_PROTEOMICS_TRANSCRIPTOMICS	Osorio et al. 2013; Bellenberg et al. 2019	
+AFE_0425 → RU820_RS02060	WP_009564695.1	SucC	2019 pyrite vs Fe	detected; log2 -0.24 q=0.26	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019	
+AFE_0427 → RU820_RS02070	WP_012536131.1	SucD	2019 pyrite vs Fe	detected; log2 +0.48 q=0.13	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019	
+AFE_1546 → RU820_RS07175	WP_012536595.1	SSADH	2019 pyrite vs Fe	detected; log2 +1.98 q=0.01	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019 Supplementary Table 1	
+AFE_1811/1812/1813 → RU820_RS08345/350/355	WP_012536774.1/WP_012536775.1/WP_009563431.1	2-oxoacid acyltransferase / PDH E1 beta / PDH E1 alpha-like	2019 pyrite vs Fe	detected (+1.26 q0.01; +0.97 q0.00; +0.78 q0.07)	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019	Expression does not confer 2-OG specificity; KEGG assigns E1 pair to PDH.
+AFE_1893 → RU820_RS08740	WP_012536825.1	dihydrolipoyl dehydrogenase	2019 pyrite vs Fe	detected; +2.81 q=0.00	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019	Shared E3 only; no OGDH E1/E2.
+AFE_2673 → RU820_RS12345	WP_009565770.1	FumC	2019 pyrite vs Fe	detected; +0.03 q=0.89	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019	
+AFE_3065 → RU820_RS14240	WP_012537576.1	citrate synthase	2019 pyrite vs Fe	detected; +0.27 q=0.46	E3_PROTEOMICS_TRANSCRIPTOMICS	Bellenberg et al. 2019	
+canonical sucA/sucB	none	OGDH E1/E2	all reviewed ATCC/type-strain evidence	not identified as expressed proteins/genes	E6_ABSENT_OR_CONFLICTING	current RefSeq + reviewed literature	Absence of detection is consistent with genomic absence; not a direct enzyme-activity null assay.
+glucose-specific OGDH/bypass		disputed closure	glucose supplementation / organic-carbon exposure	No ATCC 23270-specific direct activity or induction evidence located in this audit	E6_ABSENT_OR_CONFLICTING	literature audit	Remains an explicit unresolved experimental gap.

@@ -1,0 +1,3 @@
+scenario	result	note
+R0-CiZero	infeasible	even with all 12 candidates + NADHI open
+R0-CiLow	infeasible	unchanged from Phase 5B-3C

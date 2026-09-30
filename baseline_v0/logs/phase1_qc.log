@@ -1,0 +1,22 @@
+libsbml_errors=0 level=2 version=1 model_id=''
+cobra reactions=615 metabolites=573 genes=0 compartments=['p', 'c', 'e']
+duplicate_reaction_ids=[] duplicate_metabolite_ids=[]
+objective_expression=1.0*Ex_bio_LSQBKT_e_RSQBKT_ - 1.0*Ex_bio_LSQBKT_e_RSQBKT__reverse_f5393
+objective_direction=max
+condition=fe2 applied_bounds=29 unmapped=0
+blocked_fe2=70
+condition=ttton applied_bounds=29 unmapped=0
+blocked_ttton=66
+condition=tsul applied_bounds=29 unmapped=0
+blocked_tsul=66
+condition=fe2 applied_bounds=29 unmapped=0
+condition=ttton applied_bounds=29 unmapped=0
+condition=tsul applied_bounds=29 unmapped=0
+condition=fe2 applied_bounds=29 unmapped=0
+type_counts={'internal': 534, 'biomass': 1, 'transport': 52, 'exchange': 28}
+balance_counts={'BALANCED': 529, 'CHARGE_IMBALANCED': 19, 'NOT_ASSESSABLE': 66, 'MASS_AND_CHARGE_IMBALANCED': 1}
+gpr non_empty=461 empty=154 malformed=0 unique_genes=508
+dead_end_metabolites=13
+numerical=[{'condition': 'baseline_untouched', 'label': 'baseline_untouched', 'status': 'optimal', 'objective': 3.6166297847755096, 'max_sv_residual': 3.637978807091713e-12}, {'condition': 'FIM', 'label': 'FIM', 'status': 'optimal', 'objective': 0.05207638710274161, 'max_sv_residual': 1.4210854715202004e-14}, {'condition': 'TTM', 'label': 'TTM', 'status': 'optimal', 'objective': 0.0520763871027412, 'max_sv_residual': 8.615330671091215e-14}, {'condition': 'TSM', 'label': 'TSM', 'status': 'optimal', 'objective': 0.0520763871027409, 'max_sv_residual': 4.218847493575595e-14}]
+exact=[{'condition': 'baseline_untouched', 'status': 'optimal', 'objective': 3.6166297847754376}, {'condition': 'FIM', 'status': 'optimal', 'objective': 0.05207638710274114}]
+cycles_status=[('internal_cycles_all_exchanges_closed', 'POSITIVE'), ('free_atp_generation', 'POSITIVE'), ('free_nadh_generation', 'NEGATIVE'), ('free_nadph_generation', 'NEGATIVE')]

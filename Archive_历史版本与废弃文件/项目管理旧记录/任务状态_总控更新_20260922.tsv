@@ -1,0 +1,7 @@
+任务	要求执行类型	任务内容	真实状态	依赖	要求模型	实际配置	证据
+A0	Codex	冻结基线与2024论文复原	部分完成	原始资料可用	gpt-5.6-luna / high	实际字段未核实；启动指定 Luna/high	08_模型基线/A0；12_验收报告/A0
+B1	Work	NCBI同株基因组与注释刷新	已完成	项目目录可用	gpt-5.6-luna / high	实际字段未核实；启动指定 Luna/high	02_NCBI；12_验收报告/B1
+C2	Work	BioCyc菌株PGDB快照	访问失败	官方页面连续超时	gpt-5.6-luna / high	实际字段未核实；启动指定 Luna/high	03_BioCyc；12_验收报告/C2
+D3	Work	多数据库交叉注释	部分完成	B1已落盘；C2阻塞；A0可用	gpt-5.6-luna / high	实际字段未核实；启动指定 Luna/high	04_KEGG—07_MetaCyc；12_验收报告/D3
+E4	Work	候选差异表	基础阶段完成	B1/A0可用；C2阻塞；D3部分完成	gpt-5.6-luna / high	实际字段未核实；启动指定 Luna/high	09_差异比较；10_人工审计；12_验收报告/E4
+总控	本机会话	最终人工审计与文件用途表	部分完成	A0—E4真实结果及限制	gpt-5.6-luna / high	根配置 Luna/high；代理运行字段未核实	10_人工审计/人工审计表.xlsx；12_验收报告/最终验收.md

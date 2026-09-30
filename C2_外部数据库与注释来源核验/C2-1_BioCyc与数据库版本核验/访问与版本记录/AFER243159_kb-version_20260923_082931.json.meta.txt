@@ -1,0 +1,9 @@
+﻿来源: https://websvc.biocyc.org/kb-version?orgid=AFER243159
+获取时间: 2026-09-23T08:29:42.2579685+08:00
+HTTP状态: NO_HTTP_RESPONSE
+Content-Type: 
+文件大小: 54
+SHA256: DCB515DC39A268950D304A65BDD9B3A5927B0EDA8EFDB6B38063CA511AB5FB91
+响应头:
+
+异常: An error occurred while sending the request.

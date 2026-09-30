@@ -1,0 +1,11 @@
+﻿论文表1引物	引物序列5to3	当前染色体精确命中起点	匹配方向	当前RU820	证据边界
+phnG_N	GAAATTCGATGAAGCGCC	2004923	+	RU820_RS10520	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+phnG_R1	TCATGACCGCATGGTTTC	2005380	-	RU820_RS10520	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+phnH_N	TGATGGCATTGGATTGCC	2005395	+	RU820_RS10525	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+phnI_N	ATGTCCTACGTGGCAGTC	2005940	+	RU820_RS10530	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+phnJ_N	ATAATTTCGCCTATCTCG	2007047	+	RU820_RS10535	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+phnK_N	GAGTTACAGTTCCGTTCC	2007857	+	RU820_RS10540	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+phnL_N	ATGAACCTGCTCGAAGTG	2008634	+	RU820_RS10545	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+phnM_N	ATGACGCAGGGTTTCAGC	2009329	+	RU820_RS10550	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+paper_Afe2172_F	AGGTAATCTTCAGCGGCAAC	796313	+	RU820_RS04185	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读
+paper_Afe2172_R	TAGGGGATCTCCAGACGATG	796390	-	RU820_RS04185	精确短序列命中；应与配对引物、基因排列和论文实验对象共同解读

@@ -1,0 +1,7 @@
+test	result	detail
+test1_one_reaction	PASS	['OPTIMAL', 1]
+test2_new_intermediate	PASS	['OPTIMAL', 2]
+test3_impossible	PASS	['INFEASIBLE', None]
+test4_duplicate_chemistry	PASS	['OPTIMAL', 1]
+test5_reversible	PASS	['OPTIMAL', 1]
+test6_right_to_left	PASS	['rev', False]

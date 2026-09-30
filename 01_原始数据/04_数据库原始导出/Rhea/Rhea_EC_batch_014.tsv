@@ -1,0 +1,9 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:16585	[[Fe-S] cluster scaffold protein carrying a second [4Fe-4S](2+) cluster] + N(6)-octanoyl-L-lysyl-[protein] + 2 oxidized [2Fe-2S]-[ferredoxin] + 2 S-adenosyl-L-methionine + 4 H(+) = [[Fe-S] cluster scaffold protein] + N(6)-[(R)-dihydrolipoyl]-L-lysyl-[protein] + 4 Fe(3+) + 2 hydrogen sulfide + 2 5'-deoxyadenosine + 2 L-methionine + 2 reduced [2Fe-2S]-[ferredoxin]	EC:2.8.1.8	CHEBI:33722;CHEBI:78809;CHEBI:33737;CHEBI:59789;CHEBI:15378;CHEBI:83100;CHEBI:29034;CHEBI:29919;CHEBI:17319;CHEBI:57844;CHEBI:33738	KEGG:R07767	MetaCyc:RXN0-949
+RHEA:16645	hexadecanoyl-CoA + H2O = hexadecanoate + CoA + H(+)	EC:3.1.2.2	CHEBI:57379;CHEBI:15377;CHEBI:7896;CHEBI:57287;CHEBI:15378	KEGG:R01274	MetaCyc:PALMITOYL-COA-HYDROLASE-RXN
+RHEA:54448	an N-acyl-L-alpha-aminoacyl-tRNA + H2O = an N-acyl-L-amino acid + a tRNA + H(+)	EC:3.1.1.29	CHEBI:138191;CHEBI:15377;CHEBI:59874;CHEBI:78442;CHEBI:15378	KEGG:R04238	MetaCyc:AMINOCYL-TRNA-HYDROLASE-RXN
+RHEA:21864	an S-(2-hydroxyacyl)glutathione + H2O = a 2-hydroxy carboxylate + glutathione + H(+)	EC:3.1.2.6	CHEBI:71261;CHEBI:15377;CHEBI:58896;CHEBI:57925;CHEBI:15378	KEGG:R04090	MetaCyc:RXN-7919
+RHEA:25245	(R)-S-lactoylglutathione + H2O = (R)-lactate + glutathione + H(+)	EC:3.1.2.6	CHEBI:57474;CHEBI:15377;CHEBI:16004;CHEBI:57925;CHEBI:15378	KEGG:R01736	MetaCyc:GLYOXII-RXN
+RHEA:15057	(9Z)-octadecenoyl-[ACP] + H2O = (9Z)-octadecenoate + holo-[ACP] + H(+)	EC:3.1.2.14	CHEBI:78783;CHEBI:15377;CHEBI:30823;CHEBI:64479;CHEBI:15378	KEGG:R02814	MetaCyc:3.1.2.14-RXN
+RHEA:30123	tetradecanoyl-[ACP] + H2O = tetradecanoate + holo-[ACP] + H(+)	EC:3.1.2.14	CHEBI:78477;CHEBI:15377;CHEBI:30807;CHEBI:64479;CHEBI:15378	KEGG:R08159	MetaCyc:RXN-10727
+RHEA:41932	hexadecanoyl-[ACP] + H2O = hexadecanoate + holo-[ACP] + H(+)	EC:3.1.2.14	CHEBI:78483;CHEBI:15377;CHEBI:7896;CHEBI:64479;CHEBI:15378	KEGG:R01706	MetaCyc:RXN-9549

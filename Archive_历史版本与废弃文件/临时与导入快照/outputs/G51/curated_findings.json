@@ -1,0 +1,106 @@
+{
+  "RU820_RS00145": {
+    "legacy_afe": "AFE_0029",
+    "evidence_doi": "10.1016/j.jbiotec.2007.08.030;10.1128/JB.01472-13",
+    "direct_evidence": "ATCC 23270 的 TetH 经纯化、N 端测序与 AFE_0029 对齐；tetH 敲除在四硫代硫酸盐作为唯一能源时不能生长，回补恢复。",
+    "boundary": "直接支持 TetH 的四硫代硫酸盐水解；2016 的 4THASE1/4THASE2 两种精确产物比例需分别核对原实验。",
+    "action": "仅更新证据或编号；旧反应保留，双反应化学计量待复核",
+    "linked_2016": "4THASE1;4THASE2"
+  },
+  "RU820_RS00210": {
+    "legacy_afe": "AFE_0042",
+    "evidence_doi": "10.1128/AEM.02251-12",
+    "direct_evidence": "ATCC 23270 的 AFE_0042 蛋白对硫代硫酸盐至四硫代硫酸盐有体外活性，实验电子受体为铁氰化物；所测泛醌为阴性。",
+    "boundary": "直接酶学只支持实验受体下的测定；不支持 2016 TSQOC 的 q8/q8h2、膜侧质子与六基因 AND。",
+    "action": "仅更新证据；TSQOC 旧低可信假设保留，精确 q8 反应需重评",
+    "linked_2016": "TSQOC"
+  },
+  "RU820_RS00240": {
+    "legacy_afe": "AFE_0048",
+    "evidence_doi": "10.1128/JB.01472-13",
+    "direct_evidence": "同株 tetH 扰动论文将 AFE_0048 列为 doxD1，并测其转录。",
+    "boundary": "未对 AFE_0048 做纯化催化或复合物组成实验；不能添加至 TSQOC 的 AND/OR。",
+    "action": "证据不足暂缓；不修改 TSQOC GPR",
+    "linked_2016": "TSQOC（比较对象，原 GPR 不含本基因）"
+  },
+  "RU820_RS00605": {
+    "legacy_afe": "AFE_0125",
+    "evidence_doi": "10.1074/jbc.M700374200",
+    "direct_evidence": "异株 PlsY 生化研究证明酰基磷酸为酰基供体。",
+    "boundary": "本株 RU820_RS00605 未做底物实测；2016 G3PAT1 使用酰基 ACP，不能按 EC 号视作同一反应。",
+    "action": "修改 reaction 候选；酰基磷酸路径及 PlsX 供体待同株核验",
+    "linked_2016": "G3PAT1（相同 EC，不同供体且旧行无 GPR）"
+  },
+  "RU820_RS00745": {
+    "legacy_afe": "AFE_0157",
+    "evidence_doi": "",
+    "direct_evidence": "当前注释与 UniProt 同源注释均指向 S-腺苷甲硫氨酸脱羧酶。",
+    "boundary": "2016 SPMS 的 AFE_0157 AND 把上游底物合成酶当作亚基；未见该基因为亚精胺合成酶亚基的实验证据。",
+    "action": "修改或补充 GPR 候选；从 SPMS 必需亚基关系中移出 AFE_0157，ADMDC 保留",
+    "linked_2016": "ADMDC;SPMS"
+  },
+  "RU820_RS01085": {
+    "legacy_afe": "AFE_0226",
+    "evidence_doi": "",
+    "direct_evidence": "当前 ArgJ 注释与 Rhea 15349/24292 指向两种乙酰转移反应。",
+    "boundary": "同 EC 的 2016 ACGS/GLAT 由 AFE_0664 关联；同一 EC 不能证明 RU820_RS01085 独立催化这两条精确模型反应。",
+    "action": "修改或补充 GPR 候选；ArgJ 同工功能待实测",
+    "linked_2016": "ACGS;GLAT（相同 EC，原 GPR 不含本基因）"
+  },
+  "RU820_RS01295": {
+    "legacy_afe": "AFE_0267",
+    "evidence_doi": "",
+    "direct_evidence": "当前仅泛称 NAD(P)/FAD 氧化还原酶，Rhea/KEGG 链接到 SQR 反应。",
+    "boundary": "未见本基因特异的 H2S/醌催化实验；2016 SQRED1 的旧 GPR 不含 AFE_0267。",
+    "action": "证据不足暂缓；不自动添加 SQRED1 的 OR",
+    "linked_2016": "SQRED1（相同 EC，原 GPR 不含本基因）"
+  },
+  "RU820_RS01305": {
+    "legacy_afe": "AFE_0269",
+    "evidence_doi": "10.1007/s00253-014-5830-4",
+    "direct_evidence": "重组 AFE_0269 在 GSH 依赖测定中有 SDO 活性；ATCC 23270 敲除、过表达显示硫培养下生长与活性变化。",
+    "boundary": "Rhea 12981 的 GSSH 精确反应定义与 2016 SULDO 的元素硫式不同；体内 GSSH 供给、区室未测定。",
+    "action": "新增 reaction 候选待定；旧 SULDO 保留并修正证据解释",
+    "linked_2016": "SULDO（同 EC，化学式不等价）"
+  },
+  "RU820_RS01320": {
+    "legacy_afe": "AFE_0272",
+    "evidence_doi": "10.1021/bi00136a016",
+    "direct_evidence": "异株 PurE/PurK 研究分辨 PurK ATP 依赖合成 N5-CAIR 与 PurE 随后的重排。",
+    "boundary": "本株仅有序列/功能注释；2016 AIRC 把 PurE/PurK 写成单一步骤 AND，缺少 ATP 与 N5-CAIR。",
+    "action": "修改 reaction 及 GPR 候选；分开 PurE 与 PurK 两步",
+    "linked_2016": "AIRC"
+  },
+  "RU820_RS01325": {
+    "legacy_afe": "AFE_0273",
+    "evidence_doi": "10.1021/bi00136a016",
+    "direct_evidence": "异株 PurE/PurK 研究分辨 PurK ATP 依赖合成 N5-CAIR 与 PurE 随后的重排。",
+    "boundary": "本株仅有序列/功能注释；2016 AIRC 把 PurE/PurK 写成单一步骤 AND，缺少 ATP 与 N5-CAIR。",
+    "action": "修改 reaction 及 GPR 候选；分开 PurE 与 PurK 两步",
+    "linked_2016": "AIRC"
+  },
+  "RU820_RS01395": {
+    "legacy_afe": "AFE_0287",
+    "evidence_doi": "10.3389/fmicb.2019.00603",
+    "direct_evidence": "同株研究测得不同 CO2 条件下的摄取和同化，并列出 AFE_0287 的碳酸酐酶预测。",
+    "boundary": "全细胞 CO2 摄取与预测注释不能证明此蛋白的 HCO3E 动力学、细胞位置或体内方向。",
+    "action": "仅更新证据或编号；HCO3E 保留",
+    "linked_2016": "HCO3E"
+  },
+  "RU820_RS01405": {
+    "legacy_afe": "AFE_0289",
+    "evidence_doi": "",
+    "direct_evidence": "当前 UbiE 双功能甲基转移酶注释及多个 Rhea 反应定义。",
+    "boundary": "未测定本株醌种类和具体底物；2016 无可确定的 UbiE 对应反应。",
+    "action": "证据不足暂缓；不把不同醌甲基化反应互换新增",
+    "linked_2016": "无确定对应反应"
+  },
+  "RU820_RS01480": {
+    "legacy_afe": "AFE_0305",
+    "evidence_doi": "10.1074/jbc.M113.480368",
+    "direct_evidence": "当前 NCBI 为 UbiB 类蛋白激酶；UniProt 未审校旧注释仍称羟化酶。异株 UbiI 研究纠正了旧 UbiB 羟化归属。",
+    "boundary": "本株 UbiB 未直接测激酶或羟化活性；不支持作为 2016 OPHHX 的单独羟化 GPR。",
+    "action": "修改 GPR 候选；从 OPHHX 移除 AFE_0305 并保留待证实的旧反应",
+    "linked_2016": "OPHHX"
+  }
+}

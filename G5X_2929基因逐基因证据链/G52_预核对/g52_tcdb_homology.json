@@ -1,0 +1,1524 @@
+{
+  "source": "https://www.tcdb.org/public/tcdb",
+  "accessed_utc": "2026-09-25T14:16:07.395301+00:00",
+  "reference_count": 23529,
+  "by_locus": {
+    "RU820_RS01515": {
+      "wp": "WP_009560851.1",
+      "product": "preprotein translocase subunit SecE",
+      "query_length": 116,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|WP_027462473.1|9.B.264.1.7",
+          "tcid": "9.B.264.1.7",
+          "description": "gnl|TC-DB|WP_027462473.1|9.B.264.1.7 hypothetical protein [Deinococcus ficus]",
+          "prefilter_jaccard": 0.0111,
+          "identity": 0.4205,
+          "query_coverage": 0.7586,
+          "target_coverage": 0.2521,
+          "aligned_residues": 88,
+          "score": 54.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|O80632|2.A.4.5.5",
+          "tcid": "2.A.4.5.5",
+          "description": "gnl|TC-DB|O80632|2.A.4.5.5 Metal tolerance protein 11 OS=Arabidopsis thaliana GN=MTP11 PE=2 SV=1",
+          "prefilter_jaccard": 0.008,
+          "identity": 0.4,
+          "query_coverage": 0.7328,
+          "target_coverage": 0.2157,
+          "aligned_residues": 85,
+          "score": 46.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|AKM79409.1|9.B.142.4.13",
+          "tcid": "9.B.142.4.13",
+          "description": "gnl|TC-DB|AKM79409.1|9.B.142.4.13 Uncharacterized protein UY43_C0001G0692 [Candidatus Beckwithbacteria bacterium GW2011_GWC1_49_16]",
+          "prefilter_jaccard": 0.007,
+          "identity": 0.3721,
+          "query_coverage": 0.7414,
+          "target_coverage": 0.1826,
+          "aligned_residues": 86,
+          "score": 53.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|A0L7M8|9.B.8.2.2",
+          "tcid": "9.B.8.2.2",
+          "description": "gnl|TC-DB|A0L7M8|9.B.8.2.2 Uncharacterized protein OS=Magnetococcus sp. (strain MC-1) GN=Mmc1_1462 PE=4 SV=1",
+          "prefilter_jaccard": 0.0084,
+          "identity": 0.3735,
+          "query_coverage": 0.7155,
+          "target_coverage": 0.219,
+          "aligned_residues": 83,
+          "score": 78.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|D1AF56|9.B.179.1.2",
+          "tcid": "9.B.179.1.2",
+          "description": "gnl|TC-DB|D1AF56|9.B.179.1.2 Uncharacterized protein OS=Thermomonospora curvata (strain ATCC 19995 / DSM 43183 / JCM 3096 / NCIMB 10081) GN=Tcur_4071 PE=4 SV=1",
+          "prefilter_jaccard": 0.0112,
+          "identity": 0.3077,
+          "query_coverage": 0.7845,
+          "target_coverage": 0.3346,
+          "aligned_residues": 91,
+          "score": 51.0
+        }
+      ]
+    },
+    "RU820_RS01835": {
+      "wp": "WP_009566069.1",
+      "product": "OmpP1/FadL family transporter",
+      "query_length": 356,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|F6EHL8|3.A.1.126.3",
+          "tcid": "3.A.1.126.3",
+          "description": "gnl|TC-DB|F6EHL8|3.A.1.126.3 Putative exporter of polyketide antibiotics-like protein OS=Amycolicicoccus subflavus (strain DSM 45089 / DQS3-9A1) GN=AS9A_3946 PE=4 SV=1",
+          "prefilter_jaccard": 0.0057,
+          "identity": 0.3346,
+          "query_coverage": 0.7388,
+          "target_coverage": 0.4898,
+          "aligned_residues": 263,
+          "score": 103.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|L7V457|1.B.89.1.24",
+          "tcid": "1.B.89.1.24",
+          "description": "gnl|TC-DB|L7V457|1.B.89.1.24 PE-PGRS family protein OS=Mycobacterium liflandii (strain 128FXT) GN=MULP_01349 PE=4 SV=1",
+          "prefilter_jaccard": 0.0059,
+          "identity": 0.3218,
+          "query_coverage": 0.7331,
+          "target_coverage": 0.6476,
+          "aligned_residues": 261,
+          "score": 84.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|WP_230890133|3.A.1.159.2",
+          "tcid": "3.A.1.159.2",
+          "description": "gnl|TC-DB|WP_230890133|3.A.1.159.2 hypothetical protein [Halobacterium sp. KA-4]",
+          "prefilter_jaccard": 0.0056,
+          "identity": 0.3136,
+          "query_coverage": 0.6629,
+          "target_coverage": 0.4268,
+          "aligned_residues": 236,
+          "score": 57.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|O86506|2.A.39.1.7",
+          "tcid": "2.A.39.1.7",
+          "description": "gnl|TC-DB|O86506|2.A.39.1.7 Putative transmembrane transport protein OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) GN=SCO5524 PE=4 SV=1",
+          "prefilter_jaccard": 0.0061,
+          "identity": 0.3706,
+          "query_coverage": 0.5534,
+          "target_coverage": 0.4139,
+          "aligned_residues": 197,
+          "score": 60.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|C7NY93|2.A.28.2.7",
+          "tcid": "2.A.28.2.7",
+          "description": "gnl|TC-DB|C7NY93|2.A.28.2.7 Bile acid:sodium symporter OS=Halomicrobium mukohataei (strain ATCC 700874 / DSM 12286 / JCM 9738 / NCIMB 13541) GN=Hmuk_2445 PE=4 SV=1",
+          "prefilter_jaccard": 0.0062,
+          "identity": 0.3665,
+          "query_coverage": 0.4522,
+          "target_coverage": 0.5367,
+          "aligned_residues": 161,
+          "score": 54.5
+        }
+      ]
+    },
+    "RU820_RS02335": {
+      "wp": "WP_009566877.1",
+      "product": "ABC transporter ATP-binding protein",
+      "query_length": 231,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|P75957|3.A.1.125.1",
+          "tcid": "3.A.1.125.1",
+          "description": "gnl|TC-DB|P75957|3.A.1.125.1 Lipoprotein releasing system ATP-binding protein lolD - Escherichia coli.",
+          "prefilter_jaccard": 0.0387,
+          "identity": 0.5023,
+          "query_coverage": 0.9567,
+          "target_coverage": 0.9485,
+          "aligned_residues": 221,
+          "score": 556.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P0A9T8|3.A.1.122.15",
+          "tcid": "3.A.1.122.15",
+          "description": "gnl|TC-DB|P0A9T8|3.A.1.122.15 Uncharacterized ABC transporter ATP-binding protein YbbA OS=Escherichia coli (strain K12) GN=ybbA PE=3 SV=1",
+          "prefilter_jaccard": 0.0273,
+          "identity": 0.4622,
+          "query_coverage": 0.974,
+          "target_coverage": 0.9868,
+          "aligned_residues": 225,
+          "score": 504.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|B1ZMU0|3.A.1.125.5",
+          "tcid": "3.A.1.125.5",
+          "description": "gnl|TC-DB|B1ZMU0|3.A.1.125.5 ABC transporter related OS=Opitutus terrae (strain DSM 11246 / PB90-1) GN=Oter_2085 PE=3 SV=1",
+          "prefilter_jaccard": 0.0494,
+          "identity": 0.4857,
+          "query_coverage": 0.9091,
+          "target_coverage": 0.8607,
+          "aligned_residues": 210,
+          "score": 451.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|E6N374|3.A.1.122.27",
+          "tcid": "3.A.1.122.27",
+          "description": "gnl|TC-DB|E6N374|3.A.1.122.27 ABC transport system ATP-binding protein OS=Candidatus Caldiarchaeum subterraneum OX=311458 GN=CSUB_C1395 PE=4 SV=1",
+          "prefilter_jaccard": 0.0246,
+          "identity": 0.4196,
+          "query_coverage": 0.9697,
+          "target_coverage": 0.9492,
+          "aligned_residues": 224,
+          "score": 454.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q73MJ2|3.A.1.136.1",
+          "tcid": "3.A.1.136.1",
+          "description": "gnl|TC-DB|Q73MJ2|3.A.1.136.1 ABC transporter, ATP-binding protein, putative - Treponema denticola.",
+          "prefilter_jaccard": 0.0249,
+          "identity": 0.4109,
+          "query_coverage": 0.8745,
+          "target_coverage": 0.8783,
+          "aligned_residues": 202,
+          "score": 394.0
+        }
+      ]
+    },
+    "RU820_RS02355": {
+      "wp": "WP_009566880.1",
+      "product": "ExbD/TolR family protein",
+      "query_length": 134,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|8XQX_F|3.A.9.1.4",
+          "tcid": "3.A.9.1.4",
+          "description": "gnl|TC-DB|8XQX_F|3.A.9.1.4 Chain F, Ctap6",
+          "prefilter_jaccard": 0.0035,
+          "identity": 0.2738,
+          "query_coverage": 0.6269,
+          "target_coverage": 0.082,
+          "aligned_residues": 84,
+          "score": 48.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|O22881|2.A.72.3.8",
+          "tcid": "2.A.72.3.8",
+          "description": "gnl|TC-DB|O22881|2.A.72.3.8 Potassium transporter 2 OS=Arabidopsis thaliana GN=POT2 PE=1 SV=2",
+          "prefilter_jaccard": 0.0044,
+          "identity": 0.3478,
+          "query_coverage": 0.1716,
+          "target_coverage": 0.029,
+          "aligned_residues": 23,
+          "score": 34.0
+        }
+      ]
+    },
+    "RU820_RS02925": {
+      "wp": "WP_009567592.1",
+      "product": "metal ABC transporter permease",
+      "query_length": 269,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|SNV19554|9.B.105.6.1",
+          "tcid": "9.B.105.6.1",
+          "description": "gnl|TC-DB|SNV19554|9.B.105.6.1 Uncharacterised protein [Dermatophilus congolensis]",
+          "prefilter_jaccard": 0.0107,
+          "identity": 0.3797,
+          "query_coverage": 0.6952,
+          "target_coverage": 0.6071,
+          "aligned_residues": 187,
+          "score": 106.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q56229|3.D.1.3.1",
+          "tcid": "3.D.1.3.1",
+          "description": "gnl|TC-DB|Q56229|3.D.1.3.1 NADH-quinone oxidoreductase chain 14 (EC 1.6.99.5) (NADH dehydrogenase I, chain 14) (NDH-1, chain 14) - Thermus thermophilus.",
+          "prefilter_jaccard": 0.0074,
+          "identity": 0.3194,
+          "query_coverage": 0.803,
+          "target_coverage": 0.5059,
+          "aligned_residues": 216,
+          "score": 91.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q0S719|3.A.1.4.9",
+          "tcid": "3.A.1.4.9",
+          "description": "gnl|TC-DB|Q0S719|3.A.1.4.9 ABC amino acid transporter, ATP-binding OS=Rhodococcus sp. (strain RHA1) GN=RHA1_ro04886 PE=4 SV=1",
+          "prefilter_jaccard": 0.007,
+          "identity": 0.3652,
+          "query_coverage": 0.6617,
+          "target_coverage": 0.2932,
+          "aligned_residues": 178,
+          "score": 81.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q4KDN4|9.B.62.1.5",
+          "tcid": "9.B.62.1.5",
+          "description": "gnl|TC-DB|Q4KDN4|9.B.62.1.5 Copper resistance protein D OS=Pseudomonas fluorescens (strain Pf-5 / ATCC BAA-477) GN=copD PE=4 SV=1",
+          "prefilter_jaccard": 0.0073,
+          "identity": 0.4088,
+          "query_coverage": 0.5911,
+          "target_coverage": 0.5464,
+          "aligned_residues": 159,
+          "score": 82.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|SET99644.1|9.B.67.8.2",
+          "tcid": "9.B.67.8.2",
+          "description": "gnl|TC-DB|SET99644.1|9.B.67.8.2 O-antigen ligase [Paenibacillus sp. NFR01]",
+          "prefilter_jaccard": 0.0068,
+          "identity": 0.3409,
+          "query_coverage": 0.6543,
+          "target_coverage": 0.3682,
+          "aligned_residues": 176,
+          "score": 72.5
+        }
+      ]
+    },
+    "RU820_RS02910": {
+      "wp": "WP_009567595.1",
+      "product": "metal ABC transporter solute-binding protein%2C Zn/Mn family",
+      "query_length": 310,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|D5UKP2|3.A.1.122.32",
+          "tcid": "3.A.1.122.32",
+          "description": "gnl|TC-DB|D5UKP2|3.A.1.122.32 Uncharacterized protein OS=Cellulomonas flavigena (strain ATCC 482 / DSM 20109 / NCIB 8073 / NRS 134) GN=Cfla_0953 PE=4 SV=1",
+          "prefilter_jaccard": 0.0033,
+          "identity": 0.3662,
+          "query_coverage": 0.6871,
+          "target_coverage": 0.229,
+          "aligned_residues": 213,
+          "score": 69.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|XP_015654779.1|9.B.439.1.3",
+          "tcid": "9.B.439.1.3",
+          "description": "gnl|TC-DB|XP_015654779.1|9.B.439.1.3 hypothetical protein ABB37_07690 [Leptomonas pyrrhocoris]",
+          "prefilter_jaccard": 0.0024,
+          "identity": 0.3,
+          "query_coverage": 0.7419,
+          "target_coverage": 0.1678,
+          "aligned_residues": 230,
+          "score": 94.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|AKM79848|9.B.243.1.1",
+          "tcid": "9.B.243.1.1",
+          "description": "gnl|TC-DB|AKM79848|9.B.243.1.1 hypothetical protein UY43_C0001G1135 [Candidatus Beckwithbacteria bacterium GW2011_GWC1_49_16]",
+          "prefilter_jaccard": 0.0026,
+          "identity": 0.3548,
+          "query_coverage": 0.6,
+          "target_coverage": 0.1501,
+          "aligned_residues": 186,
+          "score": 57.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9UP52|9.B.229.1.2",
+          "tcid": "9.B.229.1.2",
+          "description": "gnl|TC-DB|Q9UP52|9.B.229.1.2 Transferrin receptor protein 2 OS=Homo sapiens GN=TFR2 PE=1 SV=1",
+          "prefilter_jaccard": 0.0036,
+          "identity": 0.2638,
+          "query_coverage": 0.7581,
+          "target_coverage": 0.2934,
+          "aligned_residues": 235,
+          "score": 47.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9UP52|2.B.93.1.2",
+          "tcid": "2.B.93.1.2",
+          "description": "gnl|TC-DB|Q9UP52|2.B.93.1.2 Transferrin receptor protein 2 OS=Homo sapiens GN=TFR2 PE=1 SV=1",
+          "prefilter_jaccard": 0.0036,
+          "identity": 0.2638,
+          "query_coverage": 0.7581,
+          "target_coverage": 0.2934,
+          "aligned_residues": 235,
+          "score": 47.5
+        }
+      ]
+    },
+    "RU820_RS01680": {
+      "wp": "WP_012536096.1",
+      "product": "preprotein translocase subunit SecY",
+      "query_length": 443,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|P0AGA2|3.A.5.1.1",
+          "tcid": "3.A.5.1.1",
+          "description": "gnl|TC-DB|P0AGA2|3.A.5.1.1 Preprotein translocase subunit secY - Escherichia coli.",
+          "prefilter_jaccard": 0.103,
+          "identity": 0.6253,
+          "query_coverage": 0.9639,
+          "target_coverage": 0.9639,
+          "aligned_residues": 427,
+          "score": 1388.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q6MJ32|3.A.5.1.3",
+          "tcid": "3.A.5.1.3",
+          "description": "gnl|TC-DB|Q6MJ32|3.A.5.1.3 Protein translocase subunit SecY OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) GN=secY PE=3 SV=1",
+          "prefilter_jaccard": 0.0428,
+          "identity": 0.53,
+          "query_coverage": 0.9413,
+          "target_coverage": 0.9434,
+          "aligned_residues": 417,
+          "score": 1125.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P0A5Z2|3.A.5.2.2",
+          "tcid": "3.A.5.2.2",
+          "description": "gnl|TC-DB|P0A5Z2|3.A.5.2.2 Preprotein translocase subunit secY OS=Mycobacterium tuberculosis GN=secY PE=3 SV=1",
+          "prefilter_jaccard": 0.0162,
+          "identity": 0.4826,
+          "query_coverage": 0.9074,
+          "target_coverage": 0.9116,
+          "aligned_residues": 402,
+          "score": 893.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P0A4H1|3.A.5.4.1",
+          "tcid": "3.A.5.4.1",
+          "description": "gnl|TC-DB|P0A4H1|3.A.5.4.1 Preprotein translocase subunit secY - Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1) (Anacystis nidulans).",
+          "prefilter_jaccard": 0.0198,
+          "identity": 0.4512,
+          "query_coverage": 0.9255,
+          "target_coverage": 0.9339,
+          "aligned_residues": 410,
+          "score": 885.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P16336|3.A.5.2.1",
+          "tcid": "3.A.5.2.1",
+          "description": "gnl|TC-DB|P16336|3.A.5.2.1 PREPROTEIN TRANSLOCASE SECY SUBUNIT - Bacillus subtilis.",
+          "prefilter_jaccard": 0.0188,
+          "identity": 0.4566,
+          "query_coverage": 0.9097,
+          "target_coverage": 0.935,
+          "aligned_residues": 403,
+          "score": 846.5
+        }
+      ]
+    },
+    "RU820_RS02130": {
+      "wp": "WP_012536139.1",
+      "product": "APC family permease",
+      "query_length": 528,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|L0A2L0|2.A.1.2.81",
+          "tcid": "2.A.1.2.81",
+          "description": "gnl|TC-DB|L0A2L0|2.A.1.2.81 Major Facilitator Superfamily transporter OS=Deinococcus peraridilitoris (strain DSM 19664 / LMG 22246 / CIP 109416 / KR-200) GN=Deipe_2189 PE=4 SV=1",
+          "prefilter_jaccard": 0.0063,
+          "identity": 0.408,
+          "query_coverage": 0.5663,
+          "target_coverage": 0.6749,
+          "aligned_residues": 299,
+          "score": 123.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9XIQ7|2.A.71.2.6",
+          "tcid": "2.A.71.2.6",
+          "description": "gnl|TC-DB|Q9XIQ7|2.A.71.2.6 F13O11.19 protein (Hypothetical protein At1g64890) - Arabidopsis thaliana (Mouse-ear cress).",
+          "prefilter_jaccard": 0.0052,
+          "identity": 0.3454,
+          "query_coverage": 0.4716,
+          "target_coverage": 0.5633,
+          "aligned_residues": 249,
+          "score": 102.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9CF78|2.A.40.1.2",
+          "tcid": "2.A.40.1.2",
+          "description": "gnl|TC-DB|Q9CF78|2.A.40.1.2 Uracil permease - Lactococcus lactis (subsp. lactis) (Streptococcus lactis).",
+          "prefilter_jaccard": 0.0053,
+          "identity": 0.2966,
+          "query_coverage": 0.4981,
+          "target_coverage": 0.6116,
+          "aligned_residues": 263,
+          "score": 113.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P0AEX7|3.A.1.4.1",
+          "tcid": "3.A.1.4.1",
+          "description": "gnl|TC-DB|P0AEX7|3.A.1.4.1 High-affinity branched-chain amino acid transport system permease protein livH - Escherichia coli.",
+          "prefilter_jaccard": 0.0049,
+          "identity": 0.3158,
+          "query_coverage": 0.4678,
+          "target_coverage": 0.8019,
+          "aligned_residues": 247,
+          "score": 84.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9L183|2.A.7.3.34",
+          "tcid": "2.A.7.3.34",
+          "description": "gnl|TC-DB|Q9L183|2.A.7.3.34 Putative integral membrane protein OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) GN=SCO7394 PE=4 SV=1",
+          "prefilter_jaccard": 0.0048,
+          "identity": 0.3551,
+          "query_coverage": 0.4053,
+          "target_coverage": 0.6859,
+          "aligned_residues": 214,
+          "score": 99.0
+        }
+      ]
+    },
+    "RU820_RS02205": {
+      "wp": "WP_012536145.1",
+      "product": "MFS transporter",
+      "query_length": 394,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|E4N7C0|2.A.1.39.3",
+          "tcid": "2.A.1.39.3",
+          "description": "gnl|TC-DB|E4N7C0|2.A.1.39.3 Putative efflux protein OS=Kitasatospora setae (strain ATCC 33774 / DSM 43861 / JCM 3304 / KCC A-0304 / NBRC 14216 / KM-6054) GN=KSE_12680 PE=4 SV=1",
+          "prefilter_jaccard": 0.0064,
+          "identity": 0.3724,
+          "query_coverage": 0.736,
+          "target_coverage": 0.7125,
+          "aligned_residues": 290,
+          "score": 120.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P32482|2.A.1.2.3",
+          "tcid": "2.A.1.2.3",
+          "description": "gnl|TC-DB|P32482|2.A.1.2.3 Chloramphenicol resistance protein - Pseudomonas aeruginosa.",
+          "prefilter_jaccard": 0.0075,
+          "identity": 0.3077,
+          "query_coverage": 0.8249,
+          "target_coverage": 0.7757,
+          "aligned_residues": 325,
+          "score": 126.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|C6G9U4|2.A.1.2.103",
+          "tcid": "2.A.1.2.103",
+          "description": "gnl|TC-DB|C6G9U4|2.A.1.2.103 Class D tetracycline/H+ antiporter OS=Escherichia coli GN=tetA PE=4 SV=1",
+          "prefilter_jaccard": 0.0065,
+          "identity": 0.2988,
+          "query_coverage": 0.8325,
+          "target_coverage": 0.8325,
+          "aligned_residues": 328,
+          "score": 139.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P02981|2.A.1.2.102",
+          "tcid": "2.A.1.2.102",
+          "description": "gnl|TC-DB|P02981|2.A.1.2.102 Tetracycline resistance protein, class C OS=Escherichia coli GN=tetA PE=1 SV=1",
+          "prefilter_jaccard": 0.0064,
+          "identity": 0.3079,
+          "query_coverage": 0.7665,
+          "target_coverage": 0.7626,
+          "aligned_residues": 302,
+          "score": 115.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|WP_086853646.1|9.B.220.2.2",
+          "tcid": "9.B.220.2.2",
+          "description": "gnl|TC-DB|WP_086853646.1|9.B.220.2.2 prepilin peptidase [Amycolatopsis kentuckyensis]",
+          "prefilter_jaccard": 0.0094,
+          "identity": 0.3761,
+          "query_coverage": 0.5533,
+          "target_coverage": 0.8417,
+          "aligned_residues": 218,
+          "score": 84.0
+        }
+      ]
+    },
+    "RU820_RS02250": {
+      "wp": "WP_012536152.1",
+      "product": "cation diffusion facilitator family transporter",
+      "query_length": 391,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|Q1LHU8|2.A.4.7.9",
+          "tcid": "2.A.4.7.9",
+          "description": "gnl|TC-DB|Q1LHU8|2.A.4.7.9 Cation Diffusion Factor, metal efflux system component OS=Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34) GN=fieF PE=3 SV=1",
+          "prefilter_jaccard": 0.0084,
+          "identity": 0.4429,
+          "query_coverage": 0.7161,
+          "target_coverage": 0.8309,
+          "aligned_residues": 280,
+          "score": 545.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9RCF4|3.A.1.14.6",
+          "tcid": "3.A.1.14.6",
+          "description": "gnl|TC-DB|Q9RCF4|3.A.1.14.6 CYTOPLASMIC MEMBRANE PERMEASE (FERRIC VIBRIOBACTIN ABC TRANSPORTER, PERMEASE PROTEIN) - Vibrio cholerae.",
+          "prefilter_jaccard": 0.0054,
+          "identity": 0.3318,
+          "query_coverage": 0.5396,
+          "target_coverage": 0.5894,
+          "aligned_residues": 211,
+          "score": 66.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9RCF6|3.A.1.14.6",
+          "tcid": "3.A.1.14.6",
+          "description": "gnl|TC-DB|Q9RCF6|3.A.1.14.6 PERIPLASMIC BINDING PROTEIN (FERRIC VIBRIOBACTIN ABC TRANSPORTER, PERIPLASMIC FERRIC VIBRIOBACTIN- BINDING PROTEIN) - Vibrio cholerae.",
+          "prefilter_jaccard": 0.0057,
+          "identity": 0.301,
+          "query_coverage": 0.5269,
+          "target_coverage": 0.6338,
+          "aligned_residues": 206,
+          "score": 75.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|S6FVR4|4.A.1.2.17",
+          "tcid": "4.A.1.2.17",
+          "description": "gnl|TC-DB|S6FVR4|4.A.1.2.17 PTS system N-acetylmuramic acid-specific EIIBC component OS=Bacillus velezensis UCMB5033 OX=1338518 GN=murP PE=4 SV=1",
+          "prefilter_jaccard": 0.0048,
+          "identity": 0.3024,
+          "query_coverage": 0.5243,
+          "target_coverage": 0.4505,
+          "aligned_residues": 205,
+          "score": 59.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|B4EKB4|3.A.1.14.27",
+          "tcid": "3.A.1.14.27",
+          "description": "gnl|TC-DB|B4EKB4|3.A.1.14.27 Putative hemin ABC transport system, membrane protein OS=Burkholderia cenocepacia (strain ATCC BAA-245 / DSM 16553 / LMG 16656 / NCTC 13227 / J2315 / CF5610) OX=216591 GN=hmuU PE=1 SV=1",
+          "prefilter_jaccard": 0.0054,
+          "identity": 0.4173,
+          "query_coverage": 0.3555,
+          "target_coverage": 0.384,
+          "aligned_residues": 139,
+          "score": 61.5
+        }
+      ]
+    },
+    "RU820_RS02330": {
+      "wp": "WP_012536161.1",
+      "product": "lipoprotein-releasing ABC transporter permease subunit",
+      "query_length": 414,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|P0ADC3|3.A.1.125.1",
+          "tcid": "3.A.1.125.1",
+          "description": "gnl|TC-DB|P0ADC3|3.A.1.125.1 Lipoprotein-releasing system transmembrane protein lolC - Escherichia coli.",
+          "prefilter_jaccard": 0.019,
+          "identity": 0.4094,
+          "query_coverage": 0.9203,
+          "target_coverage": 0.9549,
+          "aligned_residues": 381,
+          "score": 647.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|L8F4M3|9.B.67.7.2",
+          "tcid": "9.B.67.7.2",
+          "description": "gnl|TC-DB|L8F4M3|9.B.67.7.2 Uncharacterized protein OS=Mycobacterium smegmatis MKD8 GN=D806_6010 PE=4 SV=1",
+          "prefilter_jaccard": 0.005,
+          "identity": 0.3717,
+          "query_coverage": 0.5459,
+          "target_coverage": 0.565,
+          "aligned_residues": 226,
+          "score": 56.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q8NRV9|3.A.1.4.5",
+          "tcid": "3.A.1.4.5",
+          "description": "gnl|TC-DB|Q8NRV9|3.A.1.4.5 UrtC - Corynebacterium glutamicum.",
+          "prefilter_jaccard": 0.0066,
+          "identity": 0.2975,
+          "query_coverage": 0.6739,
+          "target_coverage": 0.7772,
+          "aligned_residues": 279,
+          "score": 125.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|A7VNH8|3.A.10.1.13",
+          "tcid": "3.A.10.1.13",
+          "description": "gnl|TC-DB|A7VNH8|3.A.10.1.13 Putative K(+)-stimulated pyrophosphate-energized sodium pump OS=Clostridium leptum DSM 753 GN=hppA PE=3 SV=1",
+          "prefilter_jaccard": 0.0055,
+          "identity": 0.2612,
+          "query_coverage": 0.6473,
+          "target_coverage": 0.3829,
+          "aligned_residues": 268,
+          "score": 63.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P77315|3.A.1.2.27",
+          "tcid": "3.A.1.2.27",
+          "description": "gnl|TC-DB|P77315|3.A.1.2.27 Probable ABC transporter permease protein YphD OS=Escherichia coli (strain K12) GN=yphD PE=3 SV=1",
+          "prefilter_jaccard": 0.0054,
+          "identity": 0.2705,
+          "query_coverage": 0.5894,
+          "target_coverage": 0.7349,
+          "aligned_residues": 244,
+          "score": 84.0
+        }
+      ]
+    },
+    "RU820_RS02350": {
+      "wp": "WP_012536164.1",
+      "product": "MotA/TolQ/ExbB proton channel family protein",
+      "query_length": 206,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|Q1DFL7|1.A.30.2.3",
+          "tcid": "1.A.30.2.3",
+          "description": "gnl|TC-DB|Q1DFL7|1.A.30.2.3 TonB system transport protein ExbB/TolQ OS=Myxococcus xanthus (strain DK 1622) GN=MXAN_0275 PE=3 SV=1",
+          "prefilter_jaccard": 0.009,
+          "identity": 0.3855,
+          "query_coverage": 0.8689,
+          "target_coverage": 0.716,
+          "aligned_residues": 179,
+          "score": 255.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q8F192|1.A.30.2.9",
+          "tcid": "1.A.30.2.9",
+          "description": "gnl|TC-DB|Q8F192|1.A.30.2.9 Biopolymer transport protein TolQ OS=Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601) GN=tolQ PE=3 SV=1",
+          "prefilter_jaccard": 0.013,
+          "identity": 0.3438,
+          "query_coverage": 0.932,
+          "target_coverage": 0.7111,
+          "aligned_residues": 192,
+          "score": 285.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q55834|1.A.30.2.11",
+          "tcid": "1.A.30.2.11",
+          "description": "gnl|TC-DB|Q55834|1.A.30.2.11 Putative biopolymer transport protein ExbB-like 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0477 PE=3 SV=1",
+          "prefilter_jaccard": 0.0203,
+          "identity": 0.3529,
+          "query_coverage": 0.9078,
+          "target_coverage": 0.7362,
+          "aligned_residues": 187,
+          "score": 216.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P0ABU9|1.A.30.2.2",
+          "tcid": "1.A.30.2.2",
+          "description": "gnl|TC-DB|P0ABU9|1.A.30.2.2 Protein tolQ - Escherichia coli.",
+          "prefilter_jaccard": 0.0118,
+          "identity": 0.3591,
+          "query_coverage": 0.8786,
+          "target_coverage": 0.787,
+          "aligned_residues": 181,
+          "score": 216.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q84FB8|1.A.30.3.2",
+          "tcid": "1.A.30.3.2",
+          "description": "gnl|TC-DB|Q84FB8|1.A.30.3.2 Adventurous gliding motility protein R OS=Myxococcus xanthus GN=aglR PE=3 SV=1",
+          "prefilter_jaccard": 0.0091,
+          "identity": 0.278,
+          "query_coverage": 0.9951,
+          "target_coverage": 0.8367,
+          "aligned_residues": 205,
+          "score": 209.0
+        }
+      ]
+    },
+    "RU820_RS02580": {
+      "wp": "WP_012536186.1",
+      "product": "outer membrane beta-barrel protein",
+      "query_length": 201,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|O50471|2.A.21.7.1",
+          "tcid": "2.A.21.7.1",
+          "description": "gnl|TC-DB|O50471|2.A.21.7.1 PHENYLACETIC ACID PERMEASE - Pseudomonas putida.",
+          "prefilter_jaccard": 0.0056,
+          "identity": 0.3478,
+          "query_coverage": 0.6866,
+          "target_coverage": 0.2654,
+          "aligned_residues": 138,
+          "score": 90.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9Z445|2.A.70.1.2",
+          "tcid": "2.A.70.1.2",
+          "description": "gnl|TC-DB|Q9Z445|2.A.70.1.2 Malonate transporter - Pseudomonas putida.",
+          "prefilter_jaccard": 0.009,
+          "identity": 0.3945,
+          "query_coverage": 0.5423,
+          "target_coverage": 0.4291,
+          "aligned_residues": 109,
+          "score": 81.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q8TDX9|1.A.5.1.3",
+          "tcid": "1.A.5.1.3",
+          "description": "gnl|TC-DB|Q8TDX9|1.A.5.1.3 Polycystic kidney disease protein 1-like 1 OS=Homo sapiens GN=PKD1L1 PE=2 SV=1",
+          "prefilter_jaccard": 0.0013,
+          "identity": 0.3148,
+          "query_coverage": 0.5373,
+          "target_coverage": 0.0379,
+          "aligned_residues": 108,
+          "score": 48.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|WP_164102460.1|9.B.27.4.2",
+          "tcid": "9.B.27.4.2",
+          "description": "gnl|TC-DB|WP_164102460.1|9.B.27.4.2 VTT domain-containing protein [Roseimaritima sp. JC640]",
+          "prefilter_jaccard": 0.0099,
+          "identity": 0.3846,
+          "query_coverage": 0.3881,
+          "target_coverage": 0.3611,
+          "aligned_residues": 78,
+          "score": 53.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q1ZRT3|1.B.14.16.6",
+          "tcid": "1.B.14.16.6",
+          "description": "gnl|TC-DB|Q1ZRT3|1.B.14.16.6 Putative uncharacterized protein OS=Photobacterium angustum (strain S14 / CCUG 15956) GN=VAS14_05973 PE=4 SV=1",
+          "prefilter_jaccard": 0.0044,
+          "identity": 0.3448,
+          "query_coverage": 0.4328,
+          "target_coverage": 0.1212,
+          "aligned_residues": 87,
+          "score": 54.0
+        }
+      ]
+    },
+    "RU820_RS02660": {
+      "wp": "WP_012536197.1",
+      "product": "YhdP family protein",
+      "query_length": 1224,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|C1DHA2|3.A.3.4.4",
+          "tcid": "3.A.3.4.4",
+          "description": "gnl|TC-DB|C1DHA2|3.A.3.4.4 Cation-translocating P-type ATPase with extended N-terminal transmembrane region OS=Azotobacter vinelandii (strain DJ / ATCC BAA-1303) GN=Avin_02480 PE=3 SV=1",
+          "prefilter_jaccard": 0.0038,
+          "identity": 0.3189,
+          "query_coverage": 0.7353,
+          "target_coverage": 0.7531,
+          "aligned_residues": 900,
+          "score": 110.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q89Y60|1.B.4.2.16",
+          "tcid": "1.B.4.2.16",
+          "description": "gnl|TC-DB|Q89Y60|1.B.4.2.16 Blr0095 protein OS=Bradyrhizobium japonicum GN=blr0095 PE=4 SV=1",
+          "prefilter_jaccard": 0.0037,
+          "identity": 0.3311,
+          "query_coverage": 0.3578,
+          "target_coverage": 0.6489,
+          "aligned_residues": 438,
+          "score": 96.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q2J989|9.B.62.3.1",
+          "tcid": "9.B.62.3.1",
+          "description": "gnl|TC-DB|Q2J989|9.B.62.3.1 Copper resistance D OS=Frankia sp. (strain CcI3) GN=Francci3_2795 PE=4 SV=1",
+          "prefilter_jaccard": 0.0042,
+          "identity": 0.3222,
+          "query_coverage": 0.3423,
+          "target_coverage": 0.5693,
+          "aligned_residues": 419,
+          "score": 88.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|WP_131814880.1|1.B.89.1.5",
+          "tcid": "1.B.89.1.5",
+          "description": "gnl|TC-DB|WP_131814880.1|1.B.89.1.5 hypothetical protein [Mycolicibacterium porcinum]",
+          "prefilter_jaccard": 0.0036,
+          "identity": 0.3316,
+          "query_coverage": 0.3203,
+          "target_coverage": 0.8305,
+          "aligned_residues": 392,
+          "score": 68.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|E4NCF3|9.B.226.1.7",
+          "tcid": "9.B.226.1.7",
+          "description": "gnl|TC-DB|E4NCF3|9.B.226.1.7 Uncharacterized protein OS=Kitasatospora setae (strain ATCC 33774 / DSM 43861 / JCM 3304 / KCC A-0304 / NBRC 14216 / KM-6054) GN=KSE_30730 PE=4 SV=1",
+          "prefilter_jaccard": 0.0043,
+          "identity": 0.3414,
+          "query_coverage": 0.2704,
+          "target_coverage": 0.7807,
+          "aligned_residues": 331,
+          "score": 99.0
+        }
+      ]
+    },
+    "RU820_RS02670": {
+      "wp": "WP_012536199.1",
+      "product": "ABC transporter ATP-binding protein/permease",
+      "query_length": 587,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|H0RSU6|3.A.1.203.12",
+          "tcid": "3.A.1.203.12",
+          "description": "gnl|TC-DB|H0RSU6|3.A.1.203.12 Putative ABC transporter OS=Bradyrhizobium sp. ORS 285 GN=bclA PE=4 SV=1",
+          "prefilter_jaccard": 0.0211,
+          "identity": 0.4485,
+          "query_coverage": 0.9421,
+          "target_coverage": 0.9437,
+          "aligned_residues": 553,
+          "score": 1254.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q6NLC1|3.A.1.203.8",
+          "tcid": "3.A.1.203.8",
+          "description": "gnl|TC-DB|Q6NLC1|3.A.1.203.8 ABC transporter D family member 2, chloroplastic OS=Arabidopsis thaliana GN=ABCC2 PE=1 SV=1",
+          "prefilter_jaccard": 0.0158,
+          "identity": 0.4131,
+          "query_coverage": 0.9114,
+          "target_coverage": 0.7578,
+          "aligned_residues": 535,
+          "score": 850.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q50614|3.A.1.203.4",
+          "tcid": "3.A.1.203.4",
+          "description": "gnl|TC-DB|Q50614|3.A.1.203.4 Uncharacterized ABC transporter ATP-binding protein Rv1819c/MT1867 OS=Mycobacterium tuberculosis GN=Rv1819c PE=3 SV=1",
+          "prefilter_jaccard": 0.0125,
+          "identity": 0.385,
+          "query_coverage": 0.9336,
+          "target_coverage": 0.8576,
+          "aligned_residues": 548,
+          "score": 941.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|O14678|3.A.1.203.9",
+          "tcid": "3.A.1.203.9",
+          "description": "gnl|TC-DB|O14678|3.A.1.203.9 ATP-binding cassette sub-family D member 4 OS=Homo sapiens GN=ABCD4 PE=1 SV=1",
+          "prefilter_jaccard": 0.0085,
+          "identity": 0.346,
+          "query_coverage": 0.8518,
+          "target_coverage": 0.8251,
+          "aligned_residues": 500,
+          "score": 556.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q2G2M9|3.A.1.106.2",
+          "tcid": "3.A.1.106.2",
+          "description": "gnl|TC-DB|Q2G2M9|3.A.1.106.2 Putative multidrug export ATP-binding/permease protein SAOUHSC_02003 - Staphylococcus aureus (strain NCTC 8325).",
+          "prefilter_jaccard": 0.0052,
+          "identity": 0.2952,
+          "query_coverage": 0.8194,
+          "target_coverage": 0.8322,
+          "aligned_residues": 481,
+          "score": 266.5
+        }
+      ]
+    },
+    "RU820_RS02780": {
+      "wp": "WP_012536214.1",
+      "product": "TolC family outer membrane protein",
+      "query_length": 444,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|KAA6419413.1|9.B.392.4.3",
+          "tcid": "9.B.392.4.3",
+          "description": "gnl|TC-DB|KAA6419413.1|9.B.392.4.3 hypothetical protein FRX49_10671 [Trebouxia sp. A1-2]",
+          "prefilter_jaccard": 0.0033,
+          "identity": 0.2894,
+          "query_coverage": 0.8716,
+          "target_coverage": 0.3505,
+          "aligned_residues": 387,
+          "score": 120.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q6MM47|1.B.17.2.11",
+          "tcid": "1.B.17.2.11",
+          "description": "gnl|TC-DB|Q6MM47|1.B.17.2.11 Uncharacterized protein OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) GN=Bd1797 PE=4 SV=1",
+          "prefilter_jaccard": 0.0044,
+          "identity": 0.2899,
+          "query_coverage": 0.6914,
+          "target_coverage": 0.633,
+          "aligned_residues": 307,
+          "score": 89.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|XP_003062523.1|9.B.392.4.2",
+          "tcid": "9.B.392.4.2",
+          "description": "gnl|TC-DB|XP_003062523.1|9.B.392.4.2 predicted protein [Micromonas pusilla CCMP1545]",
+          "prefilter_jaccard": 0.0033,
+          "identity": 0.3109,
+          "query_coverage": 0.6014,
+          "target_coverage": 0.3041,
+          "aligned_residues": 267,
+          "score": 122.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q41010|3.A.9.1.1",
+          "tcid": "3.A.9.1.1",
+          "description": "gnl|TC-DB|Q41010|3.A.9.1.1 CHLOROPLAST OUTER ENVELOPE PROTEIN OEP86 PRECURSOR (GTP-BINDING PROTEIN IAP86) - Pisum sativum (Garden pea).",
+          "prefilter_jaccard": 0.0031,
+          "identity": 0.28,
+          "query_coverage": 0.6194,
+          "target_coverage": 0.3129,
+          "aligned_residues": 275,
+          "score": 52.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9JZI0|3.A.3.27.1",
+          "tcid": "3.A.3.27.1",
+          "description": "gnl|TC-DB|Q9JZI0|3.A.3.27.1 Cation-transporting ATPase - Neisseria meningitidis serogroup B.",
+          "prefilter_jaccard": 0.004,
+          "identity": 0.3316,
+          "query_coverage": 0.4279,
+          "target_coverage": 0.2309,
+          "aligned_residues": 190,
+          "score": 79.5
+        }
+      ]
+    },
+    "RU820_RS02790": {
+      "wp": "WP_012536216.1",
+      "product": "lysylphosphatidylglycerol synthase transmembrane domain-containing protein",
+      "query_length": 328,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|Q1CXF7|2.A.28.1.10",
+          "tcid": "2.A.28.1.10",
+          "description": "gnl|TC-DB|Q1CXF7|2.A.28.1.10 Sodium bile acid symporter family OS=Myxococcus xanthus (strain DK 1622) GN=MXAN_6799 PE=4 SV=1",
+          "prefilter_jaccard": 0.0076,
+          "identity": 0.3731,
+          "query_coverage": 0.6128,
+          "target_coverage": 0.5877,
+          "aligned_residues": 201,
+          "score": 81.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|BAF59645|9.B.142.11.8",
+          "tcid": "9.B.142.11.8",
+          "description": "gnl|TC-DB|BAF59645|9.B.142.11.8 predicted integral membrane protein [Pelotomaculum thermopropionicum SI]",
+          "prefilter_jaccard": 0.0058,
+          "identity": 0.3288,
+          "query_coverage": 0.6677,
+          "target_coverage": 0.5919,
+          "aligned_residues": 219,
+          "score": 81.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P31126|2.A.1.2.55",
+          "tcid": "2.A.1.2.55",
+          "description": "gnl|TC-DB|P31126|2.A.1.2.55 Uncharacterized MFS-type transporter ydeE OS=Escherichia coli (strain K12) GN=ydeE PE=3 SV=2",
+          "prefilter_jaccard": 0.007,
+          "identity": 0.2857,
+          "query_coverage": 0.7256,
+          "target_coverage": 0.6025,
+          "aligned_residues": 238,
+          "score": 89.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|WP_029308938|9.B.143.3.6",
+          "tcid": "9.B.143.3.6",
+          "description": "gnl|TC-DB|WP_029308938|9.B.143.3.6 DUF1275 domain-containing transporter [Cupriavidus metallidurans]",
+          "prefilter_jaccard": 0.0071,
+          "identity": 0.3438,
+          "query_coverage": 0.5854,
+          "target_coverage": 0.4974,
+          "aligned_residues": 192,
+          "score": 91.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q97UG3|3.A.1.5.8",
+          "tcid": "3.A.1.5.8",
+          "description": "gnl|TC-DB|Q97UG3|3.A.1.5.8 Maltose ABC transporter, permease - Sulfolobus solfataricus.",
+          "prefilter_jaccard": 0.0063,
+          "identity": 0.3896,
+          "query_coverage": 0.4695,
+          "target_coverage": 0.4768,
+          "aligned_residues": 154,
+          "score": 71.0
+        }
+      ]
+    },
+    "RU820_RS02915": {
+      "wp": "WP_012536229.1",
+      "product": "metal ABC transporter ATP-binding protein",
+      "query_length": 274,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|Q53VZ4|3.A.1.20.5",
+          "tcid": "3.A.1.20.5",
+          "description": "gnl|TC-DB|Q53VZ4|3.A.1.20.5 ABC transporter, ATP-binding protein OS=Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579) OX=300852 GN=TTHB175 PE=3 SV=1",
+          "prefilter_jaccard": 0.0144,
+          "identity": 0.4104,
+          "query_coverage": 0.7737,
+          "target_coverage": 0.5761,
+          "aligned_residues": 212,
+          "score": 264.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q5SHV0|3.A.1.10.6",
+          "tcid": "3.A.1.10.6",
+          "description": "gnl|TC-DB|Q5SHV0|3.A.1.10.6 Iron ABC transporter, ATP-binding protein OS=Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579) OX=300852 GN=TTHA1630 PE=3 SV=1",
+          "prefilter_jaccard": 0.0148,
+          "identity": 0.4135,
+          "query_coverage": 0.7591,
+          "target_coverage": 0.5943,
+          "aligned_residues": 208,
+          "score": 298.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|D5UKP4|3.A.1.122.32",
+          "tcid": "3.A.1.122.32",
+          "description": "gnl|TC-DB|D5UKP4|3.A.1.122.32 ABC transporter related protein OS=Cellulomonas flavigena (strain ATCC 482 / DSM 20109 / NCIB 8073 / NRS 134) OX=446466 GN=Cfla_0955 PE=4 SV=1",
+          "prefilter_jaccard": 0.0161,
+          "identity": 0.4069,
+          "query_coverage": 0.7445,
+          "target_coverage": 0.85,
+          "aligned_residues": 204,
+          "score": 292.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q4V0W4|3.A.1.15.21",
+          "tcid": "3.A.1.15.21",
+          "description": "gnl|TC-DB|Q4V0W4|3.A.1.15.21 Manganese ABC transporter, ATP-binding protein OS=Bacillus cereus (strain ZK / E33L) OX=288681 GN=mntB PE=4 SV=1",
+          "prefilter_jaccard": 0.0138,
+          "identity": 0.3571,
+          "query_coverage": 0.8175,
+          "target_coverage": 0.8996,
+          "aligned_residues": 224,
+          "score": 329.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P74127|3.A.1.10.2",
+          "tcid": "3.A.1.10.2",
+          "description": "gnl|TC-DB|P74127|3.A.1.10.2 ABC TRANSPORTER - Synechocystis sp. (strain PCC 6803).",
+          "prefilter_jaccard": 0.0144,
+          "identity": 0.3482,
+          "query_coverage": 0.8175,
+          "target_coverage": 0.6087,
+          "aligned_residues": 224,
+          "score": 272.5
+        }
+      ]
+    },
+    "RU820_RS02895": {
+      "wp": "WP_012606598.1",
+      "product": "HlyC/CorC family transporter",
+      "query_length": 291,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|P0A2L3|1.C.126.1.2",
+          "tcid": "1.C.126.1.2",
+          "description": "gnl|TC-DB|P0A2L3|1.C.126.1.2 Magnesium and cobalt efflux protein corC - Salmonella typhimurium.",
+          "prefilter_jaccard": 0.0159,
+          "identity": 0.419,
+          "query_coverage": 0.9759,
+          "target_coverage": 0.9726,
+          "aligned_residues": 284,
+          "score": 602.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|WP_097001274.1|1.C.126.1.3",
+          "tcid": "1.C.126.1.3",
+          "description": "gnl|TC-DB|WP_097001274.1|1.C.126.1.3 CBS domain-containing protein [Francisella tularensis]",
+          "prefilter_jaccard": 0.0143,
+          "identity": 0.3647,
+          "query_coverage": 0.8763,
+          "target_coverage": 0.8916,
+          "aligned_residues": 255,
+          "score": 440.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|AHN67314.1|1.C.126.1.4",
+          "tcid": "1.C.126.1.4",
+          "description": "gnl|TC-DB|AHN67314.1|1.C.126.1.4 hemolysin [Treponema pallidum subsp. pallidum str. Sea 81-4]",
+          "prefilter_jaccard": 0.0131,
+          "identity": 0.4061,
+          "query_coverage": 0.7869,
+          "target_coverage": 0.8842,
+          "aligned_residues": 229,
+          "score": 383.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q54318|1.C.126.1.1",
+          "tcid": "1.C.126.1.1",
+          "description": "gnl|TC-DB|Q54318|1.C.126.1.1 HEMOLYSIN C - Treponema hyodysenteriae (Serpulina hyodysenteriae).",
+          "prefilter_jaccard": 0.0073,
+          "identity": 0.3805,
+          "query_coverage": 0.7766,
+          "target_coverage": 0.8433,
+          "aligned_residues": 226,
+          "score": 340.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P29475|8.A.24.2.4",
+          "tcid": "8.A.24.2.4",
+          "description": "gnl|TC-DB|P29475|8.A.24.2.4 Nitric oxide synthase, brain OS=Homo sapiens OX=9606 GN=NOS1 PE=1 SV=2",
+          "prefilter_jaccard": 0.0023,
+          "identity": 0.3647,
+          "query_coverage": 0.2921,
+          "target_coverage": 0.0593,
+          "aligned_residues": 85,
+          "score": 45.0
+        }
+      ]
+    },
+    "RU820_RS02920": {
+      "wp": "WP_012606601.1",
+      "product": "metal ABC transporter permease",
+      "query_length": 296,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|L8FFP2|2.A.1.2.95",
+          "tcid": "2.A.1.2.95",
+          "description": "gnl|TC-DB|L8FFP2|2.A.1.2.95 High-affinity glucose transporter OS=Mycobacterium smegmatis MKD8 GN=blt PE=4 SV=1",
+          "prefilter_jaccard": 0.0085,
+          "identity": 0.4087,
+          "query_coverage": 0.7027,
+          "target_coverage": 0.4929,
+          "aligned_residues": 208,
+          "score": 114.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|B8IHC5|2.A.1.27.2",
+          "tcid": "2.A.1.27.2",
+          "description": "gnl|TC-DB|B8IHC5|2.A.1.27.2 Major facilitator superfamily MFS_1 OS=Methylobacterium nodulans (strain LMG 21967 / CNCM I-2342 / ORS 2060) GN=Mnod_4960 PE=4 SV=1",
+          "prefilter_jaccard": 0.0088,
+          "identity": 0.3923,
+          "query_coverage": 0.7061,
+          "target_coverage": 0.5148,
+          "aligned_residues": 209,
+          "score": 114.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|KMO78866|2.A.7.36.1",
+          "tcid": "2.A.7.36.1",
+          "description": "gnl|TC-DB|KMO78866|2.A.7.36.1 EamA-like transporter family protein [Mycolicibacterium chubuense]",
+          "prefilter_jaccard": 0.0088,
+          "identity": 0.3714,
+          "query_coverage": 0.7095,
+          "target_coverage": 0.7317,
+          "aligned_residues": 210,
+          "score": 95.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P0AA67|2.A.7.3.6",
+          "tcid": "2.A.7.3.6",
+          "description": "gnl|TC-DB|P0AA67|2.A.7.3.6 Uncharacterized inner membrane transporter ybiF - Escherichia coli.",
+          "prefilter_jaccard": 0.0087,
+          "identity": 0.3943,
+          "query_coverage": 0.5912,
+          "target_coverage": 0.5932,
+          "aligned_residues": 175,
+          "score": 104.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|PZH07928.1|9.B.36.13.3",
+          "tcid": "9.B.36.13.3",
+          "description": "gnl|TC-DB|PZH07928.1|9.B.36.13.3 hypothetical protein C1I97_17090 [Streptomyces sp. NTH33]",
+          "prefilter_jaccard": 0.0096,
+          "identity": 0.375,
+          "query_coverage": 0.5946,
+          "target_coverage": 0.3851,
+          "aligned_residues": 176,
+          "score": 92.5
+        }
+      ]
+    },
+    "RU820_RS02640": {
+      "wp": "WP_225487408.1",
+      "product": "protein-disulfide reductase DsbD",
+      "query_length": 597,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|Q9JTL9|5.A.1.1.2",
+          "tcid": "5.A.1.1.2",
+          "description": "gnl|TC-DB|Q9JTL9|5.A.1.1.2 Thiol:disulfide interchange protein dsbD - Neisseria meningitidis serogroup A.",
+          "prefilter_jaccard": 0.0111,
+          "identity": 0.4176,
+          "query_coverage": 0.8744,
+          "target_coverage": 0.8686,
+          "aligned_residues": 522,
+          "score": 890.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|C7NF08|9.B.226.1.1",
+          "tcid": "9.B.226.1.1",
+          "description": "gnl|TC-DB|C7NF08|9.B.226.1.1 Putative uncharacterized protein OS=Kytococcus sedentarius (strain ATCC 14392 / DSM 20547 / CCM 314 / 541) GN=Ksed_07760 PE=4 SV=1",
+          "prefilter_jaccard": 0.006,
+          "identity": 0.3729,
+          "query_coverage": 0.5075,
+          "target_coverage": 0.7146,
+          "aligned_residues": 303,
+          "score": 141.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q16572|2.A.1.2.28",
+          "tcid": "2.A.1.2.28",
+          "description": "gnl|TC-DB|Q16572|2.A.1.2.28 Vesicular acetylcholine transporter - Homo sapiens (Human).",
+          "prefilter_jaccard": 0.0063,
+          "identity": 0.3364,
+          "query_coverage": 0.5528,
+          "target_coverage": 0.6203,
+          "aligned_residues": 330,
+          "score": 112.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P77304|2.A.17.1.2",
+          "tcid": "2.A.17.1.2",
+          "description": "gnl|TC-DB|P77304|2.A.17.1.2 Tripeptide permease tppB - Escherichia coli (strain K12).",
+          "prefilter_jaccard": 0.0065,
+          "identity": 0.3138,
+          "query_coverage": 0.5444,
+          "target_coverage": 0.65,
+          "aligned_residues": 325,
+          "score": 82.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|H6RNX6|2.A.7.3.48",
+          "tcid": "2.A.7.3.48",
+          "description": "gnl|TC-DB|H6RNX6|2.A.7.3.48 Multidrug resistance efflux transporter EmrE OS=Blastococcus saxobsidens (strain DD2) GN=BLASA_0476 PE=4 SV=1",
+          "prefilter_jaccard": 0.0111,
+          "identity": 0.3867,
+          "query_coverage": 0.4288,
+          "target_coverage": 0.7975,
+          "aligned_residues": 256,
+          "score": 118.5
+        }
+      ]
+    },
+    "RU820_RS02705": {
+      "wp": "WP_225487409.1",
+      "product": "murein biosynthesis integral membrane protein MurJ",
+      "query_length": 533,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|P37169|2.A.66.4.1",
+          "tcid": "2.A.66.4.1",
+          "description": "gnl|TC-DB|P37169|2.A.66.4.1 Virulence factor mviN - Salmonella typhimurium.",
+          "prefilter_jaccard": 0.0194,
+          "identity": 0.4772,
+          "query_coverage": 0.9475,
+          "target_coverage": 0.9637,
+          "aligned_residues": 505,
+          "score": 1223.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P0AF16|2.A.66.4.3",
+          "tcid": "2.A.66.4.3",
+          "description": "gnl|TC-DB|P0AF16|2.A.66.4.3 Probable peptidoglycan biosynthesis protein MurJ OS=Escherichia coli (strain K12) GN=murJ PE=1 SV=1",
+          "prefilter_jaccard": 0.0167,
+          "identity": 0.4742,
+          "query_coverage": 0.9456,
+          "target_coverage": 0.9863,
+          "aligned_residues": 504,
+          "score": 1203.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|D0WY71|2.A.66.4.5",
+          "tcid": "2.A.66.4.5",
+          "description": "gnl|TC-DB|D0WY71|2.A.66.4.5 MviN protein OS=Vibrio alginolyticus 40B GN=mviN PE=4 SV=1",
+          "prefilter_jaccard": 0.0136,
+          "identity": 0.4609,
+          "query_coverage": 0.9362,
+          "target_coverage": 0.9596,
+          "aligned_residues": 499,
+          "score": 1067.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|B1JXG0|2.A.66.4.7",
+          "tcid": "2.A.66.4.7",
+          "description": "gnl|TC-DB|B1JXG0|2.A.66.4.7 Protein MurJ homolog OS=Burkholderia cenocepacia (strain MC0-3) GN=Bcenmc03_2574 PE=3 SV=1",
+          "prefilter_jaccard": 0.0087,
+          "identity": 0.4391,
+          "query_coverage": 0.94,
+          "target_coverage": 0.9709,
+          "aligned_residues": 501,
+          "score": 1034.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|K0FB79|9.B.169.1.9",
+          "tcid": "9.B.169.1.9",
+          "description": "gnl|TC-DB|K0FB79|9.B.169.1.9 Uncharacterized protein OS=Nocardia brasiliensis ATCC 700358 GN=O3I_033735 PE=4 SV=1",
+          "prefilter_jaccard": 0.0066,
+          "identity": 0.3061,
+          "query_coverage": 0.6191,
+          "target_coverage": 0.8418,
+          "aligned_residues": 330,
+          "score": 102.5
+        }
+      ]
+    },
+    "RU820_RS02980": {
+      "wp": "WP_226834132.1",
+      "product": "ABC transporter ATP-binding protein",
+      "query_length": 605,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|Q7NL26|3.A.1.106.12",
+          "tcid": "3.A.1.106.12",
+          "description": "gnl|TC-DB|Q7NL26|3.A.1.106.12 HlyB/MsbA family ABC transporter OS=Gloeobacter violaceus (strain PCC 7421) GN=glr1300 PE=3 SV=1",
+          "prefilter_jaccard": 0.0147,
+          "identity": 0.408,
+          "query_coverage": 0.8628,
+          "target_coverage": 0.9047,
+          "aligned_residues": 522,
+          "score": 689.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|B2WTH9|3.A.1.201.12",
+          "tcid": "3.A.1.201.12",
+          "description": "gnl|TC-DB|B2WTH9|3.A.1.201.12 ABCB/p-glycoprotein-like protein OS=Mytilus californianus PE=2 SV=1",
+          "prefilter_jaccard": 0.0092,
+          "identity": 0.3981,
+          "query_coverage": 0.8595,
+          "target_coverage": 0.3966,
+          "aligned_residues": 520,
+          "score": 701.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q7NL25|3.A.1.106.11",
+          "tcid": "3.A.1.106.11",
+          "description": "gnl|TC-DB|Q7NL25|3.A.1.106.11 HlyB/MsbA family ABC transporter OS=Gloeobacter violaceus (strain PCC 7421) GN=glr1301 PE=3 SV=1",
+          "prefilter_jaccard": 0.0128,
+          "identity": 0.3926,
+          "query_coverage": 0.8463,
+          "target_coverage": 0.8605,
+          "aligned_residues": 512,
+          "score": 700.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|I0DHH7|3.A.1.201.16",
+          "tcid": "3.A.1.201.16",
+          "description": "gnl|TC-DB|I0DHH7|3.A.1.201.16 ATP-binding cassette transporter subfamily B member 4a OS=Strongylocentrotus purpuratus GN=ABCB4a PE=2 SV=1",
+          "prefilter_jaccard": 0.0126,
+          "identity": 0.3551,
+          "query_coverage": 0.9355,
+          "target_coverage": 0.4361,
+          "aligned_residues": 566,
+          "score": 770.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q9R7V3|3.A.1.21.1",
+          "tcid": "3.A.1.21.1",
+          "description": "gnl|TC-DB|Q9R7V3|3.A.1.21.1 YBTP PROTEIN - Yersinia pestis.",
+          "prefilter_jaccard": 0.0093,
+          "identity": 0.3558,
+          "query_coverage": 0.9058,
+          "target_coverage": 0.9133,
+          "aligned_residues": 548,
+          "score": 664.5
+        }
+      ]
+    },
+    "RU820_RS02760": {
+      "wp": "WP_226834140.1",
+      "product": "AI-2E family transporter",
+      "query_length": 421,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|Q9HZF0|2.A.66.6.1",
+          "tcid": "2.A.66.6.1",
+          "description": "gnl|TC-DB|Q9HZF0|2.A.66.6.1 PelG OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=pelG PE=4 SV=1",
+          "prefilter_jaccard": 0.007,
+          "identity": 0.367,
+          "query_coverage": 0.6342,
+          "target_coverage": 0.5855,
+          "aligned_residues": 267,
+          "score": 122.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|O32859|2.A.1.21.4",
+          "tcid": "2.A.1.21.4",
+          "description": "gnl|TC-DB|O32859|2.A.1.21.4 TAP PROTEIN - Mycobacterium fortuitum.",
+          "prefilter_jaccard": 0.0074,
+          "identity": 0.3322,
+          "query_coverage": 0.6865,
+          "target_coverage": 0.7066,
+          "aligned_residues": 289,
+          "score": 127.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q06A41|3.A.1.14.14",
+          "tcid": "3.A.1.14.14",
+          "description": "gnl|TC-DB|Q06A41|3.A.1.14.14 FtsD OS=Streptococcus pyogenes GN=ftsD PE=4 SV=1",
+          "prefilter_jaccard": 0.0067,
+          "identity": 0.3506,
+          "query_coverage": 0.5962,
+          "target_coverage": 0.7275,
+          "aligned_residues": 251,
+          "score": 113.0
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P33015|9.B.102.1.2",
+          "tcid": "9.B.102.1.2",
+          "description": "gnl|TC-DB|P33015|9.B.102.1.2 UPF0394 inner membrane protein yeeE OS=Escherichia coli (strain K12) GN=yeeE PE=1 SV=1",
+          "prefilter_jaccard": 0.0066,
+          "identity": 0.3308,
+          "query_coverage": 0.6247,
+          "target_coverage": 0.7472,
+          "aligned_residues": 263,
+          "score": 90.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|XP_001611931.1|9.B.409.1.2",
+          "tcid": "9.B.409.1.2",
+          "description": "gnl|TC-DB|XP_001611931.1|9.B.409.1.2 membrane protein [Babesia bovis T2Bo]",
+          "prefilter_jaccard": 0.0068,
+          "identity": 0.3134,
+          "query_coverage": 0.6366,
+          "target_coverage": 0.4281,
+          "aligned_residues": 268,
+          "score": 103.5
+        }
+      ]
+    },
+    "RU820_RS02835": {
+      "wp": "WP_374058762.1",
+      "product": "sodium:calcium antiporter",
+      "query_length": 307,
+      "hits": [
+        {
+          "tcdb_id": "gnl|TC-DB|OGO65940.1|9.B.131.1.5",
+          "tcid": "9.B.131.1.5",
+          "description": "gnl|TC-DB|OGO65940.1|9.B.131.1.5 hypothetical protein A2Z45_04975 [Chloroflexi bacterium RBG_19FT_COMBO_55_16]",
+          "prefilter_jaccard": 0.0055,
+          "identity": 0.3857,
+          "query_coverage": 0.7264,
+          "target_coverage": 0.3608,
+          "aligned_residues": 223,
+          "score": 95.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q6NUT3|2.A.2.7.3",
+          "tcid": "2.A.2.7.3",
+          "description": "gnl|TC-DB|Q6NUT3|2.A.2.7.3 Major facilitator superfamily domain-containing protein 12 OS=Homo sapiens OX=9606 GN=MFSD12 PE=1 SV=2",
+          "prefilter_jaccard": 0.0065,
+          "identity": 0.314,
+          "query_coverage": 0.7883,
+          "target_coverage": 0.5042,
+          "aligned_residues": 242,
+          "score": 73.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|Q1D988|2.A.1.2.116",
+          "tcid": "2.A.1.2.116",
+          "description": "gnl|TC-DB|Q1D988|2.A.1.2.116 Bcr/CflA family efflux transporter OS=Myxococcus xanthus (strain DK 1622) OX=246197 GN=MXAN_2566 PE=3 SV=1",
+          "prefilter_jaccard": 0.0071,
+          "identity": 0.3259,
+          "query_coverage": 0.7296,
+          "target_coverage": 0.545,
+          "aligned_residues": 224,
+          "score": 89.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|O52733|2.A.1.1.41",
+          "tcid": "2.A.1.1.41",
+          "description": "gnl|TC-DB|O52733|2.A.1.1.41 D-xylose-proton symporter - Lactobacillus brevis.",
+          "prefilter_jaccard": 0.0053,
+          "identity": 0.32,
+          "query_coverage": 0.6515,
+          "target_coverage": 0.4376,
+          "aligned_residues": 200,
+          "score": 89.5
+        },
+        {
+          "tcdb_id": "gnl|TC-DB|P77858|3.D.1.9.1",
+          "tcid": "3.D.1.9.1",
+          "description": "gnl|TC-DB|P77858|3.D.1.9.1 Hydrogenase-4 component C OS=Escherichia coli (strain K12) GN=hyfC PE=1 SV=1",
+          "prefilter_jaccard": 0.0066,
+          "identity": 0.3537,
+          "query_coverage": 0.5342,
+          "target_coverage": 0.5206,
+          "aligned_residues": 164,
+          "score": 82.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT",
+      "uncompressedLengthBytes": "3627"
+    }
+  ]
+},{
+  "accession": "GCA_049532655.1",
+  "files": [
+    {
+      "filePath": "GCA_049532655.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT",
+      "uncompressedLengthBytes": "317"
+    }
+  ]
+}]}

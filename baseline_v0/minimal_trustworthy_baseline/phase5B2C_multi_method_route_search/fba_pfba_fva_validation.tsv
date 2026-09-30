@@ -1,0 +1,4 @@
+method	quantity	result	note
+FBA	max biomass	0.1019	D10/D25/D50 feasible
+pFBA	min L1 at max biomass	0.1018	clean parsimonious solution, no loop
+FVA	route reactions	BDGK/PGI1/PRUK/RUBISCO positive; G6PDH2/PFK=0	consistent with pFBA

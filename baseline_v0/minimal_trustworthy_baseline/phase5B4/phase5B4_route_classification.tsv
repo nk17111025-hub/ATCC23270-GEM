@@ -1,0 +1,4 @@
+reaction	class	note
+NADHI	N1 (native, direction corrected)	respiratory NADH oxidation enabled; safe but no phenotype change
+G6PDH_NAD	H (heterologous candidate)	still the R10 minimum; not native
+PPC (GPR AFE_1883)	N1 (native, GPR corrected)	metadata only; not an engineering intervention

@@ -1,0 +1,9 @@
+{
+  "source": "https://www.tcdb.org/public/tcdb",
+  "cached_reference": "G5X_2929基因逐基因证据链\\G52_预核对\\tcdb_2026_09_25.faa",
+  "created_utc": "2026-09-26T19:32:22.845320+00:00",
+  "selection": "当前 RefSeq product 预选 TCDB 大类；5-mer 选前20；BLOSUM62 局部比对",
+  "threshold": "identity >= 0.30 and query coverage >= 0.60",
+  "transport_properties_inferred": false,
+  "queries": 44
+}

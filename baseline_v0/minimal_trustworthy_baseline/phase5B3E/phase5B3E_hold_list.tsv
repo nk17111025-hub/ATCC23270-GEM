@@ -1,0 +1,8 @@
+item	reaction_id	verification_status	reason
+RpiA	RPI	HOLD_INSUFFICIENT_EVIDENCE	G52: maintain 2016 GPR, no formula change, direction unconfirmed (Rhea RHEA:14657 reversible but not independently confirmed)
+PPC	PPC	SUMMARY_WAS_WRONG_NO_EDIT	G56: keep AFE_1810; AFE_1883 insufficient evidence (don't write OR)
+PPC candidate	PPC	HOLD_INSUFFICIENT_EVIDENCE	G56: AFE_1883 isozyme needs independent evidence
+GMHEPAT/GMHEPK	GMHEPAT/GMHEPK	UNRESOLVED	G55 source not found in workspace
+ARGDC	ARGDC	UNRESOLVED	G55 source not found
+DB4PS	DB4PS	UNRESOLVED	G55 source not found; DB4PS also appears in G51 (needs verification)
+NADHI / Complex I	NADHI	UNRESOLVED	Stage 5: forward NADH oxidation not promoted without evidence

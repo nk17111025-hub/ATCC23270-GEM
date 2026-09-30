@@ -1,0 +1,616 @@
+reaction_id	table1_id	reaction_name	type	subsystem	reversible	lower_bound	upper_bound	fixed	empty_stoichiometry	lb_gt_ub	is_duplicate
+4THASE1	4THASE1	tetrathionate hydrolase	internal	Sulfur Metabolism 	False	0.0	1000.0	False	False	False	False
+4THASE2	4THASE2	tetrathionate hydrolase	internal	Sulfur Metabolism 	False	0.0	1000.0	False	False	False	False
+5OXOP	5OXOP	5-oxoprolinase (ATP-hydrolysing)	internal	Glutathione Metabolism	True	-1000.0	1000.0	False	False	False	False
+ACODA	ACODA	Acetylornithine deacetylase	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+ADMDC	ADMDC	Adenosylmethionine decarboxylase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+ASPK	ASPK	Aspartate kinase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+FDH	FDH	formate dehydrogenase	internal	Pyruvate Metabolism	False	0.0	1000.0	False	False	False	False
+DDPA	DDPA	2-dehydro-3-deoxyphosphoheptonate aldolase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	False	0.0	1000.0	False	False	False	False
+SDPTA	SDPTA	succinyldiaminopimelate transaminase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+ANSYN	ANSYN	Anthranilate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+A5PISO	A5PISO	Arabinose-5-phosphate isomerase	internal	(Lipopolysaccharide Biosynthesis) or (Alternate Carbon Metabolism)	True	-1000.0	1000.0	False	False	False	False
+ARGDC	ARGDC	Arginine decarboxylase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+ATPM	ATPM	ATP maintenance requirement	internal	Unassigned	False	3.475	3.475	True	False	False	False
+ATPS5rpp	ATPS5rpp	ATP synthase (five protons for one ATP) (periplasm)	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+Afe_biomass_mc507_WT_139p0M	Afe_biomass_mc507_WT_139p0M	Afe biomass objective function (mc507) - WT - with 139 GAM estimate	biomass	Exchange	False	0.0	1000.0	False	False	False	False
+CHRPL	CHRPL	Chorismate pyruvate lyase	internal	(Ubiquinone Synthesis) or (Cofactor and Prosthetic Group Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+CYTDK1	CYTDK1	cytidine kinase (ATP)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+CYTRED	CYTRED		internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+DNMPPA	DNMPPA	Dihydroneopterin monophosphate dephosphorylase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	False	0.0	1000.0	False	False	False	False
+SHCHD2	SHCHD2	sirohydrochlorin dehydrogenase (NAD)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EPS	EPS	EPS formation	internal	EPS biosynthesis	False	0.0	1000.0	False	False	False	False
+FA_PL_DASH_ACP_DASH_AFE		Fatty Acid formation	internal		False	0.0	1000.0	False	False	False	False
+FTHFL	FTHFL	formate-tetrahydrofolate ligase	internal	Folate Metabolism	False	0.0	1000.0	False	False	False	False
+DNTPPA	DNTPPA	Dihydroneopterin triphosphate pyrophosphatase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	False	0.0	1000.0	False	False	False	False
+HISTP	HISTP	Histidinol-phosphatase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+INSK	INSK	insosine kinase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+IPDDI	IPDDI	isopentenyl-diphosphate D-isomerase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (trans,trans-farnesyl diphosphate Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+LPS	LPS	lipolysaccharide formation	internal	Lipopolysaccharide Biosynthesis	False	0.0	1000.0	False	False	False	False
+MNTH	MNTH	NRAMP dual Mn(II)/Fe(II) MntH-like transporter	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+NADHI	NADHI	NADH dehydrogenase (ubiquinone-8 & 5 protons) (periplasm)	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+PL_DASH_AFE		phospholipids formation	internal		False	0.0	1000.0	False	False	False	False
+PYDXK1	PYDXK1	Pyridoxal kinase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+PHSTG1	PHSTG1	polyphosphate storage	internal	Polyphosphate Storage	True	-1000.0	1000.0	False	False	False	False
+PHSTG2	PHSTG2	polyphosphate storage	internal	Polyphosphate Storage	True	-1000.0	1000.0	False	False	False	False
+LIPA	LIPA		internal	Lipopolysaccharide Biosynthesis	False	0.0	1000.0	False	False	False	False
+RIBPH	RIBPH		internal	(Cofactor and Prosthetic Group Biosynthesis) or (Flavin Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+THFAT	THFAT	Tetrahydrofolate aminomethyltransferase	internal	Folate Metabolism	True	-1000.0	1000.0	False	False	False	False
+PYRDB	PYRDB		internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5''-phosphate biosynthesis ) 	True	-1000.0	1000.0	False	False	False	False
+UDCPDPS	UDCPDPS	Undecaprenyl diphosphate synthase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+OMCDC	OMCDC	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation (spontaneous)	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+G5SADs	G5SADs	L-glutamate 5-semialdehyde dehydratase (spontaneous)	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+RUBISCO	RUBISCO	Ribulose-bisphosphate carboxylase	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+RUBISCOX	RUBISCOX	ribulose-bisphosphate carboxylase	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	False	0.0	1000.0	False	False	False	False
+SHKK	SHKK	shikimate-kinase	internal	(Tyrosine, Tryptophan, and Phenylalanine Metabolism) or (Chorismate Biosynthesis)	False	0.0	1000.0	False	False	False	False
+BIOMASStpp	BIOMASStpp		transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+BIOMASStex	BIOMASStex		transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+CA2tex	CA2tex	ca2 transport (citoplasm)	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+CA2tpp	CA2tpp	Na+/Ca+2 symporter (periplasm)	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+CU2tex	CU2tex	cu2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+CU2tpp	CU2tpp	metalion trabsporter, NRAMP family	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+EPStpp	EPStpp	EPS transport (citoplasm)	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+EPStex	EPStex	EPS transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+FE2tex	FE2tex	fe2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+H2tex	H2tex	h2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+HCO3tex	HCO3tex	hco3 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+HCO3tpp	HCO3tpp	hco3 transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+H2Otex	H2Otex	h2o transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+H2Otpp	H2Otpp	h2o transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+H2Stex	H2Stex	h2s transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+H2Stpp	H2Stpp	h2s transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+H2tpp	H2tpp	h2 transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+TMDS	TMDS	Thymidylate synthase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+Ktex	Ktex	k transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+Ktpp	Ktpp	voltage-gated potassium channel	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+MG2tex	MG2tex	mg2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+MG2tpp	MG2tpp	magnesium-translocating P-type ATPase	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+MN2tex	MN2tex	mn2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+MN2tpp	MN2tpp	metalion trabsporter, NRAMP family	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+4HBAtpp	4HBAtpp	4hba transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+4HBAtex	4HBAtex	4hba transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+N2tex	N2tex	n2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+N2tpp	N2tpp	n2 transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+NH4tex	NH4tex	nh4 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+NA1tex	NA1tex	na transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+NA1tpp	NA1tpp	na transport in via proton symport	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+O2tex	O2tex	o2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+O2tpp	O2tpp	o2 transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+Pitex	Pitex	pi transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+PPTtex	PPTtex	ppt transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+SO4tex	SO4tex	so4 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+Stex	Stex	s transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+TTTONtex	TTTONtex	ttton transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+TSULtex	TSULtex	tsul transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+ZN2tex	ZN2tex	zn2 transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+ZN2tpp	ZN2tpp	metalion trabsporter, NRAMP family	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+Htpp	Htpp	h transport (citoplasm)	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+Htex	Htex	h transport	transport	Transport, Outer Membrane Porin	True	-1000.0	1000.0	False	False	False	False
+UPP3S	UPP3S	uroporphyrinogen-III synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme Biosynthesis)	False	0.0	1000.0	False	False	False	False
+VALTA1	VALTA1	valine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+CYTAA31	CYTAA31	cytochrome c oxidase, aa3-type	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+CYTAA32	CYTAA32	cytochrome c oxidase, aa3-type	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+ACCOAC	ACCOAC	Acetyl-CoA carboxylase	internal	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BIOC1	BIOC1	Biotin carboxylase	internal	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	False	0.0	1000.0	False	False	False	False
+BIOC2	BIOC2	Biotin carboxylase	internal	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	False	0.0	1000.0	False	False	False	False
+ACONT1	ACONT1	aconitase (half-reaction A, Citrate hydro-lyase)	internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+ACONT2	ACONT2	aconitase (half-reaction B, Isocitrate hydro-lyase)	internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+ACPS1	ACPS1	holo-[acyl-carrier protein] synthase	internal	Cofactor and Prosthetic Group Biosynthesis	False	0.0	1000.0	False	False	False	False
+ACS	ACS	acetyl-CoA synthetase	internal	Pyruvate Metabolism	False	0.0	1000.0	False	False	False	False
+ADA	ADA	Adenosine deaminase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+DADA	DADA	Deoxyadenosine deaminase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+ADK1	ADK1	Adenylate kinase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+ADPT	ADPT	adenine phosphoribosyltransferase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+ADNSE	ADNSE	Adenosylhomocysteinase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+GCALDD	GCALDD	Glycolaldehyde dehydrogenase	internal	Folate Metabolism	False	0.0	1000.0	False	False	False	False
+ALAR	ALAR	alanine racemase	internal	Alanine and Aspartate Metabolism	True	-1000.0	1000.0	False	False	False	False
+AMPN	AMPN	AMP nucleosidase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+NH4pp	NH4pp	Amt1 ammonium Amt transporter	transport	Transport, Inner Membrane	True	-1000.0	1000.0	False	False	False	False
+ACGS	ACGS	N-acetylglutamate synthase	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+ACGK	ACGK	acetylglutamate kinase	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+AGPR	AGPR	N-acetyl-g-glutamyl-phosphate reductase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+ACOTA	ACOTA	acetylornithine transaminase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+OCBT	OCBT	ornithine carbamoyltransferase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+ARGSS	ARGSS	argininosuccinate synthase	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+ARGSL	ARGSL	argininosuccinate lyase	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+GLAT	GLAT	glutamate N-acetyltransferase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+PSCVT	PSCVT	3-phosphoshikimate 1-carboxyvinyltransferase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DHQS	DHQS	3-dehydroquinate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	False	0.0	1000.0	False	False	False	False
+CHORS	CHORS	chorismate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	False	0.0	1000.0	False	False	False	False
+SHK3D	SHK3D	shikimate dehydrogenase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DHQT	DHQT	3-dehydroquinate dehydratase, irreversible	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+ASAD	ASAD	aspartate-semialdehyde dehydrogenase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+ASNS1	ASNS1	asparagine synthase (glutamine-hydrolysing)	internal	Alanine and Aspartate Metabolism	False	0.0	1000.0	False	False	False	False
+ASPTA	ASPTA	aspartate transaminase	internal	Alanine and Aspartate Metabolism	True	-1000.0	1000.0	False	False	False	False
+TYRTA	TYRTA	tyrosine transaminase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+ADSR	ADSR	adenylylsulfate reductase	internal	Sulfur Metabolism 	False	0.0	1000.0	False	False	False	False
+UDCPDP	UDCPDP	undecaprenyl-diphosphatase	internal	Cell Envelope Biosynthesis	False	0.0	1000.0	False	False	False	False
+CYTBC1	CYTBC1	cytochrome oxidase bc1 (5 protons) (periplasm)	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+CYTBD	CYTBD	cytochrome oxidase bd (ubiquinol-8: 2.6 protons) (periplasm)	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+AMAOT	AMAOT	adenosylmethionine-8-amino-7-oxononanoate transaminase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+BTS5	BTS5	Biotin synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	False	0.0	1000.0	False	False	False	False
+DBTS	DBTS	dethiobiotin synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+AOXS	AOXS	8-amino-7-oxononanoate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BILG	BILG	Biotin--[acetyl-CoA-carboxylase] ligase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Biotin Biosynthesis)	False	0.0	1000.0	False	False	False	False
+CYTBO3	CYTBO3	cytochrome oxidase bo3 (ubiquinol-8: 2.6 protons) (periplasm)	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+CBPS	CBPS	carbamoyl-phosphate synthase (glutamine-hydrolysing)	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+CAT	CAT	catalase	internal	Unassigned	True	-1000.0	1000.0	False	False	False	False
+PRUK	PRUK	Phosphoribulokinase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	False	0.0	1000.0	False	False	False	False
+CYTD	CYTD	cytidine deaminase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+DCYTD	DCYTD	deoxycytidine deaminase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+PCYT	PCYT	phosphatidate cytidylyltransferase	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis)	False	0.0	1000.0	False	False	False	False
+CFAS190	CFAS190	cyclopropane-fatty-acyl-phospholipid synthase	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis)	False	0.0	1000.0	False	False	False	False
+CS	CS	citrate synthase	internal	Citric Acid Cycle	False	0.0	1000.0	False	False	False	False
+CLPNS120	CLPNS120	cardiolipin synthase	internal	(Glycerophospholipid Metabolism) or (Phospholipid synthesis) or (Cardiolipin Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+CYTK2	CYTK2	cytidylate kinase (dCMP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+CYTK1	CYTK1	cytidylate kinase (CMP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+PNTK	PNTK	pantothenate kinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+PTPAT	PTPAT	pantetheine-phosphate adenylyltransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+DPCOAK	DPCOAK	dephospho-CoA kinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A Biosynthesis)	False	0.0	1000.0	False	False	False	False
+UPP3MT1	UPP3MT1	Uroporphyrinogen-III C-methyltransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+UPP3MT2	UPP3MT2	uroporphyrinogen methyltransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+CSND	CSND	Cytosine deaminase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+MAN1PT	MAN1PT	Phosphomannomutase	internal	(EPS biosynthesis) or (GDP-mannose biosynthesis)	False	0.0	1000.0	False	False	False	False
+PMANM	PMANM	phosphomannomutase	internal	(EPS biosynthesis) or (GDP-mannose biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+CYT1	CYT1	cytochrome c552/rusticyanin complex	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+CYT2	CYT2	cytochrome c/rusticyanin complex	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+CYTA2	CYTA2	cytochrome c4/rusticyanin complex	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+HCO3E	HCO3E	HCO3 equilibration reaction	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle) 	True	-1000.0	1000.0	False	False	False	False
+PHFT	PHFT	protoheme IX farnesyltransferase	internal	(Ubiquinone Synthesis) or (Cofactor and Prosthetic Group Biosynthesis)	False	0.0	1000.0	False	False	False	False
+ADSK	ADSK	adenylyl-sulfate kinase	internal	Cysteine Metabolism	True	-1000.0	1000.0	False	False	False	False
+SADT	SADT	sulfate adenylate transferase	internal	Sulfur Metabolism 	False	0.0	1000.0	False	False	False	False
+SERAT	SERAT	serine O-acetyltransferase	internal	Cysteine Metabolism	True	-1000.0	1000.0	False	False	False	False
+SHBI	SHBI		internal	(Cofactor and Prosthetic Group Biosynthesis) or (Siroheme Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+PAPSR	PAPSR	3-phospho-adenylylsulfate reductase	internal	Cysteine Metabolism	False	0.0	1000.0	False	False	False	False
+SULR2	SULR2	Sulfite reductase (NADPH)	internal	Cysteine Metabolism	True	-1000.0	1000.0	False	False	False	False
+CYSS	CYSS	cysteine synthase	internal	Cysteine Metabolism	False	0.0	1000.0	False	False	False	False
+BPNT	BPNT	3,5-bisphosphate nucleotidase	internal	Cysteine Metabolism	False	0.0	1000.0	False	False	False	False
+SO41tpp	SO41tpp	sulfate ABC transporter	transport	(Transport, Inner Membrane) or (Sulfur Metabolism)	False	0.0	1000.0	False	False	False	False
+SO4AA1tpp	SO4AA1tpp	sulfate ABC transporter	transport	(Transport, Inner Membrane) or (Sulfur Metabolism)	False	0.0	1000.0	False	False	False	False
+MCTP1A	MCTP1A	murein crosslinking transpeptidase 1A:(A2pm->D-ala)	internal	(Cell Envelope Biosynthesis) or (Murein Biosynthesis) 	False	0.0	1000.0	False	False	False	False
+DHDPS	DHDPS	dihydrodipicolinate synthase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DHDPRy	DHDPRy	dihydrodipicolinate reductase (NADPH)	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+THDPS	THDPS	tetrahydrodipicolinate succinylase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+SDPDS	SDPDS	succinyl-diaminopimelate desuccinylase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DAPE	DAPE	diaminopimelate epimerase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DCTPD	DCTPD	dCTP deaminase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+ALAALAr	ALAALAr	D-alanine-D-alanine ligase	internal	(Cell Envelope Biosynthesis) or (Murein Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+PUNP1	PUNP1	purine-nucleoside phosphorylase (Adenosine)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+PUNP2	PUNP2	inosine phosphorylase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+PUNP3	PUNP3	guanosine phosphorylase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+PUNP4	PUNP4	xanthosine phosphorylase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+PPCDC	PPCDC	phosphopantothenoylcysteine decarboxylase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+PPNCL2	PPNCL2	phosphopantothenate-cysteine ligase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Coenzyme A biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+NTPTP1	NTPTP1	Nucleoside triphosphate tripolyhydrolase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+DUTPDP	DUTPDP	dUTP diphosphatase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+DOXRI	DOXRI	1-deoxy-D-xylulose-5-phosphate reductoisomerase	internal	(Ubiquinone Synthesis) or (Cofactor and Prosthetic Group Biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+DOXS	DOXS	1-deoxy-D-xylulose-5-phosphate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Thiamin biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+DDGPA	DDGPA	2-keto-3-deoxy-6-phosphogluconate aldolase	internal	Pentose Phosphate Pathway	False	0.0	1000.0	False	False	False	False
+PGDH	PGDH	phosphogluconate dehydratase	internal	Pentose Phosphate Pathway	False	0.0	1000.0	False	False	False	False
+MTROI	MTROI		internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+ENO	ENO	enolase	internal	Glycolysis/Gluconeogenesis	True	-1000.0	1000.0	False	False	False	False
+E4PD	E4PD	erythrose-4-phosphate dehydrogenase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+T2DECAI	T2DECAI	trans-2-decenoyl-(acyl-carrier protein) isomerase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+MACPD	MACPD	Malonyl-ACP decarboxylase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS1	3OAS1	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS2	3OAS2	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS3	3OAS3	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS4	3OAS4	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS5	3OAS5	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS6	3OAS6	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS7	3OAS7	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS8	3OAS8	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS9	3OAS9	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS10	3OAS10	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS11	3OAS11	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS12	3OAS12	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS13	3OAS13	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS14	3OAS14	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS15	3OAS15	3-oxoacyl-[acyl-carrier-protein] synthase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+MCOATA	MCOATA	Malonyl-CoA-ACP transacylase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR1	3OAR1	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR2	3OAR2	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR3	3OAR3	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR4	3OAR4	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR5	3OAR5	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR6	3OAR6	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR7	3OAR7	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR8	3OAR8	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR9	3OAR9	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR10	3OAR10	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR11	3OAR11	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR12	3OAR12	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR13	3OAR13	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR14	3OAR14	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR15	3OAR15	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR16	3OAR16	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAR17	3OAR17	3-oxoacyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+ACOATA	ACOATA	Acetyl-CoA ACP transacylase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+3OAS27	3OAS27	3-oxoacyl-(acyl-carrier-protein) synthase III	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	False	0.0	1000.0	False	False	False	False
+3OAS28	3OAS28	3-oxoacyl-(acyl-carrier-protein) synthase III	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR1	EAR1	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR2	EAR2	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR3	EAR3	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR4	EAR4	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR5	EAR5	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR6	EAR6	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR7	EAR7	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR8	EAR8	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR9	EAR9	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR10	EAR10	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR11	EAR11	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR12	EAR12	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR13	EAR13	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR14	EAR14	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR15	EAR15	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR16	EAR16	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+EAR17	EAR17	enoyl-(acyl-carrier-protein) reductase	internal	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH1	BHAH1	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH2	BHAH2	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH3	BHAH3	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH4	BHAH4	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH5	BHAH5	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH6	BHAH6	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH7	BHAH7	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH8	BHAH8	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH9	BHAH9	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH10	BHAH10	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH11	BHAH11	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH12	BHAH12	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH13	BHAH13	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH14	BHAH14	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH15	BHAH15	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH16	BHAH16	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+BHAH17	BHAH17	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase	internal	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+FBA	FBA	fructose-bisphosphate aldolase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+FBA3	FBA3	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+GFUCS	GFUCS		internal	EPS biosynthesis	False	0.0	1000.0	False	False	False	False
+FE2tpp	FE2tpp	Fe(II) ABC inner membrane transporter	transport	(Transport, Inner Membrane) or (Fe+2 Metabolism)	False	0.0	1000.0	False	False	False	False
+FE3tpp	FE3tpp	Fe(III) ABC inner membrane transporter	transport	(Transport, Inner Membrane) or (Fe+2 Metabolism)	False	0.0	1000.0	False	False	False	False
+DHFR	DHFR	dihydrofolate reductase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+DHNPA2	DHNPA2	dihydroneopterin aldolase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+DHFS	DHFS	dihydrofolate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	False	0.0	1000.0	False	False	False	False
+MTHFD1	MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP)	internal	Folate Metabolism	True	-1000.0	1000.0	False	False	False	False
+MTHFD2	MTHFD2	methylenetetrahydrofolate dehydrogenase (NAD+)	internal	Folate Metabolism	False	0.0	1000.0	False	False	False	False
+MTHFC	MTHFC	methenyltetrahydrofolate cyclohydrolase	internal	Folate Metabolism	True	-1000.0	1000.0	False	False	False	False
+GTPCI	GTPCI	GTP cyclohydrolase I	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	False	0.0	1000.0	False	False	False	False
+HPPK2	HPPK2	6-hydroxymethyl-dihydropterin pyrophosphokinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	False	0.0	1000.0	False	False	False	False
+DHPS2	DHPS2	dihydropteroate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+FUM	FUM	fumarase	internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+ALDEP	ALDEP	aldose 1-epimerase	internal	Glycogen Metabolism	True	-1000.0	1000.0	False	False	False	False
+GALU	GALU	UTP-glucose-1-phosphate uridylyltransferase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	False	0.0	1000.0	False	False	False	False
+GAPD1	GAPD1	glyceraldehyde-3-phosphate dehydrogenase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	False	0.0	1000.0	False	False	False	False
+GAPD2	GAPD2	Glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	internal	Glycolysis/Gluconeogenesis	False	0.0	1000.0	False	False	False	False
+GLUCYS	GLUCYS	gamma-glutamylcysteine synthetase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Glutathione biosynthesis)	False	0.0	1000.0	False	False	False	False
+GTHS	GTHS	glutathione synthetase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Glutathione biosynthesis)	False	0.0	1000.0	False	False	False	False
+GLXR	GLXR	glyoxylate reductase	internal	(Alternate Carbon Metabolism) or (Glycolate Metabolism)	False	0.0	1000.0	False	False	False	False
+GLXCL	GLXCL	glyoxalate carboligase	internal	Glyoxylate Metabolism	True	-1000.0	1000.0	False	False	False	False
+GLYCH	GLYCH	D-lactate dehydrogenase (cytochrome) (EC:1.1.2.4)	internal	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+DGPE	DGPE	D-glucose-6-phosphate 1-epimerase	internal	Glycogen Metabolism	True	-1000.0	1000.0	False	False	False	False
+GLCS1	GLCS1	glycogen synthase (ADPGlc)	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	False	0.0	1000.0	False	False	False	False
+GLBRAN1	GLBRAN1	1,4-alpha-glucan branching enzyme (glycogen -> bglycogen)	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	False	0.0	1000.0	False	False	False	False
+GLGC	GLGC	glucose-1-phosphate adenylyltransferase	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	False	0.0	1000.0	False	False	False	False
+GLCP	GLCP	glycogen phosphorylase	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	True	-1000.0	1000.0	False	False	False	False
+GLDBRAN2	GLDBRAN2	glycogen debranching enzyme	internal	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	False	0.0	1000.0	False	False	False	False
+BDGK	BDGK	Glucokinase	internal	Glycolysis/Gluconeogenesis	True	-1000.0	1000.0	False	False	False	False
+DGAMK	DGAMK	D-Glucosamine Kinase	internal	Lipopolysaccharide Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+PGAMT	PGAMT	phosphoglucosamine mutase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+GF6PTA	GF6PTA	glutamine-fructose-6-phosphate transaminase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+G1PACT	G1PACT	glucosamine-1-phosphate N-acetyltransferase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	False	0.0	1000.0	False	False	False	False
+UAGDP	UAGDP	UDP-N-acetylglucosamine diphosphorylase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	False	0.0	1000.0	False	False	False	False
+GLNS	GLNS	glutamine synthetase	internal	Glutamate Metabolism 	False	0.0	1000.0	False	False	False	False
+GLYK	GLYK	glycerol kinase	internal	Alternate Carbon Metabolism	True	-1000.0	1000.0	False	False	False	False
+FBP	FBP	fructose-bisphosphatase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	False	0.0	1000.0	False	False	False	False
+GLUSy	GLUSy	glutamate synthase (NADPH)	internal	Glutamate Metabolism 	False	0.0	1000.0	False	False	False	False
+GLUTRS	GLUTRS	Glutamyl-tRNA synthetase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	False	0.0	1000.0	False	False	False	False
+GLYCK	GLYCK	glycerate kinase	internal	Glyoxylate Metabolism	True	-1000.0	1000.0	False	False	False	False
+TRSAR	TRSAR	2-hydroxy-3-oxopropionate reductase	internal	Alternate Carbon Metabolism	True	-1000.0	1000.0	False	False	False	False
+GHMT2	GHMT2	glycine hydroxymethyltransferase, reversible	internal	Glycine and Serine Metabolism	True	-1000.0	1000.0	False	False	False	False
+GMAND	GMAND	GDP-D-mannose dehydratase	internal	(Cell Envelope Biosynthesis) or (EPS biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+S7PI	S7PI	sedoheptulose 7-phosphate isomerase	internal	Lipopolysaccharide Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+GMHEPPA	GMHEPPA	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase	internal	Lipopolysaccharide Biosynthesis	False	0.0	1000.0	False	False	False	False
+GK1	GK1	guanylate kinase (GMP:ATP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+AGAD	AGAD	NAD dependent UDP-N-acetylglucosamine 3-dehydrogenase	internal	Lipopolysaccharide Biosynthesis	False	0.0	1000.0	False	False	False	False
+UACAA	UACAA	Pyridoxal phosphate-dependent UDP 2-acetamido-2-deoxy-alpha-D-ribo-hexopyranos-3-ulose 3-aminotransferase	internal	Lipopolysaccharide Biosynthesis	False	0.0	1000.0	False	False	False	False
+PGLYCP	PGLYCP	Phosphoglycolate phosphatase	internal	Alternate Carbon Metabolism	False	0.0	1000.0	False	False	False	False
+PGM1	PGM1	phosphoglycerate mutase	internal	Glycolysis/Gluconeogenesis	True	-1000.0	1000.0	False	False	False	False
+G3PD2	G3PD2	glycerol-3-phosphate dehydrogenase (NADP)	internal	Alternate Carbon Metabolism	False	0.0	1000.0	False	False	False	False
+GSNK	GSNK	guanosine kinase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+XPPT	XPPT	xanthine phosphoribosyltransferase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+GMPS2	GMPS2	GMP synthase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+IMPD	IMPD	IMP dehydrogenase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+GUAD	GUAD	Guanine deaminase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+GLUTRR	GLUTRR	glutamyl-tRNA reductase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	False	0.0	1000.0	False	False	False	False
+PPBNGS	PPBNGS	porphobilinogen synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+HMBS	HMBS	hydroxymethylbilane synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Thiamin biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+UPPDC1	UPPDC1	uroporphyrinogen decarboxylase (uroporphyrinogen III)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	False	0.0	1000.0	False	False	False	False
+CPPPGO1	CPPPGO1	coproporphyrinogen oxidase (O2 required)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+PPPGO	PPPGO	protoporphyrinogen oxidase (aerobic)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	False	0.0	1000.0	False	False	False	False
+FCLT	FCLT	Ferrochelatase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+G1SAT	G1SAT	glutamate-1-semialdehyde aminotransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrapyrrole biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+CPPPGO2	CPPPGO2	Oxygen Independent coproporphyrinogen-III oxidase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Heme biosynthesis)	True	-1000.0	1000.0	False	False	False	False
+PRMICI	PRMICI	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+IGPDH	IGPDH	imidazoleglycerol-phosphate dehydratase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+HSTPT	HSTPT	histidinol-phosphate transaminase	internal	Histidine Metabolism	True	-1000.0	1000.0	False	False	False	False
+HISTD1	HISTD1	histidinol dehydrogenase	internal	Histidine Metabolism	True	-1000.0	1000.0	False	False	False	False
+HISTD2	HISTD2	Histidinal dehydrogenase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+IG3PS	IG3PS	Imidazole-glycerol-3-phosphate synthase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+PRATPP	PRATPP	phosphoribosyl-ATP pyrophosphatase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+PRAMPC	PRAMPC	phosphoribosyl-AMP cyclohydrolase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+ATPPRT	ATPPRT	ATP phosphoribosyltransferase	internal	Histidine Metabolism	True	-1000.0	1000.0	False	False	False	False
+HXPRT	HXPRT	hypoxanthine phosphoribosyltransferase (Hypoxanthine)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+GUAPRT	GUAPRT	guanine phosphoribosyltransferase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+HYD1pp	HYD1pp	hydrogenase I	internal	Hydrogen and Formate Utilization	False	0.0	1000.0	False	False	False	False
+HYD3pp	HYD3pp	hydrogenase III	internal	Hydrogen and Formate Utilization	False	0.0	1000.0	False	False	False	False
+HYD4	HYD4	hydrogenase IV	internal	Hydrogen and Formate Utilization	False	0.0	1000.0	False	False	False	False
+ICDHyr	ICDHyr	isocitrate dehydrogenase (NADP)	internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+ICITRED	ICITRED		internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+THRD_L	THRD_L	L-threonine deaminase	internal	Valine, Leucine, and Isoleucine Metabolism	False	0.0	1000.0	False	False	False	False
+ACLS	ACLS	acetolactate synthase	internal	Valine, Leucine, and Isoleucine Metabolism	False	0.0	1000.0	False	False	False	False
+ACHBS	ACHBS	2-aceto-2-hydroxybutanoate synthase	internal	Valine, Leucine, and Isoleucine Metabolism	False	0.0	1000.0	False	False	False	False
+KARA1	KARA1	ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DPR	DPR	2-dehydropantoate 2-reductase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+KARA2	KARA2	ketol-acid reductoisomerase (2-Acetolactate)	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DHAD1	DHAD1	dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	internal	Valine, Leucine, and Isoleucine Metabolism	False	0.0	1000.0	False	False	False	False
+DHAD2	DHAD2	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+VALTA2	VALTA2	valine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+ILETA	ILETA	isoleucine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+LEUTA	LEUTA	leucine transaminase	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+CYSDSS	CYSDSS	Cysteine desulfurase IscS	internal	Valine, Leucine, and Isoleucine Metabolism	False	0.0	1000.0	False	False	False	False
+GRTT	GRTT	geranyltranstransferase	internal	Cofactor and Prosthetic Group Biosynthesis	False	0.0	1000.0	False	False	False	False
+DMATT	DMATT	dimethylallyltranstransferase	internal	Cofactor and Prosthetic Group Biosynthesis	False	0.0	1000.0	False	False	False	False
+OCTDPS	OCTDPS	Octaprenyl pyrophosphate synthase	internal	Cofactor and Prosthetic Group Biosynthesis	False	0.0	1000.0	False	False	False	False
+MEPCT	MEPCT	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	False	0.0	1000.0	False	False	False	False
+CDPMEK	CDPMEK	4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol kinase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	True	-1000.0	1000.0	False	False	False	False
+MECDPS	MECDPS	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	False	0.0	1000.0	False	False	False	False
+MBDR	MBDR	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	False	0.0	1000.0	False	False	False	False
+IPDPS	IPDPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	False	0.0	1000.0	False	False	False	False
+DMPPS	DMPPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Methylerythritol phosphate pathway)	False	0.0	1000.0	False	False	False	False
+KDOPS	KDOPS	3-deoxy -D-manno-octulosonic -acid 8-phosphate synthase	internal	( Lipopolysaccharide Biosynthesis ) or ( CMP-KDO biosynthesis )	False	0.0	1000.0	False	False	False	False
+KDOCT2	KDOCT2	3-deoxy-manno-octulosonate cytidylyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( CMP-KDO biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+KDOPP	KDOPP	3-deoxy-manno-octulosonate-8-phosphatase	internal	( Lipopolysaccharide Biosynthesis ) or ( CMP-KDO biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+KDOCT	KDOCT	3-deoxy-D-manno-octulosonic-acid transferase	internal	( Lipopolysaccharide Biosynthesis ) or ( KDO(2)-AFE synthesis )	False	0.0	1000.0	False	False	False	False
+KDOCT3	KDOCT3	3-deoxy-D-manno-octulosonic-acid transferase	internal	( Lipopolysaccharide Biosynthesis ) or ( KDO(2)-AFE synthesis )	False	0.0	1000.0	False	False	False	False
+IPPS	IPPS	2-isopropylmalate synthase	internal	Valine, Leucine, and Isoleucine Metabolism	False	0.0	1000.0	False	False	False	False
+IPMD	IPMD	3-isopropylmalate dehydrogenase	internal	Valine, Leucine, and Isoleucine Metabolism	False	0.0	1000.0	False	False	False	False
+IPPMIa	IPPMIa	3-isopropylmalate dehydratase	internal	Valine, Leucine, and Isoleucine Metabolism	True	-1000.0	1000.0	False	False	False	False
+GHMT3	GHMT3	glycine hydroxymethyltransferase	internal	Glycine and Serine Metabolism	False	0.0	1000.0	False	False	False	False
+UAGAAT	UAGAAT	UDP-N-acetylglucosamine acyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+LPADSS	LPADSS	Lipid A disaccaride synthase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+UAAD	UAAD	UDP-3-O-acyl N-acetylglucosamine deacetylase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+UAAA	UAAA	UDP-3-O-3-hydroxymiristoyl glucosamine N-acetyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+UHGA	UHGA	UDP-3-O-3-hydroxymiristoyl glucosamine N-acetyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+TDSK	TDSK	Tetraacyldisaccharide 4kinase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+LDAS	LDAS	Lipid A biosynthesis lauroyl acyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+LIPS	LIPS	Myristoyl-acyl carrier protein-dependent acyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	False	0.0	1000.0	False	False	False	False
+RHCCE	RHCCE	S-ribosylhomocysteine cleavage enzyme	internal	Methionine Metabolism	False	0.0	1000.0	False	False	False	False
+DAPDC	DAPDC	diaminopimelate decarboxylase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+MTRP	MTRP	maltodextrin phosphorylase	internal	Glycolysis/Gluconeogenesis	True	-1000.0	1000.0	False	False	False	False
+AMALT1	AMALT1	Amylomaltase (maltotriose)	internal	Alternate Carbon Metabolism	True	-1000.0	1000.0	False	False	False	False
+MTRG	MTRG	alpha-D-glucoside glucohydrolase	internal	Alternate Carbon Metabolism	False	0.0	1000.0	False	False	False	False
+MALS	MALS	malate synthase	internal	Anaplerotic Reactions	False	0.0	1000.0	False	False	False	False
+MAN6PI	MAN6PI	mannose-6-phosphate isomerase	internal	Alternate Carbon Metabolism	True	-1000.0	1000.0	False	False	False	False
+MDH	MDH	malate dehydrogenase	internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+HACT	HACT	O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+MTHPTGHM	MTHPTGHM	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+MTHFR3	MTHFR3	Cobalamin-dependent homocysteine transmethylase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+METS	METS	5-methyltetrahydrofolate--homocysteine S-methyltransferase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+METAT	METAT	Methionine adenosyltransferase	internal	Methionine Metabolism	False	0.0	1000.0	False	False	False	False
+HSDy	HSDy	homoserine dehydrogenase (NADPH)	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+HSERTA	HSERTA	Homoserine O-acetyltransferase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+HCYSMT	HCYSMT	homocysteine S-methyltransferase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+PAPPT3	PAPPT3	phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	False	0.0	1000.0	False	False	False	False
+PGLT	PGLT	peptidoglycan glycosyltransferase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+MTAP	MTAP	5-methylthioadenosine phosphorylase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+AHCYSNS	AHCYSNS	Adenosylhomocysteine nucleosidase	internal	Methionine Metabolism	False	0.0	1000.0	False	False	False	False
+UAGCVT	UAGCVT	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+UAPGR	UAPGR	UDP-N-acetylmuramate dehydrogenase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+UAMAS	UAMAS	UDP-N-acetylmuramate--alanine ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+UAMAGS	UAMAGS	UDP-N-acetylmuramoylalanine--D-glutamate ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+UAAGDS	UAAGDS	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+UGLDDS	UGLDDS	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	False	0.0	1000.0	False	False	False	False
+UCMAT	UCMAT	undecaprenyldiphospho-muramoylpentapeptide ?-N-acetylglucosaminyltransferase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	False	0.0	1000.0	False	False	False	False
+GLUR	GLUR	glutamate racemase	internal	( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+QULNS	QULNS	quinolinate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+ASPO6	ASPO6	L-aspartate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	False	0.0	1000.0	False	False	False	False
+ASPO5	ASPO5	L-aspartate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	False	0.0	1000.0	False	False	False	False
+NNDPR	NNDPR	nicotinate-nucleotide diphosphorylase (carboxylating)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+NNAT	NNAT	nicotinate-nucleotide adenylyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+NADS2	NADS2	NAD(+) synthetase (glutamine-hydrolysing)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	False	0.0	1000.0	False	False	False	False
+NADS1	NADS1	NAD synthase (nh3)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	False	0.0	1000.0	False	False	False	False
+NDPK3	NDPK3	nucleoside-diphosphate kinase (ATP:CDP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NDPK8	NDPK8	nucleoside-diphosphate kinase (ATP:dADP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NDPK7	NDPK7	nucleoside-diphosphate kinase (ATP:dCDP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NDPK5	NDPK5	nucleoside-diphosphate kinase (ATP:dGDP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NDPK4	NDPK4	nucleoside-diphosphate kinase (ATP:dTDP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NDPK6	NDPK6	nucleoside-diphosphate kinase (ATP:dUDP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NDPK1	NDPK1	nucleoside-diphosphate kinase (ATP:GDP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NDPK2	NDPK2	nucleoside-diphosphate kinase (ATP:UDP)	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+NITF	NITF	sulfide quinone reductase	internal	Nitrogen fixation	False	0.0	1000.0	False	False	False	False
+RNDR1	RNDR1	ribonucleoside-diphosphate reductase (ADP)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+RNDR3	RNDR3	ribonucleoside-diphosphate reductase (CDP)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+RNDR2	RNDR2	ribonucleoside-diphosphate reductase (GDP)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+RNDR4	RNDR4	ribonucleoside-diphosphate reductase (UDP)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+ADCS	ADCS	4-amino-4-deoxychorismate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	False	0.0	1000.0	False	False	False	False
+ADCL	ADCL	4-aminobenzoate synthase	internal	(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	False	0.0	1000.0	False	False	False	False
+MOHMT	MOHMT	3-methyl-2-oxobutanoate hydroxymethyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pantothenate biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PANTS	PANTS	pantothenate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pantothenate biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+ASP1DC	ASP1DC	aspartate 1-decarboxylase	internal	Cofactor and Prosthetic Group Biosynthesis	False	0.0	1000.0	False	False	False	False
+PDH	PDH	pyruvate dehydrogenase	internal	Glycolysis/Gluconeogenesis	False	0.0	1000.0	False	False	False	False
+THPDH	THPDH	4-hydroxythreonine-4-phosphate dehydrogenase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PERD	PERD	Erythronate 4-phosphate (4per) dehydrogenase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PYAM5PO	PYAM5PO	pyridoxamine 5-phosphate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PDX5PO	PDX5PO	pyridoxine 5-phosphate oxidase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PDX5PS	PDX5PS	pyridoxine 5?-phosphate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Pyridoxal 5-phosphate biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PMEAS	PMEAS	Phosphatidylserine decarboxylase	internal	( Glycerophospholipid Metabolism ) or (Phosphatidylethanolamine biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+AMPTASECG	AMPTASECG	alanyl aminopeptidase (cys-gly)	internal	Cysteine Metabolism	True	-1000.0	1000.0	False	False	False	False
+PFK	PFK	phosphofructokinase	internal	Glycolysis/Gluconeogenesis	False	0.0	1000.0	False	False	False	False
+PGI1	PGI1	glucose-6-phosphate isomerase	internal	Glycolysis/Gluconeogenesis	True	-1000.0	1000.0	False	False	False	False
+PGK	PGK	phosphoglycerate kinase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	False	0.0	1000.0	False	False	False	False
+PGL	PGL	6-phosphogluconolactonase	internal	Pentose Phosphate Pathway	True	-1000.0	1000.0	False	False	False	False
+PGMT	PGMT	phosphoglucomutase	internal	Glycolysis/Gluconeogenesis	True	-1000.0	1000.0	False	False	False	False
+PGMT2	PGMT2	phosphoglucomutase	internal	Glycolysis/Gluconeogenesis	True	-1000.0	1000.0	False	False	False	False
+PGPP120	PGPP120	Phosphatidylglycerophosphatase	internal	Glycerophospholipid Metabolism	False	0.0	1000.0	False	False	False	False
+PGSA	PGSA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	internal	Glycerophospholipid Metabolism	False	0.0	1000.0	False	False	False	False
+CHORM	CHORM	chorismate mutase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+PPNDH	PPNDH	prephenate dehydratase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	False	0.0	1000.0	False	False	False	False
+PPTtpp	PPTtpp	Phosphonate ABC transporter	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+PYDXK2	PYDXK2	pyridoxal kinase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+G3PAT1	G3PAT1	acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase	internal	Glycerophospholipid Metabolism	False	0.0	1000.0	False	False	False	False
+G3PAT2	G3PAT2	1-acyl-sn-glycerol-3-phosphate acyltransferase	internal	Glycerophospholipid Metabolism	False	0.0	1000.0	False	False	False	False
+NADTRHD	NADTRHD	NAD transhydrogenase	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+PPA	PPA	inorganic diphosphatase	internal	Anaplerotic Reactions	False	0.0	1000.0	False	False	False	False
+PPC	PPC	phosphoenolpyruvate carboxylase	internal	Anaplerotic Reactions	False	0.0	1000.0	False	False	False	False
+PPK2	PPK2	polyphosphate kinase	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+NADK	NADK	NAD kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD phosphorylation and dephosphorylation )	False	0.0	1000.0	False	False	False	False
+P5CR	P5CR	pyrroline-5-carboxylate reductase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+G5SD	G5SD	glutamate-5-semialdehyde dehydrogenase	internal	Arginine and Proline Metabolism	True	-1000.0	1000.0	False	False	False	False
+GLU5K	GLU5K	glutamate 5-kinase	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+PRPPS	PRPPS	phosphoribosylpyrophosphate synthetase	internal	Histidine Metabolism	False	0.0	1000.0	False	False	False	False
+PSD120	PSD120	Phosphatidylserine decarboxylase	internal	( Glycerophospholipid Metabolism ) or (Phosphatidylethanolamine biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PSSA120	PSSA120	CDP-diacylglycerol--serine O-phosphatidyltransferase	internal	( Glycerophospholipid Metabolism ) or (Phosphatidylethanolamine biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+Pitpp	Pitpp	Phosphate ABC transporter	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+ADSS	ADSS	adenylosuccinate synthase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+ADSL1	ADSL1	adenylsuccinate lyase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+ADSL2	ADSL2	adenylosuccinate lyase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+PRASCS	PRASCS	phosphoribosylaminoimidazolesuccinocarboxamide synthase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+PRAGS	PRAGS	phosphoribosylglycinamide synthase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+AIRC	AIRC	Phosphoribosylaminoimidazole carboxylase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+GLUPRT	GLUPRT	glutamine phosphoribosyldiphosphate amidotransferase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+AICART	AICART	phosphoribosylaminoimidazolecarboxamide formyltransferase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+IMPC	IMPC	IMP cyclohydrolase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+PRFGS	PRFGS	phosphoribosylformylglycinamidine synthase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+PRAIS	PRAIS	phosphoribosylaminoimidazole synthase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+GARFT	GARFT	phosphoribosylglycinamide formyltransferase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+GART	GART	GAR transformylase-T	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+FTHFD	FTHFD	formyltetrahydrofolate deformylase	internal	Folate Metabolism	False	0.0	1000.0	False	False	False	False
+PYK	PYK	pyruvate kinase	internal	Glycolysis/Gluconeogenesis	False	0.0	1000.0	False	False	False	False
+ASPCT	ASPCT	aspartate carbamoyltransferase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+DHORTS	DHORTS	dihydroorotase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+DHORD	DHORD	dihydoorotic acid dehydrogenase (quinone8)	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+ORPT	ORPT	orotate phosphoribosyltransferase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+OMPDC	OMPDC	orotidine-5-phosphate decarboxylase	internal	Purine and Pyrimidine Biosynthesis	False	0.0	1000.0	False	False	False	False
+CTPS2	CTPS2	CTP synthase (glutamine)	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+URIDK	URIDK	uridylate kinase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+UPPRT	UPPRT	uracil phosphoribosyltransferase	internal	Purine and Pyrimidine Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+PYDAMK	PYDAMK	pyridoxamine kinase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+HKDOS	HKDOS	Lipopolysaccharide heptosyltransferase Iacyltransferase	internal	( Lipopolysaccharide Biosynthesis ) or ( KDO(2)-AFE synthesis )	False	0.0	1000.0	False	False	False	False
+AGMHE	AGMHE	ADP-D-glycero-D-manno-heptose epimerase	internal	Lipopolysaccharide Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+GMHEPK	GMHEPK	D-glycero-D-manno-heptose 7-phosphate kinase	internal	Lipopolysaccharide Biosynthesis	False	0.0	1000.0	False	False	False	False
+GMHEPAT	GMHEPAT	D-glycero-D-manno-hepose 1-phosphate adenyltransferase	internal	Lipopolysaccharide Biosynthesis	False	0.0	1000.0	False	False	False	False
+G1PTT	G1PTT	glucose-1-phosphate thymidylyltransferase	internal	Cell Envelope Biosynthesis	False	0.0	1000.0	False	False	False	False
+TDPGDH	TDPGDH	dTDPglucose 4,6-dehydratase	internal	Cell Envelope Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+TDPDRE1	TDPDRE1	dTDP-4-dehydrorhamnose 3,5-epimerase	internal	Cell Envelope Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+TDPDRE2	TDPDRE2	dTDP-L-rhamnose synthetase	internal	Cell Envelope Biosynthesis	False	0.0	1000.0	False	False	False	False
+TDPDRR	TDPDRR	dTDP-4-dehydrorhamnose reductase	internal	Cell Envelope Biosynthesis	False	0.0	1000.0	False	False	False	False
+GTPCII2	GTPCII2	GTP cyclohydrolase II (2dhpp)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	False	0.0	1000.0	False	False	False	False
+DB4PS	DB4PS	3,4-Dihydroxy-2-butanone-4-phosphate synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+DHPPDA	DHPPDA	diaminohydroxyphosphoribosylaminopryrimidine deaminase (2dhpp)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	False	0.0	1000.0	False	False	False	False
+APRAUR	APRAUR	5-amino-6-(5-phosphoribosylamino)uracil reductase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+RBFS	RBFS	riboflavin synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	False	0.0	1000.0	False	False	False	False
+FMNAT	FMNAT	FMN adenylyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	False	0.0	1000.0	False	False	False	False
+RBFK1	RBFK1	riboflavin kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	False	0.0	1000.0	False	False	False	False
+RBFS2	RBFS2	riboflavin synthase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+RPE	RPE	ribulose 5-phosphate 3-epimerase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+RPI	RPI	ribose-5-phosphate isomerase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	False	0.0	1000.0	False	False	False	False
+SFAT1	SFAT1	sulfate adenylyltransferase	internal	Sulfur Metabolism	False	0.0	1000.0	False	False	False	False
+SFAT2	SFAT2	sulfate adenylyltransferase	internal	Sulfur Metabolism	False	0.0	1000.0	False	False	False	False
+MMM	MMM	Methylmalonyl-CoA mutase	internal	( Alternate Carbon Metabolism ) or ( Methylmalonyl pathway )	True	-1000.0	1000.0	False	False	False	False
+SBPASE	SBPASE	Sedoheptulose-bisphosphatase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+SUCD	SUCD	succinate dehydrogenase	internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+SULDO	SULDO	sulfur dioxygenase	internal	Sulfur Metabolism	True	-1000.0	1000.0	False	False	False	False
+PGCD	PGCD	phosphoglycerate dehydrogenase	internal	Glycine and Serine Metabolism	True	-1000.0	1000.0	False	False	False	False
+PSP_L	PSP_L	phosphoserine phosphatase (L-serine)	internal	Glycine and Serine Metabolism	False	0.0	1000.0	False	False	False	False
+PSERT	PSERT	phosphoserine transaminase	internal	Glycine and Serine Metabolism	True	-1000.0	1000.0	False	False	False	False
+OHPBAT	OHPBAT	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	internal	Cofactor and Prosthetic Group Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+MTOD	MTOD	methylthioribulose 1-phosphate dehydratase activity	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+DKMPE	DKMPE	2,3-diketo-5-methylthiopentyl-1-phosphate enolase	internal	Methionine Metabolism	True	-1000.0	1000.0	False	False	False	False
+HKMPP	HKMPP	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase	internal	Methionine Metabolism	False	0.0	1000.0	False	False	False	False
+AREDO	AREDO	acireductone dioxygenase	internal	Methionine Metabolism	False	0.0	1000.0	False	False	False	False
+KMBT	KMBT	2-keto-4-methylthiobutyrate transamination	internal	Methionine Metabolism	False	0.0	1000.0	False	False	False	False
+SCCR	SCCR	sulfite cytochrome c reductase	internal	Sulfur Metabolism	False	0.0	0.0	True	False	False	False
+ORNDC	ORNDC	Ornithine Decarboxylase	internal	Arginine and Proline Metabolism	False	0.0	1000.0	False	False	False	False
+SPMS	SPMS	Spermidine synthase	internal	( Arginine and Proline Metabolism ) or ( Spermidine biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+GAP2	GAP2		internal	Glycogen Metabolism	True	-1000.0	1000.0	False	False	False	False
+SQRED1	SQRED1	sulfide quinone reductase	internal	Sulfur Metabolism	True	-1000.0	1000.0	False	False	False	False
+SUCOAS	SUCOAS	succinyl-CoA synthetase (ADP-forming)	internal	Citric Acid Cycle	True	-1000.0	1000.0	False	False	False	False
+SO42tpp	SO42tpp	sulfate permease	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+NADPPPS	NADPPPS	NADP phosphatase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD salvage pathway )	False	0.0	1000.0	False	False	False	False
+THMP	THMP	thiamin phosphatase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+TALA	TALA	transaldolase	internal	Pentose Phosphate Pathway	True	-1000.0	1000.0	False	False	False	False
+TMDK1	TMDK1	Deoxyuridine kinase (ATP:Deoxyuridine)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+TMDK2	TMDK2	thymidine kinase (ATP:thymidine)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+AMPMS	AMPMS	Reaction of thiamine biosynthesis protein thiC	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	False	0.0	1000.0	False	False	False	False
+HMPK1	HMPK1	hydroxymethylpyrimidine kinase (ATP)	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+PMPK	PMPK	phosphomethylpyrimidine kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	False	0.0	1000.0	False	False	False	False
+TMPPP	TMPPP	thiamine-phosphate diphosphorylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	False	0.0	1000.0	False	False	False	False
+TTMS	TTMS	Thiamine thiazole moiety synthesis	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	False	0.0	1000.0	False	False	False	False
+HETZK	HETZK	hydroxyethylthiazole kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+TMPK	TMPK	thiamine-phosphate kinase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+HMSK	HMSK	Homoserine kinase	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+THRS	THRS	threonine synthase	internal	Threonine and Lysine Metabolism	False	0.0	1000.0	False	False	False	False
+TTSF	TTSF	thymidylate synthase (FAD)	internal	Threonine and Lysine Metabolism	True	-1000.0	1000.0	False	False	False	False
+TKT1	TKT1	transketolase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+TKT2	TKT2	transketolase	internal	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+DTMPK	DTMPK	dTMP kinase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+FE32tpp	FE32tpp	fe3 ton transporter	transport	Transport, Inner Membrane	False	0.0	1000.0	False	False	False	False
+TPI	TPI	triose-phosphate isomerase	internal	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	True	-1000.0	1000.0	False	False	False	False
+TSQOC	TSQOC	thiosulfate-quinone oxireductase complex	internal	Sulfur Metabolism	False	0.0	1000.0	False	False	False	False
+TRPS3	TRPS3	tryptophan synthase (indoleglycerol phosphate)	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+TRPS2	TRPS2	tryptophan synthase (indole)	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+IGPS	IGPS	indole-3-glycerol-phosphate synthase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+ANPRT	ANPRT	anthranilate phosphoribosyltransferase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	False	0.0	1000.0	False	False	False	False
+PRAI	PRAI	phosphoribosylanthranilate isomerase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+TRDR	TRDR	thioredoxin reductase (NADPH)	internal	Oxidative Phosphorylation	False	0.0	1000.0	False	False	False	False
+PPND	PPND	prephenate dehydrogenase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	False	0.0	1000.0	False	False	False	False
+PHETA1	PHETA1	phenylalanine transaminase	internal	Tyrosine, Tryptophan, and Phenylalanine Metabolism	True	-1000.0	1000.0	False	False	False	False
+HBPPT	HBPPT	4-hydroxybenzoate polyprenyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	True	-1000.0	1000.0	False	False	False	False
+OPHHX	OPHHX	2-Octaprenylphenol hydroxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	False	0.0	1000.0	False	False	False	False
+OPHBDC	OPHBDC	Octaprenyl-hydroxybenzoate decarboxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	True	-1000.0	1000.0	False	False	False	False
+OMMBH	OMMBH	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	False	0.0	1000.0	False	False	False	False
+DUQM	DUQM	3-demethylubiquinone-9 3-methyltransferase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	True	-1000.0	1000.0	False	False	False	False
+OHPHM	OHPHM	2-octaprenyl-6-hydroxyphenol methylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	True	-1000.0	1000.0	False	False	False	False
+OMPHHX	OMPHHX	2-octaprenyl-6-methoxyphenol hydroxylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	True	-1000.0	1000.0	False	False	False	False
+OMBQM	OMBQM	2-octaprenyl-6-methoxy-1,4-benzoquinone methylase	internal	( Cofactor and Prosthetic Group Biosynthesis ) or ( Ubiquinone synthesis )	True	-1000.0	1000.0	False	False	False	False
+URIK1	URIK1	uridine kinase (ATP:Uridine)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+CYTDK2	CYTDK2	cytidine kinase (GTP)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+URIK2	URIK2	uridine kinase (GTP:Uridine)	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+URIP	URIP	uridine phosphorylase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+UDPGD	UDPGD	UDPglucose 6-dehydrogenase	internal	( Cell Envelope Biosynthesis ) or ( UDP-D-xylose biosynthesis )	True	-1000.0	1000.0	False	False	False	False
+UGDC	UGDC	UDP-glucuronate decarboxylase	internal	( Cell Envelope Biosynthesis ) or ( UDP-D-xylose biosynthesis )	False	0.0	1000.0	False	False	False	False
+DTDCT	DTDCT	di-trans-poly-cis-decaprenylcistransferase	internal	Cell Envelope Biosynthesis	True	-1000.0	1000.0	False	False	False	False
+UDDS	UDDS	undecaprenyl diphosphate synthase	internal	Cell Envelope Biosynthesis	False	0.0	1000.0	False	False	False	False
+HXAND	HXAND	hypoxanthine dehydrogenase	internal	Nucleotide Salvage Pathway	True	-1000.0	1000.0	False	False	False	False
+XAND	XAND	xanthine dehydrogenase	internal	Nucleotide Salvage Pathway	False	0.0	1000.0	False	False	False	False
+ACPpds	ACPpds	acyl carrier protein phosphodiesterase	internal	Sulfur Metabolism	False	0.0	1000.0	False	False	False	False
+MMCD	MMCD	Methylmalonyl-CoA decarboxylase	internal	Alternate Carbon Metabolism	False	0.0	1000.0	False	False	False	False
+G6PDH2	G6PDH2	glucose 6-phosphate dehydrogenase	internal	Pentose Phosphate Pathway	False	0.0	1000.0	False	False	False	False
+SO4AA2tpp	SO4AA2tpp	sulfate transport inner membrane	internal	Sulfur Metabolism	True	-1000.0	1000.0	False	False	False	False
+Ex_bio_LSQBKT_e_RSQBKT_		biomass exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_h2co3_LSQBKT_e_RSQBKT_		h3co3 exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_h_LSQBKT_e_RSQBKT_		h+ exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_h2_LSQBKT_e_RSQBKT_		h2 exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_fe3_LSQBKT_e_RSQBKT_		fe3+ exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_fe2_LSQBKT_e_RSQBKT_		fe2+ exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_nh4_LSQBKT_e_RSQBKT_		ammonia exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_o2_LSQBKT_e_RSQBKT_		o2 exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_h2o_LSQBKT_e_RSQBKT_		h2o exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_eps_AFE_LSQBKT_e_RSQBKT_		eps exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_n2_LSQBKT_e_RSQBKT_		n2 exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_zn2_LSQBKT_e_RSQBKT_		zinc exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_ca2_LSQBKT_e_RSQBKT_		calcium exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_na1_LSQBKT_e_RSQBKT_		sodium exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_mn2_LSQBKT_e_RSQBKT_		mn2+ exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_cu2_LSQBKT_e_RSQBKT_		cu2+ exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_mg2_LSQBKT_e_RSQBKT_		mg2+ exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_k_LSQBKT_e_RSQBKT_		k+ exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_pi_LSQBKT_e_RSQBKT_		phosphate exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_4hba_LSQBKT_e_RSQBKT_		4 hydroxybenzyl alcohol exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_h2s_LSQBKT_e_RSQBKT_		hydrogen sulfide exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_s_LSQBKT_e_RSQBKT_		sulfur exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_so4_LSQBKT_e_RSQBKT_		sulfate exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_tsul_LSQBKT_e_RSQBKT_		thiosulfate exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_ttton_LSQBKT_e_RSQBKT_		tetrathionate exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_ppt_LSQBKT_e_RSQBKT_		phosphonate exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_polypi_LSQBKT_e_RSQBKT_		polyphosphate exchange	exchange		True	-1000.0	1000.0	False	False	False	False
+Ex_so4aa_LSQBKT_e_RSQBKT_		sulfate exchange	exchange		True	-1000.0	1000.0	False	False	False	False

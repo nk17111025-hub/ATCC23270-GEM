@@ -1,0 +1,15 @@
+candidate_id	reaction_equation	reversible	source_universe	already_in_v2	excluded	exclusion_reason
+ME1	1 mal-L[c] + 1 nad[c] -> 1 pyr[c] + 1 co2[c] + 1 nadh[c]	False	BiGG	no	no	
+ME2	1 mal-L[c] + 1 nadp[c] -> 1 pyr[c] + 1 co2[c] + 1 nadph[c]	False	BiGG	no	no	
+PPCK	1 oaa[c] + 1 atp[c] -> 1 pep[c] + 1 co2[c] + 1 adp[c]	True	BiGG	no	no	
+ICL	1 icit[c] -> 1 glx[c] + 1 succ[c]	False	BiGG	no	no	
+PPS	1 pyr[c] + 1 atp[c] + 1 h2o[c] -> 1 pep[c] + 1 amp[c] + 1 pi[c] + 2 h[c]	False	BiGG	no	no	
+GND	1 6pgc[c] + 1 nadp[c] -> 1 ru5p-D[c] + 1 co2[c] + 1 nadph[c]	False	BiGG	no	no	
+NADH16	1 nadh[c] + 1 q8[c] + 1 h[c] -> 1 nad[c] + 1 q8h2[c]	False	BiGG	no	no	
+PPDK	1 pyr[c] + 1 atp[c] + 1 pi[c] -> 1 pep[c] + 1 amp[c] + 1 ppi[c]	False	BiGG	no	no	
+G6PDH_NAD	1 g6p-B[c] + 1 nad[c] -> 1 6pgl[c] + 1 nadh[c] + 1 h[c]	False	curated	no	no	
+PC	1 pyr[c] + 1 co2[c] + 1 atp[c] -> 1 oaa[c] + 1 adp[c] + 1 pi[c] + 1 h[c]	False	curated	no	no	
+PFL	1 pyr[c] + 1 coa[c] -> 1 accoa[c] + 1 for[c]	False	curated	no	no	
+NADHox	1 nadh[c] + 1 o2[c] + 1 h[c] -> 1 nad[c] + 1 h2o2[c]	False	curated	no	no	
+RPIr	1 ru5p-D[c] -> 1 r5p[c]	True	curated-direction	no	no	
+G6PDH2r_fwd	1 g6p-B[c] + 1 nadp[c] -> 1 6pgl[c] + 1 nadph[c] + 1 h[c]	False	native-direction	no	no	

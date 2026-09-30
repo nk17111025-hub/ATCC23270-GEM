@@ -1,0 +1,6 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:13617	S-methyl-5'-thioadenosine + H2O = 5-(methylsulfanyl)-D-ribose + adenine	EC:3.2.2.9;EC:3.2.2.16	CHEBI:17509;CHEBI:15377;CHEBI:78440;CHEBI:16708	KEGG:R01401	MetaCyc:METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN
+RHEA:14493	N(omega)-alpha-(ADP-D-ribosyl)-L-arginyl-[dinitrogen reductase] + H2O = L-arginyl-[dinitrogen reductase] + ADP-D-ribose	EC:3.2.2.24	CHEBI:83960;CHEBI:15377;CHEBI:29965;CHEBI:57967	KEGG:R03446	MetaCyc:3.2.2.24-RXN
+RHEA:21708	S-adenosyl-L-homocysteine + H2O = L-homocysteine + adenosine	EC:3.13.2.1	CHEBI:57856;CHEBI:15377;CHEBI:58199;CHEBI:16335	KEGG:R00192	MetaCyc:ADENOSYLHOMOCYSTEINASE-RXN
+RHEA:17805	S-adenosyl-L-homocysteine + H2O = S-(5-deoxy-D-ribos-5-yl)-L-homocysteine + adenine	EC:3.2.2.9	CHEBI:57856;CHEBI:15377;CHEBI:58195;CHEBI:16708	KEGG:R00194	MetaCyc:ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN
+RHEA:29859	5'-deoxyadenosine + H2O = 5-deoxy-D-ribose + adenine	EC:3.2.2.9	CHEBI:17319;CHEBI:15377;CHEBI:149540;CHEBI:16708	KEGG:R12621	MetaCyc:RXN0-6550

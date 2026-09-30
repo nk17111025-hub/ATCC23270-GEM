@@ -1,0 +1,13 @@
+stage	status	timestamp	note
+01_inputs	completed	2026-09-27T00:31:31+08:00	v2 identity verified
+02_universe_raw	completed	2026-09-27T00:31:31+08:00	1313 BioCyc reactions
+03_universe_mapping	completed	2026-09-27T00:31:31+08:00	138 mapped
+04_universe_clean	completed	2026-09-27T00:31:31+08:00	116 balanced + 27 curated
+05_R0_search	completed	2026-09-27T00:31:31+08:00	INFEASIBLE (no rescue)
+06_solution_validation	partial	2026-09-27T00:31:31+08:00	redox bottleneck localised
+07_rubisco_restore	skipped	2026-09-27T00:31:31+08:00	no bypass exists
+08_KO_search	skipped	2026-09-27T00:31:31+08:00	no bypass exists
+09_OE_search	skipped	2026-09-27T00:31:31+08:00	no bypass exists
+10_robustness	skipped	2026-09-27T00:31:31+08:00	no accepted solution
+12_pareto	skipped	2026-09-27T00:31:31+08:00	no designs
+13_final	completed	2026-09-27T00:31:31+08:00	PARTIAL verdict

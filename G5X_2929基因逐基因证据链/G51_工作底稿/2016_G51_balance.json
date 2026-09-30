@@ -1,0 +1,550 @@
+[
+  {
+    "reaction_id": "4THASE1",
+    "formula": "ttton[p] + h2o[p]  -> tsul[p] + s[p] + 2 h[p] + so4[p]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "4THASE2",
+    "formula": "4 ttton[p] + 5 h2o[p]  -> 7 tsul[p] + 10 h[p] + 2 so4[p]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "TSQOC",
+    "formula": "2 tsul[p] + 2 h[c] + q8[c]  -> ttton[p] + q8h2[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "QULNS",
+    "formula": "dhap[c] + iasp[c]  <=> pi[c] + 2 h2o[c] + quln[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "CU2tpp",
+    "formula": "cu2[p]  -> cu2[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "MN2tpp",
+    "formula": "mn2[p]  -> mn2[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "MNTH",
+    "formula": "h[p] + fe2[p]  -> h[c] + fe2[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "ZN2tpp",
+    "formula": "zn2[p]  -> zn2[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "DHNPA2",
+    "formula": "dhnpt[c]  <=> gcald[c] + 6hmhpt[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "CPPPGO2",
+    "formula": "2 amet[c] + cpppg3[c]  <=> 2 co2[c] + 2 met-L[c] + 2 dad-5[c] + pppg9[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "PGM1",
+    "formula": "3pg[c]  <=> 2pg[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "SPMS",
+    "formula": "ametam[c] + ptrc[c]  <=> h[c] + spmd[c] + 5mta[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "ADMDC",
+    "formula": "h[c] + amet[c]  <=> co2[c] + ametam[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "THPDH",
+    "formula": "nad[c] + phthr[c]  <=> h[c] + nadh[c] + amopbut-L[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "FCLT",
+    "formula": "fe2[c] + ppp9[c]  <=> 2 h[c] + pheme[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "SHK3D",
+    "formula": "nadp[c] + skm[c]  <=> h[c] + nadph[c] + 3dhsk[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "DPCOAK",
+    "formula": "atp[c] + dpcoa[c]  -> h[c] + adp[c] + coa[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "FBP",
+    "formula": "h2o[c] + fdp[c]  -> pi[c] + f6p-B[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "ACCOAC",
+    "formula": "atp[c] + accoa[c] + hco3[c]  <=> h[c] + pi[c] + adp[c] + malcoa[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "BIOC1",
+    "formula": "accoa[c] + bcCPco2_AFE[c]  -> h[c] + malcoa[c] + 2 bcCP_AFE[c]",
+    "status": "无法完整核算",
+    "element_delta": {
+      "C": 1.0,
+      "O": 2.0
+    },
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": [
+      "bcCPco2_AFE[c]:",
+      "bcCP_AFE[c]:"
+    ]
+  },
+  {
+    "reaction_id": "BIOC2",
+    "formula": "atp[c] + hco3[c] + 2 bcCP_AFE[c]  -> pi[c] + adp[c] + bcCPco2_AFE[c]",
+    "status": "无法完整核算",
+    "element_delta": {
+      "C": -1.0,
+      "O": -2.0
+    },
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": [
+      "bcCP_AFE[c]:",
+      "bcCPco2_AFE[c]:"
+    ]
+  },
+  {
+    "reaction_id": "DHQT",
+    "formula": "3dhq[c]  <=> h2o[c] + 3dhsk[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "ALAALAr",
+    "formula": "atp[c] + 2 ala-D[c]  <=> h[c] + pi[c] + adp[c] + alaala[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "UAPGR",
+    "formula": "nadp[c] + uamr[c]  <=> h[c] + nadph[c] + uaccg[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "UAMAS",
+    "formula": "atp[c] + ala-L[c] + uamr[c]  <=> h[c] + pi[c] + adp[c] + uama[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "PGLT",
+    "formula": "2 ugmdal[c]  <=> 2 h[c] + 2 udcpdp[c] + murein5p5p[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "UCMAT",
+    "formula": "uacgam[c] + uagmda[c]  -> h[c] + udp[c] + ugmdal[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "PAPPT3",
+    "formula": "udcpp[c] + ugmda[c]  -> ump[c] + uagmda[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "UGLDDS",
+    "formula": "atp[c] + alaala[c] + ugmd[c]  -> h[c] + pi[c] + adp[c] + ugmda[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "UAAGDS",
+    "formula": "atp[c] + 26dap-M[c] + uamag[c]  <=> h[c] + pi[c] + adp[c] + ugmd[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "UAAD",
+    "formula": "h2o[c] + u3aga[c]  -> ac[c] + udpglucpypi[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "KDOCT",
+    "formula": "ckdo[c]  -> h[c] + cmp[c] + kdo_AFE[c]",
+    "status": "无法完整核算",
+    "element_delta": {
+      "C": -8.0,
+      "H": -11.0,
+      "O": -7.0
+    },
+    "charge_delta": 1.0,
+    "missing_metabolites": [],
+    "unknown_formula": [
+      "kdo_AFE[c]:"
+    ]
+  },
+  {
+    "reaction_id": "KDOCT3",
+    "formula": "ckdo[c] + kdo_AFE[c]  -> kdo2_AFE[c]",
+    "status": "无法完整核算",
+    "element_delta": {
+      "C": -17.0,
+      "H": -24.0,
+      "N": -3.0,
+      "O": -15.0,
+      "P": -1.0
+    },
+    "charge_delta": 2.0,
+    "missing_metabolites": [],
+    "unknown_formula": [
+      "kdo_AFE[c]:",
+      "kdo2_AFE[c]:"
+    ]
+  },
+  {
+    "reaction_id": "LDAS",
+    "formula": "ddcaACP[c] + lipid4A_AFE[c]  -> ACP[c] + ddcalipid4A_AFE[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "LIPS",
+    "formula": "myrsACP[c] + ddcalipid4A_AFE[c]  -> ACP[c] + lip_AFE[c]",
+    "status": "无法完整核算",
+    "element_delta": {
+      "C": -94.0,
+      "H": -176.0,
+      "N": -4.0,
+      "O": -23.0,
+      "P": -2.0
+    },
+    "charge_delta": 4.0,
+    "missing_metabolites": [],
+    "unknown_formula": [
+      "lip_AFE[c]:"
+    ]
+  },
+  {
+    "reaction_id": "AOXS",
+    "formula": "h[c] + ala-L[c] + pmcoa[c]  <=> co2[c] + coa[c] + 8aonn[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "DBTS",
+    "formula": "atp[c] + co2[c] + dann[c]  <=> 3 h[c] + pi[c] + adp[c] + dtbt[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "ACGK",
+    "formula": "atp[c] + acglu[c]  -> adp[c] + acg5p[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "BTS5",
+    "formula": "2 amet[c] + dtbt[c] + RSH[c]  -> h[c] + 2 met-L[c] + btn[c] + 2 dad-5[c] + R[c]",
+    "status": "不平衡",
+    "element_delta": {},
+    "charge_delta": -1.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "P5CR",
+    "formula": "nadp[c] + pro-L[c]  <=> 2 h[c] + nadph[c] + 1pyr5c[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "AIRC",
+    "formula": "h[c] + 5aizc[c]  <=> co2[c] + air[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "GLU5K",
+    "formula": "glu-L[c] + atp[c]  -> adp[c] + glu5p[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "SO42tpp",
+    "formula": "so4[p]  -> so4[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "HCO3E",
+    "formula": "h2o[c] + co2[c]  <=> h[c] + hco3[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "MTHPTGHM",
+    "formula": "hcys-L[c] + 5mthglu[c]  <=> met-L[c] + thglu[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "HSERTA",
+    "formula": "accoa[c] + hom-L[c]  <=> coa[c] + achms[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "GHMT2",
+    "formula": "thf[c] + ser-L[c]  <=> h2o[c] + mlthf[c] + gly[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "GHMT3",
+    "formula": "nad[c] + thf[c] + gly[c]  -> co2[c] + nadh[c] + mlthf[c] + nh4[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "APRAUR",
+    "formula": "nadp[c] + 5a65pilamura[c]  <=> h[c] + nadph[c] + 5apru[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "DHPPDA",
+    "formula": "h2o[c] + 2dhpp[c]  -> nh4[c] + 5apru[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "RBFS",
+    "formula": "2 dmlz[c]  -> ribflv[c] + 4r5au[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "DB4PS",
+    "formula": "ru5p-D[c]  <=> h[c] + for[c] + db4p[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "GTPCII2",
+    "formula": "3 h2o[c] + gtp[c]  -> h[c] + for[c] + ppi[c] + 2dhpp[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "RBFS2",
+    "formula": "4r5au[c] + db4p[c]  <=> pi[c] + 2 h2o[c] + dmlz[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "OPHHX",
+    "formula": "o2[c] + 2 2oph[c]  -> 2 2ohph[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "S7PI",
+    "formula": "s7p[c]  <=> gmhep7p[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  },
+  {
+    "reaction_id": "UAMAGS",
+    "formula": "atp[c] + uama[c] + glu-D[c]  <=> h[c] + pi[c] + adp[c] + uamag[c]",
+    "status": "平衡",
+    "element_delta": {},
+    "charge_delta": 0.0,
+    "missing_metabolites": [],
+    "unknown_formula": []
+  }
+]

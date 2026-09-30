@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 23 Sep 2026 00:43:02 GMT
+Connection: Close
+Server: AllegroServe/1.3.89
+Content-Type: text/xml
+Transfer-Encoding: chunked
+CACHE-CONTROL: max-age=86400, public
+SET-COOKIE: PTools-session=biocyc14-3999112982%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20NIL%20NIL%20NIL%20%7Cedx2ha8aow626juzcjwg3joyxftcqx2; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+SET-COOKIE: PTools-session=biocyc14-3999112982%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20NIL%20NIL%20NIL%20%7Cedx2ha8aow626juzcjwg3joyxftcqx2; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+SET-COOKIE: PTools-session=biocyc14-3999112982%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20NIL%20NIL%20NIL%20%7Cedx2ha8aow626juzcjwg3joyxftcqx2; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+SET-COOKIE: anonID=352405; expires=Tue, 22 Dec 2026 00:43:02 GMT; domain=.biocyc.org; path=/
+SET-COOKIE: pagecount=1; expires=Thu, 01 Oct 2026 07:00:00 GMT; path=/
+SET-COOKIE: PTools-session=biocyc14-3999112982%7CNIL%20NIL%20NIL%20NIL%200%20(%3AWEB%20NIL%20-1%20((%3ABASICS%20-1)%20(%3AQUERIES%20-1)%20(%3AADVANCED%20-1)))%20NIL%20NIL%20NIL%20GCF_000021485BASE%20NIL%20NIL%20%7Cbq1aovv5xvy4t1mo5s60pxli0hf96sz; expires=Thu, 11 Aug 2050 12:32:12 GMT; domain=.biocyc.org; path=/
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+

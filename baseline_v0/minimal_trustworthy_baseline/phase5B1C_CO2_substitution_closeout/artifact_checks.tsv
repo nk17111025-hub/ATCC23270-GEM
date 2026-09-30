@@ -1,0 +1,10 @@
+condition	test	value
+FIM	free_ATPM	0.0
+FIM	free_nadh[c]	0.0
+FIM	free_nadph[c]	0.0
+TTM	free_ATPM	0.0
+TTM	free_nadh[c]	0.0
+TTM	free_nadph[c]	0.0
+TSM	free_ATPM	0.0
+TSM	free_nadh[c]	0.0
+TSM	free_nadph[c]	0.0

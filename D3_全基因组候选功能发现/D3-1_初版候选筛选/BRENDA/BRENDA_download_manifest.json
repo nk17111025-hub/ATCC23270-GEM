@@ -1,0 +1,29 @@
+[
+  {
+    "file": "05_BRENDA\\D3-1\\原始响应\\BRENDA_org_EC.json",
+    "URL/API": "https://sparql.dsmz.de/api/brenda?query=PREFIX+d3o%3A+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fschema%2F%3E+PREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E+SELECT+DISTINCT+%3Forg+%3ForgName+%3Fenzyme+%3Fec+%3FecName+WHERE+%7B+VALUES+%3Forg+%7B+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F16285%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F17182%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F22717%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F18959%3E+%7D+%3Forg+rdfs%3Alabel+%3ForgName+.+%3Fenzyme+d3o%3AfoundIn+%3Forg+%3B+d3o%3AisClassifiedAs+%3Fec+.+%3Fec+rdfs%3Alabel+%3FecName+%7D+LIMIT+5000",
+    "access_time": "2026-09-23T09:48:18.417017+08:00",
+    "version": "DSMZ BRENDA SPARQL prototype; website release 2026.1",
+    "bytes": 19117,
+    "SHA256": "aa25863a34dee0b559305550484faea9a91222c1fa6ad9b7d1d4308e80770238",
+    "HTTP_status": 200
+  },
+  {
+    "file": "05_BRENDA\\D3-1\\原始响应\\BRENDA_FeS_reaction_compounds.json",
+    "URL/API": "https://sparql.dsmz.de/api/brenda?query=PREFIX+d3o%3A+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fschema%2F%3E+PREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E+SELECT+DISTINCT+%3ForgName+%3Fenzyme+%3Fec+%3Frxn+%3FroleClass+%3FcompoundName+WHERE+%7B+VALUES+%3Forg+%7B+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F16285%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F17182%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F22717%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F18959%3E+%7D+%3Forg+rdfs%3Alabel+%3ForgName+.+%3Fenzyme+d3o%3AfoundIn+%3Forg+%3B+d3o%3AisClassifiedAs+%3Fec+.+FILTER%28%3Fec+IN+%28%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.5.4%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.2.2%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F3.12.1.B1%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.99.B2%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.2.3%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.1.9%3E%29%29+%3Frxn+d3o%3AcatalyzedBy+%3Fenzyme+.+%3Frole+d3o%3ApartOf+%3Frxn%3B+d3o%3ArefersToCompound+%3Fcompound+.+%3Frole+a+%3FroleClass+.+FILTER%28%3FroleClass+IN+%28d3o%3ASubstrate%2Cd3o%3AProduct%29%29+%3Fcompound+rdfs%3Alabel+%3FcompoundName+%7D+LIMIT+5000",
+    "access_time": "2026-09-23T09:48:26.209462+08:00",
+    "version": "DSMZ BRENDA SPARQL prototype; website release 2026.1",
+    "bytes": 684334,
+    "SHA256": "d19c311f17f6813363eb860eeb66eeaa7f121c9f487e390e5867b58feb75e817",
+    "HTTP_status": 200
+  },
+  {
+    "file": "05_BRENDA\\D3-1\\原始响应\\BRENDA_FeS_cofactors_references.json",
+    "URL/API": "https://sparql.dsmz.de/api/brenda?query=PREFIX+d3o%3A+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fschema%2F%3E+PREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E+SELECT+DISTINCT+%3ForgName+%3Fenzyme+%3Fec+%3FcofName+%3Fref+WHERE+%7B+VALUES+%3Forg+%7B+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F16285%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F17182%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F22717%3E+%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Forganism%2F18959%3E+%7D+%3Forg+rdfs%3Alabel+%3ForgName+.+%3Fenzyme+d3o%3AfoundIn+%3Forg+%3B+d3o%3AisClassifiedAs+%3Fec+.+FILTER%28%3Fec+IN+%28%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.5.4%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.2.2%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F3.12.1.B1%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.99.B2%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.2.3%3E%2C%3Chttps%3A%2F%2Fpurl.dsmz.de%2Fbrenda%2Fec%2F1.8.1.9%3E%29%29+OPTIONAL+%7B%3Fcof+d3o%3AisCofactorOf+%3Fenzyme%3B+d3o%3ArefersToCompound+%3Fc.+%3Fc+rdfs%3Alabel+%3FcofName%7D+OPTIONAL+%7B%3Fenzyme+d3o%3AhasReference+%3Fref%7D+%7D+LIMIT+5000",
+    "access_time": "2026-09-23T09:48:28.875808+08:00",
+    "version": "DSMZ BRENDA SPARQL prototype; website release 2026.1",
+    "bytes": 1191292,
+    "SHA256": "168397840437bb5cbdf174782efa6570a8a18d592e4879a6f06bcf9253bf96be",
+    "HTTP_status": 200
+  }
+]

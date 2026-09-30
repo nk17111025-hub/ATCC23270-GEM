@@ -1,0 +1,546 @@
+{
+  "RU820_RS00145": {
+    "legacy_afe": "AFE_0029",
+    "evidence_doi": "10.1016/j.jbiotec.2007.08.030;10.1128/JB.01472-13;10.3389/fmicb.2011.00079",
+    "direct_evidence": "ATCC 23270 的 TetH 已经纯化并以蛋白 N 端/抗体确认；tetH 敲除不能以四硫代硫酸盐为唯一能源生长，回补恢复；2011论文在培养上清测得四硫代硫酸盐水解活性并以质谱检出 TetH。",
+    "boundary": "支持同株 TetH 四硫代硫酸盐水解。2016 4THASE1 的 thiosulfate、硫、硫酸盐产物与实验相符，但精确 1:1:1:1 比例未经逐产物定量；4THASE2 生成 7/4 thiosulfate 且不生成元素硫，与所引 Kanao 2007 的产物证据不符。两式不能同得4分。",
+    "action": "修改 reaction 候选：保留 4THASE1 作为有实验支持的主式并将精确式暂评3；4THASE2 降为待证模型假设，暂评1，检查是否移除或限流",
+    "linked_2016": "4THASE1;4THASE2"
+  },
+  "RU820_RS00210": {
+    "legacy_afe": "AFE_0042",
+    "evidence_doi": "10.1128/AEM.02251-12",
+    "direct_evidence": "ATCC 23270 的 AFE_0042 蛋白对硫代硫酸盐至四硫代硫酸盐有体外活性，实验电子受体为铁氰化物；所测泛醌为阴性。",
+    "boundary": "直接酶学只支持实验受体下的测定；不支持 2016 TSQOC 的 q8/q8h2、膜侧质子与六基因 AND。",
+    "action": "仅更新证据；TSQOC 旧低可信假设保留，精确 q8 反应需重评",
+    "linked_2016": "TSQOC"
+  },
+  "RU820_RS00240": {
+    "legacy_afe": "AFE_0048",
+    "evidence_doi": "10.1128/JB.01472-13",
+    "direct_evidence": "同株 tetH 扰动论文将 AFE_0048 列为 doxD1，并测其转录。",
+    "boundary": "未对 AFE_0048 做纯化催化或复合物组成实验；不能添加至 TSQOC 的 AND/OR。",
+    "action": "证据不足暂缓；不修改 TSQOC GPR",
+    "linked_2016": "TSQOC（比较对象，原 GPR 不含本基因）"
+  },
+  "RU820_RS00605": {
+    "legacy_afe": "AFE_0125",
+    "evidence_doi": "10.1074/jbc.M700374200",
+    "direct_evidence": "异株 PlsY 生化研究证明酰基磷酸为酰基供体。",
+    "boundary": "本株 RU820_RS00605 未做底物实测；2016 G3PAT1 使用酰基 ACP，不能按 EC 号视作同一反应。",
+    "action": "修改 reaction 候选；酰基磷酸路径及 PlsX 供体待同株核验",
+    "linked_2016": "G3PAT1（相同 EC，不同供体且旧行无 GPR）"
+  },
+  "RU820_RS00745": {
+    "legacy_afe": "AFE_0157",
+    "evidence_doi": "",
+    "direct_evidence": "当前注释与 UniProt 同源注释均指向 S-腺苷甲硫氨酸脱羧酶。",
+    "boundary": "2016 SPMS 的 AFE_0157 AND 把上游底物合成酶当作亚基；未见该基因为亚精胺合成酶亚基的实验证据。",
+    "action": "修改或补充 GPR 候选；从 SPMS 必需亚基关系中移出 AFE_0157，ADMDC 保留",
+    "linked_2016": "ADMDC;SPMS"
+  },
+  "RU820_RS01085": {
+    "legacy_afe": "AFE_0226",
+    "evidence_doi": "",
+    "direct_evidence": "当前 ArgJ 注释与 Rhea 15349/24292 指向两种乙酰转移反应。",
+    "boundary": "同 EC 的 2016 ACGS/GLAT 由 AFE_0664 关联；同一 EC 不能证明 RU820_RS01085 独立催化这两条精确模型反应。",
+    "action": "修改或补充 GPR 候选；ArgJ 同工功能待实测",
+    "linked_2016": "ACGS;GLAT（相同 EC，原 GPR 不含本基因）"
+  },
+  "RU820_RS01295": {
+    "legacy_afe": "AFE_0267",
+    "evidence_doi": "10.1128/aem.00170-25",
+    "direct_evidence": "ATCC 23270 的 AFE_0267 过表达株在厌氧硫/Fe(III) 条件下硫氧化及铁还原增加；有氧条件下与野生型相近。原文未报告纯化 AFE_0267 的醌依赖催化测定。",
+    "boundary": "支持 AFE_0267 参与厌氧硫氧化，按2016标准为功能相关生理证据（3）；不能据此证实 SQRED1 的 q8/q8h2、胞质/周质跨区室式或将全局表型当作单步反应（精确式暂限2）。旧 SQRED1 还含 SreA-D 复合物 GPR，需另行审查。",
+    "action": "修改 GPR 候选：评估在厌氧条件下将 RU820_RS01295 作为 SQRED1 的备选基因；反应式/方向/区室暂不定稿",
+    "linked_2016": "SQRED1（同 EC，旧 GPR 未含本基因且旧界限均为0）"
+  },
+  "RU820_RS01305": {
+    "legacy_afe": "AFE_0269",
+    "evidence_doi": "10.1007/s00253-014-5830-4",
+    "direct_evidence": "重组 AFE_0269 在 GSH 依赖测定中有 SDO 活性；ATCC 23270 敲除、过表达显示硫培养下生长与活性变化。",
+    "boundary": "Rhea 12981 的 GSSH 精确反应定义与 2016 SULDO 的元素硫式不同；体内 GSSH 供给、区室未测定。",
+    "action": "新增 reaction 候选待定；旧 SULDO 保留并修正证据解释",
+    "linked_2016": "SULDO（同 EC，化学式不等价）"
+  },
+  "RU820_RS01320": {
+    "legacy_afe": "AFE_0272",
+    "evidence_doi": "10.1021/bi00136a016",
+    "direct_evidence": "异株 PurE/PurK 研究分辨 PurK ATP 依赖合成 N5-CAIR 与 PurE 随后的重排。",
+    "boundary": "本株仅有序列/功能注释；2016 AIRC 把 PurE/PurK 写成单一步骤 AND，缺少 ATP 与 N5-CAIR。",
+    "action": "修改 reaction 及 GPR 候选；分开 PurE 与 PurK 两步",
+    "linked_2016": "AIRC"
+  },
+  "RU820_RS01325": {
+    "legacy_afe": "AFE_0273",
+    "evidence_doi": "10.1021/bi00136a016",
+    "direct_evidence": "异株 PurE/PurK 研究分辨 PurK ATP 依赖合成 N5-CAIR 与 PurE 随后的重排。",
+    "boundary": "本株仅有序列/功能注释；2016 AIRC 把 PurE/PurK 写成单一步骤 AND，缺少 ATP 与 N5-CAIR。",
+    "action": "修改 reaction 及 GPR 候选；分开 PurE 与 PurK 两步",
+    "linked_2016": "AIRC"
+  },
+  "RU820_RS01395": {
+    "legacy_afe": "AFE_0287",
+    "evidence_doi": "10.3389/fmicb.2019.00603",
+    "direct_evidence": "同株研究测得不同 CO2 条件下的摄取和同化，并列出 AFE_0287 的碳酸酐酶预测。",
+    "boundary": "全细胞 CO2 摄取与预测注释不能证明此蛋白的 HCO3E 动力学、细胞位置或体内方向。",
+    "action": "仅更新证据或编号；HCO3E 保留",
+    "linked_2016": "HCO3E"
+  },
+  "RU820_RS01405": {
+    "legacy_afe": "AFE_0289",
+    "evidence_doi": "",
+    "direct_evidence": "当前 UbiE 双功能甲基转移酶注释及多个 Rhea 反应定义。",
+    "boundary": "未测定本株醌种类和具体底物；2016 无可确定的 UbiE 对应反应。",
+    "action": "证据不足暂缓；不把不同醌甲基化反应互换新增",
+    "linked_2016": "无确定对应反应"
+  },
+  "RU820_RS01480": {
+    "legacy_afe": "AFE_0305",
+    "evidence_doi": "10.1074/jbc.M113.480368",
+    "direct_evidence": "当前 NCBI 为 UbiB 类蛋白激酶；UniProt 未审校旧注释仍称羟化酶。异株 UbiI 研究纠正了旧 UbiB 羟化归属。",
+    "boundary": "本株 UbiB 未直接测激酶或羟化活性；不支持作为 2016 OPHHX 的单独羟化 GPR。",
+    "action": "修改 GPR 候选；从 OPHHX 移除 AFE_0305 并保留待证实的旧反应",
+    "linked_2016": "OPHHX"
+  },
+  "RU820_RS00265": {
+    "legacy_afe": "AFE_0053（旧编号对应存在论文冲突）",
+    "evidence_doi": "10.1128/aem.02288-25;10.4028/www.scientific.net/AMR.20-21.551",
+    "direct_evidence": "2026论文对所称 AFE_0053 进行 ATCC 23270 过表达，报告细胞 c-di-GMP 升高；2007论文将 AFE_0053 描述为 841 aa 的 GGDEF/EAL 蛋白。",
+    "boundary": "当前 RU820_RS00265/WP_009565537.1 的官方 CDS 约344 aa，注释为 YeeE/YedE 硫代硫酸盐转运家族；KEGG 旧 AFE_0053 也是膜蛋白。尚无法证明论文构建体与当前 WP 是同一序列。需取得构建体插入序列或引物扩增产物进行比对。",
+    "action": "编号与功能冲突待核；不得将论文 DGC 反应或2016相关 GPR归于 RU820_RS00265",
+    "linked_2016": "无直接关联反应"
+  },
+  "RU820_RS00045": {
+    "legacy_afe": "AFE_0008（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文把 AFE_0008 标为 CycA1，并报告周质蛋白检测。",
+    "boundary": "当前 RU820_RS00045/WP_009562187.1 是155 aa 的 Csu 家族蛋白，UniProt/Pfam 不支持 c 型细胞色素；论文 AFE_0008 不可仅凭旧号直接映射到此 WP。需比对论文质谱肽段或当年序列。",
+    "action": "编号冲突待核；暂不向 RU820_RS00045 添加铁/硫电子传递 GPR",
+    "linked_2016": "无直接关联反应"
+  },
+  "RU820_RS00375": {
+    "legacy_afe": "AFE_0075（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文使用 AFE_0075；论文写周质 SurA/PPIase。",
+    "boundary": "论文写周质 SurA/PPIase；当前蛋白为124 aa MarR 转录调控蛋白。论文采用 TIGR 时期标识，不能只凭旧编号将其质谱/功能结果转给当前 WP；需原始肽段或当年序列比对。",
+    "action": "编号冲突待核；不把论文 PPIase 功能归于当前蛋白",
+    "linked_2016": "无"
+  },
+  "RU820_RS00380": {
+    "legacy_afe": "AFE_0076（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文使用 AFE_0076；论文提及推测的外膜 Imp 蛋白。",
+    "boundary": "论文提及推测的外膜 Imp 蛋白；当前蛋白为500 aa flippase，Pfam PF13440。论文采用 TIGR 时期标识，不能只凭旧编号将其质谱/功能结果转给当前 WP；需原始肽段或当年序列比对。",
+    "action": "编号冲突待核；不把论文 Imp 功能归于当前蛋白",
+    "linked_2016": "无"
+  },
+  "RU820_RS00750": {
+    "legacy_afe": "AFE_0158（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文使用 AFE_0158；论文称检测到功能未知的脂蛋白。",
+    "boundary": "论文称检测到功能未知的脂蛋白；当前蛋白为275 aa ABC 转运 ATP 结合亚基。论文采用 TIGR 时期标识，不能只凭旧编号将其质谱/功能结果转给当前 WP；需原始肽段或当年序列比对。",
+    "action": "编号冲突待核；当前转运底物仍未定，论文不能确定转运反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS00800": {
+    "legacy_afe": "AFE_0169（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文使用 AFE_0169；论文称检测到仅含 TonB 依赖受体保守域的蛋白。",
+    "boundary": "论文称检测到仅含 TonB 依赖受体保守域的蛋白；当前蛋白为156 aa YbjN 域蛋白。论文采用 TIGR 时期标识，不能只凭旧编号将其质谱/功能结果转给当前 WP；需原始肽段或当年序列比对。",
+    "action": "编号冲突待核；不添加 TonB 运输反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS00830": {
+    "legacy_afe": "AFE_0174（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文使用 AFE_0174；论文称检测到推测的 TonB 依赖受体。",
+    "boundary": "论文称检测到推测的 TonB 依赖受体；当前蛋白为256 aa 外切脱氧核酸酶 III。论文采用 TIGR 时期标识，不能只凭旧编号将其质谱/功能结果转给当前 WP；需原始肽段或当年序列比对。",
+    "action": "编号冲突待核；不添加 TonB 运输反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS01255": {
+    "legacy_afe": "AFE_0259（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文使用 AFE_0259；论文称检测到 HtrA/DegQ 样周质蛋白酶。",
+    "boundary": "论文称检测到 HtrA/DegQ 样周质蛋白酶；当前蛋白为317 aa 生物素合酶 BioB。论文采用 TIGR 时期标识，不能只凭旧编号将其质谱/功能结果转给当前 WP；需原始肽段或当年序列比对。",
+    "action": "编号冲突待核；旧 BTS5 继续按当前 BioB 证据审查，论文蛋白酶证据不适用",
+    "linked_2016": "BTS5"
+  },
+  "RU820_RS01440": {
+    "legacy_afe": "AFE_0297（论文旧编号身份冲突）",
+    "evidence_doi": "10.1074/mcp.M700042-MCP200",
+    "direct_evidence": "2007 ATCC 23270 周质蛋白组论文使用 AFE_0297；论文称检测到功能未知的脂蛋白。",
+    "boundary": "论文称检测到功能未知的脂蛋白；当前蛋白为367 aa 核黄素途径 RibD。论文采用 TIGR 时期标识，不能只凭旧编号将其质谱/功能结果转给当前 WP；需原始肽段或当年序列比对。",
+    "action": "编号冲突待核；旧 RibD 反应继续按当前证据审查，论文脂蛋白证据不适用",
+    "linked_2016": "APRAUR;DHPPDA"
+  },
+  "RU820_RS00205": {
+    "legacy_afe": "AFE_0041",
+    "evidence_doi": "10.1128/AEM.02251-12",
+    "direct_evidence": "当前为 TDT 家族转运蛋白；2013 TSD 纯化与体外反应定位 AFE_0042，未证明 AFE_0041 是该催化反应必需亚基。",
+    "boundary": "转运底物、方向及与 TSD 的耦联未实测；不能以邻接/操纵子关系构成 TSQOC 催化 AND。",
+    "action": "修改 GPR 候选：从 TSQOC 六基因必需 AND 中移出，独立转运反应暂缓。",
+    "linked_2016": "TSQOC"
+  },
+  "RU820_RS00215": {
+    "legacy_afe": "AFE_0043",
+    "evidence_doi": "10.1128/AEM.02251-12",
+    "direct_evidence": "2013论文在部分纯化 TSD 组分中识别 AFE_0043/ModA 样结合蛋白，并报告与 tsd 共转录。",
+    "boundary": "论文仅推测可能形成异源复合物并参与硫酸盐依赖激活；后续分离组分硫酸盐依赖消失，未证实本蛋白为电子转移或催化必需亚基。",
+    "action": "修改 GPR 候选：保留可能辅助/调节关系，暂不作为 TSQOC 催化必需 AND。",
+    "linked_2016": "TSQOC"
+  },
+  "RU820_RS00220": {
+    "legacy_afe": "AFE_0044",
+    "evidence_doi": "10.1186/1471-2164-10-394",
+    "direct_evidence": "当前注释为 DoxD/TQO 小亚基；2009代谢模型文献把相邻基因列在硫代硫酸盐氧化区域。",
+    "boundary": "2013纯化测到的 TSD 以 AFE_0042 为明确蛋白，未证明 AFE_0044 与之组成同一六亚基醌依赖反应。",
+    "action": "修改 GPR 候选：TSQOC 的 AFE_0044 必需 AND 暂缓，DoxD1/2 的具体催化需单独实验。",
+    "linked_2016": "TSQOC"
+  },
+  "RU820_RS00225": {
+    "legacy_afe": "AFE_0045",
+    "evidence_doi": "10.1186/1471-2164-10-394",
+    "direct_evidence": "当前为 rhodanese 样蛋白；2009模型文献将其置于硫代硫酸盐氧化基因区。",
+    "boundary": "结构域与邻接不能证明该蛋白属于 TSD 醌依赖催化复合物；无底物与必需性实测。",
+    "action": "修改 GPR 候选：从 TSQOC 六基因必需 AND 中移出，独立硫转移反应待核。",
+    "linked_2016": "TSQOC"
+  },
+  "RU820_RS00230": {
+    "legacy_afe": "AFE_0046",
+    "evidence_doi": "10.1186/1471-2164-10-394",
+    "direct_evidence": "当前为 rhodanese 样蛋白；2009模型文献将其置于硫代硫酸盐氧化基因区。",
+    "boundary": "结构域与邻接不能证明该蛋白属于 TSD 醌依赖催化复合物；无底物与必需性实测。",
+    "action": "修改 GPR 候选：从 TSQOC 六基因必需 AND 中移出，独立硫转移反应待核。",
+    "linked_2016": "TSQOC"
+  },
+  "RU820_RS01070": {
+    "legacy_afe": "AFE_0223",
+    "evidence_doi": "10.1074/jbc.M400596200",
+    "direct_evidence": "当前注释为 UDP-3-O-酰基-N-乙酰葡糖胺去乙酰酶；旧 UAAD 反应的 PMID 15044494 只直接测 GnnA/GnnB。",
+    "boundary": "PMID 15044494 的原始实验对象为 GnnA/GnnB 和 UDP-GlcNAc3N，不证明 AFE_0223 催化 UAAD；相关当前基因仅有注释/同源支持，特设脂质 A 代谢物定义还需核对。",
+    "action": "旧 UAAD 保留为同源注释支持，2026 精确式暂评2；删除原 PMID 对此反应的直接实验证据解释",
+    "linked_2016": "UAAD"
+  },
+  "RU820_RS01140": {
+    "legacy_afe": "AFE_0237",
+    "evidence_doi": "10.1074/jbc.M400596200",
+    "direct_evidence": "当前注释为脂质 IVA Kdo 转移酶；旧两式使用特设 kdo_AFE 代谢物，无法据现有化学式完全核对；所引 PMID 15044494 只测试 GnnA/GnnB。",
+    "boundary": "PMID 15044494 的原始实验对象为 GnnA/GnnB 和 UDP-GlcNAc3N，不证明 AFE_0237 催化 KDOCT;KDOCT3；相关当前基因仅有注释/同源支持，特设脂质 A 代谢物定义还需核对。",
+    "action": "旧 KDOCT/KDOCT3 待补底物及产物结构并重评；暂按同源功能2，不能沿用旧3分",
+    "linked_2016": "KDOCT;KDOCT3"
+  },
+  "RU820_RS01145": {
+    "legacy_afe": "AFE_0238",
+    "evidence_doi": "10.1074/jbc.M400596200",
+    "direct_evidence": "当前注释仅酰基转移酶家族；旧两式指定不同酰基供体及自定义脂质 A 中间体；所引 PMID 15044494 未测试本蛋白。",
+    "boundary": "PMID 15044494 的原始实验对象为 GnnA/GnnB 和 UDP-GlcNAc3N，不证明 AFE_0238 催化 LDAS;LIPS；相关当前基因仅有注释/同源支持，特设脂质 A 代谢物定义还需核对。",
+    "action": "旧 LDAS/LIPS 的反应与 GPR 暂按家族证据2，供体特异性与中间体化学式待测",
+    "linked_2016": "LDAS;LIPS"
+  },
+  "RU820_RS00940": {
+    "legacy_afe": "AFE_0195",
+    "evidence_doi": "10.1128/jb.123.2.642-650.1975",
+    "direct_evidence": "当前注释为生物素羧化酶 AccC；2016 BIOC1 所引 PMID 238956 仅测 Thiobacillus ferrooxidans 脂多糖组成，未测乙酰辅酶 A 羧化。",
+    "boundary": "旧 ACCOAC 以 4 个羧化酶亚基为 OR，与复合酶共同作用关系冲突；BIOC1/BIOC2 的生物素载体特设代谢物结构缺失，无法完成精确守恒核验。当前蛋白无同株直接羧化酶实验。",
+    "action": "修改 GPR 候选：ACCOAC 四亚基关系改按复合酶审查；BIOC1 的旧 PMID 撤销直接实验证据解释并暂评1；BIOC2 暂按注释2，补全载体代谢物化学式。",
+    "linked_2016": "ACCOAC;BIOC1;BIOC2"
+  },
+  "RU820_RS00945": {
+    "legacy_afe": "AFE_0196",
+    "evidence_doi": "10.1128/jb.123.2.642-650.1975",
+    "direct_evidence": "当前注释为生物素羧基载体蛋白 AccB；2016 BIOC1 所引 PMID 238956 仅测 Thiobacillus ferrooxidans 脂多糖组成，未测乙酰辅酶 A 羧化。",
+    "boundary": "旧 ACCOAC 以 4 个羧化酶亚基为 OR，与复合酶共同作用关系冲突；BIOC1/BIOC2 的生物素载体特设代谢物结构缺失，无法完成精确守恒核验。当前蛋白无同株直接羧化酶实验。",
+    "action": "修改 GPR 候选：ACCOAC 四亚基关系改按复合酶审查；BIOC1 的旧 PMID 撤销直接实验证据解释并暂评1；BIOC2 暂按注释2，补全载体代谢物化学式。",
+    "linked_2016": "ACCOAC;BIOC1;BIOC2"
+  },
+  "RU820_RS01430": {
+    "legacy_afe": "AFE_0295",
+    "evidence_doi": "",
+    "direct_evidence": "当前 UniProt B7J439 为同源规则推断的丝氨酸羟甲基转移酶 EC 2.1.2.1；Rhea 15481 对应丝氨酸/甘氨酸与四氢叶酸的可逆转移。本轮未见同株本蛋白直接测定。",
+    "boundary": "2016 GHMT2 与该功能一致；GHMT3 另外消耗 NAD(+) 并释放 CO2、NH4(+) ，属于甘氨酸裂解系统的整体式，需 P/T/H/L 多组分，不能把 SHMT 单基因当作此式催化酶。",
+    "action": "修改 GPR：GHMT2 保留 AFE_0295（当前 RU820_RS01430）同源支持暂评2；GHMT3 移除该单基因关联，旧式若保留需另查裂解系统亚基并暂评1。",
+    "linked_2016": "GHMT2;GHMT3"
+  },
+  "RU820_RS00520": {
+    "legacy_afe": "AFE_0105",
+    "evidence_doi": "10.1186/1471-2164-9-597",
+    "direct_evidence": "2008 ATCC 23270 基因组论文仅根据序列及环境将 AFE_0105 提为 Mn(II)/Fe(II) 双底物 MntH 候选；未测本蛋白金属摄取或质子耦联。",
+    "boundary": "2016 CU2tpp、ZN2tpp 与 MN2tpp、MNTH 共用该 OR GPR，但原论文仅提 Mn/Fe；Cu/Zn 底物、跨膜方向、Fe/H 同向耦联均无该蛋白直接证据。",
+    "action": "分开评估四条旧转运式：Mn/Fe 保留为注释级假说；Cu/Zn 的 AFE_0105 GPR 暂停并查底物实验。",
+    "linked_2016": "CU2tpp;MN2tpp;MNTH;ZN2tpp"
+  },
+  "RU820_RS01420": {
+    "legacy_afe": "AFE_0293",
+    "evidence_doi": "10.1038/s41598-022-16468-w",
+    "direct_evidence": "当前同 WP 的 UniProt B7J437 经 HAMAP 同源规则命名为 homoserine O-succinyltransferase，EC 2.3.1.46/Rhea 22008；非本株 MetX 的纯化测定。另一菌株 MetX 的论文显示供体选择可实测区分。",
+    "boundary": "KEGG 同时列 EC 2.3.1.31/46、R01776/177；BioCyc 指向乙酰供体式，2016 HSERTA 使用乙酰 CoA；当前 UniProt 审校注释支持琥珀酰供体。两种数据库冲突，底物不能凭家族名字定论。",
+    "action": "旧 HSERTA 乙酰供体反应/GPR 暂缓确认；增加琥珀酰供体候选，需本蛋白供体实验或高可信序列位点证据后定模型。",
+    "linked_2016": "HSERTA"
+  },
+  "RU820_RS00995": {
+    "legacy_afe": "AFE_0206",
+    "evidence_doi": "10.1128/jb.187.6.2215-2217.2005",
+    "direct_evidence": "当前 WP_012536019.1 的 UniProt、KEGG EC 2.4.1.227、BioCyc 和 Rhea 31227 均支持 MurG 将 UDP-GlcNAc 加至 Lipid I 生成 Lipid II；同株本蛋白酶学未见。其他菌株 PBP2 纯化实验将 Lipid II 多聚化归于 PBP 类酶。",
+    "boundary": "2016 UCMAT 为 MurG 型脂质 II 形成式；PGLT 是两个脂质 II 前体的聚合式，属于不同反应，旧 PGLT 的 AFE_0206 GPR 与 MurG 功能不合。",
+    "action": "保留 UCMAT 的注释级 GPR 并核公式；从 PGLT 移除 AFE_0206，寻找有实验或保守结构证据的细胞壁聚合酶。",
+    "linked_2016": "PGLT;UCMAT"
+  },
+  "RU820_RS01310": {
+    "legacy_afe": "AFE_0270",
+    "evidence_doi": "10.3389/fmicb.2019.01642",
+    "direct_evidence": "ATCC 23270 AFE_0270 克隆的 FNR_AF 蛋白在 E. coli Δfnr 中恢复 FNR 依赖启动子报告活性；论文还分析了其铁硫簇及氧响应。",
+    "boundary": "实验证明调控蛋白功能，没有给出其单独催化的代谢底物转化式；2016 iMC507 本组无关联反应。",
+    "action": "记录已验证的调控功能；不据此新增化学计量代谢反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00140": {
+    "legacy_afe": "AFE_0027",
+    "evidence_doi": "10.3389/fmicb.2017.01277",
+    "direct_evidence": "原始研究实测 RegA 对 tet 操纵子调控，提出邻近的 AFE_0027 可能是 σ54 增强子结合调控蛋白；未直接测 AFE_0027 的结合或敲除效应。",
+    "boundary": "当前蛋白功能为转录调控；文中对本基因只是位置/启动子推断，没有代谢反应式。",
+    "action": "记录 TetH 操纵子潜在调控关系；不新增化学计量代谢反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS01120": {
+    "legacy_afe": "AFE_0233",
+    "evidence_doi": "10.3389/fmicb.2016.01365",
+    "direct_evidence": "ATCC 23270 论文用 qPCR 测定 AFE_0233 转录量，在所测群体感应类似物条件下未见明显诱导；蛋白被预测为糖基转移酶。",
+    "boundary": "未测糖供体、受体、多糖产物或本酶催化；2016 模型本组无直接 GPR。",
+    "action": "具体多糖反应证据不足，暂不新增反应；保留基因表达文献追踪。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00425": {
+    "legacy_afe": "AFE_0085",
+    "evidence_doi": "10.1371/journal.pone.0112226",
+    "direct_evidence": "原论文将 AFE_0085 纳入 ATCC 23270 毒素-抗毒素家族候选的序列分析。论文对其他 AFE_13xx 位点做异源毒性/RNase 实验，未对本位点测直接活性。",
+    "boundary": "该基因的蛋白家族有序列支持；具体 RNA 底物、体内靶标或可写入代谢网络的精确反应未确定。",
+    "action": "记录毒素-抗毒素功能候选，不新增代谢模型精确反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00430": {
+    "legacy_afe": "AFE_0086",
+    "evidence_doi": "10.1371/journal.pone.0112226",
+    "direct_evidence": "原论文将 AFE_0086 纳入 ATCC 23270 毒素-抗毒素家族候选的序列分析。论文对其他 AFE_13xx 位点做异源毒性/RNase 实验，未对本位点测直接活性。",
+    "boundary": "该基因的蛋白家族有序列支持；具体 RNA 底物、体内靶标或可写入代谢网络的精确反应未确定。",
+    "action": "记录毒素-抗毒素功能候选，不新增代谢模型精确反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00440": {
+    "legacy_afe": "AFE_0088",
+    "evidence_doi": "10.1371/journal.pone.0112226",
+    "direct_evidence": "原论文将 AFE_0088 纳入 ATCC 23270 毒素-抗毒素家族候选的序列分析。论文对其他 AFE_13xx 位点做异源毒性/RNase 实验，未对本位点测直接活性。",
+    "boundary": "该基因的蛋白家族有序列支持；具体 RNA 底物、体内靶标或可写入代谢网络的精确反应未确定。",
+    "action": "记录毒素-抗毒素功能候选，不新增代谢模型精确反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00445": {
+    "legacy_afe": "AFE_0089",
+    "evidence_doi": "10.1371/journal.pone.0112226",
+    "direct_evidence": "原论文将 AFE_0089 纳入 ATCC 23270 毒素-抗毒素家族候选的序列分析。论文对其他 AFE_13xx 位点做异源毒性/RNase 实验，未对本位点测直接活性。",
+    "boundary": "该基因的蛋白家族有序列支持；具体 RNA 底物、体内靶标或可写入代谢网络的精确反应未确定。",
+    "action": "记录毒素-抗毒素功能候选，不新增代谢模型精确反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00135": {
+    "legacy_afe": "AFE_0026（序列候选）",
+    "evidence_doi": "",
+    "direct_evidence": "当前 WP_206382926.1 与旧 AFE_0026 蛋白重叠 489 aa 全一致，覆盖当前蛋白约99.8%、旧蛋白约92.1%；两版均位于 tet 邻域。",
+    "boundary": "此为序列身份追踪，不证明 ATP 结合蛋白的具体反应；2016 无该基因直接 GPR。",
+    "action": "按当前 WP 保留身份；AFE_0026 只用于论文检索，暂不新增反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00200": {
+    "legacy_afe": "AFE_0040（序列候选）",
+    "evidence_doi": "",
+    "direct_evidence": "当前 WP_012606477.1 与旧 AFE_0040 MFS 蛋白重叠 539 aa 全一致，覆盖当前蛋白约99.8%、旧蛋白约97.8%。",
+    "boundary": "MFS 家族未固定底物、方向和耦联；2016 无该基因直接 GPR。",
+    "action": "记录高一致序列身份；底物实验不足，暂不新增转运反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00670": {
+    "legacy_afe": "AFE_0141（仅部分序列）",
+    "evidence_doi": "",
+    "direct_evidence": "当前 166 aa WP_371744260.1 与旧 AFE_0141 358 aa 蛋白 C 端 165 aa 全一致；当前只覆盖旧蛋白约46%，不能视为旧全长功能等同。",
+    "boundary": "2016 S7PI 把旧 AFE_0141 作为庚糖磷酸异构酶候选；旧/当前官方蛋白名为 heptose-1-phosphate adenylyltransferase。当前截短蛋白不支持 S7PI，且不能由旧全长功能推断其庚糖激酶活性。",
+    "action": "从 S7PI 候选 GPR 剔除本当前 WP；另将庚糖-1-磷酸腺苷酰转移酶作为待验证候选，需核对 166 aa 蛋白活性。",
+    "linked_2016": "S7PI（部分序列追踪，功能冲突）"
+  },
+  "RU820_RS01005": {
+    "legacy_afe": "AFE_0208（高一致序列）",
+    "evidence_doi": "",
+    "direct_evidence": "当前 446 aa WP_225487399.1 与旧 AFE_0208 MurD 的后 446 aa 完全一致，旧蛋白只多 N 端 2 aa；两版 GFF 均注释 murD。",
+    "boundary": "2016 UAMAGS 旧 GPR 为 AFE_0208、EC 6.3.2.9；序列证据可将其追踪到当前 WP，但没有本株 MurD 纯化酶学论文。",
+    "action": "更新 UAMAGS 的当前 GPR 为 RU820_RS01005；原反应式保留为注释级，2026 分数2。",
+    "linked_2016": "UAMAGS"
+  },
+  "RU820_RS01060": {
+    "legacy_afe": "AFE_0220（高一致序列）",
+    "evidence_doi": "",
+    "direct_evidence": "当前 WP_012536025.1 与旧 AFE_0220 蛋白 580 aa 全长比对有 578 aa 一致，覆盖双方全长。",
+    "boundary": "两版只笼统注释 AMP 依赖合成酶/连接酶；缺具体底物和产物，2016 无直接 GPR。",
+    "action": "记录序列身份；不以家族名新增模型反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS01390": {
+    "legacy_afe": "AFE_0286",
+    "evidence_doi": "10.3389/fmicb.2019.00603",
+    "direct_evidence": "ATCC 23270 原论文测 CO2 条件下 can2/sulP 邻域转录及全细胞无机碳响应；系统发育和邻接关系把 AFE_0286 SulP 提为碳酸氢根转运候选。",
+    "boundary": "2016 SO42tpp 将 AFE_0286 写为硫酸盐内运；2019 原论文明确将硫酸盐注释修订为碳酸氢根假说，但没有本蛋白硫酸盐或碳酸氢根直接摄取/外排实验，也未定耦联离子。",
+    "action": "暂停 SO42tpp 的本基因 GPR（2026 精确式评1）；另列 HCO3- 转运候选，待本蛋白底物和方向实验后决定新增。",
+    "linked_2016": "SO42tpp"
+  },
+  "RU820_RS00450": {
+    "legacy_afe": "AFE_0090",
+    "evidence_doi": "10.1128/aem.02288-25",
+    "direct_evidence": "2026 ATCC 23270 论文报告其标作 AFE_0090 的基因在 c-di-GMP 工程株中转录升高，并把它归入菌毛生物合成；未直接测该蛋白活性。",
+    "boundary": "当前 WP_009566297.1 官方注释为 HNH 内切核酸酶，与论文菌毛功能标签冲突；未比对论文引物/历史序列，不把菌毛功能转移给当前 WP。",
+    "action": "编号/功能冲突待序列核验；不由转录差异新增精确反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00125": {
+    "legacy_afe": "AFE_0024",
+    "evidence_doi": "10.3389/fmicb.2019.00592",
+    "direct_evidence": "DSM 14882/ATCC 23270 原始定量蛋白组论文将该调控蛋白列为黄铁矿生物膜中丰度较高的氮相关调控蛋白。",
+    "boundary": "没有直接启动子结合、下游代谢反应或本蛋白催化实验；论文旧编号的肽段未在本轮与当前 WP 独立重比对。",
+    "action": "记录蛋白组条件响应；不新增代谢反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS00645": {
+    "legacy_afe": "AFE_0135",
+    "evidence_doi": "10.3389/fmicb.2019.00592",
+    "direct_evidence": "DSM 14882/ATCC 23270 原始定量蛋白组论文报告该 LysR 家族调控蛋白在黄铁矿生物膜中丰度升高。",
+    "boundary": "未测结合位点或具体代谢底物；论文旧编号的肽段未在本轮与当前 WP 独立重比对。",
+    "action": "记录调控蛋白丰度，不新增代谢反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS00740": {
+    "legacy_afe": "AFE_0156",
+    "evidence_doi": "10.3389/fmicb.2019.00592",
+    "direct_evidence": "DSM 14882/ATCC 23270 原始定量蛋白组论文将该蛋白与多胺抗氧化相关蛋白组响应联系。",
+    "boundary": "未纯化本蛋白、未测精胺或亚精胺的精确合成式；2016 SPMS 仍依同源评分；论文旧编号的肽段未在本轮与当前 WP 独立重比对。",
+    "action": "原 SPMS 的本基因关系仅保留注释级，旧 GPR 的上游 SAMDC 需拆开",
+    "linked_2016": "SPMS"
+  },
+  "RU820_RS00960": {
+    "legacy_afe": "AFE_0199",
+    "evidence_doi": "10.3389/fmicb.2019.00592",
+    "direct_evidence": "DSM 14882/ATCC 23270 原始定量蛋白组论文报告 ferritin 在铁(II)生长细胞中相对丰度升高。",
+    "boundary": "只证明蛋白检出/条件响应，不测 Fe(II) 储存化学计量；论文旧编号的肽段未在本轮与当前 WP 独立重比对。",
+    "action": "记录铁稳态功能线索；无可确认新增精确反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS01190": {
+    "legacy_afe": "AFE_0247",
+    "evidence_doi": "10.3389/fmicb.2019.00592",
+    "direct_evidence": "DSM 14882/ATCC 23270 原始定量蛋白组论文报告该蛋白在铁(II)生长条件的分泌相关蛋白类别中丰度升高。",
+    "boundary": "当前 WP 官方注释为 HtpX 蛋白酶；原文类别标签未给本蛋白精确水解底物或直接实验；论文旧编号的肽段未在本轮与当前 WP 独立重比对。",
+    "action": "记录蛋白组证据和类别差异，暂不新增反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS01365": {
+    "legacy_afe": "AFE_0282",
+    "evidence_doi": "10.3389/fmicb.2019.00592",
+    "direct_evidence": "DSM 14882/ATCC 23270 原始定量蛋白组论文报告 Fur 调控蛋白检出且两种培养条件丰度无显著差异。",
+    "boundary": "蛋白组结果不证明 Fur 所调的具体铁摄取转运式；2016 无本组 GPR；论文旧编号的肽段未在本轮与当前 WP 独立重比对。",
+    "action": "记录调控证据；不新增化学计量代谢反应",
+    "linked_2016": "无"
+  },
+  "RU820_RS00595": {
+    "legacy_afe": "AFE_0123",
+    "evidence_doi": "10.3389/fmicb.2016.01365",
+    "direct_evidence": "ATCC 23270 原始转录组论文报告其标作 gcp/AFE_0123 的基因在群体感应类似物处理后表达降低；这是转录测量。",
+    "boundary": "论文沿用 O-sialoglycoprotein endopeptidase 的旧功能名；当前同 WP 的 UniProt、KEGG KO/EC 和 BioCyc 指向 TsaD/tRNA t6A 转移反应 EC 2.3.1.234。功能更新不等于本蛋白直接酶学验证。",
+    "action": "更新功能解释为 TsaD 家族；将 tRNA 修饰式列注释级候选，iMC507 是否显式加入 RNA 修饰需与模型范围核对。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00115": {
+    "legacy_afe": "AFE_0022",
+    "evidence_doi": "10.3389/fmicb.2022.960324",
+    "direct_evidence": "2022 两株低温耐受 A. ferrooxidans 比较基因组表将 ATCC 23270 AFE_0022 标作推定阳离子通道；这是计算注释，没有该 WP 摄取实验。",
+    "boundary": "当前官方 WP_009566309.1 仍仅 DUF4390；离子种类、方向及耦联均未知。",
+    "action": "保留阳离子通道作为低等级候选，不新增精确转运反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00245": {
+    "legacy_afe": "AFE_0049",
+    "evidence_doi": "10.1186/1471-2164-10-394",
+    "direct_evidence": "2009 ATCC 23270 硫氧化模型论文在邻域及网络推断中提到 AFE_0049；当前 WP 是底物结合域蛋白，未见独立底物结合或转运实验。",
+    "boundary": "该文是基因组网络建模，不能确认本蛋白识别硫代硫酸盐或其他具体底物，亦不能确认跨膜方向。",
+    "action": "作为硫代谢邻域候选保存；不把该蛋白自动并入 TSQOC 或新增转运式。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00250": {
+    "legacy_afe": "AFE_0050",
+    "evidence_doi": "10.3389/fmicb.2018.03290",
+    "direct_evidence": "综述以 AFE_0042 蛋白为参照，报告 AFE_0050 与其约76%序列一致并提出第二个 TSD 候选；未报告 AFE_0050 纯化活性。",
+    "boundary": "当前 WP_009565532.1 官方为 hypothetical，UniProt 有 Tat 信号/家族域；同源关系支持硫代硫酸盐脱氢酶候选，但电子受体、复合体和精确 q8 式未知。",
+    "action": "列第二个 TSD 基因候选，功能证据按同源级；未验证前不将其加入旧 TSQOC 的六基因 AND 或赋 q8 精确反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS01425": {
+    "legacy_afe": "AFE_0294",
+    "evidence_doi": "10.3389/fmicb.2016.02035",
+    "direct_evidence": "2016 比较基因组论文把 AFE_0294 放入 Acidithiobacillus 特有保守家族 I，预测约5个跨膜区；没有测本株蛋白活性。",
+    "boundary": "当前官方 hypothetical；家族保守及膜定位预测不能确定底物、转运方向或催化反应。",
+    "action": "明确记录功能未定；不新增代谢反应，待底物或遗传实验。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00280": {
+    "legacy_afe": "AFE_0056",
+    "evidence_doi": "",
+    "direct_evidence": "当前同 WP 的 UniProt B7J3F7 审校条目按 HAMAP 同源规则注释为不判别 tRNA(Asp/Asn) 的 AspRS，EC 6.1.1.23；Rhea 18349 给出 tRNA(Asx) 式。",
+    "boundary": "KEGG 用 EC 6.1.1.12/R05577 的 tRNA(Asp) 式，BioCyc 同列 6.1.1.12/23；两类受体不同，不能把 tRNA(Asn) 和 tRNA(Asp) 当成同一精确反应。本株未测受体选择。",
+    "action": "如模型显式表示 tRNA 酰化，分列 Asp-tRNA(Asp) 和候选 Asp-tRNA(Asn)；直接底物实验缺失，不直接新增后者。",
+    "linked_2016": "无直接 GPR"
+  },
+  "RU820_RS00315": {
+    "legacy_afe": "AFE_0063",
+    "evidence_doi": "",
+    "direct_evidence": "当前 WP_009560861.1 的 UniProt 同源规则注释为 4-hydroxybenzoyl-CoA thioesterase EC 3.1.2.23；BioCyc 标通用 acyl-CoA hydrolase EC 3.1.2.20/Rhea 16781。",
+    "boundary": "两种 EC 的底物定义不同；没有本株本蛋白水解具体 acyl-CoA 的原始实验。",
+    "action": "数据库底物冲突未解决，暂不新增精确酰基-CoA水解反应。",
+    "linked_2016": "无"
+  },
+  "RU820_RS01200": {
+    "legacy_afe": "AFE_0249",
+    "evidence_doi": "",
+    "direct_evidence": "当前官方产品及 BioCyc 指向 arginyl-tRNA--protein transferase EC 2.3.2.8；UniProt B7J3Z3 与 KEGG 同源注释指向 Asp/Glu leucyltransferase EC 2.3.2.29。",
+    "boundary": "两类反应使用不同氨基酰-tRNA 供体；Rhea 10208 是 BioCyc 链接的精氨酰转移式，不能因此确定当前 WP 的底物。未见本株蛋白直接实验。",
+    "action": "蛋白功能与代谢数据库冲突待测；暂不新增精氨酰或亮氨酰转移精确式。",
+    "linked_2016": "无"
+  },
+  "RU820_RS01450": {
+    "legacy_afe": "AFE_0299",
+    "evidence_doi": "10.1016/j.resmic.2008.04.002",
+    "direct_evidence": "2008 原始论文从 A. ferrooxidans LR 克隆 ribBA，测营养、金属、温度、pH 条件下转录变化；用 ATCC 23270 基因组比对 ribBA 基因簇。没有测本组当前 WP_012536073.1 的两项酶活。",
+    "boundary": "2016 iMC507 将 AFE_0299 连接 DB4PS 与 GTPCII2；本论文为 LR 株转录证据，不能把两项精确反应升到同株直接酶学等级；两项均仅同源/注释支持。",
+    "action": "保留并更新 DB4PS、GTPCII2 的当前 RU820/WP GPR；两项精确反应暂按注释级 2 分，后续需要本株底物产物酶学。",
+    "linked_2016": "DB4PS;GTPCII2"
+  },
+  "RU820_RS01485": {
+    "legacy_afe": "AFE_0306",
+    "evidence_doi": "10.1007/s00792-011-0371-6;10.1074/jbc.M802496200",
+    "direct_evidence": "2011 原始论文用 ATCC 23270 DNA 克隆 FopA，检测其外膜定位、寡聚状态及重组蛋白与肽聚糖结合；2008 铁呼吸复合物论文检出历史 FopA 蛋白肽段。历史 FopA BAC66780.1 与当前 WP_009567335.1 同为217 aa，212/217 aa 一致、无缺口。",
+    "boundary": "已用历史蛋白序列将 FopA 证据连接到当前 WP；论文未测孔道通透性、特定底物或精确运输式。复合物共纯化不证明 FopA 催化铁氧化。",
+    "action": "记录外膜结构/结合证据；无可写入代谢模型的精确运输反应，待序列与通透性验证。",
+    "linked_2016": "无"
+  },
+  "RU820_RS00855": {
+    "legacy_afe": "AFE_0179",
+    "evidence_doi": "",
+    "direct_evidence": "当前官方 ferrochelatase、UniProt/KEGG EC 4.98.1.1 以及 Rhea 22584 给出原卟啉 IX 与 Fe(II) 到血红素 b 的化学候选；Rhea 49572 还列 Fe-coproporphyrin III 可逆候选。",
+    "boundary": "BioCyc 4.98.1.a 为占位/宽泛编号，旧 FCLT 的 EC 4.99.1.1 与现行 4.98.1.1 有编号沿革。未见本株 WP_009562604.1 直接底物实验；不能从 Rhea 第二式推定该菌利用 coproporphyrin III 路径。",
+    "action": "更新 2016 FCLT 的当前 RU820/WP GPR 与现行 EC；保留原卟啉 IX 主式的注释级 2 分，Fe-coproporphyrin III 候选不新增。",
+    "linked_2016": "FCLT"
+  },
+  "RU820_RS01375": {
+    "legacy_afe": "AFE_0283",
+    "evidence_doi": "",
+    "direct_evidence": "当前官方与 UniProt 均为 Obg/CgtA GTPase 家族；Rhea 19669 是一般 GTP 水解式 GTP + H2O = GDP + phosphate + H(+)。",
+    "boundary": "BioCyc 给出多个 3.6.1/3.6.5 宽泛或旧 EC 类别，与 UniProt 3.6.5.- 的宽泛注释不构成特定底物冲突；本株该 WP 的水解速率与代谢模型角色未测。",
+    "action": "记录一般 GTPase 候选；2016 无直接 GPR，不新增独立代谢反应或通量。",
+    "linked_2016": "无"
+  }
+}

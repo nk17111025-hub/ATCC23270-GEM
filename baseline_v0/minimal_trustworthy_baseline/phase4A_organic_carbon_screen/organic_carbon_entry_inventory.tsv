@@ -1,0 +1,224 @@
+substrate_or_metabolite	compartment	reaction_id	reaction_equation	reaction_role	lower_bound	upper_bound	confidence	GPR	EC	PMID	subsystem	currently_connected_to_exchange	currently_connected_to_biomass_network	notes
+actACP[c]	c	3OAR1	actACP[c] + h[c] + nadph[c] -> 3hydbutACP[c] + nadp[c]	oxidation_reduction	-1000.0	1000.0	3	AFE_1908	1.1.1.100	238956	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	TRUE	TRUE	
+acACP[c];actACP[c]	c	3OAS27	acACP[c] + h[c] + malACP[c] -> ACP[c] + actACP[c] + co2[c]	carboxylation_decarboxylation	0.0	1000.0	3	AFE_1906	2.3.1.180	238956	(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)	TRUE	TRUE	
+4hba[e];4hba[p]	e;p	4HBAtex	4hba[p] -> 4hba[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	TRUE	FALSE	
+4hba[c];4hba[p]	c;p	4HBAtpp	4hba[c] -> 4hba[p]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	TRUE	FALSE	
+ru5p-D[c]	c	A5PISO	ru5p-D[c] -> ara5p[c]	isomerization	-1000.0	1000.0	2	AFE_3030	5.3.1.13		(Lipopolysaccharide Biosynthesis) or (Alternate Carbon Metabolism)	TRUE	TRUE	
+accoa[c];malcoa[c]	c	ACCOAC	accoa[c] + atp[c] + hco3[c] -> adp[c] + h[c] + malcoa[c] + pi[c]	carboxylation_decarboxylation	-1000.0	1000.0	2	(AFE_1462 or AFE_0196 or AFE_0195 or AFE_2067)	6.4.1.2		(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	TRUE	TRUE	
+accoa[c]	c	ACGS	accoa[c] + glu-L[c] -> acglu[c] + coa[c] + h[c]	conversion_central	0.0	1000.0	2	AFE_0664	2.3.1.1		Arginine and Proline Metabolism	TRUE	TRUE	
+pyr[c]	c	ACHBS	2obut[c] + h[c] + pyr[c] -> 2ahbut[c] + co2[c]	carboxylation_decarboxylation	0.0	1000.0	2	(AFE_0745 and AFE_0746)	2.2.1.6		Valine, Leucine, and Isoleucine Metabolism	TRUE	TRUE	
+pyr[c]	c	ACLS	h[c] + 2 pyr[c] -> alac-S[c] + co2[c]	carboxylation_decarboxylation	0.0	1000.0	2	(AFE_0745 and AFE_0746)	4.1.3.18		Valine, Leucine, and Isoleucine Metabolism	TRUE	TRUE	
+acACP[c];accoa[c]	c	ACOATA	ACP[c] + accoa[c] -> acACP[c] + coa[c]	conversion_central	0.0	1000.0	1		2.3.1.38		(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	TRUE	TRUE	
+ac[c]	c	ACODA	acorn[c] + h2o[c] -> ac[c] + orn[c]	conversion_central	0.0	1000.0	1		3.5.1.16		Arginine and Proline Metabolism	TRUE	TRUE	
+cit[c]	c	ACONT1	cit[c] -> acon-C[c] + h2o[c]	conversion_central	-1000.0	1000.0	2	AFE_0423	4.2.1.3		Citric Acid Cycle	TRUE	TRUE	
+icit[c]	c	ACONT2	acon-C[c] + h2o[c] -> icit[c]	conversion_central	-1000.0	1000.0	2	AFE_0423	4.2.1.3		Citric Acid Cycle	TRUE	TRUE	
+akg[c]	c	ACOTA	acorn[c] + akg[c] -> acg5sa[c] + glu-L[c]	conversion_central	-1000.0	1000.0	2	AFE_0406	2.6.1.11		Arginine and Proline Metabolism	TRUE	TRUE	
+ac[c];accoa[c]	c	ACS	ac[c] + atp[c] + coa[c] -> accoa[c] + amp[c] + ppi[c]	conversion_central	0.0	1000.0	2	AFE_1969	6.2.1.1		Pyruvate Metabolism	TRUE	TRUE	
+pyr[c]	c	ADCL	4adcho[c] -> 4abz[c] + h[c] + pyr[c]	conversion_central	0.0	1000.0	2	AFE_1911	4.1.3.38		(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	TRUE	TRUE	
+fum[c]	c	ADSL1	dcamp[c] -> amp[c] + fum[c]	conversion_central	-1000.0	1000.0	2	AFE_2356	4.3.2.2		Purine and Pyrimidine Biosynthesis	TRUE	TRUE	
+fum[c]	c	ADSL2	25aics[c] -> aicar[c] + fum[c]	conversion_central	-1000.0	1000.0	2	AFE_2356	4.3.2.2		Purine and Pyrimidine Biosynthesis	TRUE	TRUE	
+glc-A[c];glc-B[c]	c	ALDEP	glc-B[c] -> glc-A[c]	isomerization	-1000.0	1000.0	1		5.1.3.3		Glycogen Metabolism	TRUE	TRUE	
+glc-B[c];mal-B[c];malttr[c];maltttr[c]	c	AMALT1	mal-B[c] + malttr[c] -> glc-B[c] + maltttr[c]	conversion_central	-1000.0	1000.0	2	AFE_2840	2.4.1.25		Alternate Carbon Metabolism	TRUE	TRUE	
+for[c]	c	AMPMS	air[c] + 2 h2o[c] + nad[c] -> 4ahmmp[c] + 2 for[c] + 3 h[c] + nadh[c] + pi[c]	conversion_central	0.0	1000.0	2	AFE_0948	4.1.99.17		( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	TRUE	TRUE	
+r5p[c]	c	AMPN	amp[c] + h2o[c] -> ade[c] + r5p[c]	conversion_central	0.0	1000.0	1		3.2.2.4		Nucleotide Salvage Pathway	TRUE	TRUE	
+pyr[c]	c	ANSYN	chor[c] + gln-L[c] -> anth[c] + glu-L[c] + h[c] + pyr[c]	conversion_central	-1000.0	1000.0	2	(AFE_3244 and AFE_3245)	4.1.3.27		Tyrosine, Tryptophan, and Phenylalanine Metabolism	TRUE	TRUE	
+for[c]	c	AREDO	12dhy3meten[c] + o2[c] -> 2kmb[c] + for[c] + h[c]	oxidation_reduction	0.0	1000.0	2	AFE_0433	1.13.11.54		Methionine Metabolism	TRUE	TRUE	
+fum[c]	c	ARGSL	argsuc[c] -> arg-L[c] + fum[c]	conversion_central	0.0	1000.0	2	AFE_3277	4.3.2.1		Arginine and Proline Metabolism	TRUE	TRUE	
+fum[c];succ[c]	c	ASPO5	asp-L[c] + fum[c] -> h[c] + iasp[c] + succ[c]	isomerization	0.0	1000.0	2	AFE_1392	1.4.3.16		( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	TRUE	TRUE	
+akg[c];oaa[c]	c	ASPTA	akg[c] + asp-L[c] -> glu-L[c] + oaa[c]	conversion_central	-1000.0	1000.0	2	AFE_2022	2.6.1.1		Alanine and Aspartate Metabolism	TRUE	TRUE	
+atp[c];ppi[c];prbatp[c];prpp[c]		ATPPRT	ppi[c] + prbatp[c] -> atp[c] + prpp[c]	transport	-1000.0	1000.0	2	(AFE_1888 and AFE_3040)	2.4.2.17		Histidine Metabolism	FALSE	FALSE	
+accoa[c];glycogen[c];succoa[c]	c	Afe_biomass_mc507_WT_139p0M	2e-05 10fthf[c] + 2e-05 5mthf[c] + 3e-05 accoa[c] + 0.66 ala-L[c] + 2e-05 amet[c] + 0.28 arg-L[c] + 0.27 asn-L[c] + 0.27 asp-L[c] + 139.1 atp[c] + 0.087 ca2[c] + 2e-05 chor[c] + 2e-05 coa[c] + 0.13 ctp[c] + 0.001 cu2[c] + 0.015 datp[c] + 0.022 dctp[c] + 0.022 dgtp[c] + 0.015 dttp[c] + 2e-05 fad[c] + 0.067 fe2[c] + 0.067 fe3[c] + 0.26 gln-L[c] + 0.26 glu-L[c] + 0.55 gly[c] + 0.15 glycogen[c] + 2e-05 gthrd[c] + 0.14 gtp[c] + 139 h2o[c] + 2e-05 hemeO[c] + 0.24 his-L[c] + 0.29 ile-L[c] + 0.046 k[c] + 0.51 leu-L[c] + 0.024 lps_AFE[c] + 0.33 lys-L[c] + 0.17 met-L[c] + 0.24 mg2[c] + 2e-05 mlthf[c] + 0.03 mn2[c] + 0.013 murein5px4p[c] + 0.14 na1[c] + 0.00019 nad[c] + 1e-05 nadp[c] + 4e-05 nadph[c] + 0.18 phe-L[c] + 2e-05 pheme[c] + 0.07 ppl_AFE[c] + 0.27 pro-L[c] + 0.00358 ptrc[c] + 2e-05 pydx5p[c] + 2e-05 q8h2[c] + 2e-05 ribflv[c] + 0.23 ser-L[c] + 2e-05 sheme[c] + 0.09 so4[c] + 0.00073 spmd[c] + 1e-05 succoa[c] + 2e-05 thf[c] + 2e-05 thmpp[c] + 0.26 thr-L[c] + 0.14 tyr-L[c] + 1e-05 udcpdp[c] + 0.094 utp[c] + 0.41 val-L[c] + 0.002 zn2[c] -> 139 adp[c] + bio[c] + 139 h[c] + 139 pi[c] + 0.531 ppi[c]	conversion_central	0.0	1000.0	3				Exchange	TRUE	TRUE	
+g6p-B[c];glc-B[c]	c	BDGK	atp[c] + glc-B[c] -> adp[c] + g6p-B[c] + h[c]	phosphorylation	-1000.0	1000.0	1		2.7.1.2	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+accoa[c];malcoa[c]	c	BIOC1	accoa[c] + bcCPco2_AFE[c] -> 2 bcCP_AFE[c] + h[c] + malcoa[c]	conversion_central	0.0	1000.0	3	(AFE_1462 and AFE_2067 and AFE_0196 and AFE_0195)	6.4.1.2	238956	(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)	TRUE	TRUE	
+bio[e];bio[p]		BIOMASStex	bio[p] -> bio[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+bio[c];bio[p]		BIOMASStpp	bio[c] -> bio[p]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+ca2[e];ca2[p]		CA2tex	ca2[e] -> ca2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+ca2[c];ca2[p];na1[p]		CA2tpp	ca2[p] -> ca2[c] + na1[p]	transport	0.0	1000.0	2	AFE_0587		19077236	Transport, Inner Membrane	FALSE	FALSE	
+pyr[c]	c	CHRPL	chor[c] -> 4hbz[c] + pyr[c]	conversion_central	-1000.0	1000.0	2	AFE_0593	4.1.3.40		(Ubiquinone Synthesis) or (Cofactor and Prosthetic Group Biosynthesis)	TRUE	TRUE	
+glyc[c]	c	CLPNS120	2 pg120[c] -> clpn120[c] + glyc[c]	phosphorylation	-1000.0	1000.0	2	AFE_1740	2.7.8.-		(Glycerophospholipid Metabolism) or (Phospholipid synthesis) or (Cardiolipin Biosynthesis)	TRUE	TRUE	
+accoa[c];cit[c];oaa[c]	c	CS	accoa[c] + h2o[c] + oaa[c] -> cit[c] + coa[c] + h[c]	conversion_central	0.0	1000.0	2	AFE_3065	2.3.3.1	19077236	Citric Acid Cycle	TRUE	TRUE	
+cu2[e];cu2[p]		CU2tex	cu2[e] -> cu2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+cu2[c];cu2[p]		CU2tpp	cu2[p] -> cu2[c]	transport	0.0	1000.0	2	(AFE_0920 or AFE_0105)		19077236	Transport, Inner Membrane	FALSE	FALSE	
+ac[c]	c	CYSS	acser[c] + h2s[c] -> ac[c] + cys-L[c] + h[c]	conversion_central	0.0	1000.0	3	AFE_2832	2.5.1.47	20033172	Cysteine Metabolism	TRUE	TRUE	
+for[c];ru5p-D[c]	c	DB4PS	ru5p-D[c] -> db4p[c] + for[c] + h[c]	conversion_central	-1000.0	1000.0	2	(AFE_1494 or AFE_0299)	4.1.99.12		( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	TRUE	TRUE	
+2ddg6p[c];g3p[c];pyr[c]	c	DDGPA	2ddg6p[c] -> g3p[c] + pyr[c]	conversion_central	0.0	1000.0	2	AFE_1816			Pentose Phosphate Pathway	TRUE	TRUE	
+e4p[c];pep[c]	c	DDPA	e4p[c] + h2o[c] + pep[c] -> 2dda7p[c] + pi[c]	conversion_central	0.0	1000.0	2	(AFE_2671 or AFE_0899)	2.5.1.54		Tyrosine, Tryptophan, and Phenylalanine Metabolism	TRUE	TRUE	
+gam6p[c]	c	DGAMK	adp[c] + gam6p[c] + h[c] -> atp[c] + gam[c]	phosphorylation	-1000.0	1000.0	1				Lipopolysaccharide Biosynthesis	TRUE	TRUE	
+g6p-A[c];g6p-B[c]	c	DGPE	g6p-A[c] -> g6p-B[c]	isomerization	-1000.0	1000.0	1		5.1.3.15	19077236	Glycogen Metabolism	TRUE	TRUE	
+pyr[c]	c	DHDPS	aspsa[c] + pyr[c] -> 23dhdp[c] + 2 h2o[c] + h[c]	conversion_central	-1000.0	1000.0	2	AFE_2358	4.2.1.52		Threonine and Lysine Metabolism	TRUE	TRUE	
+gcald[c]	c	DHNPA2	dhnpt[c] -> 6hmhpt[c] + gcald[c]	conversion_central	-1000.0	1000.0	2	AFE_0126	4.1.2.25		(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	TRUE	TRUE	
+ahdt[c];dhpmp[c];h2o[c];h[c];ppi[c]		DNTPPA	ahdt[c] + h2o[c] -> dhpmp[c] + h[c] + ppi[c]	transport	0.0	1000.0	1		3.6.1.-		(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate Biosynthesis)	FALSE	FALSE	
+g3p[c];pyr[c]	c	DOXS	g3p[c] + h[c] + pyr[c] -> co2[c] + dxyl5p[c]	carboxylation_decarboxylation	-1000.0	1000.0	2	AFE_1974	2.2.1.7		(Cofactor and Prosthetic Group Biosynthesis) or (Thiamin biosynthesis)	TRUE	TRUE	
+e4p[c]	c	E4PD	e4p[c] + h2o[c] + nad[c] -> 4per[c] + 2 h[c] + nadh[c]	oxidation_reduction	-1000.0	1000.0	2	AFE_3251	1.2.1.72		Cofactor and Prosthetic Group Biosynthesis	TRUE	TRUE	
+2pg[c];pep[c]	c	ENO	2pg[c] -> h2o[c] + pep[c]	conversion_central	-1000.0	1000.0	2	(AFE_1800 or AFE_0849)	4.2.1.11	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+eps_AFE[e];eps_AFE[p]		EPStex	eps_AFE[p] -> eps_AFE[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+eps_AFE[c];eps_AFE[p]		EPStpp	eps_AFE[c] -> eps_AFE[p]	transport	0.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+4hba[e]	e	Ex_4hba[e]	4hba[e] -> 	exchange	-1000.0	1000.0					Exchange	TRUE	FALSE	
+bio[e]		Ex_bio[e]	bio[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+ca2[e]		Ex_ca2[e]	ca2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+cu2[e]		Ex_cu2[e]	cu2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+eps_AFE[e]		Ex_eps_AFE[e]	eps_AFE[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+fe2[e]		Ex_fe2[e]	fe2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+fe3[e]		Ex_fe3[e]	fe3[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+h2[e]		Ex_h2[e]	h2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+h2co3[e]		Ex_h2co3[e]	h2co3[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+h2o[e]		Ex_h2o[e]	h2o[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+h2s[e]		Ex_h2s[e]	h2s[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+h[e]		Ex_h[e]	h[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+k[e]		Ex_k[e]	k[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+mg2[e]		Ex_mg2[e]	mg2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+mn2[e]		Ex_mn2[e]	mn2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+n2[e]		Ex_n2[e]	n2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+na1[e]		Ex_na1[e]	na1[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+nh4[e]		Ex_nh4[e]	nh4[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+o2[e]		Ex_o2[e]	o2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+pi[e]		Ex_pi[e]	pi[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+polypi[e]		Ex_polypi[e]	polypi[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+ppt[e]		Ex_ppt[e]	ppt[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+s[e]		Ex_s[e]	s[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+so4[e]		Ex_so4[e]	so4[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+so4aa[e]		Ex_so4aa[e]	so4aa[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+tsul[e]		Ex_tsul[e]	tsul[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+ttton[e]		Ex_ttton[e]	ttton[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+zn2[e]		Ex_zn2[e]	zn2[e] -> 	exchange	-1000.0	1000.0					Exchange	FALSE	FALSE	
+dhap[c];fdp[c];g3p[c]	c	FBA	fdp[c] -> dhap[c] + g3p[c]	conversion_central	-1000.0	1000.0	2	AFE_1802	4.1.2.13	19077236	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+dhap[c];e4p[c]	c	FBA3	dhap[c] + e4p[c] -> s17bp[c]	conversion_central	-1000.0	1000.0	2	(AFE_1676 and AFE_3248)	4.1.2.13	19077236	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+f6p-B[c];fdp[c]	c	FBP	fdp[c] + h2o[c] -> f6p-B[c] + pi[c]	conversion_central	0.0	1000.0	2	AFE_0189	3.1.3.11	19077236	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+for[c]	c	FDH	for[c] + nad[c] -> co2[c] + nadh[c]	oxidation_reduction	0.0	1000.0	2	(AFE_0692 or AFE_1652)	1.2.1.2		Pyruvate Metabolism	TRUE	TRUE	
+fe2[e];fe2[p]		FE2tex	fe2[e] -> fe2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+adp[c];atp[c];fe2[c];fe2[p];h2o[c];h[c];pi[c]		FE2tpp	atp[c] + fe2[p] + h2o[c] -> adp[c] + fe2[c] + h[c] + pi[c]	transport	0.0	1000.0	2	(AFE_2522 and AFE_2523 and AFE_2524 and AFE_2525)		19077236 && 19025650 	(Transport, Inner Membrane) or (Fe+2 Metabolism)	FALSE	FALSE	
+fe3[e];fe3[p]		FE32tpp	fe3[e] -> fe3[p]	transport	0.0	1000.0	2	((AFE_2267 and AFE_2268 and AFE_2269 and AFE_2270 and AFE_2271 and AFE_2273 and AFE_2274 and AFE_2275 and AFE_2276) or (AFE_2998 and AFE_2999 and AFE_2300 and AFE_2301 and AFE_2302 and AFE_2303 and AFE_2304 and AFE_2305))		19077236	Transport, Inner Membrane	FALSE	FALSE	
+adp[c];atp[c];fe3[c];fe3[p];h2o[c];h[c];pi[c]		FE3tpp	atp[c] + fe3[p] + h2o[c] -> adp[c] + fe3[c] + h[c] + pi[c]	transport	0.0	1000.0	2	((AFE_1489 and AFE_1490 and AFE_1491) or (AFE_1493 and AFE_1494 and AFE_1495))		19077236 && 19025650 	(Transport, Inner Membrane) or (Fe+2 Metabolism)	FALSE	FALSE	
+for[c]	c	FTHFD	10fthf[c] + h2o[c] -> for[c] + h[c] + thf[c]	conversion_central	0.0	1000.0	1		3.5.1.10		Folate Metabolism	TRUE	TRUE	
+for[c]	c	FTHFL	10fthf[c] + adp[c] + pi[c] -> atp[c] + for[c] + thf[c]	conversion_central	0.0	1000.0	2		6.3.4.3		Folate Metabolism	TRUE	TRUE	
+fum[c];mal-L[c]	c	FUM	mal-L[c] -> fum[c] + h2o[c]	conversion_central	-1000.0	1000.0	2	AFE_2673	4.2.1.2	19077236	Citric Acid Cycle	TRUE	TRUE	
+accoa[c];gam1p[c]	c	G1PACT	accoa[c] + gam1p[c] -> acgam1p[c] + coa[c] + h[c]	conversion_central	0.0	1000.0	2	AFE_3201	2.3.1.157		(Cell Envelope Biosynthesis) or (EPS biosynthesis)	TRUE	TRUE	
+g1p[c]	c	G1PTT	dttp[c] + g1p[c] -> dtdpglu[c] + ppi[c]	phosphorylation	0.0	1000.0	2	AFE_3295	2.7.7.24		Cell Envelope Biosynthesis	TRUE	TRUE	
+dhap[c]	c	G3PD2	dhap[c] + h[c] + nadph[c] -> glyc3p[c] + nadp[c]	oxidation_reduction	0.0	1000.0	3	AFE_2126	1.1.1.94		Alternate Carbon Metabolism	TRUE	TRUE	
+6pgl[c];g6p-B[c]	c	G6PDH2	6pgl[c] + h[c] + nadph[c] -> g6p-B[c] + nadp[c]	oxidation_reduction	0.0	1000.0	2	AFE_2025	1.1.1.49	19077236	Pentose Phosphate Pathway	TRUE	TRUE	
+g1p[c]	c	GALU	g1p[c] + h[c] + utp[c] -> ppi[c] + udpg[c]	phosphorylation	0.0	1000.0	2	AFE_0445	2.7.7.9		(Cell Envelope Biosynthesis) or (EPS biosynthesis)	TRUE	TRUE	
+g1p-B[c];g1p[c]	c	GAP2	g1p[c] -> g1p-B[c]	conversion_central	-1000.0	1000.0	1			19077236	Glycogen Metabolism	TRUE	TRUE	
+g3p[c]	c	GAPD1	13dpg[c] + h[c] + nadh[c] -> g3p[c] + nad[c] + pi[c]	oxidation_reduction	0.0	1000.0	2	AFE_3251	1.2.1.12	19077236	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+g3p[c]	c	GAPD2	13dpg[c] + h[c] + nadph[c] -> g3p[c] + nadp[c] + pi[c]	phosphorylation	0.0	1000.0	2	AFE_3251	1.2.1.13	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+for[c]	c	GART	atp[c] + for[c] + gar[c] -> adp[c] + fgam[c] + h[c] + pi[c]	conversion_central	0.0	1000.0	2	AFE_1896	2.1.2.-		Purine and Pyrimidine Biosynthesis	TRUE	TRUE	
+gcald[c];glyclt[c]	c	GCALDD	gcald[c] + h2o[c] + nad[c] -> glyclt[c] + 2 h[c] + nadh[c]	oxidation_reduction	0.0	1000.0	1		1.2.1.21		Folate Metabolism	TRUE	TRUE	
+f6p-B[c];gam6p[c]	c	GF6PTA	f6p-B[c] + gln-L[c] -> gam6p[c] + glu-L[c]	conversion_central	-1000.0	1000.0	2	AFE_3200	2.6.1.16		(Cell Envelope Biosynthesis) or (EPS biosynthesis)	TRUE	TRUE	
+glycogen[c];glycogendeb[c]	c	GLBRAN1	glycogendeb[c] + 2 h[c] -> glycogen[c]	conversion_central	0.0	1000.0	2	AFE_2836	2.4.1.18	19077236	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	TRUE	TRUE	
+g1p[c];glycogendeb[c];malttr[c]	c	GLCP	4 glycogendeb[c] + h2o[c] + pi[c] -> g1p[c] + malttr[c]	phosphorylation	-1000.0	1000.0	2	(AFE_0774 or AFE_1799)	2.4.1.1		(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	TRUE	TRUE	
+glycogendeb[c]	c	GLCS1	adpglc[c] -> adp[c] + glycogendeb[c] + h[c]	conversion_central	0.0	1000.0	2	AFE_2678	2.4.1.21	19077236	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	TRUE	TRUE	
+glycogen[c];glycogendeb[c]	c	GLDBRAN2	glycogen[c] -> glycogendeb[c] + 2 h[c]	conversion_central	0.0	1000.0	2	AFE_2836	2.4.1.18	19077236	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	TRUE	TRUE	
+g1p[c]	c	GLGC	atp[c] + g1p[c] + h[c] -> adpglc[c] + ppi[c]	phosphorylation	0.0	1000.0	2	AFE_2838	2.7.7.27	19077236	(Glycogen Metabolism) or (Glycolysis/Gluconeogenesis)	TRUE	TRUE	
+akg[c]	c	GLUSy	akg[c] + gln-L[c] + h[c] + nadph[c] -> 2 glu-L[c] + nadp[c]	conversion_central	0.0	1000.0	4	(AFE_0730 and AFE_0729)	1.4.1.13	16143852	Glutamate Metabolism	TRUE	TRUE	
+2h3oppan[c]	c	GLXCL	2 glx[c] + h[c] -> 2h3oppan[c] + co2[c]	carboxylation_decarboxylation	-1000.0	1000.0	1		4.1.1.47		Glyoxylate Metabolism	TRUE	TRUE	
+glyclt[c]	c	GLXR	glx[c] + h[c] + nadph[c] -> glyclt[c] + nadp[c]	oxidation_reduction	0.0	1000.0	2		1.1.99.14		(Alternate Carbon Metabolism) or (Glycolate Metabolism)	TRUE	TRUE	
+glyclt[c]	c	GLYCH	glyclt[c] + o2[c] -> glx[c] + h2o2[c]	oxidation_reduction	-1000.0	1000.0	2	(AFE_1663 and AFE_1664 and AFE_1665)	1.1.2.4	19077236	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+3pg[c]	c	GLYCK	atp[c] + glyc-R[c] -> 3pg[c] + adp[c] + h[c]	phosphorylation	-1000.0	1000.0	1		2.7.1.31		Glyoxylate Metabolism	TRUE	TRUE	
+glyc[c]	c	GLYK	atp[c] + glyc[c] -> adp[c] + glyc3p[c] + h[c]	phosphorylation	-1000.0	1000.0	1		2.7.1.30		Alternate Carbon Metabolism	TRUE	TRUE	
+for[c]	c	GTPCI	gtp[c] + h2o[c] -> ahdt[c] + for[c] + h[c]	conversion_central	0.0	1000.0	2	AFE_1973	3.5.4.16		(Cofactor and Prosthetic Group Biosynthesis) or (Tetrahydrofolate biosynthesis)	TRUE	TRUE	
+for[c]	c	GTPCII2	gtp[c] + 3 h2o[c] -> 2dhpp[c] + for[c] + h[c] + ppi[c]	conversion_central	0.0	1000.0	2	AFE_0299	3.5.4.25		( Cofactor and Prosthetic Group Biosynthesis ) or ( Flavin biosynthesis )	TRUE	TRUE	
+h2o[e];h2o[p]		H2Otex	h2o[e] -> h2o[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+h2o[c];h2o[p]		H2Otpp	h2o[p] -> h2o[c]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+h2s[e];h2s[p]		H2Stex	h2s[p] -> h2s[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+h2s[c];h2s[p]		H2Stpp	h2s[c] -> h2s[p]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+h2[e];h2[p]		H2tex	h2[p] -> h2[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+h2[c];h2[p]		H2tpp	h2[p] -> h2[c]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+ac[c]	c	HACT	achms[c] + h2s[c] -> ac[c] + h[c] + hcys-L[c]	conversion_central	-1000.0	1000.0	2	AFE_2063	2.5.1.49		Methionine Metabolism	TRUE	TRUE	
+h2co3[e];h2co3[p]		HCO3tex	h2co3[e] -> h2co3[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+h2co3[p];h[c];hco3[c]		HCO3tpp	h2co3[p] -> h[c] + hco3[c]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+accoa[c]	c	HSERTA	accoa[c] + hom-L[c] -> achms[c] + coa[c]	conversion_central	-1000.0	1000.0	2	AFE_0293	2.3.1.31		Methionine Metabolism	TRUE	TRUE	
+akg[c]	c	HSTPT	glu-L[c] + imacp[c] -> akg[c] + hisp[c]	conversion_central	-1000.0	1000.0	2	(AFE_3042 and AFE_0898)	2.6.1.9		Histidine Metabolism	TRUE	TRUE	
+for[c]	c	HYD4	for[c] + h[c] -> co2[c] + h2[c]	carboxylation_decarboxylation	0.0	1000.0	2	(AFE_2154 and AFE_2153 and AFE_2152 and AFE_2151 and AFE_2150 and AFE_2149)		19077236	Hydrogen and Formate Utilization	TRUE	TRUE	
+h[e];h[p]		Htex	h[p] -> h[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+h[c];h[p]		Htpp	h[c] -> h[p]	transport	0.0	0.0	1				Transport, Inner Membrane	FALSE	FALSE	
+akg[c];icit[c]	c	ICDHyr	icit[c] + nadp[c] -> akg[c] + co2[c] + nadph[c]	oxidation_reduction	-1000.0	1000.0	2	AFE_0424	1.1.1.42		Citric Acid Cycle	TRUE	TRUE	
+icit[c]	c	ICITRED	icit[c] + nadp[c] -> h[c] + nadph[c] + osuc[c]	conversion_central	-1000.0	1000.0	2	AFE_0424	1.1.1.42		Citric Acid Cycle	TRUE	TRUE	
+akg[c]	c	ILETA	akg[c] + ile-L[c] -> 3mop[c] + glu-L[c]	conversion_central	-1000.0	1000.0	2	AFE_0547	2.6.1.42		Valine, Leucine, and Isoleucine Metabolism	TRUE	TRUE	
+accoa[c]	c	IPPS	3mob[c] + accoa[c] + h2o[c] -> 3c3hmp[c] + coa[c] + h[c]	conversion_central	0.0	1000.0	2	(AFE_2596 and AFE_1989)	2.3.3.13		Valine, Leucine, and Isoleucine Metabolism	TRUE	TRUE	
+pep[c]	c	KDOPS	ara5p[c] + h2o[c] + pep[c] -> kdo8p[c] + pi[c]	conversion_central	0.0	1000.0	2	AFE_0848	2.5.1.55		( Lipopolysaccharide Biosynthesis ) or ( CMP-KDO biosynthesis )	TRUE	TRUE	
+akg[c]	c	KMBT	2kmb[c] + glu-L[c] -> akg[c] + met-L[c]	conversion_central	0.0	1000.0	1		2.6.1.5		Methionine Metabolism	TRUE	TRUE	
+k[e];k[p]		Ktex	k[e] -> k[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+k[c];k[p]		Ktpp	k[p] -> k[c]	transport	0.0	1000.0	2	(AFE_2922 or AFE_1968 or AFE_3093 or AFE_1753)		19077236	Transport, Inner Membrane	FALSE	FALSE	
+akg[c]	c	LEUTA	akg[c] + leu-L[c] -> 4mop[c] + glu-L[c]	conversion_central	-1000.0	1000.0	2	AFE_0547	2.6.1.42		Valine, Leucine, and Isoleucine Metabolism	TRUE	TRUE	
+acACP[c]	c	MACPD	h[c] + malACP[c] -> acACP[c] + co2[c]	carboxylation_decarboxylation	0.0	0.0	1		2.3.1.38		(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	TRUE	TRUE	
+accoa[c];mal-L[c]	c	MALS	accoa[c] + glx[c] + h2o[c] -> coa[c] + h[c] + mal-L[c]	conversion_central	0.0	1000.0	1		2.3.3.9		Anaplerotic Reactions	TRUE	TRUE	
+f6p-B[c];man6p[c]	c	MAN6PI	f6p-B[c] -> man6p[c]	isomerization	-1000.0	1000.0	2	AFE_3293	5.3.1.8		Alternate Carbon Metabolism	TRUE	TRUE	
+malcoa[c]	c	MCOATA	ACP[c] + malcoa[c] -> coa[c] + malACP[c]	conversion_central	-1000.0	1000.0	3	AFE_1907	2.3.1.39	238956	(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)	TRUE	TRUE	
+mal-L[c];oaa[c]	c	MDH	mal-L[c] + nad[c] -> h[c] + nadh[c] + oaa[c]	oxidation_reduction	-1000.0	1000.0	2	AFE_3000	1.1.1.37	19077236	Citric Acid Cycle	TRUE	TRUE	
+mg2[e];mg2[p]		MG2tex	mg2[e] -> mg2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+adp[c];atp[c];h2o[c];h[c];mg2[c];mg2[p];pi[c]		MG2tpp	atp[c] + h2o[c] + mg2[p] -> adp[c] + h[c] + mg2[c] + pi[c]	transport	0.0	1000.0	2	AFE_2327		19077236	Transport, Inner Membrane	FALSE	FALSE	
+succoa[c]	c	MMM	mmcoa[c] -> succoa[c]	conversion_central	-1000.0	1000.0	1		5.4.99.2		( Alternate Carbon Metabolism ) or ( Methylmalonyl pathway )	TRUE	TRUE	
+mn2[e];mn2[p]		MN2tex	mn2[e] -> mn2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+mn2[c];mn2[p]		MN2tpp	mn2[p] -> mn2[c]	transport	0.0	1000.0	2	(AFE_0920 or AFE_0105)		19077236	Transport, Inner Membrane	FALSE	FALSE	
+fe2[c];fe2[p];h[c];h[p]		MNTH	fe2[p] + h[p] -> fe2[c] + h[c]	transport	0.0	1000.0	2	(AFE_0105 or AFE_0920)		19077236	Transport, Inner Membrane	FALSE	FALSE	
+glc-A[c];mal-B[c];malttr[c]	c	MTRG	h2o[c] + malttr[c] -> glc-A[c] + mal-B[c]	conversion_central	0.0	1000.0	1		3.2.1.20		Alternate Carbon Metabolism	TRUE	TRUE	
+g1p[c];malttr[c];maltttr[c]	c	MTRP	maltttr[c] + pi[c] -> g1p[c] + malttr[c]	phosphorylation	-1000.0	1000.0	2	AFE_0527	2.4.1.1		Glycolysis/Gluconeogenesis	TRUE	TRUE	
+n2[e];n2[p]		N2tex	n2[e] -> n2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+n2[c];n2[p]		N2tpp	n2[p] -> n2[c]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+na1[e];na1[p]		NA1tex	na1[e] -> na1[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+h[c];h[p];na1[c];na1[p]		NA1tpp	h[p] + na1[p] -> h[c] + na1[c]	transport	0.0	1000.0	1			19077236	Transport, Inner Membrane	FALSE	FALSE	
+nh4[c];nh4[p]		NH4pp	nh4[c] -> nh4[p]	transport	-1000.0	1000.0	2	(AFE_2916 or AFE_2911 or AFE_2922)		19077236	Transport, Inner Membrane	FALSE	FALSE	
+nh4[e];nh4[p]		NH4tex	nh4[p] -> nh4[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+o2[e];o2[p]		O2tex	o2[e] -> o2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+o2[c];o2[p]		O2tpp	o2[p] -> o2[c]	transport	-1000.0	1000.0	1				Transport, Inner Membrane	FALSE	FALSE	
+akg[c]	c	OHPBAT	glu-L[c] + ohpb[c] -> akg[c] + phthr[c]	conversion_central	-1000.0	1000.0	2	AFE_0895	2.6.1.52		Cofactor and Prosthetic Group Biosynthesis	TRUE	TRUE	
+accoa[c];pyr[c]	c	PDH	coa[c] + nad[c] + pyr[c] -> accoa[c] + co2[c] + nadh[c]	oxidation_reduction	0.0	1000.0	2	(AFE_3070 and AFE_3069 and AFE_3068)	1.2.4.1		Glycolysis/Gluconeogenesis	TRUE	TRUE	
+f6p-B[c];fdp[c]	c	PFK	atp[c] + f6p-B[c] -> adp[c] + fdp[c] + h[c]	phosphorylation	0.0	1000.0	2	AFE_1807	2.7.1.11	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+gam1p[c];gam6p[c]	c	PGAMT	gam1p[c] -> gam6p[c]	conversion_central	-1000.0	1000.0	2	AFE_2634	5.4.2.10		(Cell Envelope Biosynthesis) or (EPS biosynthesis)	TRUE	TRUE	
+3pg[c]	c	PGCD	3pg[c] + nad[c] -> 3php[c] + h[c] + nadh[c]	oxidation_reduction	-1000.0	1000.0	2	AFE_0896	1.1.1.95		Glycine and Serine Metabolism	TRUE	TRUE	
+2ddg6p[c];6pgc[c]	c	PGDH	6pgc[c] -> 2ddg6p[c] + h2o[c]	conversion_central	0.0	1000.0	2	AFE_2432			Pentose Phosphate Pathway	TRUE	TRUE	
+f6p-B[c];g6p-B[c]	c	PGI1	g6p-B[c] -> f6p-B[c]	isomerization	-1000.0	1000.0	2	AFE_2924	5.3.1.9	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+3pg[c]	c	PGK	3pg[c] + atp[c] -> 13dpg[c] + adp[c]	phosphorylation	0.0	1000.0	2	AFE_3250	2.7.2.3	19077236	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+6pgc[c];6pgl[c]	c	PGL	6pgl[c] + h2o[c] -> 6pgc[c] + h[c]	conversion_central	-1000.0	1000.0	2	AFE_2833	3.1.1.31	19077236	Pentose Phosphate Pathway	TRUE	TRUE	
+2pglyc[c];glyclt[c]	c	PGLYCP	2pglyc[c] + h2o[c] -> glyclt[c] + pi[c]	conversion_central	0.0	1000.0	2	(AFE_1823 and AFE_3246)	3.1.3.18	19077236	Alternate Carbon Metabolism	TRUE	TRUE	
+2pg[c];3pg[c]	c	PGM1	3pg[c] -> 2pg[c]	conversion_central	-1000.0	1000.0	2	(AFE_1815 or AFE_0155 or AFE_0526 or AFE_0621)	5.4.2.1	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+g1p-B[c];g6p-B[c]	c	PGMT	g1p-B[c] -> g6p-B[c]	conversion_central	-1000.0	1000.0	2	AFE_2324	5.4.2.6	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+g1p[c];g6p-A[c]	c	PGMT2	g1p[c] -> g6p-A[c]	conversion_central	-1000.0	1000.0	2	AFE_2324	5.4.2.2	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+akg[c]	c	PHETA1	akg[c] + phe-L[c] -> glu-L[c] + phpyr[c]	conversion_central	-1000.0	1000.0	2	AFE_2022	2.6.1.1		Tyrosine, Tryptophan, and Phenylalanine Metabolism	TRUE	TRUE	
+man6p[c]	c	PMANM	man6p[c] -> man1p[c]	conversion_central	-1000.0	1000.0	2	AFE_0943	5.4.2.8		(EPS biosynthesis) or (GDP-mannose biosynthesis)	TRUE	TRUE	
+oaa[c];pep[c]	c	PPC	co2[c] + h2o[c] + pep[c] -> h[c] + oaa[c] + pi[c]	carboxylation_decarboxylation	0.0	1000.0	2	AFE_1810	4.1.1.31	19077236	Anaplerotic Reactions	TRUE	TRUE	
+ppt[e];ppt[p]		PPTtex	ppt[p] -> ppt[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+adp[c];atp[c];h2o[c];h[c];pi[c];ppt[c];ppt[p]		PPTtpp	atp[c] + h2o[c] + ppt[p] -> adp[c] + h[c] + pi[c] + ppt[c]	transport	0.0	1000.0	2	(AFE_2278 and AFE_2279 and AFE_2280 and AFE_2281 and AFE_2282 and AFE_2283 and AFE_2284 and AFE_2285 and AFE_2286)		19077236	Transport, Inner Membrane	FALSE	FALSE	
+h2o[c];h[c];ppi[c];prbamp[c];prbatp[c]		PRATPP	h2o[c] + prbatp[c] -> h[c] + ppi[c] + prbamp[c]	transport	0.0	1000.0	2	AFE_3047	3.6.1.31		Histidine Metabolism	FALSE	FALSE	
+r5p[c]	c	PRPPS	atp[c] + r5p[c] -> amp[c] + h[c] + prpp[c]	phosphorylation	0.0	1000.0	2	AFE_2766	2.7.6.1		Histidine Metabolism	TRUE	TRUE	
+ru5p-D[c]	c	PRUK	atp[c] + ru5p-D[c] -> adp[c] + h[c] + rb15bp[c]	phosphorylation	0.0	1000.0	2	AFE_0536	2.7.1.19	19077236	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+pep[c]	c	PSCVT	pep[c] + skm5p[c] -> 3psme[c] + pi[c]	conversion_central	-1000.0	1000.0	2	AFE_0901	2.5.1.19		Tyrosine, Tryptophan, and Phenylalanine Metabolism	TRUE	TRUE	
+akg[c]	c	PSERT	akg[c] + pser-L[c] -> 3php[c] + glu-L[c]	conversion_central	-1000.0	1000.0	2	AFE_0895	2.6.1.52		Glycine and Serine Metabolism	TRUE	TRUE	
+pep[c];pyr[c]	c	PYK	adp[c] + h[c] + pep[c] -> atp[c] + pyr[c]	phosphorylation	0.0	1000.0	2	(AFE_0749 or AFE_1801 or AFE_3249)	2.7.1.40	19077236	Glycolysis/Gluconeogenesis	TRUE	TRUE	
+pi[e];pi[p]		Pitex	pi[p] -> pi[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+adp[c];atp[c];h2o[c];h[c];pi[c];pi[p]		Pitpp	atp[c] + h2o[c] + pi[p] -> adp[c] + h[c] + 2 pi[c]	transport	0.0	1000.0	2	((AFE_1939 and AFE_1940 and AFE_1941) or (AFE_1434 and AFE_1435 and AFE_1436 and AFE_1437 and AFE_1438 and AFE_1439 and AFE_1440 and AFE_1441))		19077236	Transport, Inner Membrane	FALSE	FALSE	
+dhap[c]	c	QULNS	dhap[c] + iasp[c] -> 2 h2o[c] + pi[c] + quln[c]	conversion_central	-1000.0	1000.0	2	AFE_0057	2.5.1.72		( Cofactor and Prosthetic Group Biosynthesis ) or ( NAD biosynthesis )	TRUE	TRUE	
+ru5p-D[c];xu5p-D[c]	c	RPE	ru5p-D[c] -> xu5p-D[c]	isomerization	-1000.0	1000.0	2	AFE_3247	5.1.3.1		(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+r5p[c];ru5p-D[c]	c	RPI	r5p[c] -> ru5p-D[c]	isomerization	0.0	1000.0	2	AFE_0629	5.3.1.6	19077236	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+3pg[c]	c	RUBISCO	co2[c] + h2o[c] + rb15bp[c] -> 2 3pg[c] + 2 h[c]	carboxylation_decarboxylation	-1000.0	1000.0	3	(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))	4.1.1.39		(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+2pglyc[c];3pg[c]	c	RUBISCOX	o2[c] + rb15bp[c] -> 2pglyc[c] + 3pg[c] + 2 h[c]	conversion_central	0.0	1000.0	3			12070689	(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+s7p[c]	c	S7PI	s7p[c] -> gmhep7p[c]	isomerization	-1000.0	1000.0	2	(AFE_0714 or AFE_0141)	5.3.1.28		Lipopolysaccharide Biosynthesis	TRUE	TRUE	
+s7p[c]	c	SBPASE	h2o[c] + s17bp[c] -> pi[c] + s7p[c]	conversion_central	-1000.0	1000.0	2	AFE_3253	3.1.3.37	19077236	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+succ[c]	c	SDPDS	h2o[c] + sl26da[c] -> 26dap-LL[c] + succ[c]	conversion_central	-1000.0	1000.0	2	AFE_1819	3.5.1.18		Threonine and Lysine Metabolism	TRUE	TRUE	
+akg[c]	c	SDPTA	akg[c] + sl26da[c] -> glu-L[c] + sl2a6o[c]	conversion_central	-1000.0	1000.0	2	AFE_1821	2.6.1.17		Threonine and Lysine Metabolism	TRUE	TRUE	
+accoa[c]	c	SERAT	accoa[c] + ser-L[c] -> acser[c] + coa[c]	conversion_central	-1000.0	1000.0	2	(AFE_1505 and AFE_0671)	2.3.1.30		Cysteine Metabolism	TRUE	TRUE	
+adp[c];atp[c];h2o[c];h[c];pi[c];so4[c];so4[p]		SO41tpp	atp[c] + h2o[c] + so4[p] -> adp[c] + h[c] + pi[c] + so4[c]	transport	0.0	1000.0	2			19077236	(Transport, Inner Membrane) or (Sulfur Metabolism)	FALSE	FALSE	
+so4[c];so4[p]		SO42tpp	so4[p] -> so4[c]	transport	0.0	1000.0	2	AFE_0286		19077236	Transport, Inner Membrane	FALSE	FALSE	
+adp[c];atp[c];h2o[c];h[c];pi[c];so4[c];so4aa[p]		SO4AA1tpp	atp[c] + h2o[c] + so4aa[p] -> adp[c] + h[c] + pi[c] + so4[c]	transport	0.0	1000.0	2			19077236	(Transport, Inner Membrane) or (Sulfur Metabolism)	FALSE	FALSE	
+so4aa[e];so4aa[p]		SO4AA2tpp	so4aa[p] -> so4aa[e]	transport	-1000.0	1000.0	1				Sulfur Metabolism	FALSE	FALSE	
+so4[e];so4[p]		SO4tex	so4[p] -> so4[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+fum[c];succ[c]	c	SUCD	fum[c] + h[c] + nadh[c] -> nad[c] + succ[c]	oxidation_reduction	-1000.0	1000.0	2	AFE_2550		19077236	Citric Acid Cycle	TRUE	TRUE	
+succ[c];succoa[c]	c	SUCOAS	atp[c] + coa[c] + succ[c] -> adp[c] + pi[c] + succoa[c]	conversion_central	-1000.0	1000.0	2	(AFE_0427 and AFE_0425)	6.2.1.5	19077236	Citric Acid Cycle	TRUE	TRUE	
+s[e];s[p]		Stex	s[p] -> s[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+e4p[c];f6p-B[c];g3p[c];s7p[c]	c	TALA	g3p[c] + s7p[c] -> e4p[c] + f6p-B[c]	conversion_central	-1000.0	1000.0	2	AFE_0419	2.2.1.2	19077236	Pentose Phosphate Pathway	TRUE	TRUE	
+succoa[c]	c	THDPS	h2o[c] + succoa[c] + thdp[c] -> coa[c] + sl2a6o[c]	conversion_central	-1000.0	1000.0	2	AFE_1820	2.3.1.117		Threonine and Lysine Metabolism	TRUE	TRUE	
+e4p[c];f6p-B[c];g3p[c];xu5p-D[c]	c	TKT1	e4p[c] + xu5p-D[c] -> f6p-B[c] + g3p[c]	conversion_central	-1000.0	1000.0	2	(AFE_1843 and AFE_3252)	2.2.1.1	19077236	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+g3p[c];r5p[c];s7p[c];xu5p-D[c]	c	TKT2	g3p[c] + s7p[c] -> r5p[c] + xu5p-D[c]	conversion_central	-1000.0	1000.0	2	(AFE_1843 and AFE_3252)	2.2.1.1	19077236	(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+dhap[c];g3p[c]	c	TPI	g3p[c] -> dhap[c]	isomerization	-1000.0	1000.0	2	AFE_2633	5.3.1.1	19077236	(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)	TRUE	TRUE	
+g3p[c]	c	TRPS3	3ig3p[c] -> g3p[c] + indole[c]	conversion_central	-1000.0	1000.0	2	AFE_2068	4.2.1.20		Tyrosine, Tryptophan, and Phenylalanine Metabolism	TRUE	TRUE	
+2h3oppan[c]	c	TRSAR	glyc-R[c] + nad[c] -> 2h3oppan[c] + h[c] + nadh[c]	oxidation_reduction	-1000.0	1000.0	1		1.1.1.60		Alternate Carbon Metabolism	TRUE	TRUE	
+tsul[e];tsul[p]		TSULtex	tsul[p] -> tsul[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+4hba[c]	c	TTMS	amet[c] + atp[c] + dxyl5p[c] + iscssulfcys[c] + nadph[c] + tyr-L[c] -> 4hba[c] + 4mpetz[c] + amp[c] + co2[c] + dad-5[c] + h2o[c] + 2 h[c] + iscscys[c] + met-L[c] + nadp[c] + ppi[c]	carboxylation_decarboxylation	0.0	1000.0	2	(AFE_0643 and AFE_1974)			( Cofactor and Prosthetic Group Biosynthesis ) or ( Thiamin biosynthesis )	TRUE	FALSE	
+ttton[e];ttton[p]		TTTONtex	ttton[p] -> ttton[e]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+akg[c]	c	TYRTA	34hpp[c] + glu-L[c] -> akg[c] + tyr-L[c]	conversion_central	-1000.0	1000.0	2	AFE_2022	2.6.1.5		Tyrosine, Tryptophan, and Phenylalanine Metabolism	TRUE	TRUE	
+ac[c]	c	UAAD	h2o[c] + u3aga[c] -> ac[c] + udpglucpypi[c]	conversion_central	0.0	1000.0	3	AFE_0223	3.5.1.108	15044494	( Lipopolysaccharide Biosynthesis ) or ( Lipid A synthesis )	TRUE	TRUE	
+akg[c]	c	UACAA	glu-L[c] + uacgamo[c] -> akg[c] + u3agn[c]	conversion_central	0.0	1000.0	3	AFE_1458		15044494	Lipopolysaccharide Biosynthesis	TRUE	TRUE	
+pep[c]	c	UAGCVT	pep[c] + uacgam[c] -> pi[c] + uaccg[c]	conversion_central	-1000.0	1000.0	2	AFE_3039	2.5.1.7		( Cell Envelope Biosynthesis ) or ( Peptidoglycan biosynthesis )	TRUE	TRUE	
+pyr[c]	c	VALTA1	pyr[c] + val-L[c] -> 3mob[c] + ala-L[c]	conversion_central	-1000.0	1000.0	1		2.6.1.66		Valine, Leucine, and Isoleucine Metabolism	TRUE	TRUE	
+akg[c]	c	VALTA2	akg[c] + val-L[c] -> 3mob[c] + glu-L[c]	conversion_central	-1000.0	1000.0	2	AFE_0547	2.6.1.42		Valine, Leucine, and Isoleucine Metabolism	TRUE	TRUE	
+zn2[e];zn2[p]		ZN2tex	zn2[e] -> zn2[p]	transport	-1000.0	1000.0	1				Transport, Outer Membrane Porin	FALSE	FALSE	
+zn2[c];zn2[p]		ZN2tpp	zn2[p] -> zn2[c]	transport	0.0	1000.0	2	(AFE_0920 or AFE_0105)		19077236	Transport, Inner Membrane	FALSE	FALSE	

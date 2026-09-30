@@ -1,0 +1,1563 @@
+{
+  "accessed_utc": "2026-09-25T07:59:29.451486+00:00",
+  "source": "https://rest.kegg.jp/get/",
+  "reactions": {
+    "R00094": {
+      "ENTRY": "R00094                      Reaction",
+      "NAME": "glutathione:NAD+ oxidoreductase",
+      "DEFINITION": "2 Glutathione + NAD+ <=> Glutathione disulfide + NADH + H+",
+      "EQUATION": "2 C00051 + C00003 <=> C00127 + C00004 + C00080",
+      "COMMENT": "NADP+ (see R00115)",
+      "ENZYME": "1.8.1.7",
+      "ORTHOLOGY": "K00383  glutathione reductase (NADPH) [EC:1.8.1.7]",
+      "DBLINKS": "RHEA: 75702"
+    },
+    "R00104": {
+      "ENTRY": "R00104                      Reaction",
+      "NAME": "ATP:NAD+ 2'-phosphotransferase",
+      "DEFINITION": "ATP + NAD+ <=> ADP + NADP+",
+      "EQUATION": "C00002 + C00003 <=> C00008 + C00006",
+      "ENZYME": "2.7.1.23",
+      "ORTHOLOGY": "K00858  NAD+ kinase [EC:2.7.1.23]",
+      "DBLINKS": "RHEA: 18632"
+    },
+    "R00115": {
+      "ENTRY": "R00115                      Reaction",
+      "NAME": "glutathione:NADP+ oxidoreductase",
+      "DEFINITION": "2 Glutathione + NADP+ <=> Glutathione disulfide + NADPH + H+",
+      "EQUATION": "2 C00051 + C00006 <=> C00127 + C00005 + C00080",
+      "ENZYME": "1.8.1.7",
+      "ORTHOLOGY": "K00383  glutathione reductase (NADPH) [EC:1.8.1.7]",
+      "DBLINKS": "RHEA: 11743"
+    },
+    "R00127": {
+      "ENTRY": "R00127                      Reaction",
+      "NAME": "ATP:AMP phosphotransferase",
+      "DEFINITION": "ATP + AMP <=> 2 ADP",
+      "EQUATION": "C00002 + C00020 <=> 2 C00008",
+      "ENZYME": "2.7.4.3",
+      "ORTHOLOGY": "K00939  adenylate kinase [EC:2.7.4.3]; K18532  adenylate kinase [EC:2.7.4.3]; K18533  adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]",
+      "DBLINKS": "RHEA: 12976"
+    },
+    "R00161": {
+      "ENTRY": "R00161                      Reaction",
+      "NAME": "ATP:FMN adenylyltransferase",
+      "DEFINITION": "ATP + FMN <=> Diphosphate + FAD",
+      "EQUATION": "C00002 + C00061 <=> C00013 + C00016",
+      "ENZYME": "2.7.7.2",
+      "ORTHOLOGY": "K00953  FAD synthetase [EC:2.7.7.2]; K11753  riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]; K14656  FAD synthetase [EC:2.7.7.2]; K22949  FAD synthetase [EC:2.7.7.2]",
+      "DBLINKS": "RHEA: 17240"
+    },
+    "R00177": {
+      "ENTRY": "R00177                      Reaction",
+      "NAME": "ATP:L-methionine S-adenosyltransferase",
+      "DEFINITION": "Orthophosphate + Diphosphate + S-Adenosyl-L-methionine <=> ATP + L-Methionine + H2O",
+      "EQUATION": "C00009 + C00013 + C00019 <=> C00002 + C00073 + C00001",
+      "COMMENT": "possibly intermediate (triphosphate, see [CPD:C00536])",
+      "ENZYME": "2.5.1.6",
+      "ORTHOLOGY": "K00789  S-adenosylmethionine synthetase [EC:2.5.1.6]",
+      "DBLINKS": "RHEA: 21083"
+    },
+    "R00183": {
+      "ENTRY": "R00183                      Reaction",
+      "NAME": "adenosine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "AMP + H2O <=> Adenosine + Orthophosphate",
+      "EQUATION": "C00020 + C00001 <=> C00212 + C00009",
+      "ENZYME": "3.1.3.5",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]",
+      "DBLINKS": "RHEA: 29378"
+    },
+    "R00185": {
+      "ENTRY": "R00185                      Reaction",
+      "NAME": "ATP:adenosine 5'-phosphotransferase",
+      "DEFINITION": "ATP + Adenosine <=> ADP + AMP",
+      "EQUATION": "C00002 + C00212 <=> C00008 + C00020",
+      "ENZYME": "2.7.1.20",
+      "ORTHOLOGY": "K00856  adenosine kinase [EC:2.7.1.20]",
+      "DBLINKS": "RHEA: 20827"
+    },
+    "R00192": {
+      "ENTRY": "R00192                      Reaction",
+      "NAME": "S-adenosyl-L-homocysteine hydrolase",
+      "DEFINITION": "S-Adenosyl-L-homocysteine + H2O <=> Adenosine + L-Homocysteine",
+      "EQUATION": "C00021 + C00001 <=> C00212 + C00155",
+      "COMMENT": "multi-step reaction",
+      "ENZYME": "3.13.2.1",
+      "ORTHOLOGY": "K01251  adenosylhomocysteinase [EC:3.13.2.1]",
+      "DBLINKS": "RHEA: 21711"
+    },
+    "R00253": {
+      "ENTRY": "R00253                      Reaction",
+      "NAME": "L-glutamate:ammonia ligase (ADP-forming)",
+      "DEFINITION": "ATP + L-Glutamate + Ammonia <=> ADP + Orthophosphate + L-Glutamine",
+      "EQUATION": "C00002 + C00025 + C00014 <=> C00008 + C00009 + C00064",
+      "ENZYME": "6.3.1.2",
+      "ORTHOLOGY": "K01915  glutamine synthetase [EC:6.3.1.2]",
+      "DBLINKS": "RHEA: 16172"
+    },
+    "R00257": {
+      "ENTRY": "R00257                      Reaction",
+      "NAME": "deamido-NAD+:L-glutamine amido-ligase (AMP-forming)",
+      "DEFINITION": "ATP + Deamino-NAD+ + L-Glutamine + H2O <=> AMP + Diphosphate + NAD+ + L-Glutamate",
+      "EQUATION": "C00002 + C00857 + C00064 + C00001 <=> C00020 + C00013 + C00003 + C00025",
+      "ENZYME": "6.3.5.1",
+      "ORTHOLOGY": "K01950  NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]",
+      "DBLINKS": "RHEA: 24387"
+    },
+    "R00267": {
+      "ENTRY": "R00267                      Reaction",
+      "NAME": "isocitrate:NADP+ oxidoreductase (decarboxylating)",
+      "DEFINITION": "Isocitrate + NADP+ <=> 2-Oxoglutarate + CO2 + NADPH + H+",
+      "EQUATION": "C00311 + C00006 <=> C00026 + C00011 + C00005 + C00080",
+      "COMMENT": "two-step reaction (see R01899+R00268)",
+      "ENZYME": "1.1.1.42",
+      "ORTHOLOGY": "K00031  isocitrate dehydrogenase [EC:1.1.1.42]",
+      "DBLINKS": "RHEA: 19632"
+    },
+    "R00268": {
+      "ENTRY": "R00268                      Reaction",
+      "NAME": "oxalosuccinate carboxy-lyase (2-oxoglutarate-forming)",
+      "DEFINITION": "Oxalosuccinate <=> 2-Oxoglutarate + CO2",
+      "EQUATION": "C05379 <=> C00026 + C00011",
+      "COMMENT": "the second step of two-step reaction (see R00267, R01899+R00268); following after R01899",
+      "ENZYME": "1.1.1.42",
+      "ORTHOLOGY": "K00031  isocitrate dehydrogenase [EC:1.1.1.42]",
+      "DBLINKS": "RHEA: 19384"
+    },
+    "R00277": {
+      "ENTRY": "R00277                      Reaction",
+      "NAME": "pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)",
+      "DEFINITION": "Pyridoxamine phosphate + H2O + Oxygen <=> Pyridoxal phosphate + Ammonia + Hydrogen peroxide",
+      "EQUATION": "C00647 + C00001 + C00007 <=> C00018 + C00014 + C00027",
+      "ENZYME": "1.4.3.5",
+      "ORTHOLOGY": "K00275  pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]; K23998  pyridoxal 5'-phosphate synthase / NAD(P)H-hydrate epimerase [EC:1.4.3.5 5.1.99.6]",
+      "DBLINKS": "RHEA: 15820"
+    },
+    "R00278": {
+      "ENTRY": "R00278                      Reaction",
+      "NAME": "pyridoxine 5'-phosphate:oxygen oxidoreductase",
+      "DEFINITION": "Pyridoxine phosphate + Oxygen <=> Hydrogen peroxide + Pyridoxal phosphate",
+      "EQUATION": "C00627 + C00007 <=> C00027 + C00018",
+      "ENZYME": "1.4.3.5",
+      "ORTHOLOGY": "K00275  pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]; K23998  pyridoxal 5'-phosphate synthase / NAD(P)H-hydrate epimerase [EC:1.4.3.5 5.1.99.6]",
+      "DBLINKS": "RHEA: 15152"
+    },
+    "R00286": {
+      "ENTRY": "R00286                      Reaction",
+      "NAME": "UDP-glucose:NAD+ 6-oxidoreductase",
+      "DEFINITION": "UDP-glucose + H2O + 2 NAD+ <=> UDP-glucuronate + 2 NADH + 2 H+",
+      "EQUATION": "C00029 + C00001 + 2 C00003 <=> C00167 + 2 C00004 + 2 C00080",
+      "ENZYME": "1.1.1.22",
+      "ORTHOLOGY": "K00012  UDPglucose 6-dehydrogenase [EC:1.1.1.22]",
+      "DBLINKS": "RHEA: 23599"
+    },
+    "R00289": {
+      "ENTRY": "R00289                      Reaction",
+      "NAME": "UTP:alpha-D-glucose-1-phosphate uridylyltransferase",
+      "DEFINITION": "UTP + D-Glucose 1-phosphate <=> Diphosphate + UDP-glucose",
+      "EQUATION": "C00075 + C00103 <=> C00013 + C00029",
+      "ENZYME": "2.7.7.9         2.7.7.64",
+      "ORTHOLOGY": "K00963  UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]; K12447  UDP-sugar pyrophosphorylase [EC:2.7.7.64]; K22920  UTP---glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]; K28660  UTP---glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]",
+      "DBLINKS": "RHEA: 19892"
+    },
+    "R00332": {
+      "ENTRY": "R00332                      Reaction",
+      "NAME": "ATP:GMP phosphotransferase",
+      "DEFINITION": "ATP + GMP <=> ADP + GDP",
+      "EQUATION": "C00002 + C00144 <=> C00008 + C00035",
+      "ENZYME": "2.7.4.8",
+      "ORTHOLOGY": "K00942  guanylate kinase [EC:2.7.4.8]",
+      "DBLINKS": "RHEA: 20783"
+    },
+    "R00336": {
+      "ENTRY": "R00336                      Reaction",
+      "NAME": "guanosine-3',5'-bis(diphosphate) 3'-diphosphohydrolase",
+      "DEFINITION": "Guanosine 3',5'-bis(diphosphate) + H2O <=> GDP + Diphosphate",
+      "EQUATION": "C01228 + C00001 <=> C00035 + C00013",
+      "ENZYME": "3.1.7.2",
+      "ORTHOLOGY": "K01139  GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]; K21138  guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [EC:3.1.7.2]",
+      "DBLINKS": "RHEA: 14256"
+    },
+    "R00405": {
+      "ENTRY": "R00405                      Reaction",
+      "NAME": "succinate:CoA ligase (ADP-forming)",
+      "DEFINITION": "ATP + Succinate + CoA <=> ADP + Orthophosphate + Succinyl-CoA",
+      "EQUATION": "C00002 + C00042 + C00010 <=> C00008 + C00009 + C00091",
+      "ENZYME": "6.2.1.5",
+      "ORTHOLOGY": "K01902  succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]; K01903  succinyl-CoA synthetase beta subunit [EC:6.2.1.5]",
+      "DBLINKS": "RHEA: 17664"
+    },
+    "R00429": {
+      "ENTRY": "R00429                      Reaction",
+      "NAME": "ATP:GTP 3'-diphosphotransferase",
+      "DEFINITION": "ATP + GTP <=> AMP + Guanosine 3'-diphosphate 5'-triphosphate",
+      "EQUATION": "C00002 + C00044 <=> C00020 + C04494",
+      "ENZYME": "2.7.6.5",
+      "ORTHOLOGY": "K00951  GTP pyrophosphokinase [EC:2.7.6.5]; K01139  GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]; K07816  GTP pyrophosphokinase [EC:2.7.6.5]",
+      "DBLINKS": "RHEA: 22091"
+    },
+    "R00480": {
+      "ENTRY": "R00480                      Reaction",
+      "NAME": "ATP:L-aspartate 4-phosphotransferase",
+      "DEFINITION": "ATP + L-Aspartate <=> ADP + 4-Phospho-L-aspartate",
+      "EQUATION": "C00002 + C00049 <=> C00008 + C03082",
+      "ENZYME": "2.7.2.4",
+      "ORTHOLOGY": "K00928  aspartate kinase [EC:2.7.2.4]; K12524  bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3]; K12525  bifunctional aspartokinase / homoserine dehydrogenase 2 [EC:2.7.2.4 1.1.1.3]; K12526  bifunctional diaminopimelate decarboxylase / aspartate kinase [EC:4.1.1.20 2.7.2.4]",
+      "DBLINKS": "RHEA: 23779"
+    },
+    "R00511": {
+      "ENTRY": "R00511                      Reaction",
+      "NAME": "cytidine-5'-monophosphate phosphohydrolase",
+      "DEFINITION": "CMP + H2O <=> Cytidine + Orthophosphate",
+      "EQUATION": "C00055 + C00001 <=> C00475 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.91        3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08723  pyrimidine 5'-nucleotidase [EC:3.1.3.-]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]; K24242  7-methylguanosine nucleotidase [EC:3.1.3.91]; K25434  pyrimidine 5'-nucleotidase [EC:3.1.3.-]",
+      "DBLINKS": "RHEA: 29370"
+    },
+    "R00529": {
+      "ENTRY": "R00529                      Reaction",
+      "NAME": "ATP:sulfate adenylyltransferase",
+      "DEFINITION": "ATP + Sulfate <=> Diphosphate + Adenylyl sulfate",
+      "EQUATION": "C00002 + C00059 <=> C00013 + C00224",
+      "ENZYME": "2.7.7.4",
+      "ORTHOLOGY": "K00955  bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25]; K00956  sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]; K00957  sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]; K00958  sulfate adenylyltransferase [EC:2.7.7.4]; K13811  3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]",
+      "DBLINKS": "RHEA: 18136"
+    },
+    "R00549": {
+      "ENTRY": "R00549                      Reaction",
+      "NAME": "ATP:riboflavin 5'-phosphotransferase",
+      "DEFINITION": "ATP + Riboflavin <=> ADP + FMN",
+      "EQUATION": "C00002 + C00255 <=> C00008 + C00061",
+      "ENZYME": "2.7.1.26",
+      "ORTHOLOGY": "K00861  riboflavin kinase [EC:2.7.1.26]; K11753  riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]; K20884  riboflavin kinase / FMN hydrolase [EC:2.7.1.26 3.1.3.102]",
+      "DBLINKS": "RHEA: 14360"
+    },
+    "R00582": {
+      "ENTRY": "R00582                      Reaction",
+      "NAME": "O-phospho-L-serine phosphohydrolase",
+      "DEFINITION": "O-Phospho-L-serine + H2O <=> L-Serine + Orthophosphate",
+      "EQUATION": "C01005 + C00001 <=> C00065 + C00009",
+      "COMMENT": "see R02853 (D-form)",
+      "ENZYME": "3.1.3.3",
+      "ORTHOLOGY": "K01079  phosphoserine phosphatase [EC:3.1.3.3]; K02203  phosphoserine / homoserine phosphotransferase [EC:3.1.3.3 2.7.1.39]; K22305  phosphoserine phosphatase [EC:3.1.3.3]; K25528  phosphoserine phosphatase [EC:3.1.3.3]",
+      "DBLINKS": "RHEA: 21211"
+    },
+    "R00963": {
+      "ENTRY": "R00963                      Reaction",
+      "NAME": "uridine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "UMP + H2O <=> Uridine + Orthophosphate",
+      "EQUATION": "C00105 + C00001 <=> C00299 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08723  pyrimidine 5'-nucleotidase [EC:3.1.3.-]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]; K25434  pyrimidine 5'-nucleotidase [EC:3.1.3.-]",
+      "DBLINKS": "RHEA: 29362"
+    },
+    "R01056": {
+      "ENTRY": "R01056                      Reaction",
+      "NAME": "D-ribose-5-phosphate aldose-ketose-isomerase",
+      "DEFINITION": "D-Ribose 5-phosphate <=> D-Ribulose 5-phosphate",
+      "EQUATION": "C00117 <=> C00199",
+      "ENZYME": "5.3.1.6",
+      "ORTHOLOGY": "K01807  ribose 5-phosphate isomerase A [EC:5.3.1.6]; K01808  ribose 5-phosphate isomerase B [EC:5.3.1.6]",
+      "DBLINKS": "RHEA: 14660"
+    },
+    "R01074": {
+      "ENTRY": "R01074                      Reaction",
+      "NAME": "biotin:CoA ligase (AMP-forming);; biotin:apo-[carboxylase] ligase (AMP-forming);; ATP:biotin adenylyltransferase",
+      "DEFINITION": "ATP + Biotin <=> Diphosphate + Biotinyl-5'-AMP",
+      "EQUATION": "C00002 + C00120 <=> C00013 + C05921",
+      "COMMENT": "the first step of two-step reaction (R01075, R04562, R04563, R04582 or R04604); subsequently R05145 or R03762",
+      "ENZYME": "6.2.1.11        6.3.4.9         6.3.4.10        6.3.4.11; 6.3.4.15",
+      "ORTHOLOGY": "K01942  biotin---protein ligase [EC:6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15]; K01947  biotin---[acetyl-CoA-carboxylase] ligase / type III pantothenate kinase [EC:6.3.4.15 2.7.1.33]; K03524  BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]",
+      "DBLINKS": "RHEA: 31118"
+    },
+    "R01090": {
+      "ENTRY": "R01090                      Reaction",
+      "NAME": "L-leucine:2-oxoglutarate aminotransferase",
+      "DEFINITION": "L-Leucine + 2-Oxoglutarate <=> 4-Methyl-2-oxopentanoate + L-Glutamate",
+      "EQUATION": "C00123 + C00026 <=> C00233 + C00025",
+      "ENZYME": "2.6.1.6         2.6.1.42        2.6.1.67",
+      "ORTHOLOGY": "K00826  branched-chain amino acid aminotransferase [EC:2.6.1.42]",
+      "DBLINKS": "RHEA: 18324"
+    },
+    "R01126": {
+      "ENTRY": "R01126                      Reaction",
+      "NAME": "inosine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "IMP + H2O <=> Inosine + Orthophosphate",
+      "EQUATION": "C00130 + C00001 <=> C00294 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.99        3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K18550  IMP and pyridine-specific 5'-nucleotidase [EC:3.1.3.99 3.1.3.-]; K19970  5'-nucleotidase [EC:3.1.3.5]; K20881  GMP/IMP 5'-nucleotidase [EC:3.1.3.-]",
+      "DBLINKS": "RHEA: 27721"
+    },
+    "R01132": {
+      "ENTRY": "R01132                      Reaction",
+      "NAME": "IMP:diphosphate phospho-D-ribosyltransferase",
+      "DEFINITION": "IMP + Diphosphate <=> Hypoxanthine + 5-Phospho-alpha-D-ribose 1-diphosphate",
+      "EQUATION": "C00130 + C00013 <=> C00262 + C00119",
+      "ENZYME": "2.4.2.8",
+      "ORTHOLOGY": "K00760  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]; K15780  bifunctional protein TilS/HprT [EC:6.3.4.19 2.4.2.8]; K19836  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]",
+      "DBLINKS": "RHEA: 17976"
+    },
+    "R01214": {
+      "ENTRY": "R01214                      Reaction",
+      "NAME": "L-valine:2-oxoglutarate aminotransferase",
+      "DEFINITION": "L-Valine + 2-Oxoglutarate <=> 3-Methyl-2-oxobutanoic acid + L-Glutamate",
+      "EQUATION": "C00183 + C00026 <=> C00141 + C00025",
+      "ENZYME": "2.6.1.6         2.6.1.42",
+      "ORTHOLOGY": "K00826  branched-chain amino acid aminotransferase [EC:2.6.1.42]",
+      "DBLINKS": "RHEA: 24816"
+    },
+    "R01227": {
+      "ENTRY": "R01227                      Reaction",
+      "NAME": "guanosine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "GMP + H2O <=> Guanosine + Orthophosphate",
+      "EQUATION": "C00144 + C00001 <=> C00387 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]; K20881  GMP/IMP 5'-nucleotidase [EC:3.1.3.-]",
+      "DBLINKS": "RHEA: 27717"
+    },
+    "R01229": {
+      "ENTRY": "R01229                      Reaction",
+      "NAME": "GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase",
+      "DEFINITION": "GMP + Diphosphate <=> Guanine + 5-Phospho-alpha-D-ribose 1-diphosphate",
+      "EQUATION": "C00144 + C00013 <=> C00242 + C00119",
+      "ENZYME": "2.4.2.8         2.4.2.22",
+      "ORTHOLOGY": "K00760  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]; K00769  xanthine phosphoribosyltransferase [EC:2.4.2.22]; K03816  xanthine phosphoribosyltransferase [EC:2.4.2.22]; K15780  bifunctional protein TilS/HprT [EC:6.3.4.19 2.4.2.8]; K19836  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]",
+      "DBLINKS": "RHEA: 25427"
+    },
+    "R01302": {
+      "ENTRY": "R01302                      Reaction",
+      "NAME": "chorismate pyruvate-lyase (4-hydroxybenzoate-forming)",
+      "DEFINITION": "4-Hydroxybenzoate + Pyruvate <=> Chorismate",
+      "EQUATION": "C00156 + C00022 <=> C00251",
+      "COMMENT": "UbiC",
+      "ENZYME": "4.1.3.40",
+      "ORTHOLOGY": "K03181  chorismate lyase [EC:4.1.3.40]; K18240  chorismate lyase / 3-hydroxybenzoate synthase [EC:4.1.3.40 4.1.3.45]",
+      "DBLINKS": "RHEA: 16508"
+    },
+    "R01320": {
+      "ENTRY": "R01320                      Reaction",
+      "NAME": "S-adenosyl-L-methionine:phosphatidyl-N-dimethylethanolamine N-methyltransferase",
+      "DEFINITION": "S-Adenosyl-L-methionine + Phosphatidyl-N-dimethylethanolamine <=> S-Adenosyl-L-homocysteine + Phosphatidylcholine",
+      "EQUATION": "C00019 + C04308 <=> C00021 + C00157",
+      "ENZYME": "2.1.1.16        2.1.1.71",
+      "ORTHOLOGY": "K00550  phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.71]; K00551  phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]; K00570  phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]",
+      "DBLINKS": "RHEA: 32742"
+    },
+    "R01324": {
+      "ENTRY": "R01324                      Reaction",
+      "NAME": "citrate hydroxymutase",
+      "DEFINITION": "Citrate <=> Isocitrate",
+      "EQUATION": "C00158 <=> C00311",
+      "COMMENT": "two-step reaction (see R01325+R01900)",
+      "ENZYME": "4.2.1.3",
+      "ORTHOLOGY": "K01681  aconitate hydratase [EC:4.2.1.3]; K01682  aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]; K27802  aconitate hydratase A / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]",
+      "DBLINKS": "RHEA: 10339"
+    },
+    "R01325": {
+      "ENTRY": "R01325                      Reaction",
+      "NAME": "citrate hydro-lyase (cis-aconitate-forming)",
+      "DEFINITION": "Citrate <=> cis-Aconitate + H2O",
+      "EQUATION": "C00158 <=> C00417 + C00001",
+      "ENZYME": "4.2.1.3",
+      "ORTHOLOGY": "K01681  aconitate hydratase [EC:4.2.1.3]; K01682  aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]; K27802  aconitate hydratase A / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]",
+      "DBLINKS": "RHEA: 10231"
+    },
+    "R01385": {
+      "ENTRY": "R01385                      Reaction",
+      "NAME": "UDP-glucuronate 4-epimerase",
+      "DEFINITION": "UDP-glucuronate <=> UDP-D-galacturonate",
+      "EQUATION": "C00167 <=> C00617",
+      "ENZYME": "5.1.3.6",
+      "ORTHOLOGY": "K08679  UDP-glucuronate 4-epimerase [EC:5.1.3.6]",
+      "DBLINKS": "RHEA: 11407"
+    },
+    "R01398": {
+      "ENTRY": "R01398                      Reaction",
+      "NAME": "carbamoyl-phosphate:L-ornithine carbamoyltransferase",
+      "DEFINITION": "Carbamoyl phosphate + L-Ornithine <=> Orthophosphate + L-Citrulline",
+      "EQUATION": "C00169 + C00077 <=> C00009 + C00327",
+      "ENZYME": "2.1.3.3",
+      "ORTHOLOGY": "K00611  ornithine carbamoyltransferase [EC:2.1.3.3]",
+      "DBLINKS": "RHEA: 19516"
+    },
+    "R01402": {
+      "ENTRY": "R01402                      Reaction",
+      "NAME": "S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase",
+      "DEFINITION": "5'-Methylthioadenosine + Orthophosphate <=> Adenine + S-Methyl-5-thio-D-ribose 1-phosphate",
+      "EQUATION": "C00170 + C00009 <=> C00147 + C04188",
+      "ENZYME": "2.4.2.28",
+      "ORTHOLOGY": "K00772  5'-methylthioadenosine phosphorylase [EC:2.4.2.28]; K05810  purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]",
+      "DBLINKS": "RHEA: 11855"
+    },
+    "R01403": {
+      "ENTRY": "R01403                      Reaction",
+      "NAME": "acyl-[acyl-carrier-protein]:NAD+ oxidoreductase",
+      "DEFINITION": "Acyl-[acyl-carrier protein] + NAD+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADH + H+",
+      "EQUATION": "C00173 + C00003 <=> C00693 + C00004 + C00080",
+      "ENZYME": "1.3.1.9",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]",
+      "DBLINKS": "RHEA: 10243"
+    },
+    "R01404": {
+      "ENTRY": "R01404                      Reaction",
+      "NAME": "acyl-[acyl-carrier protein]:NADP+ oxidoreductase",
+      "DEFINITION": "Acyl-[acyl-carrier protein] + NADP+ <=> trans-2,3-Dehydroacyl-[acyl-carrier protein] + NADPH + H+",
+      "EQUATION": "C00173 + C00006 <=> C00693 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]",
+      "DBLINKS": "RHEA: 22567"
+    },
+    "R01466": {
+      "ENTRY": "R01466                      Reaction",
+      "NAME": "O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)",
+      "DEFINITION": "O-Phospho-L-homoserine + H2O <=> L-Threonine + Orthophosphate",
+      "EQUATION": "C01102 + C00001 <=> C00188 + C00009",
+      "COMMENT": "possibly two-step reaction (phospho-lyase, hydro-lyase)",
+      "ENZYME": "4.2.3.1",
+      "ORTHOLOGY": "K01733  threonine synthase [EC:4.2.3.1]",
+      "DBLINKS": "RHEA: 10843"
+    },
+    "R01518": {
+      "ENTRY": "R01518                      Reaction",
+      "NAME": "D-phosphoglycerate 2,3-phosphomutase",
+      "DEFINITION": "2-Phospho-D-glycerate <=> 3-Phospho-D-glycerate",
+      "EQUATION": "C00631 <=> C00197",
+      "ENZYME": "5.4.2.11        5.4.2.12",
+      "ORTHOLOGY": "K01834  2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]; K01837  bisphosphoglycerate/phosphoglycerate mutase [EC:5.4.2.4 5.4.2.11]; K15633  2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]; K15634  2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]; K15635  2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]",
+      "DBLINKS": "RHEA: 15904"
+    },
+    "R01523": {
+      "ENTRY": "R01523                      Reaction",
+      "NAME": "ATP:D-ribulose-5-phosphate 1-phosphotransferase",
+      "DEFINITION": "ATP + D-Ribulose 5-phosphate <=> ADP + D-Ribulose 1,5-bisphosphate",
+      "EQUATION": "C00002 + C00199 <=> C00008 + C01182",
+      "ENZYME": "2.7.1.19",
+      "ORTHOLOGY": "K00855  phosphoribulokinase [EC:2.7.1.19]; K28462  phosphoribulokinase [EC:2.7.1.19]",
+      "DBLINKS": "RHEA: 19368"
+    },
+    "R01547": {
+      "ENTRY": "R01547                      Reaction",
+      "NAME": "ATP:dAMP phosphotransferase",
+      "DEFINITION": "ATP + dAMP <=> ADP + dADP",
+      "EQUATION": "C00002 + C00360 <=> C00008 + C00206",
+      "ENZYME": "2.7.4.3         2.7.4.11",
+      "ORTHOLOGY": "K00939  adenylate kinase [EC:2.7.4.3]; K18532  adenylate kinase [EC:2.7.4.3]; K18533  adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]",
+      "DBLINKS": "RHEA: 23103"
+    },
+    "R01560": {
+      "ENTRY": "R01560                      Reaction",
+      "NAME": "adenosine aminohydrolase",
+      "DEFINITION": "Adenosine + H2O <=> Inosine + Ammonia",
+      "EQUATION": "C00212 + C00001 <=> C00294 + C00014",
+      "ENZYME": "3.5.4.4",
+      "ORTHOLOGY": "K01488  adenosine deaminase [EC:3.5.4.4]; K05810  purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]; K19572  adenosine deaminase CECR1 [EC:3.5.4.4]",
+      "DBLINKS": "RHEA: 24411"
+    },
+    "R01561": {
+      "ENTRY": "R01561                      Reaction",
+      "NAME": "adenosine:phosphate alpha-D-ribosyltransferase",
+      "DEFINITION": "Adenosine + Orthophosphate <=> Adenine + alpha-D-Ribose 1-phosphate",
+      "EQUATION": "C00212 + C00009 <=> C00147 + C00620",
+      "ENZYME": "2.4.2.1",
+      "ORTHOLOGY": "K03783  purine-nucleoside phosphorylase [EC:2.4.2.1]; K03784  purine-nucleoside phosphorylase [EC:2.4.2.1]; K05810  purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]; K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]",
+      "DBLINKS": "RHEA: 27645"
+    },
+    "R01562": {
+      "ENTRY": "R01562                      Reaction",
+      "NAME": "adenosine 3'-phosphate phosphohydrolase",
+      "DEFINITION": "3'-AMP + H2O <=> Adenosine + Orthophosphate",
+      "EQUATION": "C01367 + C00001 <=> C00212 + C00009",
+      "ENZYME": "3.1.3.6",
+      "ORTHOLOGY": "K01119  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]",
+      "DBLINKS": "RHEA: 27901"
+    },
+    "R01569": {
+      "ENTRY": "R01569                      Reaction",
+      "NAME": "thymidylate 5'-phosphohydrolase",
+      "DEFINITION": "dTMP + H2O <=> Thymidine + Orthophosphate",
+      "EQUATION": "C00364 + C00001 <=> C00214 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.35        3.1.3.89        3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K06952  5'-nucleotidase [EC:3.1.3.89]; K07023  5'-deoxynucleotidase [EC:3.1.3.89]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08722  5'-deoxynucleotidase [EC:3.1.3.89]; K08723  pyrimidine 5'-nucleotidase [EC:3.1.3.-]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]; K25434  pyrimidine 5'-nucleotidase [EC:3.1.3.-]",
+      "DBLINKS": "RHEA: 11083"
+    },
+    "R01570": {
+      "ENTRY": "R01570                      Reaction",
+      "NAME": "thymidine:phosphate deoxy-alpha-D-ribosyltransferase",
+      "DEFINITION": "Thymidine + Orthophosphate <=> Thymine + 2-Deoxy-D-ribose 1-phosphate",
+      "EQUATION": "C00214 + C00009 <=> C00178 + C00672",
+      "ENZYME": "2.4.2.2         2.4.2.4",
+      "ORTHOLOGY": "K00756  pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]; K00758  thymidine phosphorylase [EC:2.4.2.4]; K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]",
+      "DBLINKS": "RHEA: 16040"
+    },
+    "R01664": {
+      "ENTRY": "R01664                      Reaction",
+      "NAME": "2'-deoxycytidine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "dCMP + H2O <=> Deoxycytidine + Orthophosphate",
+      "EQUATION": "C00239 + C00001 <=> C00881 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.89        3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K06952  5'-nucleotidase [EC:3.1.3.89]; K07023  5'-deoxynucleotidase [EC:3.1.3.89]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08722  5'-deoxynucleotidase [EC:3.1.3.89]; K08723  pyrimidine 5'-nucleotidase [EC:3.1.3.-]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]; K25434  pyrimidine 5'-nucleotidase [EC:3.1.3.-]",
+      "DBLINKS": "RHEA: 29366"
+    },
+    "R01710": {
+      "ENTRY": "R01710                      Reaction",
+      "NAME": "pyridoxamine:oxygen oxidoreductase (deaminating)",
+      "DEFINITION": "Pyridoxamine + H2O + Oxygen <=> Pyridoxal + Ammonia + Hydrogen peroxide",
+      "EQUATION": "C00534 + C00001 + C00007 <=> C00250 + C00014 + C00027",
+      "ENZYME": "1.4.3.5",
+      "ORTHOLOGY": "K00275  pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]; K23998  pyridoxal 5'-phosphate synthase / NAD(P)H-hydrate epimerase [EC:1.4.3.5 5.1.99.6]",
+      "DBLINKS": "RHEA: 30778"
+    },
+    "R01711": {
+      "ENTRY": "R01711                      Reaction",
+      "NAME": "pyridoxine:oxygen oxidoreductase (deaminating)",
+      "DEFINITION": "Pyridoxine + Oxygen <=> Pyridoxal + Hydrogen peroxide",
+      "EQUATION": "C00314 + C00007 <=> C00250 + C00027",
+      "ENZYME": "1.1.3.12        1.4.3.5",
+      "ORTHOLOGY": "K00275  pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]; K18607  pyridoxine 4-oxidase [EC:1.1.3.12]; K23998  pyridoxal 5'-phosphate synthase / NAD(P)H-hydrate epimerase [EC:1.4.3.5 5.1.99.6]",
+      "DBLINKS": "RHEA: 15036"
+    },
+    "R01716": {
+      "ENTRY": "R01716                      Reaction",
+      "NAME": "chorismate:L-glutamine aminotransferase",
+      "DEFINITION": "Chorismate + L-Glutamine <=> 4-Amino-4-deoxychorismate + L-Glutamate",
+      "EQUATION": "C00251 + C00064 <=> C11355 + C00025",
+      "COMMENT": "two-step reaction (see R00256 + R05552)",
+      "ENZYME": "2.6.1.85",
+      "ORTHOLOGY": "K01664  para-aminobenzoate synthetase component II [EC:2.6.1.85]; K01665  para-aminobenzoate synthetase component I [EC:2.6.1.85]; K03342  para-aminobenzoate synthetase / 4-amino-4-deoxychorismate lyase [EC:2.6.1.85 4.1.3.38]; K13950  para-aminobenzoate synthetase [EC:2.6.1.85]",
+      "DBLINKS": "RHEA: 11675"
+    },
+    "R01736": {
+      "ENTRY": "R01736                      Reaction",
+      "NAME": "(R)-S-lactoylglutathione hydrolase",
+      "DEFINITION": "(R)-S-Lactoylglutathione + H2O <=> Glutathione + (R)-Lactate",
+      "EQUATION": "C03451 + C00001 <=> C00051 + C00256",
+      "ENZYME": "3.1.2.6",
+      "ORTHOLOGY": "K01069  hydroxyacylglutathione hydrolase [EC:3.1.2.6]",
+      "DBLINKS": "RHEA: 25248"
+    },
+    "R01773": {
+      "ENTRY": "R01773                      Reaction",
+      "NAME": "L-homoserine:NAD+ oxidoreductase",
+      "DEFINITION": "L-Homoserine + NAD+ <=> L-Aspartate 4-semialdehyde + NADH + H+",
+      "EQUATION": "C00263 + C00003 <=> C00441 + C00004 + C00080",
+      "COMMENT": "NADP+ (see R01775)",
+      "ENZYME": "1.1.1.3",
+      "ORTHOLOGY": "K00003  homoserine dehydrogenase [EC:1.1.1.3]; K12524  bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3]; K12525  bifunctional aspartokinase / homoserine dehydrogenase 2 [EC:2.7.2.4 1.1.1.3]",
+      "DBLINKS": "RHEA: 15760"
+    },
+    "R01775": {
+      "ENTRY": "R01775                      Reaction",
+      "NAME": "L-homoserine:NADP+ oxidoreductase",
+      "DEFINITION": "L-Homoserine + NADP+ <=> L-Aspartate 4-semialdehyde + NADPH + H+",
+      "EQUATION": "C00263 + C00006 <=> C00441 + C00005 + C00080",
+      "COMMENT": "NAD+ (see R01773)",
+      "ENZYME": "1.1.1.3",
+      "ORTHOLOGY": "K00003  homoserine dehydrogenase [EC:1.1.1.3]; K12524  bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3]; K12525  bifunctional aspartokinase / homoserine dehydrogenase 2 [EC:2.7.2.4 1.1.1.3]",
+      "DBLINKS": "RHEA: 15764"
+    },
+    "R01827": {
+      "ENTRY": "R01827                      Reaction",
+      "NAME": "sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase",
+      "DEFINITION": "Sedoheptulose 7-phosphate + D-Glyceraldehyde 3-phosphate <=> D-Erythrose 4-phosphate + beta-D-Fructose 6-phosphate",
+      "EQUATION": "C05382 + C00118 <=> C00279 + C05345",
+      "ENZYME": "2.2.1.2",
+      "ORTHOLOGY": "K00616  transaldolase [EC:2.2.1.2]; K13810  transaldolase / glucose-6-phosphate isomerase [EC:2.2.1.2 5.3.1.9]",
+      "DBLINKS": "RHEA: 17056"
+    },
+    "R01863": {
+      "ENTRY": "R01863                      Reaction",
+      "NAME": "inosine:phosphate alpha-D-ribosyltransferase",
+      "DEFINITION": "Inosine + Orthophosphate <=> Hypoxanthine + alpha-D-Ribose 1-phosphate",
+      "EQUATION": "C00294 + C00009 <=> C00262 + C00620",
+      "ENZYME": "2.4.2.1",
+      "ORTHOLOGY": "K03783  purine-nucleoside phosphorylase [EC:2.4.2.1]; K03784  purine-nucleoside phosphorylase [EC:2.4.2.1]; K05810  purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]; K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]",
+      "DBLINKS": "RHEA: 27649"
+    },
+    "R01876": {
+      "ENTRY": "R01876                      Reaction",
+      "NAME": "uridine:phosphate alpha-D-ribosyltransferase",
+      "DEFINITION": "Uridine + Orthophosphate <=> Uracil + alpha-D-Ribose 1-phosphate",
+      "EQUATION": "C00299 + C00009 <=> C00106 + C00620",
+      "ENZYME": "2.4.2.2         2.4.2.3",
+      "ORTHOLOGY": "K00756  pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]; K00757  uridine phosphorylase [EC:2.4.2.3]; K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]",
+      "DBLINKS": "RHEA: 24391"
+    },
+    "R01877": {
+      "ENTRY": "R01877                      Reaction",
+      "NAME": "uridine 3'-monophosphate phosphohydrolase",
+      "DEFINITION": "3'-UMP + H2O <=> Uridine + Orthophosphate",
+      "EQUATION": "C01368 + C00001 <=> C00299 + C00009",
+      "ENZYME": "3.1.3.6",
+      "ORTHOLOGY": "K01119  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]",
+      "DBLINKS": "RHEA: 27893"
+    },
+    "R01899": {
+      "ENTRY": "R01899                      Reaction",
+      "NAME": "isocitrate:NADP+ oxidoreductase",
+      "DEFINITION": "Isocitrate + NADP+ <=> Oxalosuccinate + NADPH + H+",
+      "EQUATION": "C00311 + C00006 <=> C05379 + C00005 + C00080",
+      "COMMENT": "the first step of two-step reaction (see R00267, R01899+R00268); subsequently R00268",
+      "ENZYME": "1.1.1.42",
+      "ORTHOLOGY": "K00031  isocitrate dehydrogenase [EC:1.1.1.42]",
+      "DBLINKS": "RHEA: 25591"
+    },
+    "R01900": {
+      "ENTRY": "R01900                      Reaction",
+      "NAME": "isocitrate hydro-lyase (cis-aconitate-forming)",
+      "DEFINITION": "Isocitrate <=> cis-Aconitate + H2O",
+      "EQUATION": "C00311 <=> C00417 + C00001",
+      "ENZYME": "4.2.1.3",
+      "ORTHOLOGY": "K01681  aconitate hydratase [EC:4.2.1.3]; K01682  aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]; K27802  aconitate hydratase A / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]",
+      "DBLINKS": "RHEA: 22147"
+    },
+    "R01954": {
+      "ENTRY": "R01954                      Reaction",
+      "NAME": "L-citrulline:L-aspartate ligase (AMP-forming)",
+      "DEFINITION": "ATP + L-Citrulline + L-Aspartate <=> AMP + Diphosphate + N-(L-Arginino)succinate",
+      "EQUATION": "C00002 + C00327 + C00049 <=> C00020 + C00013 + C03406",
+      "ENZYME": "6.3.4.5",
+      "ORTHOLOGY": "K01940  argininosuccinate synthase [EC:6.3.4.5]",
+      "DBLINKS": "RHEA: 10935"
+    },
+    "R01968": {
+      "ENTRY": "R01968                      Reaction",
+      "NAME": "2'-deoxyguanosine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "dGMP + H2O <=> Deoxyguanosine + Orthophosphate",
+      "EQUATION": "C00362 + C00001 <=> C00330 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.89",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K06952  5'-nucleotidase [EC:3.1.3.89]; K07023  5'-deoxynucleotidase [EC:3.1.3.89]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08722  5'-deoxynucleotidase [EC:3.1.3.89]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]",
+      "DBLINKS": "RHEA: 29382"
+    },
+    "R02016": {
+      "ENTRY": "R02016                      Reaction",
+      "NAME": "NADPH:oxidized-thioredoxin oxidoreductase",
+      "DEFINITION": "Thioredoxin + NADP+ <=> Thioredoxin disulfide + NADPH + H+",
+      "EQUATION": "C00342 + C00006 <=> C00343 + C00005 + C00080",
+      "ENZYME": "1.8.1.9",
+      "ORTHOLOGY": "K00384  thioredoxin reductase (NADPH) [EC:1.8.1.9]",
+      "DBLINKS": "RHEA: 20348"
+    },
+    "R02056": {
+      "ENTRY": "R02056                      Reaction",
+      "NAME": "S-adenosyl-L-methionine:phosphatidylethanolamine N-methyltransferase",
+      "DEFINITION": "S-Adenosyl-L-methionine + Phosphatidylethanolamine <=> S-Adenosyl-L-homocysteine + Phosphatidyl-N-methylethanolamine",
+      "EQUATION": "C00019 + C00350 <=> C00021 + C01241",
+      "ENZYME": "2.1.1.17",
+      "ORTHOLOGY": "K00551  phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]; K00570  phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]; K16369  phosphatidylethanolamine N-methyltransferase [EC:2.1.1.17]",
+      "DBLINKS": "RHEA: 11167"
+    },
+    "R02088": {
+      "ENTRY": "R02088                      Reaction",
+      "NAME": "2'-deoxyadenosine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "dAMP + H2O <=> Deoxyadenosine + Orthophosphate",
+      "EQUATION": "C00360 + C00001 <=> C00559 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.89",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K06952  5'-nucleotidase [EC:3.1.3.89]; K07023  5'-deoxynucleotidase [EC:3.1.3.89]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08722  5'-deoxynucleotidase [EC:3.1.3.89]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]",
+      "DBLINKS": "RHEA: 29374"
+    },
+    "R02090": {
+      "ENTRY": "R02090                      Reaction",
+      "NAME": "ATP:dGMP phosphotransferase",
+      "DEFINITION": "ATP + dGMP <=> ADP + dGDP",
+      "EQUATION": "C00002 + C00362 <=> C00008 + C00361",
+      "ENZYME": "2.7.4.8         2.7.4.12",
+      "ORTHOLOGY": "K00942  guanylate kinase [EC:2.7.4.8]",
+      "DBLINKS": "RHEA: 12700"
+    },
+    "R02100": {
+      "ENTRY": "R02100                      Reaction",
+      "NAME": "dUTP nucleotidohydrolase",
+      "DEFINITION": "dUTP + H2O <=> dUMP + Diphosphate",
+      "EQUATION": "C00460 + C00001 <=> C00365 + C00013",
+      "ENZYME": "3.6.1.23",
+      "ORTHOLOGY": "K01520  dUTP diphosphatase [EC:3.6.1.23]",
+      "DBLINKS": "RHEA: 10251"
+    },
+    "R02102": {
+      "ENTRY": "R02102                      Reaction",
+      "NAME": "2'-deoxyuridine 5'-monophosphate phosphohydrolase",
+      "DEFINITION": "dUMP + H2O <=> Deoxyuridine + Orthophosphate",
+      "EQUATION": "C00365 + C00001 <=> C00526 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.89        3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K06952  5'-nucleotidase [EC:3.1.3.89]; K07023  5'-deoxynucleotidase [EC:3.1.3.89]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08722  5'-deoxynucleotidase [EC:3.1.3.89]; K08723  pyrimidine 5'-nucleotidase [EC:3.1.3.-]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]; K25434  pyrimidine 5'-nucleotidase [EC:3.1.3.-]",
+      "DBLINKS": "RHEA: 29358"
+    },
+    "R02111": {
+      "ENTRY": "R02111                      Reaction",
+      "NAME": "1,4-alpha-D-glucan:orthophosphate alpha-D-glucosyltransferase",
+      "DEFINITION": "Starch + Orthophosphate <=> Amylose + D-Glucose 1-phosphate",
+      "EQUATION": "C00369 + C00009 <=> C00718 + C00103",
+      "COMMENT": "Any one of debranching enzymes ([KO:K01196 K02438 K01200 K00705 K22451]) is required.",
+      "ENZYME": "2.4.1.1",
+      "ORTHOLOGY": "K00688  glycogen phosphorylase [EC:2.4.1.1]; K00705  4-alpha-glucanotransferase [EC:2.4.1.25]; K01196  glycogen debranching enzyme [EC:2.4.1.25 3.2.1.33]; K01200  pullulanase [EC:3.2.1.41]; K02438  glycogen debranching enzyme [EC:3.2.1.196]; K16153  glycogen phosphorylase/synthase [EC:2.4.1.1 2.4.1.11]; K22451  4-alpha-glucanotransferase [EC:2.4.1.25]"
+    },
+    "R02142": {
+      "ENTRY": "R02142                      Reaction",
+      "NAME": "XMP:pyrophosphate phosphoribosyltransferase",
+      "DEFINITION": "Xanthosine 5'-phosphate + Diphosphate <=> Xanthine + 5-Phospho-alpha-D-ribose 1-diphosphate",
+      "EQUATION": "C00655 + C00013 <=> C00385 + C00119",
+      "ENZYME": "2.4.2.8         2.4.2.22",
+      "ORTHOLOGY": "K00760  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]; K00769  xanthine phosphoribosyltransferase [EC:2.4.2.22]; K03816  xanthine phosphoribosyltransferase [EC:2.4.2.22]; K15780  bifunctional protein TilS/HprT [EC:6.3.4.19 2.4.2.8]; K19836  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]",
+      "DBLINKS": "RHEA: 10803"
+    },
+    "R02147": {
+      "ENTRY": "R02147                      Reaction",
+      "NAME": "guanosine:phosphate alpha-D-ribosyltransferase",
+      "DEFINITION": "Guanosine + Orthophosphate <=> Guanine + alpha-D-Ribose 1-phosphate",
+      "EQUATION": "C00387 + C00009 <=> C00242 + C00620",
+      "ENZYME": "2.4.2.1         2.4.2.15",
+      "ORTHOLOGY": "K03783  purine-nucleoside phosphorylase [EC:2.4.2.1]; K03784  purine-nucleoside phosphorylase [EC:2.4.2.1]; K05810  purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]; K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]; K26211  guanosine phosphorylase [EC:2.4.2.15]; K26212  guanosine phosphorylase [EC:2.4.2.15]",
+      "DBLINKS": "RHEA: 13236"
+    },
+    "R02148": {
+      "ENTRY": "R02148                      Reaction",
+      "NAME": "guanosine 3'-phosphate phosphohydrolase",
+      "DEFINITION": "Guanosine 3'-phosphate + H2O <=> Guanosine + Orthophosphate",
+      "EQUATION": "C06193 + C00001 <=> C00387 + C00009",
+      "ENZYME": "3.1.3.6",
+      "ORTHOLOGY": "K01119  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]",
+      "DBLINKS": "RHEA: 27865"
+    },
+    "R02199": {
+      "ENTRY": "R02199                      Reaction",
+      "NAME": "L-isoleucine:2-oxoglutarate aminotransferase",
+      "DEFINITION": "L-Isoleucine + 2-Oxoglutarate <=> (S)-3-Methyl-2-oxopentanoic acid + L-Glutamate",
+      "EQUATION": "C00407 + C00026 <=> C00671 + C00025",
+      "ENZYME": "2.6.1.42",
+      "ORTHOLOGY": "K00826  branched-chain amino acid aminotransferase [EC:2.6.1.42]",
+      "DBLINKS": "RHEA: 24804"
+    },
+    "R02283": {
+      "ENTRY": "R02283                      Reaction",
+      "NAME": "N2-acetyl-L-ornithine:2-oxoglutarate aminotransferase",
+      "DEFINITION": "N-Acetylornithine + 2-Oxoglutarate <=> N-Acetyl-L-glutamate 5-semialdehyde + L-Glutamate",
+      "EQUATION": "C00437 + C00026 <=> C01250 + C00025",
+      "ENZYME": "2.6.1.11",
+      "ORTHOLOGY": "K00818  acetylornithine aminotransferase [EC:2.6.1.11]; K00821  acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]",
+      "DBLINKS": "RHEA: 18052"
+    },
+    "R02296": {
+      "ENTRY": "R02296                      Reaction",
+      "NAME": "cytidine:orthophosphate alpha-D-ribosyltransferase",
+      "DEFINITION": "Cytidine + Orthophosphate <=> Cytosine + alpha-D-Ribose 1-phosphate",
+      "EQUATION": "C00475 + C00009 <=> C00380 + C00620",
+      "ENZYME": "2.4.2.2",
+      "ORTHOLOGY": "K00756  pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]; K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]"
+    },
+    "R02297": {
+      "ENTRY": "R02297                      Reaction",
+      "NAME": "xanthosine:orthophosphate ribosyltransferase",
+      "DEFINITION": "Xanthosine + Orthophosphate <=> Xanthine + alpha-D-Ribose 1-phosphate",
+      "EQUATION": "C01762 + C00009 <=> C00385 + C00620",
+      "ENZYME": "2.4.2.1",
+      "ORTHOLOGY": "K03783  purine-nucleoside phosphorylase [EC:2.4.2.1]; K03784  purine-nucleoside phosphorylase [EC:2.4.2.1]; K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]",
+      "DBLINKS": "RHEA: 27641"
+    },
+    "R02323": {
+      "ENTRY": "R02323                      Reaction",
+      "NAME": "nicotinamide ribonucleotide phosphohydrolase",
+      "DEFINITION": "Nicotinamide D-ribonucleotide + H2O <=> Nicotinamide-beta-riboside + Orthophosphate",
+      "EQUATION": "C00455 + C00001 <=> C03150 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K18550  IMP and pyridine-specific 5'-nucleotidase [EC:3.1.3.99 3.1.3.-]; K18551  pyrimidine and pyridine-specific 5'-nucleotidase [EC:3.1.3.-]; K19970  5'-nucleotidase [EC:3.1.3.5]",
+      "DBLINKS": "RHEA: 30818"
+    },
+    "R02370": {
+      "ENTRY": "R02370                      Reaction",
+      "NAME": "cytidine 3'-phosphate phosphohydrolase",
+      "DEFINITION": "3'-CMP + H2O <=> Cytidine + Orthophosphate",
+      "EQUATION": "C05822 + C00001 <=> C00475 + C00009",
+      "ENZYME": "3.1.3.6",
+      "ORTHOLOGY": "K01119  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]",
+      "DBLINKS": "RHEA: 27897"
+    },
+    "R02404": {
+      "ENTRY": "R02404                      Reaction",
+      "NAME": "itaconate:CoA ligase (ADP-forming)",
+      "DEFINITION": "ATP + Itaconate + CoA <=> ADP + Orthophosphate + Itaconyl-CoA",
+      "EQUATION": "C00002 + C00490 + C00010 <=> C00008 + C00009 + C00531",
+      "ENZYME": "6.2.1.5",
+      "ORTHOLOGY": "K01902  succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]; K01903  succinyl-CoA synthetase beta subunit [EC:6.2.1.5]"
+    },
+    "R02530": {
+      "ENTRY": "R02530                      Reaction",
+      "NAME": "(R)-S-lactoylglutathione methylglyoxal-lyase (isomerizing)",
+      "DEFINITION": "(R)-S-Lactoylglutathione <=> Glutathione + Methylglyoxal",
+      "EQUATION": "C03451 <=> C00051 + C00546",
+      "ENZYME": "4.4.1.5",
+      "ORTHOLOGY": "K01759  lactoylglutathione lyase [EC:4.4.1.5]",
+      "DBLINKS": "RHEA: 19072"
+    },
+    "R02719": {
+      "ENTRY": "R02719                      Reaction",
+      "NAME": "xanthosine 5'-phosphate phosphohydrolase",
+      "DEFINITION": "Xanthosine 5'-phosphate + H2O <=> Xanthosine + Orthophosphate",
+      "EQUATION": "C00655 + C00001 <=> C01762 + C00009",
+      "ENZYME": "3.1.3.5",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]",
+      "DBLINKS": "RHEA: 28533"
+    },
+    "R02777": {
+      "ENTRY": "R02777                      Reaction",
+      "NAME": "dTDP-beta-L-rhamnose:NADP+ 4-oxidoreductase;; dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase",
+      "DEFINITION": "dTDP-L-rhamnose + NADP+ <=> dTDP-4-dehydro-beta-L-rhamnose + NADPH + H+",
+      "EQUATION": "C03319 + C00006 <=> C00688 + C00005 + C00080",
+      "ENZYME": "1.1.1.133",
+      "ORTHOLOGY": "K00067  dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]; K23987  dTDP-4-dehydrorhamnose 3,5-epimerase/reductase [EC:5.1.3.13 1.1.1.133]",
+      "DBLINKS": "RHEA: 21799"
+    },
+    "R02964": {
+      "ENTRY": "R02964                      Reaction",
+      "NAME": "NADH:menaquinone oxidoreductase",
+      "DEFINITION": "Menaquinone + H+ + NADH <=> Menaquinol + NAD+",
+      "EQUATION": "C00828 + C00080 + C00004 <=> C05819 + C00003",
+      "ENZYME": "1.6.5.2",
+      "ORTHOLOGY": "K00355  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]; K03809  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]; K19267  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]"
+    },
+    "R02971": {
+      "ENTRY": "R02971                      Reaction",
+      "NAME": "ATP:pantothenate 4'-phosphotransferase",
+      "DEFINITION": "ATP + Pantetheine <=> ADP + Pantetheine 4'-phosphate",
+      "EQUATION": "C00002 + C00831 <=> C00008 + C01134",
+      "ENZYME": "2.7.1.33        2.7.1.34",
+      "ORTHOLOGY": "K00867  type I pantothenate kinase [EC:2.7.1.33]; K01947  biotin---[acetyl-CoA-carboxylase] ligase / type III pantothenate kinase [EC:6.3.4.15 2.7.1.33]; K03525  type III pantothenate kinase [EC:2.7.1.33]; K09680  type II pantothenate kinase [EC:2.7.1.33]",
+      "DBLINKS": "RHEA: 22475"
+    },
+    "R03018": {
+      "ENTRY": "R03018                      Reaction",
+      "NAME": "ATP:pantothenate 4'-phosphotransferase",
+      "DEFINITION": "ATP + Pantothenate <=> ADP + D-4'-Phosphopantothenate",
+      "EQUATION": "C00002 + C00864 <=> C00008 + C03492",
+      "ENZYME": "2.7.1.33",
+      "ORTHOLOGY": "K00867  type I pantothenate kinase [EC:2.7.1.33]; K01947  biotin---[acetyl-CoA-carboxylase] ligase / type III pantothenate kinase [EC:6.3.4.15 2.7.1.33]; K03525  type III pantothenate kinase [EC:2.7.1.33]; K09680  type II pantothenate kinase [EC:2.7.1.33]",
+      "DBLINKS": "RHEA: 16376"
+    },
+    "R03222": {
+      "ENTRY": "R03222                      Reaction",
+      "NAME": "protoporphyrinogen-IX:oxygen oxidoreductase",
+      "DEFINITION": "Protoporphyrinogen IX + 3 Oxygen <=> Protoporphyrin + 3 Hydrogen peroxide",
+      "EQUATION": "C01079 + 3 C00007 <=> C02191 + 3 C00027",
+      "COMMENT": "multi-step reaction",
+      "ENZYME": "1.3.3.4",
+      "ORTHOLOGY": "K00231  protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]",
+      "DBLINKS": "RHEA: 25579"
+    },
+    "R03269": {
+      "ENTRY": "R03269                      Reaction",
+      "NAME": "N-[(R)-4'-phosphopantothenoyl]-L-cysteine carboxy-lyase",
+      "DEFINITION": "(R)-4'-Phosphopantothenoyl-L-cysteine <=> Pantetheine 4'-phosphate + CO2",
+      "EQUATION": "C04352 <=> C01134 + C00011",
+      "ENZYME": "4.1.1.36",
+      "ORTHOLOGY": "K01598  phosphopantothenoylcysteine decarboxylase [EC:4.1.1.36]; K13038  phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]",
+      "DBLINKS": "RHEA: 16796"
+    },
+    "R03313": {
+      "ENTRY": "R03313                      Reaction",
+      "NAME": "L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)",
+      "DEFINITION": "L-Glutamate 5-semialdehyde + Orthophosphate + NADP+ <=> L-Glutamyl 5-phosphate + NADPH + H+",
+      "EQUATION": "C01165 + C00009 + C00006 <=> C03287 + C00005 + C00080",
+      "ENZYME": "1.2.1.41",
+      "ORTHOLOGY": "K00147  glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]; K12657  delta-1-pyrroline-5-carboxylate synthetase [EC:2.7.2.11 1.2.1.41]",
+      "DBLINKS": "RHEA: 19544"
+    },
+    "R03346": {
+      "ENTRY": "R03346                      Reaction",
+      "NAME": "nicotinate D-ribonucleotide phosphohydrolase",
+      "DEFINITION": "Nicotinate D-ribonucleotide + H2O <=> Nicotinate D-ribonucleoside + Orthophosphate",
+      "EQUATION": "C01185 + C00001 <=> C05841 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.-",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K18550  IMP and pyridine-specific 5'-nucleotidase [EC:3.1.3.99 3.1.3.-]; K18551  pyrimidine and pyridine-specific 5'-nucleotidase [EC:3.1.3.-]; K19970  5'-nucleotidase [EC:3.1.3.5]",
+      "DBLINKS": "RHEA: 30938"
+    },
+    "R03351": {
+      "ENTRY": "R03351                      Reaction",
+      "NAME": "CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase",
+      "DEFINITION": "CTP + 3-Deoxy-D-manno-octulosonate <=> Diphosphate + CMP-3-deoxy-D-manno-octulosonate",
+      "EQUATION": "C00063 + C01187 <=> C00013 + C04121",
+      "COMMENT": "KdsB",
+      "ENZYME": "2.7.7.38",
+      "ORTHOLOGY": "K00979  3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]",
+      "DBLINKS": "RHEA: 23451"
+    },
+    "R03424": {
+      "ENTRY": "R03424                      Reaction",
+      "NAME": "S-adenosyl-L-methionine:phosphatidyl-N-methylethanolamine N-methyltransferase",
+      "DEFINITION": "S-Adenosyl-L-methionine + Phosphatidyl-N-methylethanolamine <=> S-Adenosyl-L-homocysteine + Phosphatidyl-N-dimethylethanolamine",
+      "EQUATION": "C00019 + C01241 <=> C00021 + C04308",
+      "COMMENT": "subsequently R01320",
+      "ENZYME": "2.1.1.16        2.1.1.71",
+      "ORTHOLOGY": "K00550  phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.71]; K00551  phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]; K00570  phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]",
+      "DBLINKS": "RHEA: 32738"
+    },
+    "R03596": {
+      "ENTRY": "R03596                      Reaction",
+      "NAME": "hydrogen selenide:NADP+ oxidoreductase",
+      "DEFINITION": "Hydrogen selenide + 3 NADP+ + 3 H2O <=> Selenite + 3 NADPH + 5 H+",
+      "EQUATION": "C01528 + 3 C00006 + 3 C00001 <=> C05684 + 3 C00005 + 5 C00080",
+      "ENZYME": "1.8.1.9",
+      "ORTHOLOGY": "K00384  thioredoxin reductase (NADPH) [EC:1.8.1.9]; K22182  thioredoxin reductase (NADPH) [EC:1.8.1.9]"
+    },
+    "R03643": {
+      "ENTRY": "R03643                      Reaction",
+      "NAME": "NADH:(quinone-acceptor) oxidoreductase",
+      "DEFINITION": "Vitamin K + NADH + H+ <=> Reduced Vitamin K + NAD+",
+      "EQUATION": "C01628 + C00004 + C00080 <=> C05850 + C00003",
+      "ENZYME": "1.6.5.2",
+      "ORTHOLOGY": "K00355  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]; K03809  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]; K19267  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]"
+    },
+    "R03656": {
+      "ENTRY": "R03656                      Reaction",
+      "NAME": "L-isoleucine:tRNA(Ile) ligase (AMP-forming)",
+      "DEFINITION": "ATP + L-Isoleucine + tRNA(Ile) <=> AMP + Diphosphate + L-Isoleucyl-tRNA(Ile)",
+      "EQUATION": "C00002 + C00407 + C01644 <=> C00020 + C00013 + C03127",
+      "ENZYME": "6.1.1.5",
+      "ORTHOLOGY": "K01870  isoleucyl-tRNA synthetase [EC:6.1.1.5]",
+      "DBLINKS": "RHEA: 11063"
+    },
+    "R03657": {
+      "ENTRY": "R03657                      Reaction",
+      "NAME": "L-leucine:tRNA(Leu) ligase (AMP-forming)",
+      "DEFINITION": "ATP + L-Leucine + tRNA(Leu) <=> AMP + Diphosphate + L-Leucyl-tRNA",
+      "EQUATION": "C00002 + C00123 + C01645 <=> C00020 + C00013 + C02047",
+      "ENZYME": "6.1.1.4",
+      "ORTHOLOGY": "K01869  leucyl-tRNA synthetase [EC:6.1.1.4]",
+      "DBLINKS": "RHEA: 11691"
+    },
+    "R03658": {
+      "ENTRY": "R03658                      Reaction",
+      "NAME": "L-lysine:tRNALys ligase (AMP-forming)",
+      "DEFINITION": "ATP + L-Lysine + tRNA(Lys) <=> AMP + Diphosphate + L-Lysyl-tRNA",
+      "EQUATION": "C00002 + C00047 + C01646 <=> C00020 + C00013 + C01931",
+      "ENZYME": "6.1.1.6",
+      "ORTHOLOGY": "K04566  lysyl-tRNA synthetase, class I [EC:6.1.1.6]; K04567  lysyl-tRNA synthetase, class II [EC:6.1.1.6]",
+      "DBLINKS": "RHEA: 20795"
+    },
+    "R03662": {
+      "ENTRY": "R03662                      Reaction",
+      "NAME": "L-serine:tRNA(Ser) ligase (AMP-forming)",
+      "DEFINITION": "ATP + L-Serine + tRNA(Ser) <=> AMP + Diphosphate + L-Seryl-tRNA(Ser)",
+      "EQUATION": "C00002 + C00065 + C01650 <=> C00020 + C00013 + C02553",
+      "ENZYME": "6.1.1.11",
+      "ORTHOLOGY": "K01875  seryl-tRNA synthetase [EC:6.1.1.11]",
+      "DBLINKS": "RHEA: 12295"
+    },
+    "R03816": {
+      "ENTRY": "R03816                      Reaction",
+      "NAME": "NADH:phylloquinone oxidoreductase",
+      "DEFINITION": "Phylloquinone + NADH + H+ <=> Phylloquinol + NAD+",
+      "EQUATION": "C02059 + C00004 + C00080 <=> C03313 + C00003",
+      "ENZYME": "1.6.5.2",
+      "ORTHOLOGY": "K00355  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]; K03809  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]; K19267  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]",
+      "DBLINKS": "RHEA: 74078"
+    },
+    "R03896": {
+      "ENTRY": "R03896                      Reaction",
+      "NAME": "(R)-2-methylmalate hydro-lyase (2-methylmaleate-forming)",
+      "DEFINITION": "(R)-2-Methylmalate <=> 2-Methylmaleate + H2O",
+      "EQUATION": "C02612 <=> C02226 + C00001",
+      "ENZYME": "4.2.1.35",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K01704  3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]",
+      "DBLINKS": "RHEA: 22335"
+    },
+    "R03898": {
+      "ENTRY": "R03898                      Reaction",
+      "NAME": "2-methylmaleate hydratase;; D-erythro-3-methylmalate hydro-lyase (2-methylmaleate-forming)",
+      "DEFINITION": "2-Methylmaleate + H2O <=> D-erythro-3-Methylmalate",
+      "EQUATION": "C02226 + C00001 <=> C06032",
+      "ENZYME": "4.2.1.35",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K01704  3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]",
+      "DBLINKS": "RHEA: 42427"
+    },
+    "R03968": {
+      "ENTRY": "R03968                      Reaction",
+      "NAME": "2-isopropylmalate hydro-lyase",
+      "DEFINITION": "alpha-Isopropylmalate <=> 2-Isopropylmaleate + H2O",
+      "EQUATION": "C02504 <=> C02631 + C00001",
+      "ENZYME": "4.2.1.33",
+      "ORTHOLOGY": "K01702  3-isopropylmalate dehydratase [EC:4.2.1.33]; K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K01704  3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]",
+      "DBLINKS": "RHEA: 16296"
+    },
+    "R04001": {
+      "ENTRY": "R04001                      Reaction",
+      "NAME": "3-isopropylmalate hydro-lyase",
+      "DEFINITION": "(2R,3S)-3-Isopropylmalate <=> 2-Isopropylmaleate + H2O",
+      "EQUATION": "C04411 <=> C02631 + C00001",
+      "ENZYME": "4.2.1.33",
+      "ORTHOLOGY": "K01702  3-isopropylmalate dehydratase [EC:4.2.1.33]; K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K01704  3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]",
+      "DBLINKS": "RHEA: 10679"
+    },
+    "R04178": {
+      "ENTRY": "R04178                      Reaction",
+      "NAME": "coproporphyrinogen-III:oxygen oxidoreductase (coproporphyrin-forming)",
+      "DEFINITION": "Coproporphyrinogen III + 3 Oxygen <=> Coproporphyrin III + 3 Hydrogen peroxide",
+      "EQUATION": "C03263 + 3 C00007 <=> C05770 + 3 C00027",
+      "COMMENT": "multi-step reaction",
+      "ENZYME": "1.3.3.15",
+      "ORTHOLOGY": "K00231  protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]",
+      "DBLINKS": "RHEA: 43439"
+    },
+    "R04231": {
+      "ENTRY": "R04231                      Reaction",
+      "NAME": "(R)-4'-phosphopantothenate:L-cysteine ligase",
+      "DEFINITION": "CTP + D-4'-Phosphopantothenate + L-Cysteine <=> CMP + Diphosphate + (R)-4'-Phosphopantothenoyl-L-cysteine",
+      "EQUATION": "C00063 + C03492 + C00097 <=> C00055 + C00013 + C04352",
+      "ENZYME": "6.3.2.5",
+      "ORTHOLOGY": "K13038  phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]; K21977  phosphopantothenate---cysteine ligase (CTP) [EC:6.3.2.5]",
+      "DBLINKS": "RHEA: 19400"
+    },
+    "R04391": {
+      "ENTRY": "R04391                      Reaction",
+      "NAME": "ATP:pantothenate 4'-phosphotransferase",
+      "DEFINITION": "ATP + N-((R)-Pantothenoyl)-L-cysteine <=> ADP + (R)-4'-Phosphopantothenoyl-L-cysteine",
+      "EQUATION": "C00002 + C04079 <=> C00008 + C04352",
+      "ENZYME": "2.7.1.33",
+      "ORTHOLOGY": "K00867  type I pantothenate kinase [EC:2.7.1.33]; K01947  biotin---[acetyl-CoA-carboxylase] ligase / type III pantothenate kinase [EC:6.3.4.15 2.7.1.33]; K03525  type III pantothenate kinase [EC:2.7.1.33]; K09680  type II pantothenate kinase [EC:2.7.1.33]"
+    },
+    "R04425": {
+      "ENTRY": "R04425                      Reaction",
+      "NAME": "(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate hydro-lyase",
+      "DEFINITION": "(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate <=> (Z)-But-2-ene-1,2,3-tricarboxylate + H2O",
+      "EQUATION": "C04593 <=> C04225 + C00001",
+      "COMMENT": "reversible reaction; Ref. 1: Biosci. Biotech. Biochem., 59 (11), 2013-2017, 1995",
+      "ENZYME": "4.2.1.99",
+      "ORTHOLOGY": "K01682  aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]; K27802  aconitate hydratase A / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]",
+      "DBLINKS": "RHEA: 17944"
+    },
+    "R04429": {
+      "ENTRY": "R04429                      Reaction",
+      "NAME": "butyryl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "Butyryl-[acp] + NAD+ <=> But-2-enoyl-[acyl-carrier protein] + NADH + H+",
+      "EQUATION": "C05745 + C00003 <=> C04246 + C00004 + C00080",
+      "ENZYME": "1.3.1.9         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R04430": {
+      "ENTRY": "R04430                      Reaction",
+      "NAME": "butyryl-[acp]:NADP+ trans-2-oxidoreductase",
+      "DEFINITION": "Butyryl-[acp] + NADP+ <=> But-2-enoyl-[acyl-carrier protein] + NADPH + H+",
+      "EQUATION": "C05745 + C00006 <=> C04246 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-; 2.3.1.85        2.3.1.86",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]"
+    },
+    "R04475": {
+      "ENTRY": "R04475                      Reaction",
+      "NAME": "N-succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase",
+      "DEFINITION": "N-Succinyl-LL-2,6-diaminoheptanedioate + 2-Oxoglutarate <=> N-Succinyl-2-L-amino-6-oxoheptanedioate + L-Glutamate",
+      "EQUATION": "C04421 + C00026 <=> C04462 + C00025",
+      "ENZYME": "2.6.1.17",
+      "ORTHOLOGY": "K00821  acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]; K14267  N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]",
+      "DBLINKS": "RHEA: 11963"
+    },
+    "R04657": {
+      "ENTRY": "R04657                      Reaction",
+      "NAME": "ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase",
+      "DEFINITION": "ATP + Lipid A disaccharide <=> ADP + 2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate",
+      "EQUATION": "C00002 + C04932 <=> C00008 + C04919",
+      "ENZYME": "2.7.1.130",
+      "ORTHOLOGY": "K00912  tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]",
+      "DBLINKS": "RHEA: 20703"
+    },
+    "R04710": {
+      "ENTRY": "R04710                      Reaction",
+      "NAME": "protein-glycine,dihydroflavodoxin:S-adenosyl-L-methionine oxidoreductase (S-adenosyl-L-methionine cleaving)",
+      "DEFINITION": "S-Adenosyl-L-methionine + Dihydroflavodoxin + Protein glycine <=> 5'-Deoxyadenosine + L-Methionine + Flavodoxin semiquinone + Protein glycin-2-yl radical",
+      "EQUATION": "C00019 + C05196 + C05197 <=> C05198 + C00073 + C05199 + C05312",
+      "ENZYME": "1.97.1.4",
+      "ORTHOLOGY": "K04068  anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]; K04069  pyruvate formate lyase activating enzyme [EC:1.97.1.4]",
+      "DBLINKS": "RHEA: 19228"
+    },
+    "R04724": {
+      "ENTRY": "R04724                      Reaction",
+      "NAME": "dodecanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "Dodecanoyl-[acyl-carrier protein] + NAD+ <=> trans-Dodec-2-enoyl-[acp] + NADH + H+",
+      "EQUATION": "C05223 + C00003 <=> C05758 + C00004 + C00080",
+      "ENZYME": "1.3.1.9         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R04725": {
+      "ENTRY": "R04725                      Reaction",
+      "NAME": "dodecanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+      "DEFINITION": "Dodecanoyl-[acyl-carrier protein] + NADP+ <=> trans-Dodec-2-enoyl-[acp] + NADPH + H+",
+      "EQUATION": "C05223 + C00006 <=> C05758 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-; 2.3.1.85        2.3.1.86",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]"
+    },
+    "R04771": {
+      "ENTRY": "R04771                      Reaction",
+      "NAME": "ATP:L-selenomethione S-adenosyltransferase",
+      "DEFINITION": "ATP + L-Selenomethionine + H2O <=> Orthophosphate + Diphosphate + Se-Adenosylselenomethionine",
+      "EQUATION": "C00002 + C05335 + C00001 <=> C00009 + C00013 + C05691",
+      "COMMENT": "possibly intermediate (triphosphate, see [CPD:C00536])",
+      "ENZYME": "2.5.1.6",
+      "ORTHOLOGY": "K00789  S-adenosylmethionine synthetase [EC:2.5.1.6]",
+      "DBLINKS": "RHEA: 31214"
+    },
+    "R04929": {
+      "ENTRY": "R04929                      Reaction",
+      "NAME": "ATP:selenate adenylyltransferase",
+      "DEFINITION": "ATP + Selenate <=> Diphosphate + Adenylyl selenate",
+      "EQUATION": "C00002 + C05697 <=> C00013 + C05686",
+      "ENZYME": "2.7.7.4",
+      "ORTHOLOGY": "K00955  bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25]; K00956  sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]; K00957  sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]; K00958  sulfate adenylyltransferase [EC:2.7.7.4]; K13811  3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]"
+    },
+    "R04955": {
+      "ENTRY": "R04955                      Reaction",
+      "NAME": "hexanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "Hexanoyl-[acp] + NAD+ <=> trans-Hex-2-enoyl-[acp] + NADH + H+",
+      "EQUATION": "C05749 + C00003 <=> C05748 + C00004 + C00080",
+      "ENZYME": "1.3.1.9         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R04956": {
+      "ENTRY": "R04956                      Reaction",
+      "NAME": "hexanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+      "DEFINITION": "Hexanoyl-[acp] + NADP+ <=> trans-Hex-2-enoyl-[acp] + NADPH + H+",
+      "EQUATION": "C05749 + C00006 <=> C05748 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-; 2.3.1.85        2.3.1.86",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]"
+    },
+    "R04958": {
+      "ENTRY": "R04958                      Reaction",
+      "NAME": "octanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "Octanoyl-[acp] + NAD+ <=> trans-Oct-2-enoyl-[acp] + NADH + H+",
+      "EQUATION": "C05752 + C00003 <=> C05751 + C00004 + C00080",
+      "ENZYME": "1.3.1.9         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R04959": {
+      "ENTRY": "R04959                      Reaction",
+      "NAME": "octanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+      "DEFINITION": "Octanoyl-[acp] + NADP+ <=> trans-Oct-2-enoyl-[acp] + NADPH + H+",
+      "EQUATION": "C05752 + C00006 <=> C05751 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-; 2.3.1.85        2.3.1.86",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]"
+    },
+    "R04961": {
+      "ENTRY": "R04961                      Reaction",
+      "NAME": "decanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "Decanoyl-[acp] + NAD+ <=> trans-Dec-2-enoyl-[acp] + NADH + H+",
+      "EQUATION": "C05755 + C00003 <=> C05754 + C00004 + C00080",
+      "ENZYME": "1.3.1.9         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R04962": {
+      "ENTRY": "R04962                      Reaction",
+      "NAME": "decanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+      "DEFINITION": "Decanoyl-[acp] + NADP+ <=> trans-Dec-2-enoyl-[acp] + NADPH + H+",
+      "EQUATION": "C05755 + C00006 <=> C05754 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-; 2.3.1.85        2.3.1.86",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]"
+    },
+    "R04966": {
+      "ENTRY": "R04966                      Reaction",
+      "NAME": "tetradecanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "Tetradecanoyl-[acp] + NAD+ <=> trans-Tetradec-2-enoyl-[acp] + NADH + H+",
+      "EQUATION": "C05761 + C00003 <=> C05760 + C00004 + C00080",
+      "ENZYME": "1.3.1.9         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R04967": {
+      "ENTRY": "R04967                      Reaction",
+      "NAME": "tetradecanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+      "DEFINITION": "Tetradecanoyl-[acp] + NADP+ <=> trans-Tetradec-2-enoyl-[acp] + NADPH + H+",
+      "EQUATION": "C05761 + C00006 <=> C05760 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-; 2.3.1.85        2.3.1.86",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]"
+    },
+    "R04969": {
+      "ENTRY": "R04969                      Reaction",
+      "NAME": "hexadecanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "Hexadecanoyl-[acp] + NAD+ <=> trans-Hexadec-2-enoyl-[acp] + NADH + H+",
+      "EQUATION": "C05764 + C00003 <=> C05763 + C00004 + C00080",
+      "ENZYME": "1.3.1.9         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00209  enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R04970": {
+      "ENTRY": "R04970                      Reaction",
+      "NAME": "hexadecanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+      "DEFINITION": "Hexadecanoyl-[acp] + NADP+ <=> trans-Hexadec-2-enoyl-[acp] + NADPH + H+",
+      "EQUATION": "C05764 + C00006 <=> C05763 + C00005 + C00080",
+      "ENZYME": "1.3.1.10        1.3.1.39        1.3.1.104       1.3.1.-; 2.3.1.85        2.3.1.86",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00665  fatty acid synthase, animal type [EC:2.3.1.85]; K00668  fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]; K07512  mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38]; K10780  enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]"
+    },
+    "R05000": {
+      "ENTRY": "R05000                      Reaction",
+      "NAME": "polyisopentenylpyrolinate:4-hydroxybenzoate nonaprenyltransferase",
+      "DEFINITION": "all-trans-Polyprenyl diphosphate + 4-Hydroxybenzoate <=> 4-Hydroxy-3-polyprenylbenzoate + Diphosphate",
+      "EQUATION": "C05847 + C00156 <=> C05848 + C00013",
+      "COMMENT": "general reaction (see R05616, R07273 and R05615)",
+      "ENZYME": "2.5.1.39",
+      "ORTHOLOGY": "K03179  4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]; K06125  4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]",
+      "DBLINKS": "RHEA: 44507"
+    },
+    "R05086": {
+      "ENTRY": "R05086                      Reaction",
+      "NAME": "O-phospho-4-hydroxy-L-threonine phospho-lyase (adding water)",
+      "DEFINITION": "O-Phospho-4-hydroxy-L-threonine + H2O <=> 4-Hydroxy-L-threonine + Orthophosphate",
+      "EQUATION": "C06055 + C00001 <=> C06056 + C00009",
+      "ENZYME": "4.2.3.1",
+      "ORTHOLOGY": "K01733  threonine synthase [EC:4.2.3.1]",
+      "DBLINKS": "RHEA: 30662"
+    },
+    "R05145": {
+      "ENTRY": "R05145                      Reaction",
+      "NAME": "biotinyl-5'-AMP:apo-[carboxylase] ligase (AMP-forming)",
+      "DEFINITION": "Biotinyl-5'-AMP + Apo-[carboxylase] <=> AMP + Holo-[carboxylase]",
+      "EQUATION": "C05921 + C06249 <=> C00020 + C06250",
+      "COMMENT": "general reaction (see R04562, R04563, R04582 and R04604); following after R01074",
+      "ENZYME": "6.3.4.9         6.3.4.10        6.3.4.11        6.3.4.15",
+      "ORTHOLOGY": "K01942  biotin---protein ligase [EC:6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15]; K01947  biotin---[acetyl-CoA-carboxylase] ligase / type III pantothenate kinase [EC:6.3.4.15 2.7.1.33]; K03524  BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]",
+      "DBLINKS": "RHEA: 59735"
+    },
+    "R05578": {
+      "ENTRY": "R05578                      Reaction",
+      "NAME": "L-glutamate:tRNA(Glu) ligase (AMP-forming)",
+      "DEFINITION": "tRNA(Glu) + L-Glutamate + ATP <=> L-Glutamyl-tRNA(Glu) + Diphosphate + AMP",
+      "EQUATION": "C01641 + C00025 + C00002 <=> C02987 + C00013 + C00020",
+      "ENZYME": "6.1.1.17        6.1.1.24",
+      "ORTHOLOGY": "K01885  glutamyl-tRNA synthetase [EC:6.1.1.17]; K09698  nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]; K14163  bifunctional glutamyl/prolyl-tRNA synthetase [EC:6.1.1.17 6.1.1.15]",
+      "DBLINKS": "RHEA: 18400 23543"
+    },
+    "R05615": {
+      "ENTRY": "R05615                      Reaction",
+      "NAME": "all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase",
+      "DEFINITION": "all-trans-Octaprenyl diphosphate + 4-Hydroxybenzoate <=> 3-Octaprenyl-4-hydroxybenzoate + Diphosphate",
+      "EQUATION": "C04146 + C00156 <=> C05809 + C00013",
+      "COMMENT": "UbiA",
+      "ENZYME": "2.5.1.39",
+      "ORTHOLOGY": "K03179  4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]",
+      "DBLINKS": "RHEA: 27785"
+    },
+    "R05626": {
+      "ENTRY": "R05626                      Reaction",
+      "NAME": "ATP:undecaprenol phosphotransferase",
+      "DEFINITION": "ATP + di-trans,poly-cis-Undecaprenol <=> ADP + di-trans,poly-cis-Undecaprenyl phosphate",
+      "EQUATION": "C00002 + C17558 <=> C00008 + C17556",
+      "ENZYME": "2.7.1.66",
+      "ORTHOLOGY": "K00887  undecaprenol kinase [EC:2.7.1.66]",
+      "DBLINKS": "RHEA: 23755 28125"
+    },
+    "R05633": {
+      "ENTRY": "R05633                      Reaction",
+      "NAME": "CTP: 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase",
+      "DEFINITION": "2-C-Methyl-D-erythritol 4-phosphate + CTP <=> 4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol + Diphosphate",
+      "EQUATION": "C11434 + C00063 <=> C11435 + C00013",
+      "ENZYME": "2.7.7.60",
+      "ORTHOLOGY": "K00991  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]; K12506  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]",
+      "DBLINKS": "RHEA: 13432"
+    },
+    "R05637": {
+      "ENTRY": "R05637                      Reaction",
+      "NAME": "2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol CMP-lyase (cyclizing)",
+      "DEFINITION": "2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol <=> 2-C-Methyl-D-erythritol 2,4-cyclodiphosphate + CMP",
+      "EQUATION": "C11436 <=> C11453 + C00055",
+      "ENZYME": "4.6.1.12",
+      "ORTHOLOGY": "K01770  2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]; K12506  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]",
+      "DBLINKS": "RHEA: 23867"
+    },
+    "R06513": {
+      "ENTRY": "R06513                      Reaction",
+      "NAME": "dTDPglucose 4,6-hydro-lyase",
+      "DEFINITION": "dTDP-glucose <=> dTDP-4-oxo-6-deoxy-D-glucose + H2O",
+      "EQUATION": "C00842 <=> C11907 + C00001",
+      "ENZYME": "4.2.1.46",
+      "ORTHOLOGY": "K01710  dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]",
+      "DBLINKS": "RHEA: 17224"
+    },
+    "R07168": {
+      "ENTRY": "R07168                      Reaction",
+      "NAME": "5-methyltetrahydrofolate:NAD+ oxidoreductase",
+      "DEFINITION": "5-Methyltetrahydrofolate + NAD+ <=> 5,10-Methylenetetrahydrofolate + NADH + H+",
+      "EQUATION": "C00440 + C00003 <=> C00143 + C00004 + C00080",
+      "ENZYME": "1.5.1.20        1.5.1.54",
+      "ORTHOLOGY": "K00297  methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54]; K24042  methionine synthase / methylenetetrahydrofolate reductase (NADH) [EC:2.1.1.13 1.5.1.54]; K25009  methylenetetrahydrofolate reductase [NAD(P)H] [EC:1.5.1.20]",
+      "DBLINKS": "RHEA: 19824"
+    },
+    "R07363": {
+      "ENTRY": "R07363                      Reaction",
+      "NAME": "1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate- and CO-forming)",
+      "DEFINITION": "1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one + Oxygen <=> 3-(Methylthio)propanoate + Formate + CO",
+      "EQUATION": "C15606 + C00007 <=> C08276 + C00058 + C00237",
+      "ENZYME": "1.13.11.53",
+      "ORTHOLOGY": "K08967  1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [EC:1.13.11.53 1.13.11.54]",
+      "DBLINKS": "RHEA: 14164"
+    },
+    "R07364": {
+      "ENTRY": "R07364                      Reaction",
+      "NAME": "1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate-forming)",
+      "DEFINITION": "1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one + Oxygen <=> 4-Methylthio-2-oxobutanoic acid + Formate",
+      "EQUATION": "C15606 + C00007 <=> C01180 + C00058",
+      "ENZYME": "1.13.11.54",
+      "ORTHOLOGY": "K08967  1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [EC:1.13.11.53 1.13.11.54]",
+      "DBLINKS": "RHEA: 24507"
+    },
+    "R07392": {
+      "ENTRY": "R07392                      Reaction",
+      "NAME": "S-methyl-5-thio-D-ribulose-1-phosphate hydro-lyase",
+      "DEFINITION": "S-Methyl-5-thio-D-ribulose 1-phosphate <=> 2,3-Diketo-5-methylthiopentyl-1-phosphate + H2O",
+      "EQUATION": "C04582 <=> C15650 + C00001",
+      "ENZYME": "4.2.1.109",
+      "ORTHOLOGY": "K08964  methylthioribulose-1-phosphate dehydratase [EC:4.2.1.109]; K16054  methylthioribulose 1-phosphate dehydratase / enolase-phosphatase E1 [EC:4.2.1.109 3.1.3.77]",
+      "DBLINKS": "RHEA: 15552"
+    },
+    "R07393": {
+      "ENTRY": "R07393                      Reaction",
+      "NAME": "2,3-diketo-5-methylthiopentyl-1-phosphate keto---enol-isomerase",
+      "DEFINITION": "2,3-Diketo-5-methylthiopentyl-1-phosphate <=> 2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate",
+      "EQUATION": "C15650 <=> C15651",
+      "COMMENT": "the first step of two-step reaction (see R07395, R07393+R07394) in some species.",
+      "ENZYME": "3.1.3.77        5.3.2.5",
+      "ORTHOLOGY": "K08965  2,3-diketo-5-methylthiopentyl-1-phosphate enolase [EC:5.3.2.5]",
+      "DBLINKS": "RHEA: 18772"
+    },
+    "R07394": {
+      "ENTRY": "R07394                      Reaction",
+      "NAME": "2-hydroxy-5-(methylthio)-3-oxopent-1-enyl phosphate phosphohydrolase",
+      "DEFINITION": "2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate + H2O <=> 1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one + Orthophosphate",
+      "EQUATION": "C15651 + C00001 <=> C15606 + C00009",
+      "COMMENT": "the second step of two-step reaction (see R07395, R07393+R07394)",
+      "ENZYME": "3.1.3.77        3.1.3.87",
+      "ORTHOLOGY": "K08966  2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase [EC:3.1.3.87]",
+      "DBLINKS": "RHEA: 14484"
+    },
+    "R07765": {
+      "ENTRY": "R07765                      Reaction",
+      "NAME": "octadecanoyl-[acp]:NAD+ trans-2-oxidoreductase",
+      "DEFINITION": "(2E)-Octadecenoyl-[acp] + NADH + H+ <=> Octadecanoyl-[acyl-carrier protein] + NAD+",
+      "EQUATION": "C16221 + C00004 + C00080 <=> C04088 + C00003",
+      "ENZYME": "1.3.1.9         1.3.1.-         2.3.1.-",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K02371  enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]; K11533  fatty acid synthase, bacteria type [EC:2.3.1.-]"
+    },
+    "R08218": {
+      "ENTRY": "R08218                      Reaction",
+      "NAME": "L-serine:tRNASec ligase (AMP-forming)",
+      "DEFINITION": "ATP + L-Serine + tRNA(Sec) <=> AMP + Diphosphate + L-Seryl-tRNA(Sec)",
+      "EQUATION": "C00002 + C00065 + C16636 <=> C00020 + C00013 + C06481",
+      "ENZYME": "6.1.1.11",
+      "ORTHOLOGY": "K01875  seryl-tRNA synthetase [EC:6.1.1.11]",
+      "DBLINKS": "RHEA: 42583"
+    },
+    "R08237": {
+      "ENTRY": "R08237                      Reaction",
+      "NAME": "6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase",
+      "DEFINITION": "6-Mercaptopurine + 5-Phospho-alpha-D-ribose 1-diphosphate <=> 6-Thioinosine-5'-monophosphate + Diphosphate",
+      "EQUATION": "C02380 + C00119 <=> C04646 + C00013",
+      "ENZYME": "2.4.2.8",
+      "ORTHOLOGY": "K00760  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]"
+    },
+    "R08238": {
+      "ENTRY": "R08238                      Reaction",
+      "NAME": "6-methylthiopurine 5'-monophosphate ribonucleotide:diphosphate phospho-D-ribosyltransferase",
+      "DEFINITION": "6-Methylmercaptopurine + 5-Phospho-alpha-D-ribose 1-diphosphate <=> 6-Methylthiopurine 5'-monophosphate ribonucleotide + Diphosphate",
+      "EQUATION": "C16614 + C00119 <=> C16615 + C00013",
+      "ENZYME": "2.4.2.8",
+      "ORTHOLOGY": "K00760  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]"
+    },
+    "R08245": {
+      "ENTRY": "R08245                      Reaction",
+      "NAME": "6-thioguanosine monophosphate:diphosphate phospho-D-ribosyltransferase",
+      "DEFINITION": "Thioguanine + 5-Phospho-alpha-D-ribose 1-diphosphate <=> 6-Thioguanosine monophosphate + Diphosphate",
+      "EQUATION": "C07648 + C00119 <=> C16619 + C00013",
+      "ENZYME": "2.4.2.8",
+      "ORTHOLOGY": "K00760  hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]"
+    },
+    "R08575": {
+      "ENTRY": "R08575                      Reaction",
+      "NAME": "sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase",
+      "DEFINITION": "Sedoheptulose 7-phosphate + D-Glyceraldehyde 3-phosphate <=> D-Erythrose 4-phosphate + D-Fructose 6-phosphate",
+      "EQUATION": "C05382 + C00118 <=> C00279 + C00085",
+      "ENZYME": "2.2.1.2",
+      "ORTHOLOGY": "K00616  transaldolase [EC:2.2.1.2]; K13810  transaldolase / glucose-6-phosphate isomerase [EC:2.2.1.2 5.3.1.9]"
+    },
+    "R08620": {
+      "ENTRY": "R08620                      Reaction",
+      "NAME": "2-(2'-methylthio)ethylmalate hydroxymutase",
+      "DEFINITION": "2-(2'-Methylthio)ethylmalic acid <=> 3-(2'-Methylthio)ethylmalic acid",
+      "EQUATION": "C17210 <=> C17212",
+      "COMMENT": "two-step reaction (similar to R10170, R03968+R04001)",
+      "ENZYME": "4.2.1.170",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]",
+      "DBLINKS": "RHEA: 50643"
+    },
+    "R08622": {
+      "ENTRY": "R08622                      Reaction",
+      "NAME": "homomethionine:2-oxo-acid aminotransferase",
+      "DEFINITION": "2-Oxo-5-methylthiopentanoic acid + L-Amino acid <=> Homomethionine + 2-Oxo acid",
+      "EQUATION": "C17211 + C00151 <=> C17213 + C00161",
+      "COMMENT": "BCAT3",
+      "ENZYME": "2.6.1.-",
+      "ORTHOLOGY": "K00826  branched-chain amino acid aminotransferase [EC:2.6.1.42]"
+    },
+    "R08624": {
+      "ENTRY": "R08624                      Reaction",
+      "NAME": "2-(3'-methylthio)propylmalate hydroxymutase",
+      "DEFINITION": "2-(3'-Methylthio)propylmalic acid <=> 3-(3'-Methylthio)propylmalic acid",
+      "EQUATION": "C17214 <=> C17215",
+      "COMMENT": "two-step reaction (similar to R10170, R03968+R04001)",
+      "ENZYME": "4.2.1.170",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]",
+      "DBLINKS": "RHEA: 50647"
+    },
+    "R08626": {
+      "ENTRY": "R08626                      Reaction",
+      "NAME": "dihomomethionine:2-oxo-acid aminotransferase",
+      "DEFINITION": "2-Oxo-6-methylthiohexanoic acid + L-Amino acid <=> Dihomomethionine + 2-Oxo acid",
+      "EQUATION": "C17216 + C00151 <=> C17217 + C00161",
+      "COMMENT": "BCAT3",
+      "ENZYME": "2.6.1.-",
+      "ORTHOLOGY": "K00826  branched-chain amino acid aminotransferase [EC:2.6.1.42]"
+    },
+    "R08628": {
+      "ENTRY": "R08628                      Reaction",
+      "NAME": "2-(3'-methylthio)butylmalate hydroxymutase",
+      "DEFINITION": "2-(4'-Methylthio)butylmalic acid <=> 3-(4'-Methylthio)butylmalic acid",
+      "EQUATION": "C17218 <=> C17219",
+      "COMMENT": "two-step reaction (similar to R10170, R03968+R04001)",
+      "ENZYME": "4.2.1.170",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]"
+    },
+    "R08634": {
+      "ENTRY": "R08634                      Reaction",
+      "NAME": "2-(3'-methylthio)pentylmalate hydroxymutase",
+      "DEFINITION": "2-(5'-Methylthio)pentylmalic acid <=> 3-(5'-Methylthio)pentylmalic acid",
+      "EQUATION": "C17222 <=> C17223",
+      "COMMENT": "two-step reaction (similar to R10170, R03968+R04001)",
+      "ENZYME": "4.2.1.170",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]"
+    },
+    "R08641": {
+      "ENTRY": "R08641                      Reaction",
+      "NAME": "2-(3'-methylthio)hexylmalate hydroxymutase",
+      "DEFINITION": "2-(6'-Methylthio)hexylmalic acid <=> 3-(6'-Methylthio)hexylmalic acid",
+      "EQUATION": "C17226 <=> C17227",
+      "COMMENT": "two-step reaction (similar to R10170, R03968+R04001)",
+      "ENZYME": "4.2.1.170",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]"
+    },
+    "R08645": {
+      "ENTRY": "R08645                      Reaction",
+      "NAME": "2-(3'-methylthio)heptylmalate hydroxymutase",
+      "DEFINITION": "2-(7'-Methylthio)heptylmalic acid <=> 3-(7'-Methylthio)heptylmalic acid",
+      "EQUATION": "C17230 <=> C17231",
+      "COMMENT": "two-step reaction (similar to R10170, R03968+R04001)",
+      "ENZYME": "4.2.1.170",
+      "ORTHOLOGY": "K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]"
+    },
+    "R09372": {
+      "ENTRY": "R09372                      Reaction",
+      "NAME": "methaneselenol:NADP+ oxidoreductase",
+      "DEFINITION": "2 NADPH + 2 H+ + Methylselenic acid <=> 2 NADP+ + 2 H2O + Methaneselenol",
+      "EQUATION": "2 C00005 + 2 C00080 + C18902 <=> 2 C00006 + 2 C00001 + C05703",
+      "ENZYME": "1.8.1.9",
+      "ORTHOLOGY": "K00384  thioredoxin reductase (NADPH) [EC:1.8.1.9]; K22182  thioredoxin reductase (NADPH) [EC:1.8.1.9]"
+    },
+    "R09668": {
+      "ENTRY": "R09668                      Reaction",
+      "NAME": "S-methyl-5'-thioinosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase",
+      "DEFINITION": "5'-S-Methyl-5'-thioinosine + Orthophosphate <=> Hypoxanthine + S-Methyl-5-thio-D-ribose 1-phosphate",
+      "EQUATION": "C19787 + C00009 <=> C00262 + C04188",
+      "ENZYME": "2.4.2.44",
+      "ORTHOLOGY": "K19696  5'-methylthioinosine phosphorylase [EC:2.4.2.44]",
+      "DBLINKS": "RHEA: 30646"
+    },
+    "R10118": {
+      "ENTRY": "R10118                      Reaction",
+      "NAME": "glutaryl-[acp]-methyl-ester:NADP+ oxidoreductase",
+      "DEFINITION": "Enoylglutaryl-[acp] methyl ester + NADPH + H+ <=> Glutaryl-[acp] methyl ester + NADP+",
+      "EQUATION": "C20374 + C00005 + C00080 <=> C20375 + C00006",
+      "ENZYME": "1.3.1.10",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]"
+    },
+    "R10122": {
+      "ENTRY": "R10122                      Reaction",
+      "NAME": "pimelyl-[acyl-carrier protein]-methyl-ester:NADP+ oxidoreductase",
+      "DEFINITION": "Enoylpimeloyl-[acp] methyl ester + NADPH + H+ <=> Pimeloyl-[acyl-carrier protein] methyl ester + NADP+",
+      "EQUATION": "C20378 + C00005 + C00080 <=> C19846 + C00006",
+      "ENZYME": "1.3.1.10",
+      "ORTHOLOGY": "K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]"
+    },
+    "R10170": {
+      "ENTRY": "R10170                      Reaction",
+      "NAME": "(2R,3S)-3-isopropylmalate hydro-lyase (2-isopropylmaleate-forming)",
+      "DEFINITION": "(2R,3S)-3-Isopropylmalate <=> alpha-Isopropylmalate",
+      "EQUATION": "C04411 <=> C02504",
+      "ENZYME": "4.2.1.33",
+      "ORTHOLOGY": "K01702  3-isopropylmalate dehydratase [EC:4.2.1.33]; K01703  3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]; K01704  3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]; K21359  3-isopropylmalate/methylthioalkylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.170]",
+      "DBLINKS": "RHEA: 32290"
+    },
+    "R10991": {
+      "ENTRY": "R10991                      Reaction",
+      "NAME": "2-aminobutanoate:2-oxoglutarate aminotransferase",
+      "DEFINITION": "(S)-2-Aminobutanoate + 2-Oxoglutarate <=> 2-Oxobutanoate + L-Glutamate",
+      "EQUATION": "C02356 + C00026 <=> C00109 + C00025",
+      "ENZYME": "2.6.1.42",
+      "ORTHOLOGY": "K00826  branched-chain amino acid aminotransferase [EC:2.6.1.42]",
+      "DBLINKS": "RHEA: 70226"
+    },
+    "R11319": {
+      "ENTRY": "R11319                      Reaction",
+      "NAME": "ADP:thiamin-diphosphate phosphotransferase",
+      "DEFINITION": "Thiamin diphosphate + ADP <=> Thiamin triphosphate + AMP",
+      "EQUATION": "C00068 + C00008 <=> C03028 + C00020",
+      "ENZYME": "2.7.4.3",
+      "ORTHOLOGY": "K00939  adenylate kinase [EC:2.7.4.3]"
+    },
+    "R11396": {
+      "ENTRY": "R11396                      Reaction",
+      "NAME": "CTP:8-amino-3,8-dideoxy-D-manno-octulosonate cytidylyltransferase",
+      "DEFINITION": "CTP + 8-Amino-3,8-dideoxy-D-manno-octulosonate <=> Diphosphate + CMP-8-amino-3,8-dideoxy-beta-D-manno-octulosonate",
+      "EQUATION": "C00063 + C21333 <=> C00013 + C21334",
+      "ENZYME": "2.7.7.90",
+      "ORTHOLOGY": "K00979  3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]"
+    },
+    "R11671": {
+      "ENTRY": "R11671                      Reaction",
+      "DEFINITION": "Malonyl-CoA + Acetyl-CoA <=> Dodecanoyl-[acyl-carrier protein]",
+      "EQUATION": "C00083 + C00024 <=> C05223",
+      "COMMENT": "multi-step reaction; fatty acid synthesis",
+      "ORTHOLOGY": "K00059  3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]; K00208  enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]; K00645  [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]; K21788  dodecanoy-ACP synthase; K21789  dodecanoy-ACP synthase; K21790  acyl carrier protein"
+    },
+    "R11896": {
+      "ENTRY": "R11896                      Reaction",
+      "NAME": "5-fluorodeoxyuridine-triphosphate diphosphohydrolase",
+      "DEFINITION": "5-Fluorodeoxyuridine triphosphate + H2O <=> 5-Fluorodeoxyuridine monophosphate + Diphosphate",
+      "EQUATION": "C21751 + C00001 <=> C04242 + C00013",
+      "ENZYME": "3.6.1.23",
+      "ORTHOLOGY": "K01520  dUTP diphosphatase [EC:3.6.1.23]"
+    },
+    "R12024": {
+      "ENTRY": "R12024                      Reaction",
+      "NAME": "N-(4-oxoglutaryl)-L-cysteinylglycine amidohydrolase",
+      "DEFINITION": "N-(4-Oxoglutaryl)-L-cysteinylglycine + H2O <=> 2-Oxoglutarate + Cys-Gly",
+      "EQUATION": "C21858 + C00001 <=> C00026 + C01419",
+      "ENZYME": "3.5.1.128",
+      "ORTHOLOGY": "K11206  deaminated glutathione amidase [EC:3.5.1.128]",
+      "DBLINKS": "RHEA: 54535"
+    },
+    "R12578": {
+      "ENTRY": "R12578                      Reaction",
+      "NAME": "glutathione:hydroperoxide oxidoreductase",
+      "DEFINITION": "2 Glutathione + ROOH <=> Glutathione disulfide + H2O + ROH",
+      "EQUATION": "2 C00051 + C15498 <=> C00127 + C00001 + C01335",
+      "ENZYME": "1.11.1.27",
+      "ORTHOLOGY": "K11188  peroxiredoxin 6 [EC:1.11.1.7 1.11.1.27 3.1.1.-]; K24136  glutathione-dependent peroxiredoxin [EC:1.11.1.27]; K24137  glutaredoxin/glutathione-dependent peroxiredoxin [EC:1.11.1.25 1.11.1.27]; K24138  glutaredoxin/glutathione-dependent peroxiredoxin [EC:1.11.1.25 1.11.1.27]"
+    },
+    "R12852": {
+      "ENTRY": "R12852                      Reaction",
+      "NAME": "guanylate kinase",
+      "DEFINITION": "dZMP + ATP <=> dZDP + ADP",
+      "EQUATION": "C22441 + C00002 <=> C22442 + C00008",
+      "ENZYME": "2.7.4.8",
+      "ORTHOLOGY": "K00942  guanylate kinase [EC:2.7.4.8]"
+    },
+    "R12958": {
+      "ENTRY": "R12958                      Reaction",
+      "NAME": "dIMP phosphohydrolase",
+      "DEFINITION": "2'-Deoxyinosine 5'-phosphate + H2O <=> Deoxyinosine + Orthophosphate",
+      "EQUATION": "C06196 + C00001 <=> C05512 + C00009",
+      "ENZYME": "3.1.3.5         3.1.3.89",
+      "ORTHOLOGY": "K01081  5'-nucleotidase [EC:3.1.3.5]; K02566  5'-nucleotidase [EC:3.1.3.5]; K03787  5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]; K06952  5'-nucleotidase [EC:3.1.3.89]; K07023  5'-deoxynucleotidase [EC:3.1.3.89]; K08693  2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5]; K08722  5'-deoxynucleotidase [EC:3.1.3.89]; K11751  5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]; K19970  5'-nucleotidase [EC:3.1.3.5]"
+    }
+  },
+  "failed": []
+}

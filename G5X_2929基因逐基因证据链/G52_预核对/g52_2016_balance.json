@@ -1,0 +1,659 @@
+[
+  {
+    "reaction": "ADK1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + amp[c]  <=> 2 adp[c] "
+  },
+  {
+    "reaction": "DUTPDP",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + dutp[c]  <=> h[c] + ppi[c] + dump[c] "
+  },
+  {
+    "reaction": "PPCDC",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + 4ppcys[c]  <=> co2[c] + 4ppan[c] "
+  },
+  {
+    "reaction": "PPNCL2",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "ctp[c] + cys-L[c] + d4ppp[c]  <=> h[c] + ppi[c] + cmp[c] + 4ppcys[c] "
+  },
+  {
+    "reaction": "GUAPRT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "ppi[c] + gmp[c]  <=> prpp[c] + gua[c] "
+  },
+  {
+    "reaction": "HXPRT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "prpp[c] + hxan[c]  -> ppi[c] + imp[c] "
+  },
+  {
+    "reaction": "MTAP",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "pi[c] + 5mta[c]  <=> ade[c] + mtribp[c] "
+  },
+  {
+    "reaction": "PSP_L",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + pser-L[c]  -> pi[c] + ser-L[c] "
+  },
+  {
+    "reaction": "MEPCT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + ctp[c] + 2me4p[c]  -> ppi[c] + 4c2me[c] "
+  },
+  {
+    "reaction": "MECDPS",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "2p4c2me[c]  -> cmp[c] + 2mecdp[c] "
+  },
+  {
+    "reaction": "TRDR",
+    "status": "unbalanced",
+    "difference_products_minus_reactants": {
+      "charge": 4.0
+    },
+    "missing": [],
+    "formula": "nadph[c] + trdrd[c]  -> 3 h[c] + nadp[c] + trdox[c] "
+  },
+  {
+    "reaction": "CYTAA32",
+    "status": "unknown",
+    "difference_products_minus_reactants": {
+      "H": 2.0
+    },
+    "missing": [
+      "etpcycAox[p] (formula/charge missing)",
+      "etpcycArd[p] (formula/charge missing)"
+    ],
+    "formula": "1.3 h[c] + 0.5 o2[c] + etpcycArd[p]  -> 1.3 h[p] + h2o[c] + etpcycAox[p] "
+  },
+  {
+    "reaction": "ARGSS",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + asp-L[c] + citr-L[c]  -> h[c] + ppi[c] + amp[c] + argsuc[c] "
+  },
+  {
+    "reaction": "OCBT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "orn[c] + cbp[c]  <=> h[c] + pi[c] + citr-L[c] "
+  },
+  {
+    "reaction": "ACOTA",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "acorn[c] + akg[c]  <=> glu-L[c] + acg5sa[c] "
+  },
+  {
+    "reaction": "ASPK",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + asp-L[c]  <=> adp[c] + 4pasp[c] "
+  },
+  {
+    "reaction": "TALA",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "g3p[c] + s7p[c]  <=> e4p[c] + f6p-B[c] "
+  },
+  {
+    "reaction": "EAR1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + but2eACP[c]  <=> nadp[c] + butACP[c] "
+  },
+  {
+    "reaction": "EAR10",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + thex2eACP[c]  <=> nadp[c] + hexACP[c] "
+  },
+  {
+    "reaction": "EAR11",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + toct2eACP[c]  <=> nadp[c] + ocACP[c] "
+  },
+  {
+    "reaction": "EAR12",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + tdec2eACP[c]  <=> nadp[c] + dcaACP[c] "
+  },
+  {
+    "reaction": "EAR13",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + tddec2eACP[c]  <=> nadp[c] + ddcaACP[c] "
+  },
+  {
+    "reaction": "EAR14",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + tmrs2eACP[c]  <=> nadp[c] + myrsACP[c] "
+  },
+  {
+    "reaction": "EAR15",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + tpalm2eACP[c]  <=> nadp[c] + palmACP[c] "
+  },
+  {
+    "reaction": "EAR16",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + 2tadeACP[c]  <=> nadp[c] + ocdcaACP[c] "
+  },
+  {
+    "reaction": "EAR17",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + 2teicACP[c]  <=> nadp[c] + arachACP[c] "
+  },
+  {
+    "reaction": "EAR2",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + c2tdodeACP[c]  <=> nadp[c] + 3cddACP[c] "
+  },
+  {
+    "reaction": "EAR3",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + c2ttedeACP[c]  <=> nadp[c] + ctdeACP[c] "
+  },
+  {
+    "reaction": "EAR4",
+    "status": "unbalanced",
+    "difference_products_minus_reactants": {
+      "charge": 1.0
+    },
+    "missing": [],
+    "formula": "h[c] + nadph[c] + c2thedeACP[c]  <=> nadp[c] + chexcaACP[c] "
+  },
+  {
+    "reaction": "EAR5",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + c2tocdeACP[c]  <=> nadp[c] + octeACP[c] "
+  },
+  {
+    "reaction": "EAR6",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + 2tpenACP[c]  <=> nadp[c] + ptACP[c] "
+  },
+  {
+    "reaction": "EAR7",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "5 h[c] + 5 nadph[c] + vtenACP[c]  <=> 5 nadp[c] + ptdcaACP[c] "
+  },
+  {
+    "reaction": "EAR8",
+    "status": "unbalanced",
+    "difference_products_minus_reactants": {
+      "charge": -1.0
+    },
+    "missing": [],
+    "formula": "h[c] + nadph[c] + thepcaACP[c]  <=> nadp[c] + hpdcaACP[c] "
+  },
+  {
+    "reaction": "EAR9",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + noncaACP[c]  <=> nadp[c] + nodcaACP[c] "
+  },
+  {
+    "reaction": "GLUTRS",
+    "status": "unknown",
+    "difference_products_minus_reactants": {
+      "C": -5.0,
+      "H": -6.0,
+      "N": -1.0,
+      "O": -3.0,
+      "charge": 1.0
+    },
+    "missing": [
+      "LtRNAglu[c] (formula/charge missing)",
+      "tRNAglu[c] (formula/charge missing)"
+    ],
+    "formula": "glu-L[c] + atp[c] + tRNAglu[c]  -> h[c] + ppi[c] + amp[c] + LtRNAglu[c] "
+  },
+  {
+    "reaction": "ACONT1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "cit[c]  <=> h2o[c] + acon-C[c] "
+  },
+  {
+    "reaction": "ACONT2",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + acon-C[c]  <=> icit[c] "
+  },
+  {
+    "reaction": "ICDHyr",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "nadp[c] + icit[c]  <=> co2[c] + akg[c] + nadph[c] "
+  },
+  {
+    "reaction": "ICITRED",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "nadp[c] + icit[c]  <=> h[c] + nadph[c] + osuc[c] "
+  },
+  {
+    "reaction": "SUCOAS",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + coa[c] + succ[c]  <=> pi[c] + adp[c] + succoa[c] "
+  },
+  {
+    "reaction": "NADS1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + nh4[c] + dnad[c]  -> h[c] + nad[c] + ppi[c] + amp[c] "
+  },
+  {
+    "reaction": "NADS2",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + atp[c] + gln-L[c] + dnad[c]  -> h[c] + glu-L[c] + nad[c] + ppi[c] + amp[c] "
+  },
+  {
+    "reaction": "AREDO",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "o2[c] + 12dhy3meten[c]  -> h[c] + for[c] + 2kmb[c] "
+  },
+  {
+    "reaction": "DKMPE",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "dkmpp[c]  <=> 2h3kto5me1pe[c] "
+  },
+  {
+    "reaction": "RUBISCO",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + co2[c] + rb15bp[c]  <=> 2 h[c] + 2 3pg[c] "
+  },
+  {
+    "reaction": "HKMPP",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + 2h3kto5me1pe[c]  -> h[c] + pi[c] + 12dhy3meten[c] "
+  },
+  {
+    "reaction": "TDPGDH",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "dtdpglu[c]  <=> h2o[c] + dtdp4d6dg[c] "
+  },
+  {
+    "reaction": "TDPDRR",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + dtdp4d6dm[c]  -> nadp[c] + dtdprmn[c] "
+  },
+  {
+    "reaction": "GALU",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + utp[c] + g1p[c]  -> ppi[c] + udpg[c] "
+  },
+  {
+    "reaction": "NADK",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + nad[c]  -> h[c] + adp[c] + nadp[c] "
+  },
+  {
+    "reaction": "BILG",
+    "status": "unknown",
+    "difference_products_minus_reactants": {
+      "C": -10.0,
+      "H": -13.0,
+      "N": -2.0,
+      "O": -2.0,
+      "charge": 1.0,
+      "S": -1.0
+    },
+    "missing": [
+      "bcCP_AFE[c] (formula/charge missing)",
+      "bccp[c] (formula/charge missing)"
+    ],
+    "formula": "atp[c] + btn[c] + bccp[c]  -> h[c] + ppi[c] + bcCP_AFE[c] + amp[c] "
+  },
+  {
+    "reaction": "G5SD",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "pi[c] + nadp[c] + glu5sa[c]  <=> h[c] + nadph[c] + glu5p[c] "
+  },
+  {
+    "reaction": "GLNS",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "glu-L[c] + atp[c] + nh4[c]  -> h[c] + pi[c] + adp[c] + gln-L[c] "
+  },
+  {
+    "reaction": "NADPPPS",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + nadp[c]  -> pi[c] + nad[c] "
+  },
+  {
+    "reaction": "THMP",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + thmmp[c]  <=> pi[c] + thm[c] "
+  },
+  {
+    "reaction": "HSDy",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "nadp[c] + hom-L[c]  <=> h[c] + nadph[c] + aspsa[c] "
+  },
+  {
+    "reaction": "THRS",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + phom[c]  -> pi[c] + thr-L[c] "
+  },
+  {
+    "reaction": "TDSK",
+    "status": "unknown",
+    "difference_products_minus_reactants": {
+      "C": 68.0,
+      "H": 129.0,
+      "N": 4.0,
+      "O": 18.0,
+      "P": 1.0,
+      "charge": -2.0
+    },
+    "missing": [
+      "lipidA_AFE[c] (formula/charge missing)"
+    ],
+    "formula": "atp[c] + lipidA_AFE[c]  -> h[c] + adp[c] + lipid4A_AFE[c] "
+  },
+  {
+    "reaction": "KDOCT2",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "ctp[c] + kdo[c]  <=> ppi[c] + ckdo[c] "
+  },
+  {
+    "reaction": "PPA",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + ppi[c]  -> h[c] + 2 pi[c] "
+  },
+  {
+    "reaction": "HETZK",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + 4mhetz[c]  <=> h[c] + adp[c] + 4mpetz[c] "
+  },
+  {
+    "reaction": "PGM1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "3pg[c]  <=> 2pg[c] "
+  },
+  {
+    "reaction": "MTRP",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "pi[c] + maltttr[c]  <=> g1p[c] + malttr[c] "
+  },
+  {
+    "reaction": "METAT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + atp[c] + met-L[c]  -> pi[c] + amet[c] + ppi[c] "
+  },
+  {
+    "reaction": "ADNSE",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + ahcys[c]  <=> adn[c] + hcys-L[c] "
+  },
+  {
+    "reaction": "MTHFR3",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + nadph[c] + mlthf[c]  <=> nadp[c] + 5mthf[c] "
+  },
+  {
+    "reaction": "PRUK",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + ru5p-D[c]  -> h[c] + adp[c] + rb15bp[c] "
+  },
+  {
+    "reaction": "ADSK",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + aps[c]  <=> h[c] + adp[c] + paps[c] "
+  },
+  {
+    "reaction": "SFAT1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "ppi[c] + aps[c]  -> h[c] + atp[c] + so4[c] "
+  },
+  {
+    "reaction": "SFAT2",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "pi[c] + aps[c]  -> h[c] + adp[c] + so4[c] "
+  },
+  {
+    "reaction": "ADPT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "ppi[c] + amp[c]  <=> ade[c] + prpp[c] "
+  },
+  {
+    "reaction": "ILETA",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "akg[c] + ile-L[c]  <=> glu-L[c] + 3mop[c] "
+  },
+  {
+    "reaction": "LEUTA",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "akg[c] + leu-L[c]  <=> glu-L[c] + 4mop[c] "
+  },
+  {
+    "reaction": "VALTA2",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "akg[c] + val-L[c]  <=> glu-L[c] + 3mob[c] "
+  },
+  {
+    "reaction": "FMNAT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h[c] + atp[c] + fmn[c]  -> ppi[c] + fad[c] "
+  },
+  {
+    "reaction": "RBFK1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + ribflv[c]  -> h[c] + adp[c] + fmn[c] "
+  },
+  {
+    "reaction": "GK1",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "atp[c] + gmp[c]  <=> adp[c] + gdp[c] "
+  },
+  {
+    "reaction": "PPPGO",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "3 o2[c] + pppg9[c]  -> 3 h2o2[c] + ppp9[c] "
+  },
+  {
+    "reaction": "ADCS",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "chor[c] + gln-L[c]  -> glu-L[c] + 4adcho[c] "
+  },
+  {
+    "reaction": "HBPPT",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "4hbz[c] + octdp[c]  <=> ppi[c] + 3ophb[c] "
+  },
+  {
+    "reaction": "CHRPL",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "chor[c]  <=> pyr[c] + 4hbz[c] "
+  },
+  {
+    "reaction": "PMEAS",
+    "status": "unknown",
+    "difference_products_minus_reactants": {
+      "C": -1.0,
+      "H": -3.0,
+      "charge": -1.0
+    },
+    "missing": [
+      "pe_AFE[c] (formula/charge missing)",
+      "ptdmeeta_AFE[c] (formula/charge missing)"
+    ],
+    "formula": "amet[c] + pe_AFE[c]  <=> ptdmeeta_AFE[c] + ahcys[c] "
+  },
+  {
+    "reaction": "OMBQM",
+    "status": "unbalanced",
+    "difference_products_minus_reactants": {
+      "charge": -2.0
+    },
+    "missing": [],
+    "formula": "h[c] + amet[c] + 2ombz[c]  <=> ahcys[c] + 2ommb[c] "
+  },
+  {
+    "reaction": "IPPMIa",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "3c3hmp[c]  <=> 3c2hmp[c] "
+  },
+  {
+    "reaction": "PDX5PO",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "o2[c] + pdx5p[c]  <=> pydx5p[c] + h2o2[c] "
+  },
+  {
+    "reaction": "PYAM5PO",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "h2o[c] + o2[c] + pyam5p[c]  <=> pydx5p[c] + nh4[c] + h2o2[c] "
+  },
+  {
+    "reaction": "RPI",
+    "status": "balanced",
+    "difference_products_minus_reactants": {},
+    "missing": [],
+    "formula": "r5p[c]  -> ru5p-D[c] "
+  }
+]

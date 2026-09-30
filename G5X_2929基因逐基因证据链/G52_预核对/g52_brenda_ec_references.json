@@ -1,0 +1,976 @@
+{
+  "by_ec": {
+    "1.1.1.133": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.1.1.133&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 38286,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.1.1.22": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.1.1.22&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 129978,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.1.1.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.1.1.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 83860,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.1.1.42": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.1.1.42&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 231881,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.11.1.27": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.11.1.27&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 48906,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.13.11.53": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.13.11.53&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 60968,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.13.11.54": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.13.11.54&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 41869,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.2.1.41": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.2.1.41&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 48634,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.3.1.10": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.3.1.10&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 50075,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.3.3.15": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.3.3.15&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 33641,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.3.1.9": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.3.1.9&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 224348,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.3.3.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.3.3.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 154240,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.4.3.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.4.3.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 100569,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.5.1.54": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.5.1.54&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 37266,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.6.5.2": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.6.5.2&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 213797,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.8.1.7": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.8.1.7&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [
+        "394771 Sugio, T.; Matsugi, S.; Tanaka, T.; Fujita, M.; Tano, T. Purification and some properties of glutathione reductase from iron-oxidizing bacterium Thiobacillus ferrooxidans Biosci. Biotechnol. Biochem. 59 1568-1570 1995 Acidithiobacillus ferrooxidans, Acidithiobacillus ferrooxidans AP19-3 - brenda"
+      ],
+      "count": 1,
+      "html_bytes": 256927,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.8.1.9": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.8.1.9&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [
+        "697512 Wang, Y.; Zhang, X.; Liu, Q.; Ai, C.; Mo, H.; Zeng, J. Expression, purification and molecular structure modeling of thioredoxin (Trx) and thioredoxin reductase (TrxR) from Acidithiobacillus ferrooxidans Curr. Microbiol. 59 35-41 2009 Acidithiobacillus ferrooxidans 19319598 brenda"
+      ],
+      "count": 1,
+      "html_bytes": 350228,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.8.4.16": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.8.4.16&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 47356,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "1.97.1.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=1.97.1.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 52814,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.1.1.17": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.1.1.17&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 106522,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.1.1.71": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.1.1.71&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 34177,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.1.1.77": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.1.1.77&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 141090,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.1.3.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.1.3.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 169214,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.2.1.2": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.2.1.2&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [
+        "674378 He, Z.; Zhong, H.; Hu, Y.; Xiao, S.; Liu, J.; Xu, J.; Li, G. Analysis of differential-expressed proteins of Acidithiobacillus ferrooxidans grown under phosphate starvation J. Biochem. Mol. Biol. 38 545-549 2005 Acidithiobacillus ferrooxidans 16202233 brenda"
+      ],
+      "count": 1,
+      "html_bytes": 91013,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.3.1.269": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.3.1.269&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 44739,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.4.1.1": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.4.1.1&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 279247,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.4.2.1": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.4.2.1&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 296255,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.4.2.2": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.4.2.2&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 58937,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.4.2.28": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.4.2.28&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 122751,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.4.2.44": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.4.2.44&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 20779,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.4.2.8": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.4.2.8&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 171492,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.5.1.39": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.5.1.39&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 61978,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.6.1.11": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.6.1.11&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 39284,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.5.1.6": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.5.1.6&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 213284,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.6.1.17": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.6.1.17&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 31770,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.6.1.42": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.6.1.42&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 172877,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.6.1.85": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.6.1.85&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 38101,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.130": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.130&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 29454,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.107": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.107&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 221313,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.19": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.19&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 97243,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.20": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.20&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 163411,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.23": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.23&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 107747,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.25": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.25&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 82055,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.26": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.26&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 65441,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.33": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.33&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 135265,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.1.66": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.1.66&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 40658,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.13.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.13.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 548778,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.2.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.2.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 122089,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.4.8": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.4.8&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 83643,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.4.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.4.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 254173,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.6.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.6.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 53144,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.108": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.108&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 31181,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.2": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.2&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 77506,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.38": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.38&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 49197,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.42": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.42&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 54051,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [
+        "721772 Jaramillo, M.L.; Abanto, M.; Quispe, R.L.; Calderon, J.; Del Valle, L.J.; Talledo, M.; Ramirez, P. Cloning, expression and bioinformatics analysis of ATP sulfurylase from Acidithiobacillus ferrooxidans ATCC 23270 in Escherichia coli Bioinformation 8 695-704 2012 Acidithiobacillus ferrooxidans 23055613 brenda"
+      ],
+      "count": 1,
+      "html_bytes": 120564,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.60": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.60&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 55979,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.6": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.6&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 229233,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.8": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.8&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 151406,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.7": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.7&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 554205,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.89": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.89&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 37672,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.7.7.9": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.7.7.9&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 160681,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "2.8.4.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=2.8.4.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 28464,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.1.2.6": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.1.2.6&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 140635,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.1.26.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.1.26.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 250385,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.1.3.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.1.3.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 99765,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.1.3.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.1.3.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 281629,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.1.3.6": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.1.3.6&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 69484,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.1.3.87": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.1.3.87&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 23236,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.1.7.2": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.1.7.2&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 45212,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.13.2.1": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.13.2.1&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 210884,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.2.2.23": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.2.2.23&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 131720,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.4.13.22": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.4.13.22&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 49211,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.4.21.102": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.4.21.102&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 76124,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.4.21.92": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.4.21.92&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 169952,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.4.23.36": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.4.23.36&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 47398,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.5.1.128": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.5.1.128&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 23451,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.5.1.88": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.5.1.88&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 194974,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.5.4.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.5.4.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 192782,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.6.1.1": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.6.1.1&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 249385,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.6.1.23": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.6.1.23&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 200622,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.6.4.13": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.6.4.13&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 21891,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.1.1.36": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.1.1.36&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 57989,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "3.6.5.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=3.6.5.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 180465,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.1.3.40": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.1.3.40&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 43302,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.1.1.39": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.1.1.39&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [
+        "4454 Holuigue, L.; Herrera, L.; Phillips, O.M.; Young, M.; Alende, J.E. CO2 fixation by mineral-leaching bacteria: characteristics of the ribulose bisphosphate carboxylase-oxygenase of Thiobacilllus ferrooxidans Biotechnol. Appl. Biochem. 9 497-505 1987 Acidithiobacillus ferrooxidans - brenda",
+        "653428 Tabita, F.R. Microbial ribulose 1,5-bisphosphate carboxylase/oxygenase: A different perspective Photosynth. Res. 60 1-28 1999 Thiobacillus denitrificans, Bacillus subtilis, Chlorobaculum tepidum, Pyrococcus horikoshii, Nicotiana tabacum, Thermococcus kodakarensis, Olisthodiscus luteus, Hydrogenovibrio marinus, Trematocarpus dichotomus, Cylindrotheca sp., Bradyrhizobium japonicum, Chlorobium limicola, Thiomonas intermedia, Halothiobacillus neapolitanus, Porphyridium purpureum, Cylindrotheca fusiformis, Cyanidium caldarium, Galdieria partita, Rhodospirillum rubrum, Cereibacter sphaeroides, Amphidinium carterae, Haloferax sp., Methanocaldococcus jannaschii, Archaeoglobus fulgidus, Pyrococcus sp., Rhodobacter capsulatus, Allochromatium vinosum, Cupriavidus necator, Xanthobacter flavus, Acidithiobacillus ferrooxidans, Synechococcus sp., Anabaena sp., Symbiodinium sp., Cylindrotheca sp. N1, Hydrogenovibrio marinus L2, Synechococcus sp. 6301 - brenda",
+        "681796 Caldwell, P.E.; MacLean, M.R.; Norris, P.R. Ribulose bisphosphate carboxylase activity and a Calvin cycle gene cluster in Sulfobacillus species Microbiology 153 2231-2240 2007 Sulfobacillus acidophilus, Acidithiobacillus ferrooxidans, Sulfobacillus thermosulfidooxidans, Sulfobacillus thermosulfidooxidans BC1 17600067 brenda"
+      ],
+      "count": 3,
+      "html_bytes": 337534,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.1.109": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.1.109&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 30698,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.1.3": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.1.3&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 182131,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.1.33": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.1.33&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 46748,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.1.35": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.1.35&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 25131,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.1.46": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.1.46&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 69602,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.1.99": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.1.99&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 24490,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.2.29": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.2.29&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 69471,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.3.1": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.3.1&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 68162,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.2.99.18": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.2.99.18&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 324704,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.4.1.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.4.1.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 220030,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "4.6.1.12": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=4.6.1.12&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 61141,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.1.3.6": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.1.3.6&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 43914,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.2.1.8": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.2.1.8&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 319228,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.3.1.6": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.3.1.6&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 112431,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.3.2.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.3.2.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 33301,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.4.2.12": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.4.2.12&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 87600,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.4.99.23": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.4.99.23&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 38826,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.4.99.25": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.4.99.25&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 55125,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.4.99.27": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.4.99.27&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 35421,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.6.1.7": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.6.1.7&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 216798,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.6.2.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.6.2.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 140419,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "5.6.2.7": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=5.6.2.7&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 102859,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.1.1.11": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.1.1.11&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 128741,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.1.1.17": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.1.1.17&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [
+        "651337 Nunez, H.; Lefimil, C.; Min, B.; Soll, D.; Orellana, O. In vivo formation of glutamyl-tRNA(Gln) in Escherichia coli by heterologous glutamyl-tRNA synthetases FEBS Lett. 557 133-135 2004 Acidithiobacillus ferrooxidans, Bacillus subtilis, Helicobacter pylori 14741355 brenda",
+        "676889 Levican, G.; Katz, A.; de Armas, M.; Nunez, H.; Orellana, O. Regulation of a glutamyl-tRNA synthetase by the heme status Proc. Natl. Acad. Sci. USA 104 3135-3140 2007 Acidithiobacillus ferrooxidans 17360620 brenda",
+        "714031 Katz, A.; Banerjee, R.; de Armas, M.; Ibba, M.; Orellana, O. Redox status affects the catalytic activity of glutamyl-tRNA synthetase Biochem. Biophys. Res. Commun. 398 51-55 2010 Acidithiobacillus ferrooxidans 20541532 brenda"
+      ],
+      "count": 3,
+      "html_bytes": 139023,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.1.1.4": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.1.1.4&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 189638,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.1.1.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.1.1.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 108128,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.1.1.6": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.1.1.6&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 172495,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.2.1.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.2.1.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 100482,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.3.2.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.3.2.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 41648,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.3.1.2": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.3.1.2&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [
+        "37570 Barros, M.E.C.; Rawlings, D.E.; Woods, D.R. Purification and regulation of a cloned Thiobacillus ferrooxidans glutamine synthetase J. Gen. Microbiol. 132 1989-1995 1986 Acidithiobacillus ferrooxidans - brenda"
+      ],
+      "count": 1,
+      "html_bytes": 343297,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.3.4.15": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.3.4.15&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 103401,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.3.4.5": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.3.4.5&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 126234,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    },
+    "6.3.5.1": {
+      "url": "https://www.brenda-enzymes.org/enzyme.php?ecno=6.3.5.1&onlyTable=Reference&showtm=0",
+      "matching_reference_rows": [],
+      "count": 0,
+      "html_bytes": 45308,
+      "parser_version": 4,
+      "boundary": "BRENDA reference row is a species/EC literature lead, not a current-WP assay."
+    }
+  },
+  "accessed_utc": "2026-09-26T00:25:18.084442+00:00",
+  "source": "https://www.brenda-enzymes.org/"
+}

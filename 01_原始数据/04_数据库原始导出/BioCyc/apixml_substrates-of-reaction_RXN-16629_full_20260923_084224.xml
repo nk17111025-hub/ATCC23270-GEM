@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/apixml?fn=substrates-of-reaction%26id=GCF_000021485:RXN-16629%26detail=FULL'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>apixml</service_name>
+    <query>fn=substrates-of-reaction&amp;id=GCF_000021485:RXN-16629&amp;detail=FULL</query>
+    <num_results>6</num_results>
+    <PGDB orgid='GCF_000021485' version='30.0'>
+      <species datatype='string'>Acidithiobacillus ferrooxidans</species>
+      <strain datatype='string'>ATCC 23270</strain>
+      <sequence-source datatype='string'>GCF_000021485.1</sequence-source>
+      <dblink>
+        <dblink-db>NCBI-TAXONOMY-DB</dblink-db>
+        <dblink-oid>243159</dblink-oid>
+        <dblink-relationship>unification</dblink-relationship>
+        <dblink-URL>http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=243159</dblink-URL>
+      </dblink>
+    </PGDB>
+  </metadata>
+  <Compound ID='GCF_000021485:PROTON' orgid='GCF_000021485' frameid='PROTON' detail='full'>
+    <parent>
+      <Compound resource='getxml?GCF_000021485:Monovalent-Inorganic-Cations' orgid='GCF_000021485' frameid='Monovalent-Inorganic-Cations' class='true'/>
+    </parent>
+    <parent>a subatomic particle</parent>
+    <cml>
+      <molecule id='PROTON' title='H%2b' formalCharge='1'>
+        <atomArray>
+          <atom id='PROTON-atom1' elementType='H' x2='-1768.0' y2='-4714.0' formalCharge='1'/>
+        </atomArray>
+        <bondArray/>
+        <formula concise='H 1'/>
+        <float title='molecularWeight' units='g/mol'>1.008</float>
+        <string title='smiles'>[H+]</string>
+      </molecule>
+    </cml>
+    <inchi datatype='string'>InChI=1S/p+1</inchi>
+    <inchi-key datatype='string'>InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N</inchi-key>
+    <appears-in-left-side-of>
+      <Reaction resource='getxml?GCF_000021485:RXN0-2421' orgid='GCF_000021485' frameid='RXN0-2421'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN2G89-3' orgid='GCF_000021485' frameid='TRANS-RXN2G89-3'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22286' orgid='GCF_000021485' frameid='RXN-22286'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-4821' orgid='GCF_000021485' frameid='RXN-4821'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-6081' orgid='GCF_000021485' frameid='RXN-6081'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8315' orgid='GCF_000021485' frameid='RXN-8315'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13329' orgid='GCF_000021485' frameid='RXN-13329'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22604' orgid='GCF_000021485' frameid='RXN-22604'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11811' orgid='GCF_000021485' frameid='RXN-11811'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12721' orgid='GCF_000021485' frameid='RXN-12721'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12864' orgid='GCF_000021485' frameid='RXN-12864'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8344' orgid='GCF_000021485' frameid='RXN-8344'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-745' orgid='GCF_000021485' frameid='RXN0-745'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-746' orgid='GCF_000021485' frameid='RXN0-746'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2DNV-42' orgid='GCF_000021485' frameid='RXN2DNV-42'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9789' orgid='GCF_000021485' frameid='RXN-9789'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-7081' orgid='GCF_000021485' frameid='RXN0-7081'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9632' orgid='GCF_000021485' frameid='RXN-9632'/>
+      <Reaction resource='getxml?GCF_000021485:CYTIDEAM-RXN' orgid='GCF_000021485' frameid='CYTIDEAM-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11361' orgid='GCF_000021485' frameid='RXN-11361'/>
+      <Reaction resource='getxml?GCF_000021485:GUANINE-DEAMINASE-RXN' orgid='GCF_000021485' frameid='GUANINE-DEAMINASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:R581-RXN' orgid='GCF_000021485' frameid='R581-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:OXALODECARB-RXN' orgid='GCF_000021485' frameid='OXALODECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5245' orgid='GCF_000021485' frameid='RXN0-5245'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16329' orgid='GCF_000021485' frameid='RXN-16329'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16330' orgid='GCF_000021485' frameid='RXN-16330'/>
+      <Reaction resource='getxml?GCF_000021485:SPONTPRO-RXN' orgid='GCF_000021485' frameid='SPONTPRO-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5222' orgid='GCF_000021485' frameid='RXN0-5222'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10035' orgid='GCF_000021485' frameid='RXN-10035'/>
+      <Reaction resource='getxml?GCF_000021485:CDPDIGLYSYN-RXN' orgid='GCF_000021485' frameid='CDPDIGLYSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-724' orgid='GCF_000021485' frameid='RXN0-724'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-723' orgid='GCF_000021485' frameid='RXN0-723'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21539' orgid='GCF_000021485' frameid='RXN-21539'/>
+      <Reaction resource='getxml?GCF_000021485:2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN' orgid='GCF_000021485' frameid='2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9277' orgid='GCF_000021485' frameid='RXN-9277'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9283' orgid='GCF_000021485' frameid='RXN-9283'/>
+      <Reaction resource='getxml?GCF_000021485:2-OCTAPRENYLPHENOL-HYDROX-RXN' orgid='GCF_000021485' frameid='2-OCTAPRENYLPHENOL-HYDROX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9190' orgid='GCF_000021485' frameid='RXN-9190'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-4342' orgid='GCF_000021485' frameid='RXN0-4342'/>
+      <Reaction resource='getxml?GCF_000021485:PROTOHEMEFERROCHELAT-RXN' orgid='GCF_000021485' frameid='PROTOHEMEFERROCHELAT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN0-286' orgid='GCF_000021485' frameid='TRANS-RXN0-286'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5224' orgid='GCF_000021485' frameid='RXN0-5224'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8642' orgid='GCF_000021485' frameid='RXN-8642'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21817' orgid='GCF_000021485' frameid='RXN-21817'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17801' orgid='GCF_000021485' frameid='RXN-17801'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17661' orgid='GCF_000021485' frameid='RXN-17661'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5266' orgid='GCF_000021485' frameid='RXN0-5266'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5268' orgid='GCF_000021485' frameid='RXN0-5268'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14452' orgid='GCF_000021485' frameid='RXN-14452'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1081' orgid='GCF_000021485' frameid='RXN0-1081'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8926' orgid='GCF_000021485' frameid='RXN-8926'/>
+      <Reaction resource='getxml?GCF_000021485:TRNA-S-TRANSFERASE-RXN' orgid='GCF_000021485' frameid='TRNA-S-TRANSFERASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9995' orgid='GCF_000021485' frameid='RXN-9995'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1483' orgid='GCF_000021485' frameid='RXN0-1483'/>
+      <Reaction resource='getxml?GCF_000021485:SUPEROX-DISMUT-RXN' orgid='GCF_000021485' frameid='SUPEROX-DISMUT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.3.1.180-RXN' orgid='GCF_000021485' frameid='2.3.1.180-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15878' orgid='GCF_000021485' frameid='RXN-15878'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-468' orgid='GCF_000021485' frameid='TRANS-RXN-468'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8348' orgid='GCF_000021485' frameid='RXN-8348'/>
+      <Reaction resource='getxml?GCF_000021485:MVHMETH-RXN' orgid='GCF_000021485' frameid='MVHMETH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RIBONUCLEOSIDE-TRIP-REDUCT-RXN' orgid='GCF_000021485' frameid='RIBONUCLEOSIDE-TRIP-REDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-982' orgid='GCF_000021485' frameid='RXN-982'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21024' orgid='GCF_000021485' frameid='RXN-21024'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21025' orgid='GCF_000021485' frameid='RXN-21025'/>
+      <Reaction resource='getxml?GCF_000021485:1.2.4.4-RXN' orgid='GCF_000021485' frameid='1.2.4.4-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1134' orgid='GCF_000021485' frameid='RXN0-1134'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12583' orgid='GCF_000021485' frameid='RXN-12583'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12019' orgid='GCF_000021485' frameid='RXN-12019'/>
+      <Reaction resource='getxml?GCF_000021485:CYTOCHROME-C-OXIDASE-RXN' orgid='GCF_000021485' frameid='CYTOCHROME-C-OXIDASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5265' orgid='GCF_000021485' frameid='RXN0-5265'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8941' orgid='GCF_000021485' frameid='RXN-8941'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5256' orgid='GCF_000021485' frameid='RXN0-5256'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5255' orgid='GCF_000021485' frameid='RXN0-5255'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6575' orgid='GCF_000021485' frameid='RXN0-6575'/>
+      <Reaction resource='getxml?GCF_000021485:SAMDECARB-RXN' orgid='GCF_000021485' frameid='SAMDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11484' orgid='GCF_000021485' frameid='RXN-11484'/>
+      <Reaction resource='getxml?GCF_000021485:7KAPSYN-RXN' orgid='GCF_000021485' frameid='7KAPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17472' orgid='GCF_000021485' frameid='RXN-17472'/>
+      <Reaction resource='getxml?GCF_000021485:AIRCARBOXY-RXN' orgid='GCF_000021485' frameid='AIRCARBOXY-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RIBOFLAVINSYNDEAM-RXN' orgid='GCF_000021485' frameid='RIBOFLAVINSYNDEAM-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10058' orgid='GCF_000021485' frameid='RXN-10058'/>
+      <Reaction resource='getxml?GCF_000021485:RIBOFLAVIN-SYN-RXN' orgid='GCF_000021485' frameid='RIBOFLAVIN-SYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:P-PANTOCYSDECARB-RXN' orgid='GCF_000021485' frameid='P-PANTOCYSDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PSERPHOSPHA-RXN' orgid='GCF_000021485' frameid='PSERPHOSPHA-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.7.7.60-RXN' orgid='GCF_000021485' frameid='2.7.7.60-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUC1PURIDYLTRANS-RXN' orgid='GCF_000021485' frameid='GLUC1PURIDYLTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-7192' orgid='GCF_000021485' frameid='RXN0-7192'/>
+      <Reaction resource='getxml?GCF_000021485:FADSYN-RXN' orgid='GCF_000021485' frameid='FADSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18511' orgid='GCF_000021485' frameid='RXN-18511'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15123' orgid='GCF_000021485' frameid='RXN-15123'/>
+      <Reaction resource='getxml?GCF_000021485:UROGENDECARBOX-RXN' orgid='GCF_000021485' frameid='UROGENDECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10642' orgid='GCF_000021485' frameid='RXN-10642'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8850' orgid='GCF_000021485' frameid='RXN-8850'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13997' orgid='GCF_000021485' frameid='RXN-13997'/>
+      <Reaction resource='getxml?GCF_000021485:ACETOLACTSYN-RXN' orgid='GCF_000021485' frameid='ACETOLACTSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ACETOOHBUTSYN-RXN' orgid='GCF_000021485' frameid='ACETOOHBUTSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PHOSPHASERDECARB-RXN' orgid='GCF_000021485' frameid='PHOSPHASERDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17918' orgid='GCF_000021485' frameid='RXN-17918'/>
+      <Reaction resource='getxml?GCF_000021485:ADENODEAMIN-RXN' orgid='GCF_000021485' frameid='ADENODEAMIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ADDALT-RXN' orgid='GCF_000021485' frameid='ADDALT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PREPHENATEDEHYDRAT-RXN' orgid='GCF_000021485' frameid='PREPHENATEDEHYDRAT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:OROTPDECARB-RXN' orgid='GCF_000021485' frameid='OROTPDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GCVP-RXN' orgid='GCF_000021485' frameid='GCVP-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ARGDECARBOX-RXN' orgid='GCF_000021485' frameid='ARGDECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17757' orgid='GCF_000021485' frameid='RXN-17757'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9535' orgid='GCF_000021485' frameid='RXN-9535'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9523' orgid='GCF_000021485' frameid='RXN-9523'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9527' orgid='GCF_000021485' frameid='RXN-9527'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9531' orgid='GCF_000021485' frameid='RXN-9531'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9516' orgid='GCF_000021485' frameid='RXN-9516'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11479' orgid='GCF_000021485' frameid='RXN-11479'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9539' orgid='GCF_000021485' frameid='RXN-9539'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11474' orgid='GCF_000021485' frameid='RXN-11474'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-BASE-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-BASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DXS-RXN' orgid='GCF_000021485' frameid='DXS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18211' orgid='GCF_000021485' frameid='RXN-18211'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18207' orgid='GCF_000021485' frameid='RXN-18207'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18201' orgid='GCF_000021485' frameid='RXN-18201'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18205' orgid='GCF_000021485' frameid='RXN-18205'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-7800' orgid='GCF_000021485' frameid='RXN-7800'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18209' orgid='GCF_000021485' frameid='RXN-18209'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18203' orgid='GCF_000021485' frameid='RXN-18203'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21601' orgid='GCF_000021485' frameid='RXN-21601'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16457' orgid='GCF_000021485' frameid='RXN-16457'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16456' orgid='GCF_000021485' frameid='RXN-16456'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21295' orgid='GCF_000021485' frameid='RXN-21295'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16427' orgid='GCF_000021485' frameid='RXN-16427'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-262' orgid='GCF_000021485' frameid='RXN0-262'/>
+      <Reaction resource='getxml?GCF_000021485:RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN' orgid='GCF_000021485' frameid='RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1461' orgid='GCF_000021485' frameid='RXN0-1461'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6490' orgid='GCF_000021485' frameid='RXN0-6490'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9238' orgid='GCF_000021485' frameid='RXN-9238'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15309' orgid='GCF_000021485' frameid='RXN-15309'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9231' orgid='GCF_000021485' frameid='RXN-9231'/>
+      <Reaction resource='getxml?GCF_000021485:3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN' orgid='GCF_000021485' frameid='3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9223' orgid='GCF_000021485' frameid='RXN-9223'/>
+      <Reaction resource='getxml?GCF_000021485:MERCURY-II-REDUCTASE-RXN' orgid='GCF_000021485' frameid='MERCURY-II-REDUCTASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:N-CARBAMOYLPUTRESCINE-AMIDASE-RXN' orgid='GCF_000021485' frameid='N-CARBAMOYLPUTRESCINE-AMIDASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-949' orgid='GCF_000021485' frameid='RXN0-949'/>
+      <Reaction resource='getxml?GCF_000021485:NADH-DEHYDROG-A-RXN' orgid='GCF_000021485' frameid='NADH-DEHYDROG-A-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21415' orgid='GCF_000021485' frameid='RXN-21415'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13519' orgid='GCF_000021485' frameid='RXN-13519'/>
+      <Reaction resource='getxml?GCF_000021485:1.6.99.5-RXN' orgid='GCF_000021485' frameid='1.6.99.5-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21546' orgid='GCF_000021485' frameid='RXN-21546'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21404' orgid='GCF_000021485' frameid='RXN-21404'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5330-YEAST' orgid='GCF_000021485' frameid='RXN0-5330-YEAST'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5244-yeast' orgid='GCF_000021485' frameid='RXN0-5244-yeast'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20991' orgid='GCF_000021485' frameid='RXN-20991'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5330' orgid='GCF_000021485' frameid='RXN0-5330'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-7123' orgid='GCF_000021485' frameid='RXN0-7123'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5254' orgid='GCF_000021485' frameid='RXN0-5254'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5248' orgid='GCF_000021485' frameid='RXN0-5248'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14118' orgid='GCF_000021485' frameid='RXN-14118'/>
+      <Reaction resource='getxml?GCF_000021485:DCTP-DEAM-RXN' orgid='GCF_000021485' frameid='DCTP-DEAM-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PANTEPADENYLYLTRAN-RXN' orgid='GCF_000021485' frameid='PANTEPADENYLYLTRAN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-3945' orgid='GCF_000021485' frameid='RXN-3945'/>
+      <Reaction resource='getxml?GCF_000021485:BENZOYLFORMATE-DECARBOXYLASE-RXN' orgid='GCF_000021485' frameid='BENZOYLFORMATE-DECARBOXYLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:HYDROXYBENZOYLFORMATE-DECARBOXYLASE-RXN' orgid='GCF_000021485' frameid='HYDROXYBENZOYLFORMATE-DECARBOXYLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUC1PADENYLTRANS-RXN' orgid='GCF_000021485' frameid='GLUC1PADENYLTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:NICONUCADENYLYLTRAN-RXN' orgid='GCF_000021485' frameid='NICONUCADENYLYLTRAN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.6.3.6-RXN' orgid='GCF_000021485' frameid='3.6.3.6-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ASPDECARBOX-RXN' orgid='GCF_000021485' frameid='ASPDECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-218' orgid='GCF_000021485' frameid='TRANS-RXN-218'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN0-237' orgid='GCF_000021485' frameid='TRANS-RXN0-237'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5244' orgid='GCF_000021485' frameid='RXN0-5244'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN0-234' orgid='GCF_000021485' frameid='TRANS-RXN0-234'/>
+      <Reaction resource='getxml?GCF_000021485:1.8.4.8-RXN' orgid='GCF_000021485' frameid='1.8.4.8-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:SULFATE-ADENYLYLTRANS-RXN' orgid='GCF_000021485' frameid='SULFATE-ADENYLYLTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12720' orgid='GCF_000021485' frameid='RXN-12720'/>
+      <Reaction resource='getxml?GCF_000021485:NAG1P-URIDYLTRANS-RXN' orgid='GCF_000021485' frameid='NAG1P-URIDYLTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ATPSYN-RXN' orgid='GCF_000021485' frameid='ATPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN1YI0-16' orgid='GCF_000021485' frameid='RXN1YI0-16'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21238' orgid='GCF_000021485' frameid='RXN-21238'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15447' orgid='GCF_000021485' frameid='RXN-15447'/>
+      <Reaction resource='getxml?GCF_000021485:NQOR-RXN' orgid='GCF_000021485' frameid='NQOR-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5259' orgid='GCF_000021485' frameid='RXN0-5259'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16333' orgid='GCF_000021485' frameid='RXN-16333'/>
+      <Reaction resource='getxml?GCF_000021485:IGPSYN-RXN' orgid='GCF_000021485' frameid='IGPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DIAMINOPIMDECARB-RXN' orgid='GCF_000021485' frameid='DIAMINOPIMDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.7.7.13-RXN' orgid='GCF_000021485' frameid='2.7.7.13-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DTDPGLUCOSEPP-RXN' orgid='GCF_000021485' frameid='DTDPGLUCOSEPP-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12611' orgid='GCF_000021485' frameid='RXN-12611'/>
+      <Reaction resource='getxml?GCF_000021485:THI-P-SYN-RXN' orgid='GCF_000021485' frameid='THI-P-SYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12610' orgid='GCF_000021485' frameid='RXN-12610'/>
+    </appears-in-left-side-of>
+    <common-name datatype='string'>H&lt;SUP&gt;+&lt;/SUP&gt;</common-name>
+    <appears-in-right-side-of>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN2G89-7' orgid='GCF_000021485' frameid='TRANS-RXN2G89-7'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-2421' orgid='GCF_000021485' frameid='RXN0-2421'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN2G89-6' orgid='GCF_000021485' frameid='TRANS-RXN2G89-6'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN2G89-5' orgid='GCF_000021485' frameid='TRANS-RXN2G89-5'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN2G89-4' orgid='GCF_000021485' frameid='TRANS-RXN2G89-4'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN2G89-3' orgid='GCF_000021485' frameid='TRANS-RXN2G89-3'/>
+      <Reaction resource='getxml?GCF_000021485:ABC-63-RXN' orgid='GCF_000021485' frameid='ABC-63-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17883' orgid='GCF_000021485' frameid='RXN-17883'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22317' orgid='GCF_000021485' frameid='RXN-22317'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22319' orgid='GCF_000021485' frameid='RXN-22319'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16454' orgid='GCF_000021485' frameid='RXN-16454'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22287' orgid='GCF_000021485' frameid='RXN-22287'/>
+      <Reaction resource='getxml?GCF_000021485:GLUCONOLACT-RXN' orgid='GCF_000021485' frameid='GLUCONOLACT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22315' orgid='GCF_000021485' frameid='RXN-22315'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22388' orgid='GCF_000021485' frameid='RXN-22388'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17753' orgid='GCF_000021485' frameid='RXN-17753'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18032' orgid='GCF_000021485' frameid='RXN-18032'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22285' orgid='GCF_000021485' frameid='RXN-22285'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19022' orgid='GCF_000021485' frameid='RXN-19022'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18031' orgid='GCF_000021485' frameid='RXN-18031'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22316' orgid='GCF_000021485' frameid='RXN-22316'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21454' orgid='GCF_000021485' frameid='RXN-21454'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22487' orgid='GCF_000021485' frameid='RXN-22487'/>
+      <Reaction resource='getxml?GCF_000021485:H2PTERIDINEPYROPHOSPHOKIN-RXN' orgid='GCF_000021485' frameid='H2PTERIDINEPYROPHOSPHOKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN' orgid='GCF_000021485' frameid='H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5507' orgid='GCF_000021485' frameid='RXN0-5507'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11951' orgid='GCF_000021485' frameid='RXN-11951'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11952' orgid='GCF_000021485' frameid='RXN-11952'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18796' orgid='GCF_000021485' frameid='RXN-18796'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18797' orgid='GCF_000021485' frameid='RXN-18797'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8380' orgid='GCF_000021485' frameid='RXN-8380'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12867' orgid='GCF_000021485' frameid='RXN-12867'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12865' orgid='GCF_000021485' frameid='RXN-12865'/>
+      <Reaction resource='getxml?GCF_000021485:SULFITE-REDUCT-RXN' orgid='GCF_000021485' frameid='SULFITE-REDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ABC-19-RXN' orgid='GCF_000021485' frameid='ABC-19-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DEOXYCYTIDINE-KINASE-RXN' orgid='GCF_000021485' frameid='DEOXYCYTIDINE-KINASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17025' orgid='GCF_000021485' frameid='RXN-17025'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22455' orgid='GCF_000021485' frameid='RXN-22455'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9627' orgid='GCF_000021485' frameid='RXN-9627'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9624' orgid='GCF_000021485' frameid='RXN-9624'/>
+      <Reaction resource='getxml?GCF_000021485:THIAZOLSYN3-RXN' orgid='GCF_000021485' frameid='THIAZOLSYN3-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9666' orgid='GCF_000021485' frameid='RXN-9666'/>
+      <Reaction resource='getxml?GCF_000021485:PALMITOYL-COA-HYDROLASE-RXN' orgid='GCF_000021485' frameid='PALMITOYL-COA-HYDROLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12198' orgid='GCF_000021485' frameid='RXN-12198'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12196' orgid='GCF_000021485' frameid='RXN-12196'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12197' orgid='GCF_000021485' frameid='RXN-12197'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17880' orgid='GCF_000021485' frameid='RXN-17880'/>
+      <Reaction resource='getxml?GCF_000021485:HYDROXYLAMINE-REDUCTASE-NADH-RXN' orgid='GCF_000021485' frameid='HYDROXYLAMINE-REDUCTASE-NADH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11319' orgid='GCF_000021485' frameid='RXN-11319'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12614' orgid='GCF_000021485' frameid='RXN-12614'/>
+      <Reaction resource='getxml?GCF_000021485:PPPGPPHYDRO-RXN' orgid='GCF_000021485' frameid='PPPGPPHYDRO-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GDPPYPHOSKIN-RXN' orgid='GCF_000021485' frameid='GDPPYPHOSKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9548' orgid='GCF_000021485' frameid='RXN-9548'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5144' orgid='GCF_000021485' frameid='RXN0-5144'/>
+      <Reaction resource='getxml?GCF_000021485:ERYTH4PDEHYDROG-RXN' orgid='GCF_000021485' frameid='ERYTH4PDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ERYTHRON4PDEHYDROG-RXN' orgid='GCF_000021485' frameid='ERYTHRON4PDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.1.2.21-RXN' orgid='GCF_000021485' frameid='3.1.2.21-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9549' orgid='GCF_000021485' frameid='RXN-9549'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16685' orgid='GCF_000021485' frameid='RXN-16685'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16688' orgid='GCF_000021485' frameid='RXN-16688'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16689' orgid='GCF_000021485' frameid='RXN-16689'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16690' orgid='GCF_000021485' frameid='RXN-16690'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16687' orgid='GCF_000021485' frameid='RXN-16687'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16691' orgid='GCF_000021485' frameid='RXN-16691'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-7682' orgid='GCF_000021485' frameid='RXN-7682'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8342' orgid='GCF_000021485' frameid='RXN-8342'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12473' orgid='GCF_000021485' frameid='RXN-12473'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-7605' orgid='GCF_000021485' frameid='RXN-7605'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-901' orgid='GCF_000021485' frameid='RXN0-901'/>
+      <Reaction resource='getxml?GCF_000021485:MALATE-DEHYDROGENASE-NADP+-RXN' orgid='GCF_000021485' frameid='MALATE-DEHYDROGENASE-NADP+-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2-DEHYDROPANTOATE-REDUCT-RXN' orgid='GCF_000021485' frameid='2-DEHYDROPANTOATE-REDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLYC3PDEHYDROGBIOSYN-RXN' orgid='GCF_000021485' frameid='GLYC3PDEHYDROGBIOSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6710' orgid='GCF_000021485' frameid='RXN0-6710'/>
+      <Reaction resource='getxml?GCF_000021485:MALSYN-RXN' orgid='GCF_000021485' frameid='MALSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:6PFRUCTPHOS-RXN' orgid='GCF_000021485' frameid='6PFRUCTPHOS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUCOKIN-RXN' orgid='GCF_000021485' frameid='GLUCOKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22427' orgid='GCF_000021485' frameid='RXN-22427'/>
+      <Reaction resource='getxml?GCF_000021485:1.2.1.13-RXN' orgid='GCF_000021485' frameid='1.2.1.13-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12195' orgid='GCF_000021485' frameid='RXN-12195'/>
+      <Reaction resource='getxml?GCF_000021485:GTP-CYCLOHYDRO-II-RXN' orgid='GCF_000021485' frameid='GTP-CYCLOHYDRO-II-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ACETYLHOMOSER-CYS-RXN' orgid='GCF_000021485' frameid='ACETYLHOMOSER-CYS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DIHYDROFOLATEREDUCT-RXN' orgid='GCF_000021485' frameid='DIHYDROFOLATEREDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22438' orgid='GCF_000021485' frameid='RXN-22438'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21538' orgid='GCF_000021485' frameid='RXN-21538'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9280' orgid='GCF_000021485' frameid='RXN-9280'/>
+      <Reaction resource='getxml?GCF_000021485:ACYL-COA-HYDROLASE-RXN' orgid='GCF_000021485' frameid='ACYL-COA-HYDROLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12514' orgid='GCF_000021485' frameid='RXN-12514'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6998' orgid='GCF_000021485' frameid='RXN0-6998'/>
+      <Reaction resource='getxml?GCF_000021485:DALADALALIG-RXN' orgid='GCF_000021485' frameid='DALADALALIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN0-286' orgid='GCF_000021485' frameid='TRANS-RXN0-286'/>
+      <Reaction resource='getxml?GCF_000021485:6.3.2.10-RXN' orgid='GCF_000021485' frameid='6.3.2.10-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:UDP-NACMURALGLDAPAALIG-RXN' orgid='GCF_000021485' frameid='UDP-NACMURALGLDAPAALIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22608' orgid='GCF_000021485' frameid='RXN-22608'/>
+      <Reaction resource='getxml?GCF_000021485:2.4.1.109-RXN' orgid='GCF_000021485' frameid='2.4.1.109-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:1.17.1.1-RXN' orgid='GCF_000021485' frameid='1.17.1.1-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13161' orgid='GCF_000021485' frameid='RXN-13161'/>
+      <Reaction resource='getxml?GCF_000021485:FESGSHTHIO-RXN' orgid='GCF_000021485' frameid='FESGSHTHIO-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16574' orgid='GCF_000021485' frameid='RXN-16574'/>
+      <Reaction resource='getxml?GCF_000021485:ENOYL-ACP-REDUCT-NADH-RXN' orgid='GCF_000021485' frameid='ENOYL-ACP-REDUCT-NADH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9515' orgid='GCF_000021485' frameid='RXN-9515'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9530' orgid='GCF_000021485' frameid='RXN-9530'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9526' orgid='GCF_000021485' frameid='RXN-9526'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9521' orgid='GCF_000021485' frameid='RXN-9521'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9534' orgid='GCF_000021485' frameid='RXN-9534'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9542' orgid='GCF_000021485' frameid='RXN-9542'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9538' orgid='GCF_000021485' frameid='RXN-9538'/>
+      <Reaction resource='getxml?GCF_000021485:ENOYL-ACP-REDUCT-NADPH-RXN' orgid='GCF_000021485' frameid='ENOYL-ACP-REDUCT-NADPH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9662' orgid='GCF_000021485' frameid='RXN-9662'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9659' orgid='GCF_000021485' frameid='RXN-9659'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11482' orgid='GCF_000021485' frameid='RXN-11482'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9663' orgid='GCF_000021485' frameid='RXN-9663'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9660' orgid='GCF_000021485' frameid='RXN-9660'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9657' orgid='GCF_000021485' frameid='RXN-9657'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16632' orgid='GCF_000021485' frameid='RXN-16632'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9661' orgid='GCF_000021485' frameid='RXN-9661'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9658' orgid='GCF_000021485' frameid='RXN-9658'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11478' orgid='GCF_000021485' frameid='RXN-11478'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9951' orgid='GCF_000021485' frameid='RXN-9951'/>
+      <Reaction resource='getxml?GCF_000021485:NAD-SYNTH-NH3-RXN' orgid='GCF_000021485' frameid='NAD-SYNTH-NH3-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:R82-RXN' orgid='GCF_000021485' frameid='R82-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:NAD-KIN-RXN' orgid='GCF_000021485' frameid='NAD-KIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:NADH-KINASE-RXN' orgid='GCF_000021485' frameid='NADH-KINASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:HOMOSERDEHYDROG-RXN' orgid='GCF_000021485' frameid='HOMOSERDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1061' orgid='GCF_000021485' frameid='RXN0-1061'/>
+      <Reaction resource='getxml?GCF_000021485:GTPPYPHOSKIN-RXN' orgid='GCF_000021485' frameid='GTPPYPHOSKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19774' orgid='GCF_000021485' frameid='RXN-19774'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17363' orgid='GCF_000021485' frameid='RXN-17363'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21817' orgid='GCF_000021485' frameid='RXN-21817'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17801' orgid='GCF_000021485' frameid='RXN-17801'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17884' orgid='GCF_000021485' frameid='RXN-17884'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-2962' orgid='GCF_000021485' frameid='RXN-2962'/>
+      <Reaction resource='getxml?GCF_000021485:DGTPTRIPHYDRO-RXN' orgid='GCF_000021485' frameid='DGTPTRIPHYDRO-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:SHIKIMATE-KINASE-RXN' orgid='GCF_000021485' frameid='SHIKIMATE-KINASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5422' orgid='GCF_000021485' frameid='RXN0-5422'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-1241' orgid='GCF_000021485' frameid='RXN-1241'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5266' orgid='GCF_000021485' frameid='RXN0-5266'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5268' orgid='GCF_000021485' frameid='RXN0-5268'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14452' orgid='GCF_000021485' frameid='RXN-14452'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11588' orgid='GCF_000021485' frameid='RXN-11588'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9772' orgid='GCF_000021485' frameid='RXN-9772'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-4341' orgid='GCF_000021485' frameid='RXN0-4341'/>
+      <Reaction resource='getxml?GCF_000021485:2.4.2.37-RXN' orgid='GCF_000021485' frameid='2.4.2.37-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN' orgid='GCF_000021485' frameid='SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-491' orgid='GCF_000021485' frameid='TRANS-RXN-491'/>
+      <Reaction resource='getxml?GCF_000021485:PANTOATE-BETA-ALANINE-LIG-RXN' orgid='GCF_000021485' frameid='PANTOATE-BETA-ALANINE-LIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.7.1.145-RXN' orgid='GCF_000021485' frameid='2.7.1.145-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DEOXYGUANOSINE-KINASE-RXN' orgid='GCF_000021485' frameid='DEOXYGUANOSINE-KINASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DEOXYADENOSINE-KINASE-RXN' orgid='GCF_000021485' frameid='DEOXYADENOSINE-KINASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:THYKI-RXN' orgid='GCF_000021485' frameid='THYKI-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DURIDKI-RXN' orgid='GCF_000021485' frameid='DURIDKI-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14093' orgid='GCF_000021485' frameid='RXN-14093'/>
+      <Reaction resource='getxml?GCF_000021485:3.1.1.77-RXN' orgid='GCF_000021485' frameid='3.1.1.77-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:4.2.1.93-RXN' orgid='GCF_000021485' frameid='4.2.1.93-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13139' orgid='GCF_000021485' frameid='RXN-13139'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5462' orgid='GCF_000021485' frameid='RXN0-5462'/>
+      <Reaction resource='getxml?GCF_000021485:GLU6PDEHYDROG-RXN' orgid='GCF_000021485' frameid='GLU6PDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-468' orgid='GCF_000021485' frameid='TRANS-RXN-468'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9384' orgid='GCF_000021485' frameid='RXN-9384'/>
+      <Reaction resource='getxml?GCF_000021485:DIHYDROFOLATESYNTH-RXN' orgid='GCF_000021485' frameid='DIHYDROFOLATESYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2DNV-43' orgid='GCF_000021485' frameid='RXN2DNV-43'/>
+      <Reaction resource='getxml?GCF_000021485:6.3.5.6-RXN' orgid='GCF_000021485' frameid='6.3.5.6-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20081' orgid='GCF_000021485' frameid='RXN-20081'/>
+      <Reaction resource='getxml?GCF_000021485:6.3.5.7-RXN' orgid='GCF_000021485' frameid='6.3.5.7-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20083' orgid='GCF_000021485' frameid='RXN-20083'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13528' orgid='GCF_000021485' frameid='RXN-13528'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5510' orgid='GCF_000021485' frameid='RXN0-5510'/>
+      <Reaction resource='getxml?GCF_000021485:GLUCOSE-1-DEHYDROGENASE-NADP+-RXN' orgid='GCF_000021485' frameid='GLUCOSE-1-DEHYDROGENASE-NADP+-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.7.13.3-RXN' orgid='GCF_000021485' frameid='2.7.13.3-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17956' orgid='GCF_000021485' frameid='RXN-17956'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6734' orgid='GCF_000021485' frameid='RXN0-6734'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1603' orgid='GCF_000021485' frameid='RXN0-1603'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1602' orgid='GCF_000021485' frameid='RXN0-1602'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6382' orgid='GCF_000021485' frameid='RXN0-6382'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11135' orgid='GCF_000021485' frameid='RXN-11135'/>
+      <Reaction resource='getxml?GCF_000021485:RXN1A0-6303' orgid='GCF_000021485' frameid='RXN1A0-6303'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21299' orgid='GCF_000021485' frameid='RXN-21299'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-3221' orgid='GCF_000021485' frameid='RXN0-3221'/>
+      <Reaction resource='getxml?GCF_000021485:RNTRACTIV-RXN' orgid='GCF_000021485' frameid='RNTRACTIV-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PRPPSYN-RXN' orgid='GCF_000021485' frameid='PRPPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17823' orgid='GCF_000021485' frameid='RXN-17823'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21027' orgid='GCF_000021485' frameid='RXN-21027'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19004' orgid='GCF_000021485' frameid='RXN-19004'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11592' orgid='GCF_000021485' frameid='RXN-11592'/>
+      <Reaction resource='getxml?GCF_000021485:MALATE-DEH-RXN' orgid='GCF_000021485' frameid='MALATE-DEH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.8.1.11-RXN' orgid='GCF_000021485' frameid='3.8.1.11-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-6263' orgid='GCF_000021485' frameid='RXN-6263'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-6264' orgid='GCF_000021485' frameid='RXN-6264'/>
+      <Reaction resource='getxml?GCF_000021485:2-HALOACID-DEHALOGENASE-RXN' orgid='GCF_000021485' frameid='2-HALOACID-DEHALOGENASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-961' orgid='GCF_000021485' frameid='RXN-961'/>
+      <Reaction resource='getxml?GCF_000021485:CITSYN-RXN' orgid='GCF_000021485' frameid='CITSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21228' orgid='GCF_000021485' frameid='RXN-21228'/>
+      <Reaction resource='getxml?GCF_000021485:CYTOCHROME-C-OXIDASE-RXN' orgid='GCF_000021485' frameid='CYTOCHROME-C-OXIDASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18798' orgid='GCF_000021485' frameid='RXN-18798'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18710' orgid='GCF_000021485' frameid='RXN-18710'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-7068' orgid='GCF_000021485' frameid='RXN0-7068'/>
+      <Reaction resource='getxml?GCF_000021485:GAPOXNPHOSPHN-RXN' orgid='GCF_000021485' frameid='GAPOXNPHOSPHN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-477' orgid='GCF_000021485' frameid='TRANS-RXN-477'/>
+      <Reaction resource='getxml?GCF_000021485:3.4.24.11-RXN' orgid='GCF_000021485' frameid='3.4.24.11-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5256' orgid='GCF_000021485' frameid='RXN0-5256'/>
+      <Reaction resource='getxml?GCF_000021485:OHMETPYRKIN-RXN' orgid='GCF_000021485' frameid='OHMETPYRKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:METHIONYL-TRNA-FORMYLTRANSFERASE-RXN' orgid='GCF_000021485' frameid='METHIONYL-TRNA-FORMYLTRANSFERASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11591' orgid='GCF_000021485' frameid='RXN-11591'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12093' orgid='GCF_000021485' frameid='RXN-12093'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6366' orgid='GCF_000021485' frameid='RXN0-6366'/>
+      <Reaction resource='getxml?GCF_000021485:1.1.1.253-RXN' orgid='GCF_000021485' frameid='1.1.1.253-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11637' orgid='GCF_000021485' frameid='RXN-11637'/>
+      <Reaction resource='getxml?GCF_000021485:SPERMIDINESYN-RXN' orgid='GCF_000021485' frameid='SPERMIDINESYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11633' orgid='GCF_000021485' frameid='RXN-11633'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1241' orgid='GCF_000021485' frameid='RXN0-1241'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-4621' orgid='GCF_000021485' frameid='RXN0-4621'/>
+      <Reaction resource='getxml?GCF_000021485:SHIKIMATE-5-DEHYDROGENASE-RXN' orgid='GCF_000021485' frameid='SHIKIMATE-5-DEHYDROGENASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DEPHOSPHOCOAKIN-RXN' orgid='GCF_000021485' frameid='DEPHOSPHOCOAKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:BIOTIN-CARBOXYL-RXN' orgid='GCF_000021485' frameid='BIOTIN-CARBOXYL-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:UDPNACETYLMURAMATEDEHYDROG-RXN' orgid='GCF_000021485' frameid='UDPNACETYLMURAMATEDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:UDP-NACMUR-ALA-LIG-RXN' orgid='GCF_000021485' frameid='UDP-NACMUR-ALA-LIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11346' orgid='GCF_000021485' frameid='RXN-11346'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8976' orgid='GCF_000021485' frameid='RXN-8976'/>
+      <Reaction resource='getxml?GCF_000021485:NACGLCTRANS-RXN' orgid='GCF_000021485' frameid='NACGLCTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22615' orgid='GCF_000021485' frameid='RXN-22615'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22611' orgid='GCF_000021485' frameid='RXN-22611'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11029' orgid='GCF_000021485' frameid='RXN-11029'/>
+      <Reaction resource='getxml?GCF_000021485:UDP-NACMURALA-GLU-LIG-RXN' orgid='GCF_000021485' frameid='UDP-NACMURALA-GLU-LIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:UDP-NACMURALGLDAPLIG-RXN' orgid='GCF_000021485' frameid='UDP-NACMURALGLDAPLIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11638' orgid='GCF_000021485' frameid='RXN-11638'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22248' orgid='GCF_000021485' frameid='RXN-22248'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2DNV-4' orgid='GCF_000021485' frameid='RXN2DNV-4'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20790' orgid='GCF_000021485' frameid='RXN-20790'/>
+      <Reaction resource='getxml?GCF_000021485:KDOTRANS-RXN' orgid='GCF_000021485' frameid='KDOTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22486' orgid='GCF_000021485' frameid='RXN-22486'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2B4Q-54' orgid='GCF_000021485' frameid='RXN2B4Q-54'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11860' orgid='GCF_000021485' frameid='RXN-11860'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11865' orgid='GCF_000021485' frameid='RXN-11865'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11483' orgid='GCF_000021485' frameid='RXN-11483'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17848' orgid='GCF_000021485' frameid='RXN-17848'/>
+      <Reaction resource='getxml?GCF_000021485:LEUCYLTRANSFERASE-RXN' orgid='GCF_000021485' frameid='LEUCYLTRANSFERASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17847' orgid='GCF_000021485' frameid='RXN-17847'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17846' orgid='GCF_000021485' frameid='RXN-17846'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17891' orgid='GCF_000021485' frameid='RXN-17891'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17890' orgid='GCF_000021485' frameid='RXN-17890'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17889' orgid='GCF_000021485' frameid='RXN-17889'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17888' orgid='GCF_000021485' frameid='RXN-17888'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17473' orgid='GCF_000021485' frameid='RXN-17473'/>
+      <Reaction resource='getxml?GCF_000021485:RXN66-546' orgid='GCF_000021485' frameid='RXN66-546'/>
+      <Reaction resource='getxml?GCF_000021485:PYRROLINECARBREDUCT-RXN' orgid='GCF_000021485' frameid='PYRROLINECARBREDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-742' orgid='GCF_000021485' frameid='RXN0-742'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9205' orgid='GCF_000021485' frameid='RXN-9205'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9191' orgid='GCF_000021485' frameid='RXN-9191'/>
+      <Reaction resource='getxml?GCF_000021485:ADOMET-DMK-METHYLTRANSFER-RXN' orgid='GCF_000021485' frameid='ADOMET-DMK-METHYLTRANSFER-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9220' orgid='GCF_000021485' frameid='RXN-9220'/>
+      <Reaction resource='getxml?GCF_000021485:2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN' orgid='GCF_000021485' frameid='2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RIBOFLAVINSYNREDUC-RXN' orgid='GCF_000021485' frameid='RIBOFLAVINSYNREDUC-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:LUMAZINESYN-RXN' orgid='GCF_000021485' frameid='LUMAZINESYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DUTP-PYROP-RXN' orgid='GCF_000021485' frameid='DUTP-PYROP-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:P-PANTOCYSLIG-RXN' orgid='GCF_000021485' frameid='P-PANTOCYSLIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DIACYLGLYKIN-RXN' orgid='GCF_000021485' frameid='DIACYLGLYKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTATHIONE-REDUCT-NADPH-RXN' orgid='GCF_000021485' frameid='GLUTATHIONE-REDUCT-NADPH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:THIOREDOXIN-REDUCT-NADPH-RXN' orgid='GCF_000021485' frameid='THIOREDOXIN-REDUCT-NADPH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLYOXII-RXN' orgid='GCF_000021485' frameid='GLYOXII-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-7919' orgid='GCF_000021485' frameid='RXN-7919'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10' orgid='GCF_000021485' frameid='RXN-10'/>
+      <Reaction resource='getxml?GCF_000021485:ARGSUCCINSYN-RXN' orgid='GCF_000021485' frameid='ARGSUCCINSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ORNCARBAMTRANSFER-RXN' orgid='GCF_000021485' frameid='ORNCARBAMTRANSFER-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:NAD-SYNTH-GLN-RXN' orgid='GCF_000021485' frameid='NAD-SYNTH-GLN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DTDPDEHYRHAMREDUCT-RXN' orgid='GCF_000021485' frameid='DTDPDEHYRHAMREDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PANTOTHENATE-KIN-RXN' orgid='GCF_000021485' frameid='PANTOTHENATE-KIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:BIOTINLIG-RXN' orgid='GCF_000021485' frameid='BIOTINLIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22002' orgid='GCF_000021485' frameid='RXN-22002'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTSEMIALDEHYDROG-RXN' orgid='GCF_000021485' frameid='GLUTSEMIALDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTAMINESYN-RXN' orgid='GCF_000021485' frameid='GLUTAMINESYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2B4Q-53' orgid='GCF_000021485' frameid='RXN2B4Q-53'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2DNV-3' orgid='GCF_000021485' frameid='RXN2DNV-3'/>
+      <Reaction resource='getxml?GCF_000021485:TETRAACYLDISACC4KIN-RXN' orgid='GCF_000021485' frameid='TETRAACYLDISACC4KIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22238' orgid='GCF_000021485' frameid='RXN-22238'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20784' orgid='GCF_000021485' frameid='RXN-20784'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22485' orgid='GCF_000021485' frameid='RXN-22485'/>
+      <Reaction resource='getxml?GCF_000021485:INORGPYROPHOSPHAT-RXN' orgid='GCF_000021485' frameid='INORGPYROPHOSPHAT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:1.5.1.20-RXN' orgid='GCF_000021485' frameid='1.5.1.20-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PHOSPHORIBULOKINASE-RXN' orgid='GCF_000021485' frameid='PHOSPHORIBULOKINASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:1.6.4.4-RXN' orgid='GCF_000021485' frameid='1.6.4.4-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RIBOFLAVINKIN-RXN' orgid='GCF_000021485' frameid='RIBOFLAVINKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18510' orgid='GCF_000021485' frameid='RXN-18510'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5063' orgid='GCF_000021485' frameid='RXN0-5063'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14480' orgid='GCF_000021485' frameid='RXN-14480'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14481' orgid='GCF_000021485' frameid='RXN-14481'/>
+      <Reaction resource='getxml?GCF_000021485:UNDECAPRENYL-DIPHOSPHATASE-RXN' orgid='GCF_000021485' frameid='UNDECAPRENYL-DIPHOSPHATASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:CARBPSYN-RXN' orgid='GCF_000021485' frameid='CARBPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13202' orgid='GCF_000021485' frameid='RXN-13202'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16910' orgid='GCF_000021485' frameid='RXN-16910'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-2361' orgid='GCF_000021485' frameid='RXN0-2361'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-7022' orgid='GCF_000021485' frameid='RXN0-7022'/>
+      <Reaction resource='getxml?GCF_000021485:N-ACETYLTRANSFER-RXN' orgid='GCF_000021485' frameid='N-ACETYLTRANSFER-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6948' orgid='GCF_000021485' frameid='RXN0-6948'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16820' orgid='GCF_000021485' frameid='RXN-16820'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-2023' orgid='GCF_000021485' frameid='RXN0-2023'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18693' orgid='GCF_000021485' frameid='RXN-18693'/>
+      <Reaction resource='getxml?GCF_000021485:S-FORMYLGLUTATHIONE-HYDROLASE-RXN' orgid='GCF_000021485' frameid='S-FORMYLGLUTATHIONE-HYDROLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15122' orgid='GCF_000021485' frameid='RXN-15122'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTAMATESYN-RXN' orgid='GCF_000021485' frameid='GLUTAMATESYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTDEHYD-RXN' orgid='GCF_000021485' frameid='GLUTDEHYD-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ACETOLACTREDUCTOISOM-RXN' orgid='GCF_000021485' frameid='ACETOLACTREDUCTOISOM-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ACETOOHBUTREDUCTOISOM-RXN' orgid='GCF_000021485' frameid='ACETOOHBUTREDUCTOISOM-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PHOSPHASERSYN-RXN' orgid='GCF_000021485' frameid='PHOSPHASERSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-4022' orgid='GCF_000021485' frameid='RXN0-4022'/>
+      <Reaction resource='getxml?GCF_000021485:DNA-LIGASE-NAD+-RXN' orgid='GCF_000021485' frameid='DNA-LIGASE-NAD+-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17920' orgid='GCF_000021485' frameid='RXN-17920'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17919' orgid='GCF_000021485' frameid='RXN-17919'/>
+      <Reaction resource='getxml?GCF_000021485:GAMMA-GLUTAMYLTRANSFERASE-RXN' orgid='GCF_000021485' frameid='GAMMA-GLUTAMYLTRANSFERASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:CTPSYN-RXN' orgid='GCF_000021485' frameid='CTPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14325' orgid='GCF_000021485' frameid='RXN-14325'/>
+      <Reaction resource='getxml?GCF_000021485:PHOSPHAGLYPSYN-RXN' orgid='GCF_000021485' frameid='PHOSPHAGLYPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PGLYCDEHYDROG-RXN' orgid='GCF_000021485' frameid='PGLYCDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22623' orgid='GCF_000021485' frameid='RXN-22623'/>
+      <Reaction resource='getxml?GCF_000021485:3.4.21.92-RXN' orgid='GCF_000021485' frameid='3.4.21.92-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.4.21.53-RXN' orgid='GCF_000021485' frameid='3.4.21.53-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PYRIMSYN1-RXN' orgid='GCF_000021485' frameid='PYRIMSYN1-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.7.10.1-RXN' orgid='GCF_000021485' frameid='2.7.10.1-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ASNSYNB-RXN' orgid='GCF_000021485' frameid='ASNSYNB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ASNSYNA-RXN' orgid='GCF_000021485' frameid='ASNSYNA-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:L-ASPARTATE-OXID-RXN' orgid='GCF_000021485' frameid='L-ASPARTATE-OXID-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PDXJ-RXN' orgid='GCF_000021485' frameid='PDXJ-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16759' orgid='GCF_000021485' frameid='RXN-16759'/>
+      <Reaction resource='getxml?GCF_000021485:HOLO-ACP-SYNTH-RXN' orgid='GCF_000021485' frameid='HOLO-ACP-SYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19477' orgid='GCF_000021485' frameid='RXN-19477'/>
+      <Reaction resource='getxml?GCF_000021485:ENTDB-RXN' orgid='GCF_000021485' frameid='ENTDB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10994' orgid='GCF_000021485' frameid='RXN-10994'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15889' orgid='GCF_000021485' frameid='RXN-15889'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19493' orgid='GCF_000021485' frameid='RXN-19493'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10674' orgid='GCF_000021485' frameid='RXN-10674'/>
+      <Reaction resource='getxml?GCF_000021485:ABC-27-RXN' orgid='GCF_000021485' frameid='ABC-27-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22326' orgid='GCF_000021485' frameid='RXN-22326'/>
+      <Reaction resource='getxml?GCF_000021485:DXPREDISOM-RXN' orgid='GCF_000021485' frameid='DXPREDISOM-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2B4Q-50' orgid='GCF_000021485' frameid='RXN2B4Q-50'/>
+      <Reaction resource='getxml?GCF_000021485:UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN' orgid='GCF_000021485' frameid='UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22241' orgid='GCF_000021485' frameid='RXN-22241'/>
+      <Reaction resource='getxml?GCF_000021485:RXNI-27' orgid='GCF_000021485' frameid='RXNI-27'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20787' orgid='GCF_000021485' frameid='RXN-20787'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22482' orgid='GCF_000021485' frameid='RXN-22482'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22245' orgid='GCF_000021485' frameid='RXN-22245'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20785' orgid='GCF_000021485' frameid='RXN-20785'/>
+      <Reaction resource='getxml?GCF_000021485:LIPIDADISACCHARIDESYNTH-RXN' orgid='GCF_000021485' frameid='LIPIDADISACCHARIDESYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2B4Q-52' orgid='GCF_000021485' frameid='RXN2B4Q-52'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22237' orgid='GCF_000021485' frameid='RXN-22237'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2DNV-2' orgid='GCF_000021485' frameid='RXN2DNV-2'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22484' orgid='GCF_000021485' frameid='RXN-22484'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-1961' orgid='GCF_000021485' frameid='RXN-1961'/>
+      <Reaction resource='getxml?GCF_000021485:HOMOCITRATE-SYNTHASE-RXN' orgid='GCF_000021485' frameid='HOMOCITRATE-SYNTHASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20037' orgid='GCF_000021485' frameid='RXN-20037'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12621' orgid='GCF_000021485' frameid='RXN-12621'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20190' orgid='GCF_000021485' frameid='RXN-20190'/>
+      <Reaction resource='getxml?GCF_000021485:NITROGENASE-RXN' orgid='GCF_000021485' frameid='NITROGENASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:SUCROSE-SYNTHASE-RXN' orgid='GCF_000021485' frameid='SUCROSE-SYNTHASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-6222' orgid='GCF_000021485' frameid='RXN-6222'/>
+      <Reaction resource='getxml?GCF_000021485:HYDROXYLAMINE-REDUCTASE-RXN' orgid='GCF_000021485' frameid='HYDROXYLAMINE-REDUCTASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DIHYDROOROT-RXN' orgid='GCF_000021485' frameid='DIHYDROOROT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DETHIOBIOTIN-SYN-RXN' orgid='GCF_000021485' frameid='DETHIOBIOTIN-SYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN1ZN3-9' orgid='GCF_000021485' frameid='RXN1ZN3-9'/>
+      <Reaction resource='getxml?GCF_000021485:RXN1ZN3-10' orgid='GCF_000021485' frameid='RXN1ZN3-10'/>
+      <Reaction resource='getxml?GCF_000021485:IMP-DEHYDROG-RXN' orgid='GCF_000021485' frameid='IMP-DEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GMP-SYN-GLUT-RXN' orgid='GCF_000021485' frameid='GMP-SYN-GLUT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GMP-SYN-NH3-RXN' orgid='GCF_000021485' frameid='GMP-SYN-NH3-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PEPSYNTH-RXN' orgid='GCF_000021485' frameid='PEPSYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2-OCTAPRENYL-6-OHPHENOL-METHY-RXN' orgid='GCF_000021485' frameid='2-OCTAPRENYL-6-OHPHENOL-METHY-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DHHB-METHYLTRANSFER-RXN' orgid='GCF_000021485' frameid='DHHB-METHYLTRANSFER-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:METHENYLTHFCYCLOHYDRO-RXN' orgid='GCF_000021485' frameid='METHENYLTHFCYCLOHYDRO-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ADENYLOSUCCINATE-SYNTHASE-RXN' orgid='GCF_000021485' frameid='ADENYLOSUCCINATE-SYNTHASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8629' orgid='GCF_000021485' frameid='RXN-8629'/>
+      <Reaction resource='getxml?GCF_000021485:1.8.1.4-RXN' orgid='GCF_000021485' frameid='1.8.1.4-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-7719' orgid='GCF_000021485' frameid='RXN-7719'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1132' orgid='GCF_000021485' frameid='RXN0-1132'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-7716' orgid='GCF_000021485' frameid='RXN-7716'/>
+      <Reaction resource='getxml?GCF_000021485:GART-RXN' orgid='GCF_000021485' frameid='GART-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:AIRS-RXN' orgid='GCF_000021485' frameid='AIRS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9528' orgid='GCF_000021485' frameid='RXN-9528'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9532' orgid='GCF_000021485' frameid='RXN-9532'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9514' orgid='GCF_000021485' frameid='RXN-9514'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9518' orgid='GCF_000021485' frameid='RXN-9518'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-REDUCT-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-REDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11480' orgid='GCF_000021485' frameid='RXN-11480'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9540' orgid='GCF_000021485' frameid='RXN-9540'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11476' orgid='GCF_000021485' frameid='RXN-11476'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9633' orgid='GCF_000021485' frameid='RXN-9633'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9536' orgid='GCF_000021485' frameid='RXN-9536'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16630' orgid='GCF_000021485' frameid='RXN-16630'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9524' orgid='GCF_000021485' frameid='RXN-9524'/>
+      <Reaction resource='getxml?GCF_000021485:ADCLY-RXN' orgid='GCF_000021485' frameid='ADCLY-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-882' orgid='GCF_000021485' frameid='RXN0-882'/>
+      <Reaction resource='getxml?GCF_000021485:GTP-CYCLOHYDRO-I-RXN' orgid='GCF_000021485' frameid='GTP-CYCLOHYDRO-I-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22239' orgid='GCF_000021485' frameid='RXN-22239'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22483' orgid='GCF_000021485' frameid='RXN-22483'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2DNV-1' orgid='GCF_000021485' frameid='RXN2DNV-1'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20786' orgid='GCF_000021485' frameid='RXN-20786'/>
+      <Reaction resource='getxml?GCF_000021485:LIPIDXSYNTHESIS-RXN' orgid='GCF_000021485' frameid='LIPIDXSYNTHESIS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2B4Q-51' orgid='GCF_000021485' frameid='RXN2B4Q-51'/>
+      <Reaction resource='getxml?GCF_000021485:DIOHBUTANONEPSYN-RXN' orgid='GCF_000021485' frameid='DIOHBUTANONEPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12456' orgid='GCF_000021485' frameid='RXN-12456'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1342' orgid='GCF_000021485' frameid='RXN0-1342'/>
+      <Reaction resource='getxml?GCF_000021485:ACETYL-COA-CARBOXYLTRANSFER-RXN' orgid='GCF_000021485' frameid='ACETYL-COA-CARBOXYLTRANSFER-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN' orgid='GCF_000021485' frameid='ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18210' orgid='GCF_000021485' frameid='RXN-18210'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18206' orgid='GCF_000021485' frameid='RXN-18206'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18200' orgid='GCF_000021485' frameid='RXN-18200'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18204' orgid='GCF_000021485' frameid='RXN-18204'/>
+      <Reaction resource='getxml?GCF_000021485:3-ISOPROPYLMALDEHYDROG-RXN' orgid='GCF_000021485' frameid='3-ISOPROPYLMALDEHYDROG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18208' orgid='GCF_000021485' frameid='RXN-18208'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18202' orgid='GCF_000021485' frameid='RXN-18202'/>
+      <Reaction resource='getxml?GCF_000021485:AMINOCYL-TRNA-HYDROLASE-RXN' orgid='GCF_000021485' frameid='AMINOCYL-TRNA-HYDROLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16637' orgid='GCF_000021485' frameid='RXN-16637'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12460' orgid='GCF_000021485' frameid='RXN-12460'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-20' orgid='GCF_000021485' frameid='RXN0-20'/>
+      <Reaction resource='getxml?GCF_000021485:3.6.1.41-RXN' orgid='GCF_000021485' frameid='3.6.1.41-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:QUINOPRIBOTRANS-RXN' orgid='GCF_000021485' frameid='QUINOPRIBOTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUCOSE-1-DEHYDROGENASE-RXN' orgid='GCF_000021485' frameid='GLUCOSE-1-DEHYDROGENASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLYRIBONUCSYN-RXN' orgid='GCF_000021485' frameid='GLYRIBONUCSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17955' orgid='GCF_000021485' frameid='RXN-17955'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17958' orgid='GCF_000021485' frameid='RXN-17958'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6733' orgid='GCF_000021485' frameid='RXN0-6733'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-250' orgid='GCF_000021485' frameid='TRANS-RXN-250'/>
+      <Reaction resource='getxml?GCF_000021485:FGAMSYN-RXN' orgid='GCF_000021485' frameid='FGAMSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:SAICARSYN-RXN' orgid='GCF_000021485' frameid='SAICARSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DIHYDRODIPICSYN-RXN' orgid='GCF_000021485' frameid='DIHYDRODIPICSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.1.1.72-RXN' orgid='GCF_000021485' frameid='2.1.1.72-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.6.3.3-RXN' orgid='GCF_000021485' frameid='3.6.3.3-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-2' orgid='GCF_000021485' frameid='TRANS-RXN-2'/>
+      <Reaction resource='getxml?GCF_000021485:2.3.1.128-RXN' orgid='GCF_000021485' frameid='2.3.1.128-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14570' orgid='GCF_000021485' frameid='RXN-14570'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8340' orgid='GCF_000021485' frameid='RXN-8340'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13037' orgid='GCF_000021485' frameid='RXN-13037'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-947' orgid='GCF_000021485' frameid='RXN0-947'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22613' orgid='GCF_000021485' frameid='RXN-22613'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19609' orgid='GCF_000021485' frameid='RXN-19609'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19611' orgid='GCF_000021485' frameid='RXN-19611'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-19612' orgid='GCF_000021485' frameid='RXN-19612'/>
+      <Reaction resource='getxml?GCF_000021485:2-ISOPROPYLMALATESYN-RXN' orgid='GCF_000021485' frameid='2-ISOPROPYLMALATESYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:NADH-DEHYDROG-A-RXN' orgid='GCF_000021485' frameid='NADH-DEHYDROG-A-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-21415' orgid='GCF_000021485' frameid='RXN-21415'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13519' orgid='GCF_000021485' frameid='RXN-13519'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14014' orgid='GCF_000021485' frameid='RXN-14014'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-6515' orgid='GCF_000021485' frameid='RXN0-6515'/>
+      <Reaction resource='getxml?GCF_000021485:3.2.2.23-RXN' orgid='GCF_000021485' frameid='3.2.2.23-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18435' orgid='GCF_000021485' frameid='RXN-18435'/>
+      <Reaction resource='getxml?GCF_000021485:4.2.99.18-RXN' orgid='GCF_000021485' frameid='4.2.99.18-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14992' orgid='GCF_000021485' frameid='RXN-14992'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTRNAREDUCT-RXN' orgid='GCF_000021485' frameid='GLUTRNAREDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.7.1.148-RXN' orgid='GCF_000021485' frameid='2.7.1.148-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.4.11.9-RXN' orgid='GCF_000021485' frameid='3.4.11.9-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.4.11.1-RXN' orgid='GCF_000021485' frameid='3.4.11.1-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11601' orgid='GCF_000021485' frameid='RXN-11601'/>
+      <Reaction resource='getxml?GCF_000021485:ACSERLY-RXN' orgid='GCF_000021485' frameid='ACSERLY-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12726' orgid='GCF_000021485' frameid='RXN-12726'/>
+      <Reaction resource='getxml?GCF_000021485:6PGLUCONOLACT-RXN' orgid='GCF_000021485' frameid='6PGLUCONOLACT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12458' orgid='GCF_000021485' frameid='RXN-12458'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14517' orgid='GCF_000021485' frameid='RXN-14517'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-237' orgid='GCF_000021485' frameid='TRANS-RXN-237'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8001' orgid='GCF_000021485' frameid='RXN-8001'/>
+      <Reaction resource='getxml?GCF_000021485:HISTOLDEHYD-RXN' orgid='GCF_000021485' frameid='HISTOLDEHYD-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:HISTALDEHYD-RXN' orgid='GCF_000021485' frameid='HISTALDEHYD-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTAMIDOTRANS-RXN' orgid='GCF_000021485' frameid='GLUTAMIDOTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-17900' orgid='GCF_000021485' frameid='RXN-17900'/>
+      <Reaction resource='getxml?GCF_000021485:HISTPRATPHYD-RXN' orgid='GCF_000021485' frameid='HISTPRATPHYD-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ASPCARBTRANS-RXN' orgid='GCF_000021485' frameid='ASPCARBTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20407' orgid='GCF_000021485' frameid='RXN-20407'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTATHIONE-SYN-RXN' orgid='GCF_000021485' frameid='GLUTATHIONE-SYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20401' orgid='GCF_000021485' frameid='RXN-20401'/>
+      <Reaction resource='getxml?GCF_000021485:GLUTCYSLIG-RXN' orgid='GCF_000021485' frameid='GLUTCYSLIG-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20400' orgid='GCF_000021485' frameid='RXN-20400'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20406' orgid='GCF_000021485' frameid='RXN-20406'/>
+      <Reaction resource='getxml?GCF_000021485:N-ACETYLGLUTPREDUCT-RXN' orgid='GCF_000021485' frameid='N-ACETYLGLUTPREDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:3.6.3.6-RXN' orgid='GCF_000021485' frameid='3.6.3.6-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:HOMOSERKIN-RXN' orgid='GCF_000021485' frameid='HOMOSERKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:1.10.2.2-RXN' orgid='GCF_000021485' frameid='1.10.2.2-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:TRANS-RXN-218' orgid='GCF_000021485' frameid='TRANS-RXN-218'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18584' orgid='GCF_000021485' frameid='RXN-18584'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15829' orgid='GCF_000021485' frameid='RXN-15829'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15816' orgid='GCF_000021485' frameid='RXN-15816'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14107' orgid='GCF_000021485' frameid='RXN-14107'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18604' orgid='GCF_000021485' frameid='RXN-18604'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13403' orgid='GCF_000021485' frameid='RXN-13403'/>
+      <Reaction resource='getxml?GCF_000021485:UROPORIIIMETHYLTRANSA-RXN' orgid='GCF_000021485' frameid='UROPORIIIMETHYLTRANSA-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:2.3.1.157-RXN' orgid='GCF_000021485' frameid='2.3.1.157-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ATPSYN-RXN' orgid='GCF_000021485' frameid='ATPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ANTHRANSYN-RXN' orgid='GCF_000021485' frameid='ANTHRANSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14192' orgid='GCF_000021485' frameid='RXN-14192'/>
+      <Reaction resource='getxml?GCF_000021485:PEPDEPHOS-RXN' orgid='GCF_000021485' frameid='PEPDEPHOS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14117' orgid='GCF_000021485' frameid='RXN-14117'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14207' orgid='GCF_000021485' frameid='RXN-14207'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11598' orgid='GCF_000021485' frameid='RXN-11598'/>
+      <Reaction resource='getxml?GCF_000021485:ISPH2-RXN' orgid='GCF_000021485' frameid='ISPH2-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-884' orgid='GCF_000021485' frameid='RXN0-884'/>
+      <Reaction resource='getxml?GCF_000021485:PORPHOBILSYNTH-RXN' orgid='GCF_000021485' frameid='PORPHOBILSYNTH-RXN'/>
+    </appears-in-right-side-of>
+    <gibbs-0 datatype='float' units='kcal/mol'>0.42906138
+      <evidence>
+        <Evidence-Code ID='GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' detail='full' class='true'>
+          <common-name datatype='string'>Inferred by computational analysis</common-name>
+          <comment datatype='string'>Inferred from computation.  The evidence for an assertion comes from a
+computational analysis.  The assertion itself might have been made
+by a person or by a computer, that is, EV-COMP does not specify whether
+manual interpretation of the computation occurred.
+&lt;p&gt;
+</comment>
+        </Evidence-Code>
+        <Publication ID='GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013' detail='full'>
+          <url datatype='string'>http://www.biocyc.org/PGDBConceptsGuide.shtml#gibbs</url>
+          <author datatype='string'>Latendresse M.</author>
+          <title datatype='string'>Computing Gibbs Free Energy of Compounds and Reactions in MetaCyc.</title>
+          <year datatype='integer'>2013</year>
+        </Publication>
+      </evidence>
+    </gibbs-0>
+    <synonym datatype='string'>hydrogen ion</synonym>
+    <synonym datatype='string'>proton</synonym>
+    <synonym datatype='string'>H</synonym>
+    <dblink>
+      <dblink-db>SEED</dblink-db>
+      <dblink-oid>cpd00067</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://modelseed.org/biochem/compounds/cpd00067</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>METANETX</dblink-db>
+      <dblink-oid>MNXM1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.metanetx.org/chem_info/MNXM1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>BIGG</dblink-db>
+      <dblink-oid>h</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://bigg.ucsd.edu/universal/metabolites/h</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>HMDB</dblink-db>
+      <dblink-oid>HMDB59597</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.hmdb.ca/metabolites/HMDB59597</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>CHEMSPIDER</dblink-db>
+      <dblink-oid>1010</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.chemspider.com/1010</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PUBCHEM</dblink-db>
+      <dblink-oid>1038</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1038</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>CHEBI</dblink-db>
+      <dblink-oid>15378</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15378</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>CAS</dblink-db>
+      <dblink-oid>12408-02-5</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.commonchemistry.org/ChemicalDetail.aspx?ref=12408-02-5</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>LIGAND-CPD</dblink-db>
+      <dblink-oid>C00080</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.genome.ad.jp/dbget-bin/www_bget?C00080</dblink-URL>
+    </dblink>
+    <monoisotopic-mw datatype='float' units='Daltons'>1.007825</monoisotopic-mw>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization ID='GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI' detail='full'>
+          <url datatype='string'>http://bioinformatics.ai.sri.com/</url>
+          <abbrev-name datatype='string'>SRI International</abbrev-name>
+          <email datatype='string'>ptools-support@ai.sri.com</email>
+          <common-name datatype='string'>SRI International</common-name>
+        </Organization>
+      </imported-from-meta>
+    </credits>
+    <molecular-weight datatype='float' units='Daltons'>1.008</molecular-weight>
+  </Compound>
+  <Protein ID='GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' detail='full' class='true'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:ACYL-ACP' orgid='GCF_000021485' frameid='ACYL-ACP' class='true'/>
+    </parent>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Saturated-acyl-ACPs' orgid='GCF_000021485' frameid='Saturated-acyl-ACPs' class='true'/>
+    </parent>
+    <subclass>
+      <Protein resource='getxml?GCF_000021485:Malonyl-BryU-ACP' orgid='GCF_000021485' frameid='Malonyl-BryU-ACP' class='true'/>
+    </subclass>
+    <subclass>
+      <Protein resource='getxml?GCF_000021485:Malonyl-BryP-ACP' orgid='GCF_000021485' frameid='Malonyl-BryP-ACP' class='true'/>
+    </subclass>
+    <subclass>
+      <Protein resource='getxml?GCF_000021485:Malonyl-PedN-ACP' orgid='GCF_000021485' frameid='Malonyl-PedN-ACP' class='true'/>
+    </subclass>
+    <subclass>
+      <Protein resource='getxml?GCF_000021485:Malonyl-PedD' orgid='GCF_000021485' frameid='Malonyl-PedD' class='true'/>
+    </subclass>
+    <appears-in-left-side-of>
+      <Reaction resource='getxml?GCF_000021485:RXN-9632' orgid='GCF_000021485' frameid='RXN-9632'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8926' orgid='GCF_000021485' frameid='RXN-8926'/>
+      <Reaction resource='getxml?GCF_000021485:2.3.1.180-RXN' orgid='GCF_000021485' frameid='2.3.1.180-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11475' orgid='GCF_000021485' frameid='RXN-11475'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9535' orgid='GCF_000021485' frameid='RXN-9535'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9523' orgid='GCF_000021485' frameid='RXN-9523'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9527' orgid='GCF_000021485' frameid='RXN-9527'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9531' orgid='GCF_000021485' frameid='RXN-9531'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9516' orgid='GCF_000021485' frameid='RXN-9516'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11479' orgid='GCF_000021485' frameid='RXN-11479'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9539' orgid='GCF_000021485' frameid='RXN-9539'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11474' orgid='GCF_000021485' frameid='RXN-11474'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-BASE-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-BASE-RXN'/>
+    </appears-in-left-side-of>
+    <common-name datatype='string'>a malonyl-[acp]</common-name>
+    <unmodified-form>
+      <Protein resource='getxml?GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' class='true'/>
+    </unmodified-form>
+    <appears-in-right-side-of>
+      <Reaction resource='getxml?GCF_000021485:MALONYL-COA-ACP-TRANSACYL-RXN' orgid='GCF_000021485' frameid='MALONYL-COA-ACP-TRANSACYL-RXN'/>
+    </appears-in-right-side-of>
+    <synonym datatype='string'>malonyl-[acyl-carrier protein]</synonym>
+    <synonym datatype='string'>malonyl-S-ACP</synonym>
+    <synonym datatype='string'>malonyl-acyl-carrier-protein</synonym>
+    <synonym datatype='string'>carboxyacetyl-[acyl-carrier protein]</synonym>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Protein>
+  <Protein ID='GCF_000021485:Oleoyl-ACPs' orgid='GCF_000021485' frameid='Oleoyl-ACPs' detail='full' class='true'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Monounsaturated-acyl-ACPs' orgid='GCF_000021485' frameid='Monounsaturated-acyl-ACPs' class='true'/>
+    </parent>
+    <appears-in-left-side-of>
+      <Reaction resource='getxml?GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629'/>
+    </appears-in-left-side-of>
+    <common-name datatype='string'>an oleoyl-[acp]</common-name>
+    <synonym datatype='string'>a (9Z)-octadec-9-enoyl-[acp]</synonym>
+    <synonym datatype='string'>an oleoyl-ACP</synonym>
+    <synonym datatype='string'>an oleoyl-[acyl-carrier-protein]</synonym>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+    <comment datatype='string'>&lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD&quot;&gt;Oleate&lt;/a&gt; (oleic acid) is the first unsaturated fatty acid that is generated from the saturated
+fatty acids produced by the fatty acid synthase. It's name is derived from the olive tree, since it makes up 55-80% of olive oil.
+&lt;p&gt;
+Oleate synthesis occurs with membrane-bound systems. The desaturase enzymes that produce oleate have been isolated from fungi, yeast, and mammalian liver and found to be specific for &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=STEAROYL-COA&quot;&gt;stearoyl-CoA&lt;/a&gt;. In plants, on the other hand, oleate is produced via &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Stearoyl-ACPs&quot;&gt;a stearoyl-[acp]&lt;/a&gt;, an acyl-carrier-protein bound intermediate [&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/4831331&quot;&gt;Jaworski74&lt;/a&gt;].
+&lt;p&gt;
+&lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD&quot;&gt;Oleate&lt;/a&gt; has also been reported from a few bacteria, including the obligate anaerobic bacterium &lt;a href=&quot;http://biocyc.org/META/new-image?object=TAX-1520&quot;&gt;&lt;i&gt;Clostridium beijerinckii&lt;/i&gt;&lt;/a&gt; and the saprophytic bacterium &lt;a href=&quot;http://biocyc.org/META/new-image?object=TAX-1377&quot;&gt;&lt;i&gt;Aerococcus viridans&lt;/i&gt;&lt;/a&gt;. Bacterial biosynthesis of &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD&quot;&gt;oleate&lt;/a&gt; does not require oxygen and involves elongation of &lt;a href=&quot;http://biocyc.org/META/new-image?object=CPD-17289&quot;&gt;(7Z)-hexadec-7-enoate&lt;/a&gt; [&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/14498314&quot;&gt;Scheuerbrandt61&lt;/a&gt;, &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/5554109&quot;&gt;Goldfine71&lt;/a&gt;, &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/6886674&quot;&gt;Johnston83&lt;/a&gt;, &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/12583708&quot;&gt;Biebl02&lt;/a&gt;, &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/23972938&quot;&gt;Bi13&lt;/a&gt;].
+&lt;p&gt;
+Like other fatty acids, &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD&quot;&gt;oleate&lt;/a&gt; is rarely found in its free form. It is usually found as either &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Oleoyl-ACPs&quot;&gt;oleoyl-[acp]&lt;/a&gt;, &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=OLEOYL-COA&quot;&gt;oleoyl-CoA&lt;/a&gt;, or &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=Oleoyl-lipid&quot; title=&quot;&lt;a href=''/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD''&gt;Oleate&lt;/a&gt; (oleic acid) is the first unsaturated fatty acid that is generated from the saturated&amp;#10;fatty acids produced by the fatty acid synthase. It's name is derived from the olive tree, since it makes up 55-80% of olive oil.&amp;#10;&amp;#10;Oleate synthesis occurs with membrane-bound systems. The desaturase enzymes that produce oleate have been isolated from fungi, yeast, and mammalian liver and found to be specific for &lt;a href=''/compound?orgid=GCF_000021485&amp;id=STEAROYL-COA''&gt;stearoyl-CoA&lt;/a&gt;. In plants, on the other hand, oleate is produced via &lt;a href=''/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Stearoyl-ACPs''&gt;a stearoyl-[acp]&lt;/a&gt;, an acyl-carrier-protein bound intermediate [&lt;a href=''http://www.ncbi.nlm.nih.gov/pubmed/4831331''&gt;Jaworski74&lt;/a&gt;].&amp;#10;&amp;#10;&lt;a href=''/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD''&gt;Oleate&lt;/a&gt; has also been reported from a few bacteria, including the obligate anaerobic bacterium &lt;a href=''http://biocyc.org/META/new-image?object=TAX-1520''&gt;&lt;i&gt;Clostridium beijerinckii&lt;/i&gt;&lt;/a&gt; and the saprophytic bacterium &lt;a href=''http://biocyc.org/META/new-image?object=TAX-1377''&gt;&lt;i&gt;Aerococcus viridans&lt;/i&gt;&lt;/a&gt;. Bacterial biosynthesis of &lt;a href=''/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD''&gt;oleate&lt;/a&gt; does not require oxygen and involves elongation of &lt;a href=''http://biocyc.org/META/new-image?object=CPD-17289''&gt;(7Z)-hexadec-7-enoate&lt;/a&gt; [&lt;a href=''http://www.ncbi.nlm.nih.gov/pubmed/14498314''&gt;Scheuerbrandt61&lt;/a&gt;, &lt;a href=''http://www.ncbi.nlm.nih.gov/pubmed/5554109''&gt;Goldfine71&lt;/a&gt;, &lt;a href=''http://www.ncbi.nlm.nih.gov/pubmed/6886674''&gt;Johnston83&lt;/a&gt;, &lt;a href=''http://www.ncbi.nlm.nih.gov/pubmed/12583708''&gt;Biebl02&lt;/a&gt;, &lt;a href=''http://www.ncbi.nlm.nih.gov/pubmed/23972938''&gt;Bi13&lt;/a&gt;].&amp;#10;&amp;#10;Like other fatty acids, &lt;a href=''/compound?orgid=GCF_000021485&amp;id=OLEATE-CPD''&gt;oleate&lt;/a&gt; is rarely found in its free form. It is usually found as either &lt;a href=''/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Oleoyl-ACPs''&gt;oleoyl-[acp]&lt;/a&gt;, &lt;a href=''/compound?orgid=GCF_000021485&amp;id=OLEOYL-COA''&gt;oleoyl-CoA&lt;/a&gt;, or &lt;a href=''/compound?orgid=GCF_000021485&amp;id=Oleoyl-lipid''&gt;incorporated into a lipid&lt;/a&gt;.&quot;&gt;incorporated into a lipid&lt;/a&gt;.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:11Z-3-oxo-icos-11-enoyl-ACPs' orgid='GCF_000021485' frameid='11Z-3-oxo-icos-11-enoyl-ACPs' detail='full' class='true'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Monounsaturated-acyl-ACPs' orgid='GCF_000021485' frameid='Monounsaturated-acyl-ACPs' class='true'/>
+    </parent>
+    <common-name datatype='string'>an (11Z)-3-oxo-icos-11-enoyl-[acp]</common-name>
+    <appears-in-right-side-of>
+      <Reaction resource='getxml?GCF_000021485:RXN-16630' orgid='GCF_000021485' frameid='RXN-16630'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629'/>
+    </appears-in-right-side-of>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+  </Protein>
+  <Protein ID='GCF_000021485:ACP' orgid='GCF_000021485' frameid='ACP' detail='full' class='true'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:All-ACPs' orgid='GCF_000021485' frameid='All-ACPs' class='true'/>
+    </parent>
+    <subclass>
+      <Protein resource='getxml?GCF_000021485:holo-ACP' orgid='GCF_000021485' frameid='holo-ACP' class='true'/>
+    </subclass>
+    <subclass>
+      <Protein resource='getxml?GCF_000021485:apo-ACP' orgid='GCF_000021485' frameid='apo-ACP' class='true'/>
+    </subclass>
+    <abbrev-name datatype='string'>an acyl-carrier protein</abbrev-name>
+    <appears-in-left-side-of>
+      <Reaction resource='getxml?GCF_000021485:MALONYL-COA-ACP-TRANSACYL-RXN' orgid='GCF_000021485' frameid='MALONYL-COA-ACP-TRANSACYL-RXN'/>
+    </appears-in-left-side-of>
+    <modified-form>
+      <Protein resource='getxml?GCF_000021485:Octanoyl-ACPs' orgid='GCF_000021485' frameid='Octanoyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:3R-3-hydroxy13-methyltetradecanoyl-ACPs' orgid='GCF_000021485' frameid='3R-3-hydroxy13-methyltetradecanoyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:R-3-hydroxy15-methylhexadecanoyl-ACPs' orgid='GCF_000021485' frameid='R-3-hydroxy15-methylhexadecanoyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:Beta-3-hydroxybutyryl-ACPs' orgid='GCF_000021485' frameid='Beta-3-hydroxybutyryl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:R-3-hydroxydodecanoyl-ACPs' orgid='GCF_000021485' frameid='R-3-hydroxydodecanoyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:R-3-hydroxyhexanoyl-ACPs' orgid='GCF_000021485' frameid='R-3-hydroxyhexanoyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:3-Hydroxy-octanoyl-ACPs' orgid='GCF_000021485' frameid='3-Hydroxy-octanoyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:Acetoacetyl-ACPs' orgid='GCF_000021485' frameid='Acetoacetyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:R-3-Hydroxypalmitoyl-ACPs' orgid='GCF_000021485' frameid='R-3-Hydroxypalmitoyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:Fatty-acyl-ACPs' orgid='GCF_000021485' frameid='Fatty-acyl-ACPs' class='true'/>
+      <Protein resource='getxml?GCF_000021485:Saturated-Fatty-Acyl-ACPs' orgid='GCF_000021485' frameid='Saturated-Fatty-Acyl-ACPs' class='true'/>
+      <Protein resource='#GCF_000021485:MALONYL-ACP' orgid='GCF_000021485' frameid='MALONYL-ACP' class='true'/>
+      <Protein resource='getxml?GCF_000021485:ACETYL-ACP' orgid='GCF_000021485' frameid='ACETYL-ACP' class='true'/>
+      <Protein resource='getxml?GCF_000021485:ACYL-ACP' orgid='GCF_000021485' frameid='ACYL-ACP' class='true'/>
+    </modified-form>
+    <common-name datatype='string'>a soluble [acyl-carrier protein]</common-name>
+    <appears-in-right-side-of>
+      <Reaction resource='getxml?GCF_000021485:RXN-9548' orgid='GCF_000021485' frameid='RXN-9548'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9632' orgid='GCF_000021485' frameid='RXN-9632'/>
+      <Reaction resource='getxml?GCF_000021485:3.1.2.21-RXN' orgid='GCF_000021485' frameid='3.1.2.21-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9549' orgid='GCF_000021485' frameid='RXN-9549'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8926' orgid='GCF_000021485' frameid='RXN-8926'/>
+      <Reaction resource='getxml?GCF_000021485:1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN' orgid='GCF_000021485' frameid='1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10462' orgid='GCF_000021485' frameid='RXN-10462'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11484' orgid='GCF_000021485' frameid='RXN-11484'/>
+      <Reaction resource='getxml?GCF_000021485:RXN2B4Q-50' orgid='GCF_000021485' frameid='RXN2B4Q-50'/>
+      <Reaction resource='getxml?GCF_000021485:UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN' orgid='GCF_000021485' frameid='UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22241' orgid='GCF_000021485' frameid='RXN-22241'/>
+      <Reaction resource='getxml?GCF_000021485:RXNI-27' orgid='GCF_000021485' frameid='RXNI-27'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20787' orgid='GCF_000021485' frameid='RXN-20787'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22482' orgid='GCF_000021485' frameid='RXN-22482'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22245' orgid='GCF_000021485' frameid='RXN-22245'/>
+      <Reaction resource='getxml?GCF_000021485:UDPNACETYLGLUCOSAMACYLTRANS-RXN' orgid='GCF_000021485' frameid='UDPNACETYLGLUCOSAMACYLTRANS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22480' orgid='GCF_000021485' frameid='RXN-22480'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22244' orgid='GCF_000021485' frameid='RXN-22244'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-20789' orgid='GCF_000021485' frameid='RXN-20789'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-22246' orgid='GCF_000021485' frameid='RXN-22246'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9590' orgid='GCF_000021485' frameid='RXN-9590'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9535' orgid='GCF_000021485' frameid='RXN-9535'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9523' orgid='GCF_000021485' frameid='RXN-9523'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9527' orgid='GCF_000021485' frameid='RXN-9527'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9531' orgid='GCF_000021485' frameid='RXN-9531'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9516' orgid='GCF_000021485' frameid='RXN-9516'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11479' orgid='GCF_000021485' frameid='RXN-11479'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9539' orgid='GCF_000021485' frameid='RXN-9539'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11474' orgid='GCF_000021485' frameid='RXN-11474'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-BASE-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-BASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13037' orgid='GCF_000021485' frameid='RXN-13037'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-947' orgid='GCF_000021485' frameid='RXN0-947'/>
+    </appears-in-right-side-of>
+    <synonym datatype='string'>a soluble ACP</synonym>
+    <synonym datatype='string'>a soluble [acp]</synonym>
+    <credits>
+      <revised>
+        <date datatype='date'>2008-09-12</date>
+        <Person ID='GCF_000021485:caspi' orgid='GCF_000021485' frameid='caspi' detail='full'>
+          <email datatype='string'>caspi@ai.sri.com</email>
+          <common-name datatype='string'>Ron Caspi</common-name>
+          <affiliations>
+            <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+          </affiliations>
+          <comment datatype='string'>Ron Caspi has been a curator of the MetaCyc database at SRI International since 2005.</comment>
+        </Person>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </revised>
+    </credits>
+    <comment datatype='string'>Acyl carrier proteins exist as either a distinct domain within a large multifunctional protein, or as discrete soluble single-domain proteins. This class describes the mall soluble acyl-carrier proteins that are found in bacteria and plant chloroplasts (such as type II FAS). Bacterial ACPs can also serve as acyl donors for synthesis of a variety of products, including endotoxin and acylated homoserine lactones involved in quorum sensing.
+&lt;p&gt;
+This class does not include the &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Fatty-Acid-Synthase-ACPs&quot;&gt;acyl-carrier proteins (ACPs) of eukaryotic fatty acid synthases&lt;/a&gt; (type I FAS), &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Polyketide-ACP-Proteins&quot;&gt;ACPs of polyketide synthases&lt;/a&gt; (PKSs), and &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Peptidyl-Carrier-Proteins&quot;&gt;peptidyl carrier proteins&lt;/a&gt; (PCPs) and &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Aryl-Carrier-Proteins&quot;&gt;aryl carrier proteins&lt;/a&gt; of &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=Non-ribosomal-peptide-synthetases&quot;&gt;non-ribosomal peptide synthetases&lt;/a&gt; (NRPSs).
+&lt;p&gt;
+ACP proteins are synthesized in their &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=ENZYME&amp;object=apo-ACP&quot;&gt;&lt;i&gt;apo&lt;/i&gt; inactive form&lt;/a&gt;, and are activated by attachment of a &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=PANTETHEINE-P&quot;&gt;4'-phosphopantetheine&lt;/a&gt; moiety, removed from &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=CO-A&quot;&gt;coenzyme A&lt;/a&gt;, to an &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=SER&quot;&gt;L-serine&lt;/a&gt; residue, in a reaction catalyzed by &lt;a href=&quot;/GCF_000021485/NEW-IMAGE?type=EC-NUMBER&amp;object=EC-2.7.8.7&quot;&gt;EC 2.7.8.7, holo-[acyl-carrier-protein] synthase&lt;/a&gt; (4'-phosphopantetheinyl transferase) [&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/18059524&quot;&gt;Byers07&lt;/a&gt;]. The structure shown here depicts the &lt;a href=&quot;/compound?orgid=GCF_000021485&amp;id=PANTETHEINE-P&quot;&gt;4'-phosphopantetheine&lt;/a&gt; moiety attached to the serine residue.</comment>
+  </Protein>
+  <Compound ID='GCF_000021485:CARBON-DIOXIDE' orgid='GCF_000021485' frameid='CARBON-DIOXIDE' detail='full'>
+    <cml>
+      <molecule id='CARBON-DIOXIDE' title='CO2' formalCharge='0'>
+        <atomArray>
+          <atom id='CARBON-DIOXIDE-atom1' elementType='C' x2='-1100.0' y2='-825400.0'/>
+          <atom id='CARBON-DIOXIDE-atom2' elementType='O' x2='-826100.0' y2='-825400.0'/>
+          <atom id='CARBON-DIOXIDE-atom3' elementType='O' x2='823900.0' y2='-825400.0'/>
+        </atomArray>
+        <bondArray>
+          <bond id='CARBON-DIOXIDE-bond1' atomRefs='CARBON-DIOXIDE-atom3 CARBON-DIOXIDE-atom1' order='2'/>
+          <bond id='CARBON-DIOXIDE-bond2' atomRefs='CARBON-DIOXIDE-atom2 CARBON-DIOXIDE-atom1' order='2'/>
+        </bondArray>
+        <formula concise='C 1 O 2'/>
+        <float title='molecularWeight' units='g/mol'>44.01</float>
+        <string title='smiles'>C(=O)=O</string>
+      </molecule>
+    </cml>
+    <inchi datatype='string'>InChI=1S/CO2/c2-1-3</inchi>
+    <inchi-key datatype='string'>InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N</inchi-key>
+    <appears-in-left-side-of>
+      <Reaction resource='getxml?GCF_000021485:DETHIOBIOTIN-SYN-RXN' orgid='GCF_000021485' frameid='DETHIOBIOTIN-SYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN1ZN3-9' orgid='GCF_000021485' frameid='RXN1ZN3-9'/>
+      <Reaction resource='getxml?GCF_000021485:QUINOPRIBOTRANS-RXN' orgid='GCF_000021485' frameid='QUINOPRIBOTRANS-RXN'/>
+    </appears-in-left-side-of>
+    <common-name datatype='string'>CO&lt;SUB&gt;2&lt;/SUB&gt;</common-name>
+    <appears-in-right-side-of>
+      <Reaction resource='getxml?GCF_000021485:RXN-6081' orgid='GCF_000021485' frameid='RXN-6081'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-745' orgid='GCF_000021485' frameid='RXN0-745'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-746' orgid='GCF_000021485' frameid='RXN0-746'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9632' orgid='GCF_000021485' frameid='RXN-9632'/>
+      <Reaction resource='getxml?GCF_000021485:PEPCARBOXYKIN-RXN' orgid='GCF_000021485' frameid='PEPCARBOXYKIN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:MALIC-NADP-RXN' orgid='GCF_000021485' frameid='MALIC-NADP-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:1.1.1.39-RXN' orgid='GCF_000021485' frameid='1.1.1.39-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:OXALODECARB-RXN' orgid='GCF_000021485' frameid='OXALODECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5222' orgid='GCF_000021485' frameid='RXN0-5222'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-724' orgid='GCF_000021485' frameid='RXN0-724'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-723' orgid='GCF_000021485' frameid='RXN0-723'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9283' orgid='GCF_000021485' frameid='RXN-9283'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9190' orgid='GCF_000021485' frameid='RXN-9190'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-5224' orgid='GCF_000021485' frameid='RXN0-5224'/>
+      <Reaction resource='getxml?GCF_000021485:ISOCITDEH-RXN' orgid='GCF_000021485' frameid='ISOCITDEH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-8642' orgid='GCF_000021485' frameid='RXN-8642'/>
+      <Reaction resource='getxml?GCF_000021485:2.3.1.180-RXN' orgid='GCF_000021485' frameid='2.3.1.180-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9952' orgid='GCF_000021485' frameid='RXN-9952'/>
+      <Reaction resource='getxml?GCF_000021485:RIBONUCLEOSIDE-TRIP-REDUCT-RXN' orgid='GCF_000021485' frameid='RIBONUCLEOSIDE-TRIP-REDUCT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GCVMULTI-RXN' orgid='GCF_000021485' frameid='GCVMULTI-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:1.2.4.4-RXN' orgid='GCF_000021485' frameid='1.2.4.4-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1134' orgid='GCF_000021485' frameid='RXN0-1134'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12583' orgid='GCF_000021485' frameid='RXN-12583'/>
+      <Reaction resource='getxml?GCF_000021485:HEMN-RXN' orgid='GCF_000021485' frameid='HEMN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:SAMDECARB-RXN' orgid='GCF_000021485' frameid='SAMDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13179' orgid='GCF_000021485' frameid='RXN-13179'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11484' orgid='GCF_000021485' frameid='RXN-11484'/>
+      <Reaction resource='getxml?GCF_000021485:7KAPSYN-RXN' orgid='GCF_000021485' frameid='7KAPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:AIRCARBOXY-RXN' orgid='GCF_000021485' frameid='AIRCARBOXY-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:P-PANTOCYSDECARB-RXN' orgid='GCF_000021485' frameid='P-PANTOCYSDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:UROGENDECARBOX-RXN' orgid='GCF_000021485' frameid='UROGENDECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-10642' orgid='GCF_000021485' frameid='RXN-10642'/>
+      <Reaction resource='getxml?GCF_000021485:ACETOLACTSYN-RXN' orgid='GCF_000021485' frameid='ACETOLACTSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ACETOOHBUTSYN-RXN' orgid='GCF_000021485' frameid='ACETOOHBUTSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PHOSPHASERDECARB-RXN' orgid='GCF_000021485' frameid='PHOSPHASERDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:PREPHENATEDEHYDRAT-RXN' orgid='GCF_000021485' frameid='PREPHENATEDEHYDRAT-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:OROTPDECARB-RXN' orgid='GCF_000021485' frameid='OROTPDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:GCVP-RXN' orgid='GCF_000021485' frameid='GCVP-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ARGDECARBOX-RXN' orgid='GCF_000021485' frameid='ARGDECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9535' orgid='GCF_000021485' frameid='RXN-9535'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-16629' orgid='GCF_000021485' frameid='RXN-16629'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9523' orgid='GCF_000021485' frameid='RXN-9523'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9527' orgid='GCF_000021485' frameid='RXN-9527'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9531' orgid='GCF_000021485' frameid='RXN-9531'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9516' orgid='GCF_000021485' frameid='RXN-9516'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11479' orgid='GCF_000021485' frameid='RXN-11479'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9539' orgid='GCF_000021485' frameid='RXN-9539'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-11474' orgid='GCF_000021485' frameid='RXN-11474'/>
+      <Reaction resource='getxml?GCF_000021485:3-OXOACYL-ACP-SYNTH-BASE-RXN' orgid='GCF_000021485' frameid='3-OXOACYL-ACP-SYNTH-BASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DXS-RXN' orgid='GCF_000021485' frameid='DXS-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-14986' orgid='GCF_000021485' frameid='RXN-14986'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18211' orgid='GCF_000021485' frameid='RXN-18211'/>
+      <Reaction resource='getxml?GCF_000021485:RXNQT-4168' orgid='GCF_000021485' frameid='RXNQT-4168'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18207' orgid='GCF_000021485' frameid='RXN-18207'/>
+      <Reaction resource='getxml?GCF_000021485:RXNQT-4178' orgid='GCF_000021485' frameid='RXNQT-4178'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18201' orgid='GCF_000021485' frameid='RXN-18201'/>
+      <Reaction resource='getxml?GCF_000021485:RXNQT-4171' orgid='GCF_000021485' frameid='RXNQT-4171'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18205' orgid='GCF_000021485' frameid='RXN-18205'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-13158' orgid='GCF_000021485' frameid='RXN-13158'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-7800' orgid='GCF_000021485' frameid='RXN-7800'/>
+      <Reaction resource='getxml?GCF_000021485:RXNQT-4165' orgid='GCF_000021485' frameid='RXNQT-4165'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18209' orgid='GCF_000021485' frameid='RXN-18209'/>
+      <Reaction resource='getxml?GCF_000021485:RXNQT-4174' orgid='GCF_000021485' frameid='RXNQT-4174'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-18203' orgid='GCF_000021485' frameid='RXN-18203'/>
+      <Reaction resource='getxml?GCF_000021485:RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN' orgid='GCF_000021485' frameid='RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN0-1461' orgid='GCF_000021485' frameid='RXN0-1461'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9238' orgid='GCF_000021485' frameid='RXN-9238'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-15309' orgid='GCF_000021485' frameid='RXN-15309'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9231' orgid='GCF_000021485' frameid='RXN-9231'/>
+      <Reaction resource='getxml?GCF_000021485:3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN' orgid='GCF_000021485' frameid='3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-9223' orgid='GCF_000021485' frameid='RXN-9223'/>
+      <Reaction resource='getxml?GCF_000021485:N-CARBAMOYLPUTRESCINE-AMIDASE-RXN' orgid='GCF_000021485' frameid='N-CARBAMOYLPUTRESCINE-AMIDASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-3945' orgid='GCF_000021485' frameid='RXN-3945'/>
+      <Reaction resource='getxml?GCF_000021485:BENZOYLFORMATE-DECARBOXYLASE-RXN' orgid='GCF_000021485' frameid='BENZOYLFORMATE-DECARBOXYLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:HYDROXYBENZOYLFORMATE-DECARBOXYLASE-RXN' orgid='GCF_000021485' frameid='HYDROXYBENZOYLFORMATE-DECARBOXYLASE-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:ASPDECARBOX-RXN' orgid='GCF_000021485' frameid='ASPDECARBOX-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:IGPSYN-RXN' orgid='GCF_000021485' frameid='IGPSYN-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:DIAMINOPIMDECARB-RXN' orgid='GCF_000021485' frameid='DIAMINOPIMDECARB-RXN'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12611' orgid='GCF_000021485' frameid='RXN-12611'/>
+      <Reaction resource='getxml?GCF_000021485:RXN-12610' orgid='GCF_000021485' frameid='RXN-12610'/>
+    </appears-in-right-side-of>
+    <gibbs-0 datatype='float' units='kcal/mol'>-92.26
+      <evidence>
+        <Evidence-Code resource='#GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+        <Publication resource='#GCF_000021485:PUB-LATENDRESSE2013' orgid='GCF_000021485' frameid='PUB-LATENDRESSE2013'/>
+      </evidence>
+    </gibbs-0>
+    <synonym datatype='string'>carbonic anhydride</synonym>
+    <synonym datatype='string'>carbonic acid gas</synonym>
+    <synonym datatype='string'>carbon dioxide</synonym>
+    <dblink>
+      <dblink-db>SEED</dblink-db>
+      <dblink-oid>cpd00011</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://modelseed.org/biochem/compounds/cpd00011</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>METANETX</dblink-db>
+      <dblink-oid>MNXM13</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.metanetx.org/chem_info/MNXM13</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>BIGG</dblink-db>
+      <dblink-oid>co2</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://bigg.ucsd.edu/universal/metabolites/co2</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>METABOLIGHTS</dblink-db>
+      <dblink-oid>MTBLC16526</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/metabolights/MTBLC16526</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>LIGAND-CPD</dblink-db>
+      <dblink-oid>C00011</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.genome.ad.jp/dbget-bin/www_bget?C00011</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>HMDB</dblink-db>
+      <dblink-oid>HMDB01967</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.hmdb.ca/metabolites/HMDB01967</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UM-BBD-CPD</dblink-db>
+      <dblink-oid>c0131</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=c&amp;compID=c0131</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>CHEMSPIDER</dblink-db>
+      <dblink-oid>274</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.chemspider.com/274</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>CHEBI</dblink-db>
+      <dblink-oid>16526</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PUBCHEM</dblink-db>
+      <dblink-oid>280</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=280</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>CAS</dblink-db>
+      <dblink-oid>124-38-9</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.commonchemistry.org/ChemicalDetail.aspx?ref=124-38-9</dblink-URL>
+    </dblink>
+    <monoisotopic-mw datatype='float' units='Daltons'>43.98983</monoisotopic-mw>
+    <credits>
+      <imported-from-meta>
+        <date datatype='date'>2021-12-22</date>
+        <Organization resource='#GCF_000021485:SRI' orgid='GCF_000021485' frameid='SRI'/>
+      </imported-from-meta>
+    </credits>
+    <molecular-weight datatype='float' units='Daltons'>44.01</molecular-weight>
+  </Compound>
+</ptools-xml>

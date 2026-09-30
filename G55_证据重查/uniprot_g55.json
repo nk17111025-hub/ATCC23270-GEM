@@ -1,0 +1,6339 @@
+{
+  "date": "2026-09-24",
+  "input_count": 396,
+  "errors": {},
+  "by_wp": {
+    "WP_012606970.1": [
+      {
+        "accession": "B7J8Y1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 43,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J8Y1/entry"
+      }
+    ],
+    "WP_012606971.1": [
+      {
+        "accession": "B7J8Y2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 40,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J8Y2/entry"
+      }
+    ],
+    "WP_012606972.1": [
+      {
+        "accession": "B7J8Y3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 60,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "4: Predicted",
+        "name": "Phosphoadenosine phosphosulphate reductase domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR002500",
+          "IPR014729",
+          "IPR050128"
+        ],
+        "pfam": [
+          "PF01507"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J8Y3/entry"
+      }
+    ],
+    "WP_012606973.1": [
+      {
+        "accession": "B7J8Y4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 43,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "DUF6878 domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR049243"
+        ],
+        "pfam": [
+          "PF21798"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J8Y4/entry"
+      }
+    ],
+    "WP_012607024.1": [
+      {
+        "accession": "B7J9F8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 85,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "asparagine synthase (glutamine-hydrolyzing)",
+        "ec": [
+          "6.3.5.4"
+        ],
+        "interpro": [
+          "IPR006426",
+          "IPR001962",
+          "IPR051786",
+          "IPR033738",
+          "IPR017932",
+          "IPR029055",
+          "IPR014729"
+        ],
+        "pfam": [
+          "PF00733",
+          "PF13522"
+        ],
+        "catalytic": [
+          {
+            "name": "L-aspartate + L-glutamine + ATP + H2O = L-asparagine + L-glutamate + AMP + diphosphate + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:12228"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29985"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29991"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33019"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58048"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58359"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:456215"
+              }
+            ],
+            "ecNumber": "6.3.5.4",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00048741"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9F8/entry"
+      }
+    ],
+    "WP_012607025.1": [
+      {
+        "accession": "B7J9F9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR001296",
+          "IPR028098",
+          "IPR050194"
+        ],
+        "pfam": [
+          "PF13439",
+          "PF00534"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9F9/entry"
+      }
+    ],
+    "WP_012607027.1": [
+      {
+        "accession": "B7J9G1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 64,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR001296",
+          "IPR028098",
+          "IPR050194"
+        ],
+        "pfam": [
+          "PF13439",
+          "PF00534"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9G1/entry"
+      }
+    ],
+    "WP_012607029.1": [
+      {
+        "accession": "B7J9G3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 53,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR043519",
+          "IPR002934"
+        ],
+        "pfam": [
+          "PF01909"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9G3/entry"
+      }
+    ],
+    "WP_012607030.1": [
+      {
+        "accession": "B7J9G4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 57,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "HEPN domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR007842"
+        ],
+        "pfam": [
+          "PF05168"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9G4/entry"
+      }
+    ],
+    "WP_012607032.1": [
+      {
+        "accession": "B7J9G6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 84,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Ribonuclease VapC",
+        "ec": [
+          "3.1.-.-"
+        ],
+        "interpro": [
+          "IPR029060",
+          "IPR002716",
+          "IPR050556",
+          "IPR022907"
+        ],
+        "pfam": [
+          "PF01850"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9G6/entry"
+      }
+    ],
+    "WP_012607033.1": [
+      {
+        "accession": "B7J9G7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 51,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR043519",
+          "IPR002934"
+        ],
+        "pfam": [
+          "PF01909"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9G7/entry"
+      }
+    ],
+    "WP_012607034.1": [
+      {
+        "accession": "B7J9G9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 66,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002711",
+          "IPR003615",
+          "IPR052892",
+          "IPR047693",
+          "IPR025938"
+        ],
+        "pfam": [
+          "PF01844",
+          "PF14239"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9G9/entry"
+      }
+    ],
+    "WP_012607036.1": [
+      {
+        "accession": "B7J9H1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 66,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "VapB45-like C-terminal domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR009057",
+          "IPR007367",
+          "IPR036388"
+        ],
+        "pfam": [
+          "PF04255"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9H1/entry"
+      }
+    ],
+    "WP_012607037.1": [
+      {
+        "accession": "B7J9H2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 56,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "DUF5615 domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR041049"
+        ],
+        "pfam": [
+          "PF18480"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9H2/entry"
+      }
+    ],
+    "WP_012607039.1": [
+      {
+        "accession": "B7J9H4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003362",
+          "IPR017475",
+          "IPR017472"
+        ],
+        "pfam": [
+          "PF02397"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9H4/entry"
+      }
+    ],
+    "WP_012607040.1": [
+      {
+        "accession": "B7J9H5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 87,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR014001",
+          "IPR001650",
+          "IPR027417",
+          "IPR038718",
+          "IPR049730",
+          "IPR000330"
+        ],
+        "pfam": [
+          "PF00271",
+          "PF00176"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9H5/entry"
+      }
+    ],
+    "WP_012607042.1": [
+      {
+        "accession": "B7J9H7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 76,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003593",
+          "IPR028350",
+          "IPR047661",
+          "IPR002611",
+          "IPR027417"
+        ],
+        "pfam": [
+          "PF01695"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9H7/entry"
+      }
+    ],
+    "WP_012607045.1": [
+      {
+        "accession": "B7J9I0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR038109",
+          "IPR011109",
+          "IPR006119",
+          "IPR036162",
+          "IPR050639",
+          "IPR025827"
+        ],
+        "pfam": [
+          "PF07508",
+          "PF00239",
+          "PF13408"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9I0/entry"
+      }
+    ],
+    "WP_012607049.1": [
+      {
+        "accession": "B7J9I4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 44,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9I4/entry"
+      }
+    ],
+    "WP_012536490.1": [
+      {
+        "accession": "B7J9I8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 67,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "Histidine kinase",
+        "ec": [],
+        "interpro": [
+          "IPR019494",
+          "IPR013702",
+          "IPR016741"
+        ],
+        "pfam": [
+          "PF08495",
+          "PF10442"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9I8/entry"
+      }
+    ],
+    "WP_009566343.1": [
+      {
+        "accession": "B7J9J0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 87,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003593",
+          "IPR011527",
+          "IPR036640",
+          "IPR014223",
+          "IPR003439",
+          "IPR027417",
+          "IPR039421"
+        ],
+        "pfam": [
+          "PF00664",
+          "PF00005"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J0/entry"
+      }
+    ],
+    "WP_009566341.1": [
+      {
+        "accession": "B7J9J1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 55,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J1/entry"
+      }
+    ],
+    "WP_012536492.1": [
+      {
+        "accession": "B7J9J2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 78,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR006222",
+          "IPR017703",
+          "IPR045179"
+        ],
+        "pfam": [
+          "PF01571"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J2/entry"
+      }
+    ],
+    "WP_012607054.1": [
+      {
+        "accession": "B7J9J3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 56,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J3/entry"
+      }
+    ],
+    "WP_012536494.1": [
+      {
+        "accession": "B7J9J4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 88,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "3: Inferred from homology",
+        "name": "L-aspartate oxidase",
+        "ec": [
+          "1.4.3.16"
+        ],
+        "interpro": [
+          "IPR003953",
+          "IPR036188",
+          "IPR037099",
+          "IPR015939",
+          "IPR005288",
+          "IPR027477"
+        ],
+        "pfam": [
+          "PF00890",
+          "PF02910"
+        ],
+        "catalytic": [
+          {
+            "name": "L-aspartate + O2 = iminosuccinate + H2O2",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:25876"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15379"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:16240"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29991"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:77875"
+              }
+            ],
+            "ecNumber": "1.4.3.16",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00048305"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J4/entry"
+      }
+    ],
+    "WP_009561172.1": [
+      {
+        "accession": "B7J9J5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 95,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "RNA polymerase sigma factor",
+        "ec": [],
+        "interpro": [
+          "IPR039425",
+          "IPR014284",
+          "IPR000838",
+          "IPR007627",
+          "IPR013249",
+          "IPR014286",
+          "IPR013325",
+          "IPR013324",
+          "IPR036388"
+        ],
+        "pfam": [
+          "PF04542",
+          "PF08281"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J5/entry"
+      }
+    ],
+    "WP_009561171.1": [
+      {
+        "accession": "B7J9J6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 55,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR005572"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J6/entry"
+      }
+    ],
+    "WP_012607055.1": [
+      {
+        "accession": "B7J9J7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 97,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Probable periplasmic serine endoprotease DegP-like",
+        "ec": [
+          "3.4.21.107"
+        ],
+        "interpro": [
+          "IPR001478",
+          "IPR041489",
+          "IPR036034",
+          "IPR011782",
+          "IPR009003",
+          "IPR001940"
+        ],
+        "pfam": [
+          "PF13180",
+          "PF17820",
+          "PF13365"
+        ],
+        "catalytic": [
+          {
+            "name": "Acts on substrates that are at least partially unfolded. The cleavage site P1 residue is normally between a pair of hydrophobic residues, such as Val-|-Val.",
+            "ecNumber": "3.4.21.107",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00001772"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J7/entry"
+      }
+    ],
+    "WP_009567236.1": [
+      {
+        "accession": "B7J9J8",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 91,
+        "annotation_date": "2025-04-09",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Elongation factor 4",
+        "ec": [
+          "3.6.5.n1"
+        ],
+        "interpro": [
+          "IPR006297",
+          "IPR035647",
+          "IPR000640",
+          "IPR004161",
+          "IPR031157",
+          "IPR038363",
+          "IPR013842",
+          "IPR035654",
+          "IPR027417",
+          "IPR005225",
+          "IPR000795",
+          "IPR009000"
+        ],
+        "pfam": [
+          "PF00679",
+          "PF00009",
+          "PF03144",
+          "PF06421"
+        ],
+        "catalytic": [
+          {
+            "name": "GTP + H2O = GDP + phosphate + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:19669"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:37565"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:43474"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58189"
+              }
+            ],
+            "ecNumber": "3.6.5.n1",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "source": "HAMAP-Rule",
+                "id": "MF_00071"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J8/entry"
+      }
+    ],
+    "WP_009567235.1": [
+      {
+        "accession": "B7J9J9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 94,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Signal peptidase I",
+        "ec": [
+          "3.4.21.89"
+        ],
+        "interpro": [
+          "IPR036286",
+          "IPR000223",
+          "IPR019757",
+          "IPR019756",
+          "IPR019533"
+        ],
+        "pfam": [
+          "PF10502"
+        ],
+        "catalytic": [
+          {
+            "name": "Cleavage of hydrophobic, N-terminal signal or leader sequences from secreted and periplasmic proteins.",
+            "ecNumber": "3.4.21.89",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00000677"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU003993"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9J9/entry"
+      }
+    ],
+    "WP_012536497.1": [
+      {
+        "accession": "B7J9K1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 93,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Ribonuclease 3",
+        "ec": [
+          "3.1.26.3"
+        ],
+        "interpro": [
+          "IPR014720",
+          "IPR011907",
+          "IPR000999",
+          "IPR036389"
+        ],
+        "pfam": [
+          "PF00035",
+          "PF14622"
+        ],
+        "catalytic": [
+          {
+            "name": "Endonucleolytic cleavage to 5'-phosphomonoester.",
+            "ecNumber": "3.1.26.3",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00000109"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_00104"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K1/entry"
+      }
+    ],
+    "WP_012536498.1": [
+      {
+        "accession": "B7J9K2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 107,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "3: Inferred from homology",
+        "name": "GTPase Era",
+        "ec": [],
+        "interpro": [
+          "IPR030388",
+          "IPR006073",
+          "IPR005662",
+          "IPR015946",
+          "IPR004044",
+          "IPR009019",
+          "IPR027417",
+          "IPR005225"
+        ],
+        "pfam": [
+          "PF07650",
+          "PF01926"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K2/entry"
+      }
+    ],
+    "WP_012536499.1": [
+      {
+        "accession": "B7J9K3",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 78,
+        "annotation_date": "2025-04-09",
+        "protein_existence": "3: Inferred from homology",
+        "name": "DNA repair protein RecO",
+        "ec": [],
+        "interpro": [
+          "IPR037278",
+          "IPR022572",
+          "IPR012340",
+          "IPR003717",
+          "IPR042242"
+        ],
+        "pfam": [
+          "PF02565",
+          "PF11967"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K3/entry"
+      }
+    ],
+    "WP_012536500.1": [
+      {
+        "accession": "B7J9K4",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 77,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Pyridoxine 5'-phosphate synthase",
+        "ec": [
+          "2.6.99.2"
+        ],
+        "interpro": [
+          "IPR013785",
+          "IPR004569",
+          "IPR036130"
+        ],
+        "pfam": [
+          "PF03740"
+        ],
+        "catalytic": [
+          {
+            "name": "3-amino-2-oxopropyl phosphate + 1-deoxy-D-xylulose 5-phosphate = pyridoxine 5'-phosphate + phosphate + 2 H2O + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:15265"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:43474"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57279"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57792"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58589"
+              }
+            ],
+            "ecNumber": "2.6.99.2",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "source": "HAMAP-Rule",
+                "id": "MF_00279"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K4/entry"
+      }
+    ],
+    "WP_009565421.1": [
+      {
+        "accession": "B7J9K5",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 76,
+        "annotation_date": "2025-04-09",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Holo-[acyl-carrier-protein] synthase",
+        "ec": [
+          "2.7.8.7"
+        ],
+        "interpro": [
+          "IPR008278",
+          "IPR037143",
+          "IPR002582",
+          "IPR004568"
+        ],
+        "pfam": [
+          "PF01648"
+        ],
+        "catalytic": [
+          {
+            "name": "apo-[ACP] + CoA = holo-[ACP] + adenosine 3',5'-bisphosphate + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:12068"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9685"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9690"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29999"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57287"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58343"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:64479"
+              }
+            ],
+            "ecNumber": "2.7.8.7",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "source": "HAMAP-Rule",
+                "id": "MF_00101"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K5/entry"
+      }
+    ],
+    "WP_012607056.1": [
+      {
+        "accession": "B7J9K6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 84,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "UDP-glucose 6-dehydrogenase",
+        "ec": [
+          "1.1.1.22"
+        ],
+        "interpro": [
+          "IPR008927",
+          "IPR036291",
+          "IPR017476",
+          "IPR014027",
+          "IPR036220",
+          "IPR014026",
+          "IPR001732",
+          "IPR028357"
+        ],
+        "pfam": [
+          "PF00984",
+          "PF03720",
+          "PF03721"
+        ],
+        "catalytic": [
+          {
+            "name": "UDP-alpha-D-glucose + 2 NAD(+) + H2O = UDP-alpha-D-glucuronate + 2 NADH + 3 H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:23596"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57540"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57945"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58052"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58885"
+              }
+            ],
+            "ecNumber": "1.1.1.22",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047473"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "PIRNR",
+                "id": "PIRNR000124"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K6/entry"
+      }
+    ],
+    "WP_012607057.1": [
+      {
+        "accession": "B7J9K8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 86,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR014729",
+          "IPR011063",
+          "IPR035107"
+        ],
+        "pfam": [
+          "PF01171"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K8/entry"
+      }
+    ],
+    "WP_012536503.1": [
+      {
+        "accession": "B7J9K9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 71,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR000397",
+          "IPR016154",
+          "IPR016153"
+        ],
+        "pfam": [
+          "PF01430"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9K9/entry"
+      }
+    ],
+    "WP_009569577.1": [
+      {
+        "accession": "B7J9L0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 61,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "Toxin",
+        "ec": [],
+        "interpro": [
+          "IPR021679"
+        ],
+        "pfam": [
+          "PF11663"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9L0/entry"
+      }
+    ],
+    "WP_009569578.1": [
+      {
+        "accession": "B7J9L1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 57,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR031848",
+          "IPR037914"
+        ],
+        "pfam": [
+          "PF15937"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9L1/entry"
+      }
+    ],
+    "WP_012536504.1": [
+      {
+        "accession": "B7J9L3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 71,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR022749",
+          "IPR029063",
+          "IPR038333"
+        ],
+        "pfam": [
+          "PF12161"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9L3/entry"
+      }
+    ],
+    "WP_009565062.1": [
+      {
+        "accession": "B7J9L5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 67,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR016181",
+          "IPR000182"
+        ],
+        "pfam": [
+          "PF13508"
+        ],
+        "catalytic": [
+          {
+            "name": "glycyl-tRNA(Gly) + acetyl-CoA = N-acetylglycyl-tRNA(Gly) + CoA + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:81867"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9683"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:19766"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57287"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57288"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:78522"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:232036"
+              }
+            ],
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00049880"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9L5/entry"
+      }
+    ],
+    "WP_012536505.1": [
+      {
+        "accession": "B7J9L6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 70,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Toxin-antitoxin system protein",
+        "ec": [],
+        "interpro": [
+          "IPR010985",
+          "IPR014795"
+        ],
+        "pfam": [
+          "PF08681"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9L6/entry"
+      }
+    ],
+    "WP_012536506.1": [
+      {
+        "accession": "B7J9L9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 74,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR004843",
+          "IPR043461",
+          "IPR029052"
+        ],
+        "pfam": [
+          "PF00149"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9L9/entry"
+      }
+    ],
+    "WP_012536508.1": [
+      {
+        "accession": "B7J9M3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 73,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR001296",
+          "IPR028098",
+          "IPR050194"
+        ],
+        "pfam": [
+          "PF13439",
+          "PF00534"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9M3/entry"
+      }
+    ],
+    "WP_012536510.1": [
+      {
+        "accession": "B7J9M7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 85,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002524",
+          "IPR027470",
+          "IPR036837",
+          "IPR058533",
+          "IPR027469",
+          "IPR050681"
+        ],
+        "pfam": [
+          "PF01545",
+          "PF16916"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9M7/entry"
+      }
+    ],
+    "WP_009561020.1": [
+      {
+        "accession": "B7J9M8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 72,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR009061",
+          "IPR000551",
+          "IPR047057"
+        ],
+        "pfam": [
+          "PF13411"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9M8/entry"
+      }
+    ],
+    "WP_012607066.1": [
+      {
+        "accession": "B7J9M9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 40,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9M9/entry"
+      }
+    ],
+    "WP_012536512.1": [
+      {
+        "accession": "B7J9N0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 93,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "DEAD-box ATP-dependent RNA helicase RhpA",
+        "ec": [
+          "3.6.4.13"
+        ],
+        "interpro": [
+          "IPR011545",
+          "IPR044742",
+          "IPR050079",
+          "IPR014001",
+          "IPR001650",
+          "IPR027417",
+          "IPR000629",
+          "IPR014014"
+        ],
+        "pfam": [
+          "PF00270",
+          "PF00271"
+        ],
+        "catalytic": [
+          {
+            "name": "ATP + H2O = ADP + phosphate + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:13065"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:43474"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:456216"
+              }
+            ],
+            "ecNumber": "3.6.4.13",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047984"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9N0/entry"
+      }
+    ],
+    "WP_012536513.1": [
+      {
+        "accession": "B7J9N1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 103,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "Phosphate regulon transcriptional regulatory protein PhoB",
+        "ec": [],
+        "interpro": [
+          "IPR011006",
+          "IPR001867",
+          "IPR016032",
+          "IPR011879",
+          "IPR001789",
+          "IPR039420",
+          "IPR036388"
+        ],
+        "pfam": [
+          "PF00072",
+          "PF00486"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9N1/entry"
+      }
+    ],
+    "WP_012536515.1": [
+      {
+        "accession": "B7J9N3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 74,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Phosphate-binding protein PstS",
+        "ec": [],
+        "interpro": [
+          "IPR005673",
+          "IPR024370",
+          "IPR050962"
+        ],
+        "pfam": [
+          "PF12849"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9N3/entry"
+      }
+    ],
+    "WP_012536517.1": [
+      {
+        "accession": "B7J9N5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 83,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Phosphate transport system permease protein PstA",
+        "ec": [],
+        "interpro": [
+          "IPR000515",
+          "IPR035906",
+          "IPR005672",
+          "IPR051408"
+        ],
+        "pfam": [
+          "PF00528"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9N5/entry"
+      }
+    ],
+    "WP_012536518.1": [
+      {
+        "accession": "B7J9N6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 101,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003593",
+          "IPR003439",
+          "IPR017871",
+          "IPR027417",
+          "IPR005670"
+        ],
+        "pfam": [
+          "PF00005"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9N6/entry"
+      }
+    ],
+    "WP_012536520.1": [
+      {
+        "accession": "B7J9N8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR043129",
+          "IPR050273",
+          "IPR048950",
+          "IPR003695",
+          "IPR030673"
+        ],
+        "pfam": [
+          "PF02541",
+          "PF21447"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9N8/entry"
+      }
+    ],
+    "WP_009564727.1": [
+      {
+        "accession": "B7J9P1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 84,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Small ribosomal subunit protein uS2",
+        "ec": [],
+        "interpro": [
+          "IPR001865",
+          "IPR005706",
+          "IPR018130",
+          "IPR023591"
+        ],
+        "pfam": [
+          "PF00318"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9P1/entry"
+      }
+    ],
+    "WP_012536522.1": [
+      {
+        "accession": "B7J9P2",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 76,
+        "annotation_date": "2025-04-09",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Elongation factor Ts",
+        "ec": [],
+        "interpro": [
+          "IPR036402",
+          "IPR001816",
+          "IPR014039",
+          "IPR018101",
+          "IPR009060"
+        ],
+        "pfam": [
+          "PF00889"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9P2/entry"
+      }
+    ],
+    "WP_009564729.1": [
+      {
+        "accession": "B7J9P3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 100,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Uridylate kinase",
+        "ec": [
+          "2.7.4.22"
+        ],
+        "interpro": [
+          "IPR036393",
+          "IPR001048",
+          "IPR011817",
+          "IPR015963"
+        ],
+        "pfam": [
+          "PF00696"
+        ],
+        "catalytic": [
+          {
+            "name": "UMP + ATP = UDP + ADP",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:24400"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57865"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58223"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:456216"
+              }
+            ],
+            "ecNumber": "2.7.4.22",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047767"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_01220"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9P3/entry"
+      }
+    ],
+    "WP_012536523.1": [
+      {
+        "accession": "B7J9P4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 77,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Ribosome-recycling factor",
+        "ec": [],
+        "interpro": [
+          "IPR002661",
+          "IPR023584",
+          "IPR036191"
+        ],
+        "pfam": [
+          "PF01765"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9P4/entry"
+      }
+    ],
+    "WP_012536525.1": [
+      {
+        "accession": "B7J9P6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 76,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Phosphatidate cytidylyltransferase",
+        "ec": [
+          "2.7.7.41"
+        ],
+        "interpro": [
+          "IPR000374"
+        ],
+        "pfam": [
+          "PF01148"
+        ],
+        "catalytic": [
+          {
+            "name": "a 1,2-diacyl-sn-glycero-3-phosphate + CTP + H(+) = a CDP-1,2-diacyl-sn-glycerol + diphosphate",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:16229"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33019"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:37563"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58332"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58608"
+              }
+            ],
+            "ecNumber": "2.7.7.41",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00001902"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9P6/entry"
+      }
+    ],
+    "WP_012536527.1": [
+      {
+        "accession": "B7J9P8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 94,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Zinc metalloprotease",
+        "ec": [
+          "3.4.24.-"
+        ],
+        "interpro": [
+          "IPR001478",
+          "IPR041489",
+          "IPR036034",
+          "IPR004387",
+          "IPR008915"
+        ],
+        "pfam": [
+          "PF17820",
+          "PF02163"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9P8/entry"
+      }
+    ],
+    "WP_012536528.1": [
+      {
+        "accession": "B7J9P9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 94,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Outer membrane protein assembly factor BamA",
+        "ec": [],
+        "interpro": [
+          "IPR000184",
+          "IPR010827",
+          "IPR039910",
+          "IPR023707",
+          "IPR034746"
+        ],
+        "pfam": [
+          "PF01103",
+          "PF07244"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7J9P9/entry"
+      }
+    ],
+    "WP_012536529.1": [
+      {
+        "accession": "B7JA30",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 76,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR005632",
+          "IPR024930"
+        ],
+        "pfam": [
+          "PF03938"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA30/entry"
+      }
+    ],
+    "WP_012536530.1": [
+      {
+        "accession": "B7JA31",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 100,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "UDP-3-O-acylglucosamine N-acyltransferase",
+        "ec": [
+          "2.3.1.191"
+        ],
+        "interpro": [
+          "IPR001451",
+          "IPR007691",
+          "IPR011004",
+          "IPR020573"
+        ],
+        "pfam": [
+          "PF00132",
+          "PF14602",
+          "PF04613"
+        ],
+        "catalytic": [
+          {
+            "name": "a UDP-3-O-[(3R)-3-hydroxyacyl]-alpha-D-glucosamine + a (3R)-hydroxyacyl-[ACP] = a UDP-2-N,3-O-bis[(3R)-3-hydroxyacyl]-alpha-D-glucosamine + holo-[ACP] + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:53836"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9685"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9945"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:64479"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:78827"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:137740"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:137748"
+              }
+            ],
+            "ecNumber": "2.3.1.191",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_00523"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA31/entry"
+      }
+    ],
+    "WP_012536531.1": [
+      {
+        "accession": "B7JA32",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 81,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ",
+        "ec": [
+          "4.2.1.59"
+        ],
+        "interpro": [
+          "IPR013114",
+          "IPR010084",
+          "IPR029069"
+        ],
+        "pfam": [
+          "PF07977"
+        ],
+        "catalytic": [
+          {
+            "name": "a (3R)-hydroxyacyl-[ACP] = a (2E)-enoyl-[ACP] + H2O",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:13097"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9925"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9945"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:78784"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:78827"
+              }
+            ],
+            "ecNumber": "4.2.1.59",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_00406"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA32/entry"
+      }
+    ],
+    "WP_012536532.1": [
+      {
+        "accession": "B7JA33",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 101,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase",
+        "ec": [
+          "2.3.1.129"
+        ],
+        "interpro": [
+          "IPR029098",
+          "IPR037157",
+          "IPR001451",
+          "IPR010137",
+          "IPR011004"
+        ],
+        "pfam": [
+          "PF13720",
+          "PF00132"
+        ],
+        "catalytic": [
+          {
+            "name": "a (3R)-hydroxyacyl-[ACP] + UDP-N-acetyl-alpha-D-glucosamine = a UDP-3-O-[(3R)-3-hydroxyacyl]-N-acetyl-alpha-D-glucosamine + holo-[ACP]",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:67812"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9685"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:9945"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57705"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:64479"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:78827"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:173225"
+              }
+            ],
+            "ecNumber": "2.3.1.129",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_00387"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA33/entry"
+      }
+    ],
+    "WP_012536533.1": [
+      {
+        "accession": "B7JA34",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 71,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "1: Evidence at protein level",
+        "name": "UDP-N-acetylglucosamine 3-dehydrogenase",
+        "ec": [
+          "1.1.1.374"
+        ],
+        "interpro": [
+          "IPR000683",
+          "IPR051450",
+          "IPR055170",
+          "IPR036291"
+        ],
+        "pfam": [
+          "PF01408",
+          "PF22725"
+        ],
+        "catalytic": [
+          {
+            "name": "UDP-N-acetyl-alpha-D-glucosamine + NAD(+) = UDP-2-acetamido-3-dehydro-2-deoxy-alpha-D-glucopyranose + NADH + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:42660"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57540"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57705"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57945"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:78981"
+              }
+            ],
+            "ecNumber": "1.1.1.374",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "15044494"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "33200610"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA34/entry"
+      }
+    ],
+    "WP_012536534.1": [
+      {
+        "accession": "B7JA35",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 86,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "1: Evidence at protein level",
+        "name": "UDP-N-acetyl-3-dehydro-alpha-D-glucosamine 3-aminotransferase",
+        "ec": [
+          "2.6.1.122"
+        ],
+        "interpro": [
+          "IPR000653",
+          "IPR015424",
+          "IPR015421",
+          "IPR015422"
+        ],
+        "pfam": [
+          "PF01041"
+        ],
+        "catalytic": [
+          {
+            "name": "UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucopyranose + 2-oxoglutarate = UDP-2-acetamido-3-dehydro-2-deoxy-alpha-D-glucopyranose + L-glutamate",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:69468"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:16810"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29985"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:78981"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:184123"
+              }
+            ],
+            "ecNumber": "2.6.1.122",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "15044494"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA35/entry"
+      }
+    ],
+    "WP_009564129.1": [
+      {
+        "accession": "B7JA36",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 89,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Lipid-A-disaccharide synthase",
+        "ec": [
+          "2.4.1.182"
+        ],
+        "interpro": [
+          "IPR003835"
+        ],
+        "pfam": [
+          "PF02684"
+        ],
+        "catalytic": [
+          {
+            "name": "a lipid X + a UDP-2-N,3-O-bis[(3R)-3-hydroxyacyl]-alpha-D-glucosamine = a lipid A disaccharide + UDP + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:67828"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58223"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:137748"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:176338"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:176343"
+              }
+            ],
+            "ecNumber": "2.4.1.182",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00048975"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA36/entry"
+      }
+    ],
+    "WP_009564128.1": [
+      {
+        "accession": "B7JA37",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 90,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Ribonuclease HII",
+        "ec": [
+          "3.1.26.4"
+        ],
+        "interpro": [
+          "IPR022898",
+          "IPR001352",
+          "IPR024567",
+          "IPR012337",
+          "IPR036397"
+        ],
+        "pfam": [
+          "PF01351"
+        ],
+        "catalytic": [
+          {
+            "name": "Endonucleolytic cleavage to 5'-phosphomonoester.",
+            "ecNumber": "3.1.26.4",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00000077"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_00052"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "PROSITE-ProRule",
+                "id": "PRU01319"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU003515"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA37/entry"
+      }
+    ],
+    "WP_012607071.1": [
+      {
+        "accession": "B7JA38",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 91,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "DNA polymerase III subunit alpha",
+        "ec": [
+          "2.7.7.7"
+        ],
+        "interpro": [
+          "IPR011708",
+          "IPR041931",
+          "IPR040982",
+          "IPR004805",
+          "IPR029460",
+          "IPR012340",
+          "IPR004365",
+          "IPR004013",
+          "IPR003141",
+          "IPR016195",
+          "IPR049821"
+        ],
+        "pfam": [
+          "PF07733",
+          "PF17657",
+          "PF14579",
+          "PF02811",
+          "PF01336"
+        ],
+        "catalytic": [
+          {
+            "name": "DNA(n) + a 2'-deoxyribonucleoside 5'-triphosphate = DNA(n+1) + diphosphate",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:22508"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:17339"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:17340"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33019"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:61560"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:173112"
+              }
+            ],
+            "ecNumber": "2.7.7.7",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00049244"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA38/entry"
+      }
+    ],
+    "WP_012536536.1": [
+      {
+        "accession": "B7JA39",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 88,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha",
+        "ec": [
+          "2.1.3.15"
+        ],
+        "interpro": [
+          "IPR001095",
+          "IPR029045",
+          "IPR011763"
+        ],
+        "pfam": [
+          "PF03255"
+        ],
+        "catalytic": [
+          {
+            "name": "N(6)-carboxybiotinyl-L-lysyl-[protein] + acetyl-CoA = N(6)-biotinyl-L-lysyl-[protein] + malonyl-CoA",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:54728"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10505"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10506"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57288"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57384"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:83144"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:83145"
+              }
+            ],
+            "ecNumber": "2.1.3.15",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "source": "HAMAP-Rule",
+                "id": "MF_00823"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA39/entry"
+      }
+    ],
+    "WP_012536537.1": [
+      {
+        "accession": "B7JA40",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 94,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "3: Inferred from homology",
+        "name": "tRNA(Ile)-lysidine synthase",
+        "ec": [
+          "6.3.4.19"
+        ],
+        "interpro": [
+          "IPR012796",
+          "IPR014729",
+          "IPR011063",
+          "IPR012094",
+          "IPR012795",
+          "IPR015262"
+        ],
+        "pfam": [
+          "PF01171",
+          "PF09179",
+          "PF11734"
+        ],
+        "catalytic": [
+          {
+            "name": "cytidine(34) in tRNA(Ile2) + L-lysine + ATP = lysidine(34) in tRNA(Ile2) + AMP + diphosphate + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:43744"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10625"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10670"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:32551"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33019"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:82748"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:83665"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:456215"
+              }
+            ],
+            "ecNumber": "6.3.4.19",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00048539"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_01161"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA40/entry"
+      }
+    ],
+    "WP_012536538.1": [
+      {
+        "accession": "B7JA41",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 106,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR006680",
+          "IPR050138",
+          "IPR002195",
+          "IPR011059",
+          "IPR032466"
+        ],
+        "pfam": [
+          "PF01979"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA41/entry"
+      }
+    ],
+    "WP_012536539.1": [
+      {
+        "accession": "B7JA42",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "RNA polymerase-binding transcription factor DksA",
+        "ec": [],
+        "interpro": [
+          "IPR048489",
+          "IPR012784",
+          "IPR037187",
+          "IPR020460",
+          "IPR000962",
+          "IPR020458"
+        ],
+        "pfam": [
+          "PF21157",
+          "PF01258"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA42/entry"
+      }
+    ],
+    "WP_012536540.1": [
+      {
+        "accession": "B7JA43",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 75,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR044999",
+          "IPR036412",
+          "IPR006439",
+          "IPR023214",
+          "IPR023198"
+        ],
+        "pfam": [
+          "PF00702"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA43/entry"
+      }
+    ],
+    "WP_012536541.1": [
+      {
+        "accession": "B7JA44",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 82,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002481",
+          "IPR036388",
+          "IPR036390"
+        ],
+        "pfam": [
+          "PF01475"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA44/entry"
+      }
+    ],
+    "WP_009562391.1": [
+      {
+        "accession": "B7JA45",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 83,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "thioredoxin-dependent peroxiredoxin",
+        "ec": [
+          "1.11.1.24"
+        ],
+        "interpro": [
+          "IPR000866",
+          "IPR024706",
+          "IPR050924",
+          "IPR036249",
+          "IPR013766"
+        ],
+        "pfam": [
+          "PF00578"
+        ],
+        "catalytic": [
+          {
+            "name": "a hydroperoxide + [thioredoxin]-dithiol = an alcohol + [thioredoxin]-disulfide + H2O",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:62620"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10698"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10700"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29950"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30879"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:35924"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:50058"
+              }
+            ],
+            "ecNumber": "1.11.1.24",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00049091"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA45/entry"
+      }
+    ],
+    "WP_012536542.1": [
+      {
+        "accession": "B7JA46",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 78,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR027417",
+          "IPR003714",
+          "IPR051451",
+          "IPR029060",
+          "IPR002716"
+        ],
+        "pfam": [
+          "PF02562",
+          "PF13638"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA46/entry"
+      }
+    ],
+    "WP_009562392.1": [
+      {
+        "accession": "B7JA47",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 105,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Biosynthetic arginine decarboxylase",
+        "ec": [
+          "4.1.1.19"
+        ],
+        "interpro": [
+          "IPR009006",
+          "IPR040634",
+          "IPR041128",
+          "IPR002985",
+          "IPR022657",
+          "IPR022644",
+          "IPR022653",
+          "IPR000183",
+          "IPR029066"
+        ],
+        "pfam": [
+          "PF17810",
+          "PF17944",
+          "PF02784"
+        ],
+        "catalytic": [
+          {
+            "name": "L-arginine + H(+) = agmatine + CO2",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:17641"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:16526"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:32682"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58145"
+              }
+            ],
+            "ecNumber": "4.1.1.19",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_01417"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA47/entry"
+      }
+    ],
+    "WP_012536543.1": [
+      {
+        "accession": "B7JA48",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 53,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA48/entry"
+      }
+    ],
+    "WP_012536544.1": [
+      {
+        "accession": "B7JA49",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 74,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR011234",
+          "IPR036663"
+        ],
+        "pfam": [
+          "PF01557"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA49/entry"
+      }
+    ],
+    "WP_009560709.1": [
+      {
+        "accession": "B7JA50",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 48,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA50/entry"
+      }
+    ],
+    "WP_009560708.1": [
+      {
+        "accession": "B7JA51",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 73,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR036282",
+          "IPR040079",
+          "IPR004045",
+          "IPR036249"
+        ],
+        "pfam": [
+          "PF13410",
+          "PF13409"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA51/entry"
+      }
+    ],
+    "WP_009560707.1": [
+      {
+        "accession": "B7JA52",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 53,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA52/entry"
+      }
+    ],
+    "WP_009560706.1": [
+      {
+        "accession": "B7JA53",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 57,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "Tetratricopeptide repeat protein",
+        "ec": [],
+        "interpro": [
+          "IPR011990"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA53/entry"
+      }
+    ],
+    "WP_009560705.1": [
+      {
+        "accession": "B7JA54",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 71,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "Ferredoxin-like protein",
+        "ec": [],
+        "interpro": [
+          "IPR017896",
+          "IPR007859",
+          "IPR012206"
+        ],
+        "pfam": [
+          "PF05187"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA54/entry"
+      }
+    ],
+    "WP_012536545.1": [
+      {
+        "accession": "B7JA55",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Protein FixC",
+        "ec": [],
+        "interpro": [
+          "IPR049398",
+          "IPR002938",
+          "IPR036188",
+          "IPR039651",
+          "IPR059103"
+        ],
+        "pfam": [
+          "PF26311",
+          "PF21162",
+          "PF01494"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA55/entry"
+      }
+    ],
+    "WP_012536546.1": [
+      {
+        "accession": "B7JA56",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 70,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR029035",
+          "IPR014730",
+          "IPR001308",
+          "IPR033947",
+          "IPR014731",
+          "IPR018206",
+          "IPR014729"
+        ],
+        "pfam": [
+          "PF01012",
+          "PF00766"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA56/entry"
+      }
+    ],
+    "WP_012536547.1": [
+      {
+        "accession": "B7JA57",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 67,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Protein FixA",
+        "ec": [],
+        "interpro": [
+          "IPR000049",
+          "IPR014730",
+          "IPR012255",
+          "IPR033948",
+          "IPR014729"
+        ],
+        "pfam": [
+          "PF01012"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA57/entry"
+      }
+    ],
+    "WP_012536548.1": [
+      {
+        "accession": "B7JA59",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR044203",
+          "IPR009050",
+          "IPR012292",
+          "IPR001486"
+        ],
+        "pfam": [
+          "PF01152"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA59/entry"
+      }
+    ],
+    "WP_012536549.1": [
+      {
+        "accession": "B7JA60",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 80,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR000531",
+          "IPR036942",
+          "IPR039426"
+        ],
+        "pfam": [
+          "PF00593"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA60/entry"
+      }
+    ],
+    "WP_009566079.1": [
+      {
+        "accession": "B7JA61",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 71,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR036942"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA61/entry"
+      }
+    ],
+    "WP_012536550.1": [
+      {
+        "accession": "B7JA62",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 75,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR050790",
+          "IPR002898"
+        ],
+        "pfam": [
+          "PF01618"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA62/entry"
+      }
+    ],
+    "WP_012536551.1": [
+      {
+        "accession": "B7JA63",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 75,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003400"
+        ],
+        "pfam": [
+          "PF02472"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA63/entry"
+      }
+    ],
+    "WP_012536553.1": [
+      {
+        "accession": "B7JA65",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 47,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA65/entry"
+      }
+    ],
+    "WP_012536555.1": [
+      {
+        "accession": "B7JA67",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 92,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR037294",
+          "IPR000522"
+        ],
+        "pfam": [
+          "PF01032"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA67/entry"
+      }
+    ],
+    "WP_009562005.1": [
+      {
+        "accession": "B7JA68",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 81,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003593",
+          "IPR003439",
+          "IPR017871",
+          "IPR027417"
+        ],
+        "pfam": [
+          "PF00005"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA68/entry"
+      }
+    ],
+    "WP_012536558.1": [
+      {
+        "accession": "B7JA70",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 77,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR005950",
+          "IPR050682"
+        ],
+        "pfam": [
+          "PF13531"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA70/entry"
+      }
+    ],
+    "WP_012536559.1": [
+      {
+        "accession": "B7JA71",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 74,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR050902",
+          "IPR002491"
+        ],
+        "pfam": [
+          "PF01497"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA71/entry"
+      }
+    ],
+    "WP_012536562.1": [
+      {
+        "accession": "B7JA74",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 62,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Outer membrane porin, OprD family",
+        "ec": [],
+        "interpro": [
+          "IPR005318",
+          "IPR023614"
+        ],
+        "pfam": [
+          "PF03573"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA74/entry"
+      }
+    ],
+    "WP_012536563.1": [
+      {
+        "accession": "B7JA75",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 63,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR050682"
+        ],
+        "pfam": [
+          "PF13531"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA75/entry"
+      }
+    ],
+    "WP_009564605.1": [
+      {
+        "accession": "B7JA78",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 59,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR013429"
+        ],
+        "pfam": [
+          "PF09723"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA78/entry"
+      }
+    ],
+    "WP_009564606.1": [
+      {
+        "accession": "B7JA79",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002110",
+          "IPR036770",
+          "IPR001763",
+          "IPR036873",
+          "IPR023695"
+        ],
+        "pfam": [
+          "PF00023",
+          "PF12796",
+          "PF00581"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA79/entry"
+      }
+    ],
+    "WP_012607079.1": [
+      {
+        "accession": "B7JA80",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 65,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR029479",
+          "IPR000415"
+        ],
+        "pfam": [
+          "PF00881"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA80/entry"
+      }
+    ],
+    "WP_009564607.1": [
+      {
+        "accession": "B7JA81",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 60,
+        "annotation_date": "2025-04-09",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Nitrogenase-stabilizing/protective protein NifW",
+        "ec": [],
+        "interpro": [
+          "IPR004893"
+        ],
+        "pfam": [
+          "PF03206"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA81/entry"
+      }
+    ],
+    "WP_012536566.1": [
+      {
+        "accession": "B7JA82",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Serine acetyltransferase",
+        "ec": [
+          "2.3.1.30"
+        ],
+        "interpro": [
+          "IPR045304",
+          "IPR042122",
+          "IPR005881",
+          "IPR053376",
+          "IPR011004"
+        ],
+        "pfam": [],
+        "catalytic": [
+          {
+            "name": "L-serine + acetyl-CoA = O-acetyl-L-serine + CoA",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:24560"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33384"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57287"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57288"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58340"
+              }
+            ],
+            "ecNumber": "2.3.1.30",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00049486"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA82/entry"
+      }
+    ],
+    "WP_012536567.1": [
+      {
+        "accession": "B7JA83",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 88,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Homocitrate synthase",
+        "ec": [
+          "2.3.3.14"
+        ],
+        "interpro": [
+          "IPR002034",
+          "IPR013785",
+          "IPR054691",
+          "IPR013477",
+          "IPR000891"
+        ],
+        "pfam": [
+          "PF22617",
+          "PF00682"
+        ],
+        "catalytic": [
+          {
+            "name": "acetyl-CoA + 2-oxoglutarate + H2O = (2R)-homocitrate + CoA + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:12929"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:16810"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57287"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57288"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58884"
+              }
+            ],
+            "ecNumber": "2.3.3.14",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00048019"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU367143"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA83/entry"
+      }
+    ],
+    "WP_012607080.1": [
+      {
+        "accession": "B7JA84",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 97,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Cysteine desulfurase",
+        "ec": [
+          "2.8.1.7"
+        ],
+        "interpro": [
+          "IPR000192",
+          "IPR020578",
+          "IPR017772",
+          "IPR016454",
+          "IPR015424",
+          "IPR015421",
+          "IPR015422"
+        ],
+        "pfam": [
+          "PF00266"
+        ],
+        "catalytic": [
+          {
+            "name": "(sulfur carrier)-H + L-cysteine = (sulfur carrier)-SH + L-alanine",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:43892"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:14737"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:14739"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29917"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:35235"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57972"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:64428"
+              }
+            ],
+            "ecNumber": "2.8.1.7",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00050776"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU364075"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA84/entry"
+      }
+    ],
+    "WP_009564610.1": [
+      {
+        "accession": "B7JA85",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 78,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Nitrogen fixation protein NifU",
+        "ec": [],
+        "interpro": [
+          "IPR007419",
+          "IPR041854",
+          "IPR034904",
+          "IPR016217",
+          "IPR010238",
+          "IPR001075",
+          "IPR002871"
+        ],
+        "pfam": [
+          "PF04324",
+          "PF01106",
+          "PF01592"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA85/entry"
+      }
+    ],
+    "WP_009564611.1": [
+      {
+        "accession": "B7JA86",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 84,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR016092",
+          "IPR000361",
+          "IPR017870",
+          "IPR035903"
+        ],
+        "pfam": [
+          "PF01521"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA86/entry"
+      }
+    ],
+    "WP_012536569.1": [
+      {
+        "accession": "B7JA87",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 51,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA87/entry"
+      }
+    ],
+    "WP_012536570.1": [
+      {
+        "accession": "B7JA88",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 56,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR006975"
+        ],
+        "pfam": [
+          "PF04891"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA88/entry"
+      }
+    ],
+    "WP_012607081.1": [
+      {
+        "accession": "B7JA89",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 81,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "Ferredoxin III",
+        "ec": [],
+        "interpro": [
+          "IPR017896",
+          "IPR017900",
+          "IPR014283",
+          "IPR050572"
+        ],
+        "pfam": [
+          "PF12838"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA89/entry"
+      }
+    ],
+    "WP_012536572.1": [
+      {
+        "accession": "B7JA90",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 62,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR029012",
+          "IPR007774"
+        ],
+        "pfam": [
+          "PF05082"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA90/entry"
+      }
+    ],
+    "WP_012536573.1": [
+      {
+        "accession": "B7JA91",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "1: Evidence at protein level",
+        "name": "NifX-associated nitrogen fixation protein",
+        "ec": [],
+        "interpro": [
+          "IPR004952"
+        ],
+        "pfam": [
+          "PF03270"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA91/entry"
+      }
+    ],
+    "WP_012536575.1": [
+      {
+        "accession": "B7JA93",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 72,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Nitrogenase iron-molybdenum cofactor biosynthesis protein NifN",
+        "ec": [],
+        "interpro": [
+          "IPR050152",
+          "IPR000510",
+          "IPR000318",
+          "IPR005975"
+        ],
+        "pfam": [
+          "PF00148"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA93/entry"
+      }
+    ],
+    "WP_012536576.1": [
+      {
+        "accession": "B7JA94",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 75,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Nitrogenase iron-molybdenum cofactor biosynthesis protein NifE",
+        "ec": [],
+        "interpro": [
+          "IPR000510",
+          "IPR000318",
+          "IPR005973",
+          "IPR049939"
+        ],
+        "pfam": [
+          "PF00148"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA94/entry"
+      }
+    ],
+    "WP_012536577.1": [
+      {
+        "accession": "B7JA95",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 72,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR036010",
+          "IPR001041",
+          "IPR006058",
+          "IPR012675"
+        ],
+        "pfam": [
+          "PF00111"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA95/entry"
+      }
+    ],
+    "WP_012536578.1": [
+      {
+        "accession": "B7JA96",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 70,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR036010",
+          "IPR001041",
+          "IPR006058",
+          "IPR012675"
+        ],
+        "pfam": [
+          "PF00111"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA96/entry"
+      }
+    ],
+    "WP_012536579.1": [
+      {
+        "accession": "B7JA97",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 83,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Nitrogenase molybdenum-iron protein beta chain",
+        "ec": [
+          "1.18.6.1"
+        ],
+        "interpro": [
+          "IPR050152",
+          "IPR000510",
+          "IPR000318",
+          "IPR005976",
+          "IPR024564"
+        ],
+        "pfam": [
+          "PF11844",
+          "PF00148"
+        ],
+        "catalytic": [
+          {
+            "name": "N2 + 8 reduced [2Fe-2S]-[ferredoxin] + 16 ATP + 16 H2O = H2 + 8 oxidized [2Fe-2S]-[ferredoxin] + 2 NH4(+) + 16 ADP + 16 phosphate + 6 H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:21448"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10000"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10001"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:17997"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:18276"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:28938"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33737"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33738"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:43474"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:456216"
+              }
+            ],
+            "ecNumber": "1.18.6.1",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047967"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU364127"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA97/entry"
+      }
+    ],
+    "WP_012536580.1": [
+      {
+        "accession": "B7JA98",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Nitrogenase protein alpha chain",
+        "ec": [
+          "1.18.6.1"
+        ],
+        "interpro": [
+          "IPR000510",
+          "IPR010143",
+          "IPR000318",
+          "IPR005972"
+        ],
+        "pfam": [
+          "PF00148"
+        ],
+        "catalytic": [
+          {
+            "name": "N2 + 8 reduced [2Fe-2S]-[ferredoxin] + 16 ATP + 16 H2O = H2 + 8 oxidized [2Fe-2S]-[ferredoxin] + 2 NH4(+) + 16 ADP + 16 phosphate + 6 H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:21448"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10000"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10001"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:17997"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:18276"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:28938"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33737"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33738"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:43474"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:456216"
+              }
+            ],
+            "ecNumber": "1.18.6.1",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047967"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU004022"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA98/entry"
+      }
+    ],
+    "WP_009567494.1": [
+      {
+        "accession": "B7JA99",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 81,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Nitrogenase iron protein",
+        "ec": [
+          "1.18.6.1"
+        ],
+        "interpro": [
+          "IPR030655",
+          "IPR000392",
+          "IPR005977",
+          "IPR027417"
+        ],
+        "pfam": [
+          "PF00142"
+        ],
+        "catalytic": [
+          {
+            "name": "N2 + 8 reduced [2Fe-2S]-[ferredoxin] + 16 ATP + 16 H2O = H2 + 8 oxidized [2Fe-2S]-[ferredoxin] + 2 NH4(+) + 16 ADP + 16 phosphate + 6 H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:21448"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10000"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10001"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:17997"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:18276"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:28938"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33737"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33738"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:43474"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:456216"
+              }
+            ],
+            "ecNumber": "1.18.6.1",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "source": "HAMAP-Rule",
+                "id": "MF_00533"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JA99/entry"
+      }
+    ],
+    "WP_009567495.1": [
+      {
+        "accession": "B7JAA0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR011006",
+          "IPR001789"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAA0/entry"
+      }
+    ],
+    "WP_009567496.1": [
+      {
+        "accession": "B7JAA1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 60,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR009953"
+        ],
+        "pfam": [
+          "PF07357"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAA1/entry"
+      }
+    ],
+    "WP_009567497.1": [
+      {
+        "accession": "B7JAA2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 81,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR013479",
+          "IPR050792",
+          "IPR006660",
+          "IPR006503",
+          "IPR005502",
+          "IPR036705",
+          "IPR036249"
+        ],
+        "pfam": [
+          "PF03747"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAA2/entry"
+      }
+    ],
+    "WP_012536581.1": [
+      {
+        "accession": "B7JAA3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 105,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "Nif-specific regulatory protein",
+        "ec": [],
+        "interpro": [
+          "IPR003593",
+          "IPR058031",
+          "IPR003018",
+          "IPR029016",
+          "IPR009057",
+          "IPR002197",
+          "IPR010113",
+          "IPR027417",
+          "IPR002078",
+          "IPR025662",
+          "IPR025943",
+          "IPR025944"
+        ],
+        "pfam": [
+          "PF25601",
+          "PF01590",
+          "PF02954",
+          "PF00158"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAA3/entry"
+      }
+    ],
+    "WP_009563004.1": [
+      {
+        "accession": "B7JAA7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 67,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR017896",
+          "IPR017900"
+        ],
+        "pfam": [
+          "PF00037"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAA7/entry"
+      }
+    ],
+    "WP_009563003.1": [
+      {
+        "accession": "B7JAA8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 76,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR016092",
+          "IPR000361",
+          "IPR035903",
+          "IPR031108"
+        ],
+        "pfam": [
+          "PF01521"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAA8/entry"
+      }
+    ],
+    "WP_012536583.1": [
+      {
+        "accession": "B7JAA9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 50,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAA9/entry"
+      }
+    ],
+    "WP_012536584.1": [
+      {
+        "accession": "B7JAB0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 58,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "Tetratricopeptide repeat protein",
+        "ec": [],
+        "interpro": [
+          "IPR011990"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB0/entry"
+      }
+    ],
+    "WP_012536585.1": [
+      {
+        "accession": "B7JAB1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 60,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR011989",
+          "IPR016024",
+          "IPR008665"
+        ],
+        "pfam": [
+          "PF05484"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB1/entry"
+      }
+    ],
+    "WP_012607085.1": [
+      {
+        "accession": "B7JAB2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 52,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR007415"
+        ],
+        "pfam": [
+          "PF04319"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB2/entry"
+      }
+    ],
+    "WP_012536588.1": [
+      {
+        "accession": "B7JAB5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 61,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR009727",
+          "IPR024044"
+        ],
+        "pfam": [
+          "PF06988"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB5/entry"
+      }
+    ],
+    "WP_012536589.1": [
+      {
+        "accession": "B7JAB6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 51,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "DUF6129 domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR046132"
+        ],
+        "pfam": [
+          "PF19624"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB6/entry"
+      }
+    ],
+    "WP_012536590.1": [
+      {
+        "accession": "B7JAB7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 78,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR000653",
+          "IPR015424",
+          "IPR015421",
+          "IPR015422"
+        ],
+        "pfam": [
+          "PF01041"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB7/entry"
+      }
+    ],
+    "WP_012536591.1": [
+      {
+        "accession": "B7JAB8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 77,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR036010",
+          "IPR001041",
+          "IPR012675"
+        ],
+        "pfam": [
+          "PF00111"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB8/entry"
+      }
+    ],
+    "WP_012536592.1": [
+      {
+        "accession": "B7JAB9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 53,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAB9/entry"
+      }
+    ],
+    "WP_012607087.1": [
+      {
+        "accession": "B7JAC1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 73,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Putative pyrophosphorylase ModD",
+        "ec": [],
+        "interpro": [
+          "IPR013785",
+          "IPR006242",
+          "IPR027277",
+          "IPR036068",
+          "IPR037128",
+          "IPR002638",
+          "IPR022412"
+        ],
+        "pfam": [
+          "PF01729",
+          "PF02749"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAC1/entry"
+      }
+    ],
+    "WP_009560719.1": [
+      {
+        "accession": "B7JAC2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 62,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR008995",
+          "IPR004606",
+          "IPR005116"
+        ],
+        "pfam": [
+          "PF03459"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAC2/entry"
+      }
+    ],
+    "WP_012536595.1": [
+      {
+        "accession": "B7JAC3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 87,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR016161",
+          "IPR016163",
+          "IPR016160",
+          "IPR016162",
+          "IPR015590",
+          "IPR050740"
+        ],
+        "pfam": [
+          "PF00171"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAC3/entry"
+      }
+    ],
+    "WP_012536597.1": [
+      {
+        "accession": "B7JAC5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 68,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR011701",
+          "IPR020846",
+          "IPR036259"
+        ],
+        "pfam": [
+          "PF07690"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAC5/entry"
+      }
+    ],
+    "WP_009562641.1": [
+      {
+        "accession": "B7JAC6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 63,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Small-conductance mechanosensitive channel",
+        "ec": [],
+        "interpro": [
+          "IPR010920",
+          "IPR045275",
+          "IPR023408",
+          "IPR006685"
+        ],
+        "pfam": [
+          "PF00924"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAC6/entry"
+      }
+    ],
+    "WP_012536598.1": [
+      {
+        "accession": "B7JAC7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002173",
+          "IPR050306",
+          "IPR011611",
+          "IPR029056"
+        ],
+        "pfam": [
+          "PF00294"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAC7/entry"
+      }
+    ],
+    "WP_012536599.1": [
+      {
+        "accession": "B7JAC8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 90,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "3: Inferred from homology",
+        "name": "sucrose-phosphate synthase",
+        "ec": [
+          "2.4.1.14"
+        ],
+        "interpro": [
+          "IPR001296",
+          "IPR028098",
+          "IPR036412",
+          "IPR006379",
+          "IPR023214",
+          "IPR006380",
+          "IPR044161",
+          "IPR012821",
+          "IPR012822"
+        ],
+        "pfam": [
+          "PF13579",
+          "PF00534",
+          "PF05116"
+        ],
+        "catalytic": [
+          {
+            "name": "beta-D-fructose 6-phosphate + UDP-alpha-D-glucose = sucrose 6(F)-phosphate + UDP + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:22172"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57634"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57723"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58223"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58885"
+              }
+            ],
+            "ecNumber": "2.4.1.14",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047471"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAC8/entry"
+      }
+    ],
+    "WP_012536601.1": [
+      {
+        "accession": "B7JAD0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Methylated-DNA--[protein]-cysteine S-methyltransferase",
+        "ec": [
+          "2.1.1.63"
+        ],
+        "interpro": [
+          "IPR001497",
+          "IPR014048",
+          "IPR036217",
+          "IPR036631",
+          "IPR036388"
+        ],
+        "pfam": [
+          "PF01035"
+        ],
+        "catalytic": [
+          {
+            "name": "a 4-O-methyl-thymidine in DNA + L-cysteinyl-[protein] = a thymidine in DNA + S-methyl-L-cysteinyl-[protein]",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:53428"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10131"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10132"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:13555"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:13556"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29950"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:82612"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:137386"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:137387"
+              }
+            ],
+            "ecNumber": "2.1.1.63",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00001286"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "PROSITE-ProRule",
+                "id": "PRU10017"
+              }
+            ]
+          },
+          {
+            "name": "a 6-O-methyl-2'-deoxyguanosine in DNA + L-cysteinyl-[protein] = S-methyl-L-cysteinyl-[protein] + a 2'-deoxyguanosine in DNA",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:24000"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10131"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:10132"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:11367"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:11368"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29950"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:82612"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:85445"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:85448"
+              }
+            ],
+            "ecNumber": "2.1.1.63",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00049348"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "PROSITE-ProRule",
+                "id": "PRU10017"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAD0/entry"
+      }
+    ],
+    "WP_012607090.1": [
+      {
+        "accession": "B7JAD2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 71,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR011010",
+          "IPR013762",
+          "IPR002104",
+          "IPR050090"
+        ],
+        "pfam": [
+          "PF00589"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAD2/entry"
+      }
+    ],
+    "WP_009564935.1": [
+      {
+        "accession": "B7JAD4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 50,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAD4/entry"
+      }
+    ],
+    "WP_012607092.1": [
+      {
+        "accession": "B7JAD5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 50,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "ADP-ribosyl-(Dinitrogen reductase) hydrolase",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAD5/entry"
+      }
+    ],
+    "WP_009569651.1": [
+      {
+        "accession": "B7JAD6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 53,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "CopG family transcriptional regulator",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAD6/entry"
+      }
+    ],
+    "WP_012607093.1": [
+      {
+        "accession": "B7JAD7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 45,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "DUF3037 domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR021398"
+        ],
+        "pfam": [
+          "PF11236"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAD7/entry"
+      }
+    ],
+    "WP_012607094.1": [
+      {
+        "accession": "B7JAD8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 42,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "PI3K/PI4K catalytic domain-containing protein",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAD8/entry"
+      }
+    ],
+    "WP_012607096.1": [
+      {
+        "accession": "B7JAE0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 61,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR001387",
+          "IPR010982",
+          "IPR031856"
+        ],
+        "pfam": [
+          "PF15943"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAE0/entry"
+      }
+    ],
+    "WP_012607098.1": [
+      {
+        "accession": "B7JAE2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 68,
+        "annotation_date": "2025-10-08",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003593",
+          "IPR002611",
+          "IPR027417"
+        ],
+        "pfam": [
+          "PF01695"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAE2/entry"
+      }
+    ],
+    "WP_012607099.1": [
+      {
+        "accession": "B7JAE3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 52,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAE3/entry"
+      }
+    ],
+    "WP_009566937.1": [
+      {
+        "accession": "B7JAE4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "site-specific DNA-methyltransferase (adenine-specific)",
+        "ec": [
+          "2.1.1.72"
+        ],
+        "interpro": [
+          "IPR023095",
+          "IPR012263",
+          "IPR012327",
+          "IPR029063"
+        ],
+        "pfam": [
+          "PF02086"
+        ],
+        "catalytic": [
+          {
+            "name": "a 2'-deoxyadenosine in DNA + S-adenosyl-L-methionine = an N(6)-methyl-2'-deoxyadenosine in DNA + S-adenosyl-L-homocysteine + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:15197"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:12418"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:12419"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57856"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:90615"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:90616"
+              }
+            ],
+            "ecNumber": "2.1.1.72",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047942"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAE4/entry"
+      }
+    ],
+    "WP_012607100.1": [
+      {
+        "accession": "B7JAE5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 90,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Single-stranded DNA-binding protein",
+        "ec": [],
+        "interpro": [
+          "IPR012340",
+          "IPR000424",
+          "IPR011344"
+        ],
+        "pfam": [
+          "PF00436"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAE5/entry"
+      }
+    ],
+    "WP_012607103.1": [
+      {
+        "accession": "B7JAE8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 72,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "DNA helicase",
+        "ec": [],
+        "interpro": [
+          "IPR045055",
+          "IPR041679",
+          "IPR041677",
+          "IPR021754",
+          "IPR025103",
+          "IPR027417",
+          "IPR011335",
+          "IPR049468",
+          "IPR047187"
+        ],
+        "pfam": [
+          "PF13086",
+          "PF13087",
+          "PF11784",
+          "PF13195",
+          "PF18741"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAE8/entry"
+      }
+    ],
+    "WP_012607105.1": [
+      {
+        "accession": "B7JAF0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 41,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAF0/entry"
+      }
+    ],
+    "WP_012607106.1": [
+      {
+        "accession": "B7JAF1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 77,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR013670",
+          "IPR006935",
+          "IPR014001",
+          "IPR001650",
+          "IPR027417"
+        ],
+        "pfam": [
+          "PF08463",
+          "PF00271",
+          "PF04851"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAF1/entry"
+      }
+    ],
+    "WP_012607108.1": [
+      {
+        "accession": "B7JAF3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "site-specific DNA-methyltransferase (adenine-specific)",
+        "ec": [
+          "2.1.1.72"
+        ],
+        "interpro": [
+          "IPR022749",
+          "IPR051537",
+          "IPR003356",
+          "IPR002052",
+          "IPR029063",
+          "IPR038333"
+        ],
+        "pfam": [
+          "PF12161",
+          "PF02384"
+        ],
+        "catalytic": [
+          {
+            "name": "a 2'-deoxyadenosine in DNA + S-adenosyl-L-methionine = an N(6)-methyl-2'-deoxyadenosine in DNA + S-adenosyl-L-homocysteine + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:15197"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:12418"
+              },
+              {
+                "database": "Rhea",
+                "id": "RHEA-COMP:12419"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57856"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:90615"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:90616"
+              }
+            ],
+            "ecNumber": "2.1.1.72",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00047942"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAF3/entry"
+      }
+    ],
+    "WP_009565773.1": [
+      {
+        "accession": "B7JAF4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 64,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR029060",
+          "IPR002716"
+        ],
+        "pfam": [
+          "PF01850"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAF4/entry"
+      }
+    ],
+    "WP_012607109.1": [
+      {
+        "accession": "B7JAF5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 57,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "Type II toxin-antitoxin system VapB family antitoxin",
+        "ec": [],
+        "interpro": [
+          "IPR019239"
+        ],
+        "pfam": [
+          "PF09957"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAF5/entry"
+      }
+    ],
+    "WP_012607112.1": [
+      {
+        "accession": "B7JAF8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 56,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAF8/entry"
+      }
+    ],
+    "WP_012607113.1": [
+      {
+        "accession": "B7JAF9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 88,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Integration host factor subunit alpha",
+        "ec": [],
+        "interpro": [
+          "IPR000119",
+          "IPR020816",
+          "IPR010992",
+          "IPR005684"
+        ],
+        "pfam": [
+          "PF00216"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAF9/entry"
+      }
+    ],
+    "WP_012536624.1": [
+      {
+        "accession": "B7JAG0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 87,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR000119",
+          "IPR020816",
+          "IPR010992"
+        ],
+        "pfam": [
+          "PF00216"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAG0/entry"
+      }
+    ],
+    "WP_009560827.1": [
+      {
+        "accession": "B7JAG1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 50,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAG1/entry"
+      }
+    ],
+    "WP_012607115.1": [
+      {
+        "accession": "B7JAG4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 40,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAG4/entry"
+      }
+    ],
+    "WP_012536625.1": [
+      {
+        "accession": "B7JAG5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 65,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR013321",
+          "IPR026262",
+          "IPR007337"
+        ],
+        "pfam": [
+          "PF04221"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAG5/entry"
+      }
+    ],
+    "WP_009560830.1": [
+      {
+        "accession": "B7JAT4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 52,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAT4/entry"
+      }
+    ],
+    "WP_012607116.1": [
+      {
+        "accession": "B7JAT5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 57,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002123"
+        ],
+        "pfam": [
+          "PF01553"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAT5/entry"
+      }
+    ],
+    "WP_009562152.1": [
+      {
+        "accession": "B7JAU4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 72,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR051449",
+          "IPR013525",
+          "IPR047817"
+        ],
+        "pfam": [
+          "PF12698"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAU4/entry"
+      }
+    ],
+    "WP_012607125.1": [
+      {
+        "accession": "B7JAU5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 71,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR051449",
+          "IPR013525",
+          "IPR047817"
+        ],
+        "pfam": [
+          "PF12698"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAU5/entry"
+      }
+    ],
+    "WP_012607128.1": [
+      {
+        "accession": "B7JAU8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 73,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR058792",
+          "IPR050465"
+        ],
+        "pfam": [
+          "PF25954"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAU8/entry"
+      }
+    ],
+    "WP_009566509.1": [
+      {
+        "accession": "B7JAV3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 56,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002716",
+          "IPR058652"
+        ],
+        "pfam": [
+          "PF13470",
+          "PF26343"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAV3/entry"
+      }
+    ],
+    "WP_009566508.1": [
+      {
+        "accession": "B7JAV4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 60,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR041657",
+          "IPR010093"
+        ],
+        "pfam": [
+          "PF12728"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAV4/entry"
+      }
+    ],
+    "WP_012607132.1": [
+      {
+        "accession": "B7JAV5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 60,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR013610",
+          "IPR021944",
+          "IPR061687",
+          "IPR041459"
+        ],
+        "pfam": [
+          "PF08401",
+          "PF12083",
+          "PF30557",
+          "PF18818"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAV5/entry"
+      }
+    ],
+    "WP_012607133.1": [
+      {
+        "accession": "B7JAV6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 54,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAV6/entry"
+      }
+    ],
+    "WP_012607134.1": [
+      {
+        "accession": "B7JAV7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 53,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAV7/entry"
+      }
+    ],
+    "WP_012607135.1": [
+      {
+        "accession": "B7JAV8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 47,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAV8/entry"
+      }
+    ],
+    "WP_012607136.1": [
+      {
+        "accession": "B7JAV9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 53,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "Large polyvalent protein-associated domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR040677"
+        ],
+        "pfam": [
+          "PF18821"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAV9/entry"
+      }
+    ],
+    "WP_012607137.1": [
+      {
+        "accession": "B7JAW0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 54,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAW0/entry"
+      }
+    ],
+    "WP_012607138.1": [
+      {
+        "accession": "B7JAW1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 57,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "DUF3363 domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR021795"
+        ],
+        "pfam": [
+          "PF11843"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAW1/entry"
+      }
+    ],
+    "WP_009569006.1": [
+      {
+        "accession": "B7JAW4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 52,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR049641"
+        ],
+        "pfam": [
+          "PF28077"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAW4/entry"
+      }
+    ],
+    "WP_012607144.1": [
+      {
+        "accession": "B7JAW9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 43,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAW9/entry"
+      }
+    ],
+    "WP_009566792.1": [
+      {
+        "accession": "B7JAX0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 69,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "HTH cro/C1-type domain-containing protein",
+        "ec": [],
+        "interpro": [
+          "IPR001387",
+          "IPR014057",
+          "IPR010982"
+        ],
+        "pfam": [
+          "PF21716"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX0/entry"
+      }
+    ],
+    "WP_009566791.1": [
+      {
+        "accession": "B7JAX1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 41,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX1/entry"
+      }
+    ],
+    "WP_012607146.1": [
+      {
+        "accession": "B7JAX3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 81,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR014149",
+          "IPR027417",
+          "IPR061298",
+          "IPR001482"
+        ],
+        "pfam": [
+          "PF00437"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX3/entry"
+      }
+    ],
+    "WP_009564719.1": [
+      {
+        "accession": "B7JAX4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 49,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX4/entry"
+      }
+    ],
+    "WP_012536660.1": [
+      {
+        "accession": "B7JAX5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 52,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "Conjugal transfer protein TrbC",
+        "ec": [],
+        "interpro": [
+          "IPR007039"
+        ],
+        "pfam": [
+          "PF04956"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX5/entry"
+      }
+    ],
+    "WP_012607147.1": [
+      {
+        "accession": "B7JAX6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 60,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR007792"
+        ],
+        "pfam": [
+          "PF05101"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX6/entry"
+      }
+    ],
+    "WP_012607148.1": [
+      {
+        "accession": "B7JAX7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 71,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR003593",
+          "IPR027417",
+          "IPR043964",
+          "IPR018145",
+          "IPR060387"
+        ],
+        "pfam": [
+          "PF03135",
+          "PF19044",
+          "PF27097"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX7/entry"
+      }
+    ],
+    "WP_012607149.1": [
+      {
+        "accession": "B7JAX8",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 48,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX8/entry"
+      }
+    ],
+    "WP_012607150.1": [
+      {
+        "accession": "B7JAX9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 62,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR014147"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAX9/entry"
+      }
+    ],
+    "WP_012607152.1": [
+      {
+        "accession": "B7JAY1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 74,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR014150",
+          "IPR007688"
+        ],
+        "pfam": [
+          "PF04610"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAY1/entry"
+      }
+    ],
+    "WP_012536667.1": [
+      {
+        "accession": "B7JAY3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 60,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "Diguanylate cyclase",
+        "ec": [],
+        "interpro": [
+          "IPR020948"
+        ],
+        "pfam": [
+          "PF06146"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAY3/entry"
+      }
+    ],
+    "WP_012607154.1": [
+      {
+        "accession": "B7JAY5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 89,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Probable periplasmic serine endoprotease DegP-like",
+        "ec": [
+          "3.4.21.107"
+        ],
+        "interpro": [
+          "IPR001478",
+          "IPR036034",
+          "IPR009003",
+          "IPR001940"
+        ],
+        "pfam": [
+          "PF13180",
+          "PF13365"
+        ],
+        "catalytic": [
+          {
+            "name": "Acts on substrates that are at least partially unfolded. The cleavage site P1 residue is normally between a pair of hydrophobic residues, such as Val-|-Val.",
+            "ecNumber": "3.4.21.107",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00001772"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAY5/entry"
+      }
+    ],
+    "WP_009569201.1": [
+      {
+        "accession": "B7JAY6",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 43,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAY6/entry"
+      }
+    ],
+    "WP_009569199.1": [
+      {
+        "accession": "B7JAY7",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 73,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002068",
+          "IPR008978",
+          "IPR031107"
+        ],
+        "pfam": [
+          "PF00011"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAY7/entry"
+      }
+    ],
+    "WP_009569195.1": [
+      {
+        "accession": "B7JAY9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 52,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR001584",
+          "IPR012337",
+          "IPR036397"
+        ],
+        "pfam": [
+          "PF00665"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAY9/entry"
+      }
+    ],
+    "WP_012536669.1": [
+      {
+        "accession": "B7JAZ0",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 85,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR002204",
+          "IPR008927",
+          "IPR013328",
+          "IPR006115",
+          "IPR029154",
+          "IPR015815",
+          "IPR051265",
+          "IPR036291"
+        ],
+        "pfam": [
+          "PF14833",
+          "PF03446"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAZ0/entry"
+      }
+    ],
+    "WP_012607156.1": [
+      {
+        "accession": "B7JAZ1",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 82,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR009010",
+          "IPR037951",
+          "IPR006657",
+          "IPR006656",
+          "IPR010046",
+          "IPR041953"
+        ],
+        "pfam": [
+          "PF00384",
+          "PF01568"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAZ1/entry"
+      }
+    ],
+    "WP_009569193.1": [
+      {
+        "accession": "B7JAZ2",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 54,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "Transcriptional regulator",
+        "ec": [],
+        "interpro": [
+          "IPR036388",
+          "IPR036390"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAZ2/entry"
+      }
+    ],
+    "WP_009569191.1": [
+      {
+        "accession": "B7JAZ3",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 85,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Sulfur carrier protein FdhD",
+        "ec": [],
+        "interpro": [
+          "IPR016193",
+          "IPR003786"
+        ],
+        "pfam": [
+          "PF02634"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAZ3/entry"
+      }
+    ],
+    "WP_012607157.1": [
+      {
+        "accession": "B7JAZ4",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 58,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR012337",
+          "IPR036397",
+          "IPR038717",
+          "IPR047655",
+          "IPR025959"
+        ],
+        "pfam": [
+          "PF13358",
+          "PF13592"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAZ4/entry"
+      }
+    ],
+    "WP_012607158.1": [
+      {
+        "accession": "B7JAZ5",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 90,
+        "annotation_date": "2026-06-10",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR036010",
+          "IPR001041",
+          "IPR006058",
+          "IPR012675",
+          "IPR008333",
+          "IPR017927",
+          "IPR039261",
+          "IPR050415",
+          "IPR001433",
+          "IPR017938"
+        ],
+        "pfam": [
+          "PF00970",
+          "PF00111",
+          "PF00175"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAZ5/entry"
+      }
+    ],
+    "WP_012607160.1": [
+      {
+        "accession": "B7JAZ9",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 55,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR029151"
+        ],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JAZ9/entry"
+      }
+    ],
+    "WP_012607161.1": [
+      {
+        "accession": "B7JB00",
+        "reviewed": "UniProtKB reviewed (Swiss-Prot)",
+        "entry_version": 64,
+        "annotation_date": "2025-04-09",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Probable inorganic carbon transporter subunit DabA",
+        "ec": [],
+        "interpro": [
+          "IPR018752"
+        ],
+        "pfam": [
+          "PF10070"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB00/entry"
+      }
+    ],
+    "WP_009566373.1": [
+      {
+        "accession": "B7JB01",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 80,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Probable inorganic carbon transporter subunit DabB",
+        "ec": [],
+        "interpro": [
+          "IPR001750",
+          "IPR003945",
+          "IPR001516",
+          "IPR046396"
+        ],
+        "pfam": [
+          "PF00361",
+          "PF00662"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB01/entry"
+      }
+    ],
+    "WP_009566374.1": [
+      {
+        "accession": "B7JB02",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 79,
+        "annotation_date": "2026-01-28",
+        "protein_existence": "4: Predicted",
+        "name": "Glycolate oxidase iron-sulfur subunit",
+        "ec": [
+          "1.1.99.14"
+        ],
+        "interpro": [
+          "IPR017896",
+          "IPR017900",
+          "IPR004017",
+          "IPR012257",
+          "IPR009051"
+        ],
+        "pfam": [
+          "PF02754",
+          "PF13183"
+        ],
+        "catalytic": [
+          {
+            "name": "(R)-lactate + A = pyruvate + AH2",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:15089"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:13193"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15361"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:16004"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:17499"
+              }
+            ],
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "PIRNR",
+                "id": "PIRNR000139"
+              }
+            ]
+          },
+          {
+            "name": "glycolate + A = glyoxylate + AH2",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:21264"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:13193"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:17499"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29805"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:36655"
+              }
+            ],
+            "ecNumber": "1.1.99.14",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "PIRNR",
+                "id": "PIRNR000139"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB02/entry"
+      }
+    ],
+    "WP_012607163.1": [
+      {
+        "accession": "B7JB04",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 80,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR004113",
+          "IPR016166",
+          "IPR036318",
+          "IPR016169",
+          "IPR016164",
+          "IPR051914",
+          "IPR006094",
+          "IPR016171"
+        ],
+        "pfam": [
+          "PF02913",
+          "PF01565"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB04/entry"
+      }
+    ],
+    "WP_012607164.1": [
+      {
+        "accession": "B7JB05",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 72,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Hrp-dependent type III effector protein",
+        "ec": [],
+        "interpro": [
+          "IPR010737",
+          "IPR037051",
+          "IPR031475",
+          "IPR042213"
+        ],
+        "pfam": [
+          "PF17042",
+          "PF07005"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB05/entry"
+      }
+    ],
+    "WP_012607166.1": [
+      {
+        "accession": "B7JB07",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 95,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR029016",
+          "IPR050707",
+          "IPR014757",
+          "IPR005471",
+          "IPR036388",
+          "IPR036390"
+        ],
+        "pfam": [
+          "PF09339",
+          "PF01614"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB07/entry"
+      }
+    ],
+    "WP_012536686.1": [
+      {
+        "accession": "B7JB10",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 50,
+        "annotation_date": "2025-04-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [],
+        "pfam": [],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB10/entry"
+      }
+    ],
+    "WP_012607167.1": [
+      {
+        "accession": "B7JB11",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 102,
+        "annotation_date": "2025-06-18",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Dihydroorotase",
+        "ec": [
+          "3.5.2.3"
+        ],
+        "interpro": [
+          "IPR006680",
+          "IPR004721",
+          "IPR002195",
+          "IPR032466"
+        ],
+        "pfam": [
+          "PF01979"
+        ],
+        "catalytic": [
+          {
+            "name": "(S)-dihydroorotate + H2O = N-carbamoyl-L-aspartate + H(+)",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:24296"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15378"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30864"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:32814"
+              }
+            ],
+            "ecNumber": "3.5.2.3",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00048492"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "HAMAP-Rule",
+                "id": "MF_00219"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU003440"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB11/entry"
+      }
+    ],
+    "WP_012536689.1": [
+      {
+        "accession": "B7JB13",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 82,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "3: Inferred from homology",
+        "name": "Threonylcarbamoyl-AMP synthase",
+        "ec": [
+          "2.7.7.87"
+        ],
+        "interpro": [
+          "IPR017945",
+          "IPR006070",
+          "IPR038385",
+          "IPR005145",
+          "IPR010923",
+          "IPR050156"
+        ],
+        "pfam": [
+          "PF03481",
+          "PF01300"
+        ],
+        "catalytic": [
+          {
+            "name": "L-threonine + hydrogencarbonate + ATP = L-threonylcarbamoyladenylate + diphosphate + H2O",
+            "reactionCrossReferences": [
+              {
+                "database": "Rhea",
+                "id": "RHEA:36407"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:15377"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:17544"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:33019"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57926"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:73682"
+              }
+            ],
+            "ecNumber": "2.7.7.87",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00048366"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "PIRNR",
+                "id": "PIRNR004930"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB13/entry"
+      }
+    ],
+    "WP_009561318.1": [
+      {
+        "accession": "B7JB15",
+        "reviewed": "UniProtKB unreviewed (TrEMBL)",
+        "entry_version": 74,
+        "annotation_date": "2026-09-02",
+        "protein_existence": "4: Predicted",
+        "name": "",
+        "ec": [],
+        "interpro": [
+          "IPR013785",
+          "IPR013097",
+          "IPR011008",
+          "IPR000771"
+        ],
+        "pfam": [
+          "PF07876",
+          "PF01116"
+        ],
+        "catalytic": [],
+        "url": "https://www.uniprot.org/uniprotkb/B7JB15/entry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/getxml?GCF_000021485:AFE_RS04805'><metadata><url>http://BioCyc.org/</url>
+<service_name>getxml</service_name>
+<query>GCF_000021485:AFE_RS04805</query>
+<num_results>1</num_results>
+<PGDB orgid='GCF_000021485' version='30.0'><species datatype='string'>Acidithiobacillus ferrooxidans</species>
+<strain datatype='string'>ATCC 23270</strain>
+<sequence-source datatype='string'>GCF_000021485.1</sequence-source>
+<dblink><dblink-db>NCBI-TAXONOMY-DB</dblink-db>
+<dblink-oid>243159</dblink-oid>
+<dblink-relationship>unification</dblink-relationship>
+<dblink-URL>http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=243159</dblink-URL>
+</dblink>
+</PGDB>
+</metadata>
+<Gene ID='GCF_000021485:AFE_RS04805' orgid='GCF_000021485' frameid='AFE_RS04805' detail='full'><parent><Gene resource='getxml?GCF_000021485:ORFs' orgid='GCF_000021485' frameid='ORFs' class='true'/></parent>
+<replicon><Genetic-Element resource='getxml?GCF_000021485:NC_011761' orgid='GCF_000021485' frameid='NC_011761'/></replicon>
+<transcription-direction datatype='string'>+</transcription-direction>
+<product><Protein resource='getxml?GCF_000021485:AFE_RS04805-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04805-MONOMER'/></product>
+<left-end-position datatype='integer'>928343</left-end-position>
+<accession-1 datatype='string'>AFE_RS04805</accession-1>
+<synonym datatype='string'>RS04805</synonym>
+<right-end-position datatype='integer'>928570</right-end-position>
+<component-of><Transcription-Unit resource='getxml?GCF_000021485:TU2G89-398' orgid='GCF_000021485' frameid='TU2G89-398'/></component-of>
+<centisome-position datatype='float' units='CENTISOMES'>31.12741</centisome-position>
+</Gene>
+</ptools-xml>

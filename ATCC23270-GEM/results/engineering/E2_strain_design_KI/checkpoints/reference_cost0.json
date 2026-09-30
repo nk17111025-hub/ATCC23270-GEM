@@ -1,0 +1,46 @@
+{
+  "constraint_factor": null,
+  "full_pool_glucose_off": {
+    "co2_flux": -2.0,
+    "fe2_flux": -1000.0,
+    "glucose_uptake": 0.0,
+    "max_biomass": 0.05374048269487021,
+    "o2_flux": -247.57892636296336,
+    "rubisco_flux": 11.172107526872747,
+    "status": "optimal"
+  },
+  "glucose_off_max_biomass": {
+    "co2_flux": -2.0,
+    "fe2_flux": -1000.0,
+    "glucose_uptake": 0.0,
+    "max_biomass": 0.05207638710273988,
+    "o2_flux": -247.53616048921822,
+    "rubisco_flux": 11.302433878314146,
+    "status": "optimal"
+  },
+  "glucose_use_proof_pass": true,
+  "glucose_viability_threshold": 0.5842069519122025,
+  "host_sha256": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+  "input_fingerprint": "31928a1535576e59d95eddeebb7e8bf2aa8d846f8d54cafff3adac72821ce48c",
+  "max_cost": 0,
+  "phenotype": {
+    "biomass": 0.7302586898902741,
+    "co2_flux": 0.0,
+    "fe2_flux": -1000.0,
+    "glucose_uptake": -4.674279012799262,
+    "o2_flux": -243.4956541283347,
+    "rubisco_flux": 2.3235531651840797,
+    "status": "optimal"
+  },
+  "phenotype_constraints": [
+    "Ex_bio_LSQBKT_e_RSQBKT_ >= 0.584206951912",
+    "Ex_glc_DASH_B_LSQBKT_e_RSQBKT_ <= -1.1685697532",
+    "Ex_fe2_LSQBKT_e_RSQBKT_ <= -0.01",
+    "RUBISCO >= 0"
+  ],
+  "runtime_seconds": 0.0,
+  "scenario": "reference",
+  "solutions": [],
+  "solutions_found": 1,
+  "status": "optimal"
+}

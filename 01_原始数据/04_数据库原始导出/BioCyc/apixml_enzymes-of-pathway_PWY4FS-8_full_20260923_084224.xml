@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/apixml?fn=enzymes-of-pathway%26id=GCF_000021485:PWY4FS-8%26detail=FULL'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>apixml</service_name>
+    <query>fn=enzymes-of-pathway&amp;id=GCF_000021485:PWY4FS-8&amp;detail=FULL</query>
+    <num_results>8</num_results>
+    <PGDB orgid='GCF_000021485' version='30.0'>
+      <species datatype='string'>Acidithiobacillus ferrooxidans</species>
+      <strain datatype='string'>ATCC 23270</strain>
+      <sequence-source datatype='string'>GCF_000021485.1</sequence-source>
+      <dblink>
+        <dblink-db>NCBI-TAXONOMY-DB</dblink-db>
+        <dblink-oid>243159</dblink-oid>
+        <dblink-relationship>unification</dblink-relationship>
+        <dblink-URL>http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=243159</dblink-URL>
+      </dblink>
+    </PGDB>
+  </metadata>
+  <Protein ID='GCF_000021485:AFE_RS04360-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04360-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>phosphatidylglycerophosphatase A</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>17.938</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-1931' orgid='GCF_000021485' frameid='FTR2G89-1931' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>156</right-end-position>
+        <left-end-position datatype='integer'>8</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS04360-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04360-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code ID='GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' detail='full' class='true'>
+            <parent>
+              <Evidence-Code resource='getxml?GCF_000021485:EV-COMP' orgid='GCF_000021485' frameid='EV-COMP' class='true'/>
+            </parent>
+            <common-name datatype='string'>Inferred computationally without human oversight</common-name>
+            <comment datatype='string'>Automated inference.  A computer inferred this assertion through one of many possible methods such as 
+sequence similarity, recognized motifs or consensus sequence, etc.  When a person made the inference 
+from computational evidence, use EV-COMP-HINF.</comment>
+          </Evidence-Code>
+          <Publication ID='GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716' detail='full'>
+            <author datatype='string'>Finn RD</author>
+            <author datatype='string'>Coggill P</author>
+            <author datatype='string'>Eberhardt RY</author>
+            <author datatype='string'>Eddy SR</author>
+            <author datatype='string'>Mistry J</author>
+            <author datatype='string'>Mitchell AL</author>
+            <author datatype='string'>Potter SC</author>
+            <author datatype='string'>Punta M</author>
+            <author datatype='string'>Qureshi M</author>
+            <author datatype='string'>Sangrador-Vegas A</author>
+            <author datatype='string'>Salazar GA</author>
+            <author datatype='string'>Tate J</author>
+            <author datatype='string'>Bateman A</author>
+            <title datatype='string'>The Pfam protein families database: towards a more sustainable future.</title>
+            <year datatype='integer'>2016</year>
+            <source datatype='string'>Nucleic Acids Res 44(D1);D279-85</source>
+            <pubmed-id datatype='string'>26673716</pubmed-id>
+          </Publication>
+        </evidence>
+        <accession-1 datatype='string'>PF04608.14</accession-1>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1451' orgid='GCF_000021485' frameid='ENZRXN2G89-1451' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS04360-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04360-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>phosphatidylglycerophosphatase A</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:PGPPHOSPHA-RXN' orgid='GCF_000021485' frameid='PGPPHOSPHA-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1450' orgid='GCF_000021485' frameid='ENZRXN2G89-1450' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS04360-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04360-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>phosphatidylglycerophosphatase A</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:RXN-13313' orgid='GCF_000021485' frameid='RXN-13313'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR026037</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR026037</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR036681</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR036681</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR007686</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR007686</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF04608</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF04608</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PANTHER</dblink-db>
+      <dblink-oid>PTHR36305</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.pantherdb.org/panther/family.do?clsAccession=PTHR36305</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>STRING</dblink-db>
+      <dblink-oid>243159.AFE_0929</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://string-db.org/network/243159.AFE_0929</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT</dblink-db>
+      <dblink-oid>B7J7A6</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.uniprot.org/uniprot/B7J7A6</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_012536444.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_012536444.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_012536444.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_012536444.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS04360' orgid='GCF_000021485' frameid='AFE_RS04360'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:AFE_RS04000-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04000-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>21.238</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-1835' orgid='GCF_000021485' frameid='FTR2G89-1835' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>71</right-end-position>
+        <left-end-position datatype='integer'>5</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS04000-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04000-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF01066.22</accession-1>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-772' orgid='GCF_000021485' frameid='ENZRXN2G89-772' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS04000-MONOMER' orgid='GCF_000021485' frameid='AFE_RS04000-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:PHOSPHAGLYPSYN-RXN' orgid='GCF_000021485' frameid='PHOSPHAGLYPSYN-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <synonym datatype='string'>PgsA</synonym>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR000462</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR000462</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR043130</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR043130</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR004570</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR004570</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF01066</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF01066</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PROSITE</dblink-db>
+      <dblink-oid>PS00379</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://prosite.expasy.org/cgi-bin/prosite/nicedoc.pl?PS00379</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>STRING</dblink-db>
+      <dblink-oid>243159.AFE_0854</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://string-db.org/network/243159.AFE_0854</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT</dblink-db>
+      <dblink-oid>B7J6R9</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.uniprot.org/uniprot/B7J6R9</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_012536397.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_012536397.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_012536397.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_012536397.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS04000' orgid='GCF_000021485' frameid='AFE_RS04000'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>NAD(P)-dependent glycerol-3-phosphate dehydrogenase</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>36.082</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-2952' orgid='GCF_000021485' frameid='FTR2G89-2952' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>156</right-end-position>
+        <left-end-position datatype='integer'>4</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF01210.24</accession-1>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-2951' orgid='GCF_000021485' frameid='FTR2G89-2951' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>316</right-end-position>
+        <left-end-position datatype='integer'>177</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF07479.15</accession-1>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-287' orgid='GCF_000021485' frameid='FTR2G89-287' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Amino-Acid-Sites-That-Bind' orgid='GCF_000021485' frameid='Amino-Acid-Sites-That-Bind' class='true'/>
+        </parent>
+        <residue-number datatype='integer'>278</residue-number>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code ID='GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' detail='full' class='true'>
+            <parent>
+              <Evidence-Code resource='getxml?GCF_000021485:EV-COMP-HINF-FN-FROM-SEQ' orgid='GCF_000021485' frameid='EV-COMP-HINF-FN-FROM-SEQ' class='true'/>
+            </parent>
+            <common-name datatype='string'>Inferred from Sequence Model</common-name>
+            <comment datatype='string'>Inference by an author or a curator based on evidence from some kind of statistical model of a sequence
+or group of sequences, which is used to make a prediction about the function of a protein or RNA.
+&lt;p&gt;
+- Prediction methods for non-coding RNA genes such as tRNASCAN-SE, Snoscan, and Rfam
+&lt;p&gt;
+- Predicted presence of recognized functional domains or membership in protein families,
+  as determined by tools such as profile Hidden Markov Models (HMMs), including Pfam and TIGRFAM
+&lt;p&gt;
+- Predicted protein features using tools such as TMHMM (transmembrane regions), SignalP (signal peptides on secreted proteins),
+  and TargetP (subcellular localization)
+&lt;p&gt;
+- any other kind of domain modeling tool or collections of them such as SMART, PROSITE, PANTHER, InterPro, etc.
+&lt;p&gt;
+- An entry in the with field of a GO annotation is required when the model used is an object with an accession number
+  (as found with Pfam, TIGRFAM, InterPro, PROSITE, Rfam, etc.)  The with field may be left blank for tools such as
+  tRNAscan and Snoscan where there is not an object with an accession to point to.
+</comment>
+          </Evidence-Code>
+          <Publication ID='GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04' detail='full'>
+            <author datatype='string'>UniProt Consortium</author>
+            <title datatype='string'>UniProt version 2020-04 released on 2020-08-12</title>
+            <year datatype='integer'>2020</year>
+            <source datatype='string'>Database</source>
+          </Publication>
+        </evidence>
+        <comment datatype='string'>UniProt: NAD.</comment>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-286' orgid='GCF_000021485' frameid='FTR2G89-286' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Amino-Acid-Sites-That-Bind' orgid='GCF_000021485' frameid='Amino-Acid-Sites-That-Bind' class='true'/>
+        </parent>
+        <residue-number datatype='integer'>252</residue-number>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04'/>
+        </evidence>
+        <comment datatype='string'>UniProt: NAD.</comment>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-285' orgid='GCF_000021485' frameid='FTR2G89-285' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Amino-Acid-Sites-That-Bind' orgid='GCF_000021485' frameid='Amino-Acid-Sites-That-Bind' class='true'/>
+        </parent>
+        <residue-number datatype='integer'>137</residue-number>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04'/>
+        </evidence>
+        <comment datatype='string'>UniProt: NAD; via amide nitrogen.</comment>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-284' orgid='GCF_000021485' frameid='FTR2G89-284' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Amino-Acid-Sites-That-Bind' orgid='GCF_000021485' frameid='Amino-Acid-Sites-That-Bind' class='true'/>
+        </parent>
+        <residue-number datatype='integer'>105</residue-number>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04'/>
+        </evidence>
+        <comment datatype='string'>UniProt: Substrate.</comment>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-283' orgid='GCF_000021485' frameid='FTR2G89-283' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Amino-Acid-Sites-That-Bind' orgid='GCF_000021485' frameid='Amino-Acid-Sites-That-Bind' class='true'/>
+        </parent>
+        <residue-number datatype='integer'>105</residue-number>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04'/>
+        </evidence>
+        <comment datatype='string'>UniProt: NAD; via amide nitrogen.</comment>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-282' orgid='GCF_000021485' frameid='FTR2G89-282' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Active-Sites' orgid='GCF_000021485' frameid='Active-Sites' class='true'/>
+        </parent>
+        <residue-number datatype='integer'>188</residue-number>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04'/>
+        </evidence>
+        <comment datatype='string'>UniProt: Proton acceptor.</comment>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-281' orgid='GCF_000021485' frameid='FTR2G89-281' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Protein-Segments' orgid='GCF_000021485' frameid='Protein-Segments' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>253</right-end-position>
+        <left-end-position datatype='integer'>252</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04'/>
+        </evidence>
+        <comment datatype='string'>UniProt: Substrate binding; Sequence Annotation Type: region of interest.</comment>
+      </Feature>
+    </has-feature>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-280' orgid='GCF_000021485' frameid='FTR2G89-280' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Nucleotide-Phosphate-Binding-Regions' orgid='GCF_000021485' frameid='Nucleotide-Phosphate-Binding-Regions' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>12</right-end-position>
+        <left-end-position datatype='integer'>7</left-end-position>
+        <attached-group>
+          <Compound resource='getxml?GCF_000021485:NAD' orgid='GCF_000021485' frameid='NAD'/>
+        </attached-group>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-HINF-ISM' orgid='GCF_000021485' frameid='EV-COMP-HINF-ISM' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-UNIPROT-2020-04' orgid='GCF_000021485' frameid='PUB-UNIPROT-2020-04'/>
+        </evidence>
+        <comment datatype='string'>UniProt: NAD.</comment>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1802' orgid='GCF_000021485' frameid='ENZRXN2G89-1802' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS09800-MONOMER' orgid='GCF_000021485' frameid='AFE_RS09800-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>glycerol-3-phosphate dehydrogenase</common-name>
+        <synonym datatype='string'>glycerol-3-phosphate-dehydrogenase-[NAD(P)+]</synonym>
+        <synonym datatype='string'>sn-glycerol-3-phosphate:NAD(P)+ 2-oxidoreductase</synonym>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:GLYC3PDEHYDROGBIOSYN-RXN' orgid='GCF_000021485' frameid='GLYC3PDEHYDROGBIOSYN-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR008927</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR008927</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR013328</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR013328</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR006168</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR006168</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR006109</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR006109</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR011128</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR011128</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR036291</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR036291</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF07479</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF07479</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF01210</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF01210</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PRINTS</dblink-db>
+      <dblink-oid>PR00077</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL> https://www.ebi.ac.uk/interpro/entry/prints/PR00077/</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>SMR</dblink-db>
+      <dblink-oid>B7J4Y4</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://swissmodel.expasy.org/repository/uniprot/B7J4Y4</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>STRING</dblink-db>
+      <dblink-oid>243159.AFE_2126</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://string-db.org/network/243159.AFE_2126</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT</dblink-db>
+      <dblink-oid>B7J4Y4</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.uniprot.org/uniprot/B7J4Y4</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_012536992.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_012536992.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_012536992.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_012536992.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS09800' orgid='GCF_000021485' frameid='AFE_RS09800'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:AFE_RS00590-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00590-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>glycerol-3-phosphate 1-O-acyltransferase PlsY</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>20.471</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-927' orgid='GCF_000021485' frameid='FTR2G89-927' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>187</right-end-position>
+        <left-end-position datatype='integer'>13</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS00590-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00590-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF02660.16</accession-1>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1098' orgid='GCF_000021485' frameid='ENZRXN2G89-1098' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS00590-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00590-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>glycerol-3-phosphate 1-O-acyltransferase PlsY</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:RXN-10462' orgid='GCF_000021485' frameid='RXN-10462'/>
+        </reaction>
+      </Enzymatic-Reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1093' orgid='GCF_000021485' frameid='ENZRXN2G89-1093' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS00590-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00590-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>glycerol-3-phosphate 1-O-acyltransferase PlsY</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:RXN-1381' orgid='GCF_000021485' frameid='RXN-1381'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <synonym datatype='string'>PlsY</synonym>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR003811</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR003811</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF02660</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF02660</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PANTHER</dblink-db>
+      <dblink-oid>PTHR30309</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.pantherdb.org/panther/family.do?clsAccession=PTHR30309</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>SMART</dblink-db>
+      <dblink-oid>SM01207</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://smart.embl.de/smart/show_motifs.pl?ID=SM01207</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>STRING</dblink-db>
+      <dblink-oid>243159.AFE_0125</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://string-db.org/network/243159.AFE_0125</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT</dblink-db>
+      <dblink-oid>B7J3M2</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.uniprot.org/uniprot/B7J3M2</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_012535802.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_012535802.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_012535802.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_012535802.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS00590' orgid='GCF_000021485' frameid='AFE_RS00590'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:AFE_RS00280-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00280-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>22.791</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-850' orgid='GCF_000021485' frameid='FTR2G89-850' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>153</right-end-position>
+        <left-end-position datatype='integer'>41</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS00280-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00280-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF01553.22</accession-1>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1769' orgid='GCF_000021485' frameid='ENZRXN2G89-1769' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS00280-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00280-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:RXN-1623' orgid='GCF_000021485' frameid='RXN-1623'/>
+        </reaction>
+      </Enzymatic-Reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1762' orgid='GCF_000021485' frameid='ENZRXN2G89-1762' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS00280-MONOMER' orgid='GCF_000021485' frameid='AFE_RS00280-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN' orgid='GCF_000021485' frameid='1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR002123</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR002123</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF01553</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF01553</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>SMART</dblink-db>
+      <dblink-oid>SM00563</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://smart.embl.de/smart/show_motifs.pl?ID=SM00563</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>STRING</dblink-db>
+      <dblink-oid>243159.AFE_0058</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://string-db.org/network/243159.AFE_0058</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT</dblink-db>
+      <dblink-oid>B7J3F9</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.uniprot.org/uniprot/B7J3F9</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_009567689.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_009567689.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_009567689.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_009567689.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS00280' orgid='GCF_000021485' frameid='AFE_RS00280'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:AFE_RS03445-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03445-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>33.553</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-1691' orgid='GCF_000021485' frameid='FTR2G89-1691' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>199</right-end-position>
+        <left-end-position datatype='integer'>86</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS03445-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03445-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF01553.22</accession-1>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1557' orgid='GCF_000021485' frameid='ENZRXN2G89-1557' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS03445-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03445-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:RXN-1623' orgid='GCF_000021485' frameid='RXN-1623'/>
+        </reaction>
+      </Enzymatic-Reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1550' orgid='GCF_000021485' frameid='ENZRXN2G89-1550' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS03445-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03445-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN' orgid='GCF_000021485' frameid='1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF01553</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF01553</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_012536312.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_012536312.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_012536312.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_012536312.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS03445' orgid='GCF_000021485' frameid='AFE_RS03445'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:AFE_RS03730-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03730-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>29.517</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-1768' orgid='GCF_000021485' frameid='FTR2G89-1768' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>198</right-end-position>
+        <left-end-position datatype='integer'>86</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS03730-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03730-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF01553.22</accession-1>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1521' orgid='GCF_000021485' frameid='ENZRXN2G89-1521' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS03730-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03730-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:RXN-1623' orgid='GCF_000021485' frameid='RXN-1623'/>
+        </reaction>
+      </Enzymatic-Reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1514' orgid='GCF_000021485' frameid='ENZRXN2G89-1514' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS03730-MONOMER' orgid='GCF_000021485' frameid='AFE_RS03730-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN' orgid='GCF_000021485' frameid='1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR002123</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR002123</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF01553</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF01553</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>SMART</dblink-db>
+      <dblink-oid>SM00563</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://smart.embl.de/smart/show_motifs.pl?ID=SM00563</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>STRING</dblink-db>
+      <dblink-oid>243159.AFE_0790</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://string-db.org/network/243159.AFE_0790</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT</dblink-db>
+      <dblink-oid>B7J6K6</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.uniprot.org/uniprot/B7J6K6</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_012536359.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_012536359.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_012536359.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_012536359.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS03730' orgid='GCF_000021485' frameid='AFE_RS03730'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+  <Protein ID='GCF_000021485:AFE_RS11835-MONOMER' orgid='GCF_000021485' frameid='AFE_RS11835-MONOMER' detail='full'>
+    <parent>
+      <Protein resource='getxml?GCF_000021485:Polypeptides' orgid='GCF_000021485' frameid='Polypeptides' class='true'/>
+    </parent>
+    <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+    <molecular-weight-seq datatype='float' units='kD'>26.414</molecular-weight-seq>
+    <has-feature>
+      <Feature ID='GCF_000021485:FTR2G89-3382' orgid='GCF_000021485' frameid='FTR2G89-3382' detail='full'>
+        <parent>
+          <Feature resource='getxml?GCF_000021485:Pfam-Features' orgid='GCF_000021485' frameid='Pfam-Features' class='true'/>
+        </parent>
+        <right-end-position datatype='integer'>183</right-end-position>
+        <left-end-position datatype='integer'>59</left-end-position>
+        <feature-of>
+          <Protein resource='#GCF_000021485:AFE_RS11835-MONOMER' orgid='GCF_000021485' frameid='AFE_RS11835-MONOMER'/>
+        </feature-of>
+        <evidence>
+          <Evidence-Code resource='#GCF_000021485:EV-COMP-AINF' orgid='GCF_000021485' frameid='EV-COMP-AINF' class='true'/>
+          <Publication resource='#GCF_000021485:PUB-26673716' orgid='GCF_000021485' frameid='PUB-26673716'/>
+        </evidence>
+        <accession-1 datatype='string'>PF01553.22</accession-1>
+      </Feature>
+    </has-feature>
+    <catalyzes>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1244' orgid='GCF_000021485' frameid='ENZRXN2G89-1244' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS11835-MONOMER' orgid='GCF_000021485' frameid='AFE_RS11835-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:RXN-1623' orgid='GCF_000021485' frameid='RXN-1623'/>
+        </reaction>
+      </Enzymatic-Reaction>
+      <Enzymatic-Reaction ID='GCF_000021485:ENZRXN2G89-1237' orgid='GCF_000021485' frameid='ENZRXN2G89-1237' detail='low'>
+        <enzyme>
+          <Protein resource='#GCF_000021485:AFE_RS11835-MONOMER' orgid='GCF_000021485' frameid='AFE_RS11835-MONOMER'/>
+        </enzyme>
+        <common-name datatype='string'>1-acyl-sn-glycerol-3-phosphate acyltransferase</common-name>
+        <reaction>
+          <Reaction resource='getxml?GCF_000021485:1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN' orgid='GCF_000021485' frameid='1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN'/>
+        </reaction>
+      </Enzymatic-Reaction>
+    </catalyzes>
+    <dblink>
+      <dblink-db>INTERPRO</dblink-db>
+      <dblink-oid>IPR002123</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>http://www.ebi.ac.uk/interpro/entry/IPR002123</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>PFAM</dblink-db>
+      <dblink-oid>PF01553</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://www.ebi.ac.uk/interpro/entry/pfam/PF01553</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>SMART</dblink-db>
+      <dblink-oid>SM00563</dblink-oid>
+      <dblink-relationship>IN-FAMILY</dblink-relationship>
+      <dblink-URL>https://smart.embl.de/smart/show_motifs.pl?ID=SM00563</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>STRING</dblink-db>
+      <dblink-oid>243159.AFE_2584</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://string-db.org/network/243159.AFE_2584</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT</dblink-db>
+      <dblink-oid>B7J7Q0</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>https://www.uniprot.org/uniprot/B7J7Q0</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>NCBI-REFSEQ-PRO</dblink-db>
+      <dblink-oid>WP_009567477.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL>http://www.ncbi.nlm.nih.gov/protein/WP_009567477.1</dblink-URL>
+    </dblink>
+    <dblink>
+      <dblink-db>UNIPROT-VIA-REFSEQ</dblink-db>
+      <dblink-oid>WP_009567477.1</dblink-oid>
+      <dblink-relationship>unification</dblink-relationship>
+      <dblink-URL> http://www.uniprot.org/uniprot/?query=WP_009567477.1</dblink-URL>
+    </dblink>
+    <gene>
+      <Gene resource='getxml?GCF_000021485:AFE_RS11835' orgid='GCF_000021485' frameid='AFE_RS11835'/>
+    </gene>
+    <comment datatype='string'>Derived by automated computational analysis using gene prediction method: Protein Homology.</comment>
+  </Protein>
+</ptools-xml>

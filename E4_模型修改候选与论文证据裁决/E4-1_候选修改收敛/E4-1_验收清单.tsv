@@ -1,0 +1,6 @@
+﻿检查项	结果	依据
+D3-1-R依赖	PASS	D3-1-R/D3-1-R_验收报告.md
+统一主表	61	E4-1_候选修改.tsv；A0阶段A+全基因入选
+BDGK拆分且无重复	PASS	E4-1-BDGK-GPR / E4-1-BDGK-方向
+数据库分歧保留	102	D3-1-R_数据库分歧.tsv全部转入
+E4独立Reviewer	PASS	E4-1_独立复核.md及主表SHA256

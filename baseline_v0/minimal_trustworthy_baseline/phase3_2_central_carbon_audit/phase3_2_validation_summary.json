@@ -1,0 +1,673 @@
+{
+  "generated_at": "2026-09-26T08:18:51+08:00",
+  "v1_sha256": "bd9715e6d2419a5bd718ae728721626f9d2ecb0bf566b9bf7198fe5d3689af8c",
+  "central_reactions": 60,
+  "reference_growth": {
+    "FIM": null,
+    "TTM": null,
+    "TSM": null
+  },
+  "free_redox": {
+    "free_ATP": 0.0,
+    "free_NADH": 0.0,
+    "free_NADPH": 0.0
+  },
+  "ko_rescue": [
+    {
+      "condition": "FIM",
+      "knocked_out": "HCO3E",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "PGI1",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "PFK",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.05207638710273929,
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "FBP",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.05207638710273927,
+      "top_flux_changes": "FBP:-0.7618;FBA:0.7618;FBA3:0.7618;TALA:0.7618;SBPASE:0.7618"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "GAPD1",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.05207638710273863,
+      "top_flux_changes": "GAPD1:-3.7415;GAPD2:3.7415;NADTRHD:3.7415"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "PYK",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "PPC",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.05207638710273937,
+      "top_flux_changes": "GAPD1:0.3951;PGK:0.3951;RUBISCO:0.237;PRUK:0.237;TPI:0.158;PYK:0.158;PDH:0.158;RPE:-0.158"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "ACCOAC",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.052076387102739284,
+      "top_flux_changes": "ACCOAC:-0.0681;BIOC1:0.0681;BIOC2:0.0681"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "MCOATA",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "G6PDH2",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.05207638710273929,
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "TKT1",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "RUBISCO",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "MDH",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.009784337175336992,
+      "top_flux_changes": "GAPD1:0.6833;PGK:0.6833;ACCOAC:0.3759;MCOATA:0.3759;HCO3E:0.3514;PDH:0.3484;RUBISCO:0.3476;PRUK:0.3476"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "FUM",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.009784337175336992,
+      "top_flux_changes": "GAPD1:0.6833;PGK:0.6833;ACCOAC:0.3759;MCOATA:0.3759;HCO3E:0.3514;PDH:0.3484;RUBISCO:0.3476;PRUK:0.3476"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "CS",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.0,
+      "top_flux_changes": "GAPD1:0.8414;PGK:0.8414;ACCOAC:0.4629;MCOATA:0.4629;HCO3E:0.4327;PDH:0.429;RUBISCO:0.428;PRUK:0.428"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "PDH",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "ENO",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "TPI",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "PGK",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "RPE",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "RPI",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "TALA",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.05207638710273929,
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "SBPASE",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.052076387102739305,
+      "top_flux_changes": "FBP:0.7319;FBA:-0.7319;FBA3:-0.7319;TALA:-0.7319;SBPASE:-0.7319"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "PRUK",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": "infeasible",
+      "top_flux_changes": ""
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "ACS",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.0,
+      "top_flux_changes": "GAPD1:0.8414;PGK:0.8414;ACCOAC:0.4629;MCOATA:0.4629;HCO3E:0.4327;PDH:0.429;RUBISCO:0.428;PRUK:0.428"
+    },
+    {
+      "condition": "FIM",
+      "knocked_out": "NADTRHD",
+      "reference_growth": 0.05207638710273946,
+      "growth_after_ko": 0.05207638710273986,
+      "top_flux_changes": "GAPD1:3.6372;PGK:3.6372;RUBISCO:2.1823;PRUK:2.1823;TPI:1.4549;RPE:-1.4549;FDH:1.4549;FBP:0.7274"
+    }
+  ],
+  "closed_carbon": [
+    {
+      "condition": "FIM",
+      "biomass": 0.0,
+      "central_cyclic_flux": "FBP[0,1e+03];FBA[-1e+03,0];FBA3[-1e+03,-1.14e-13];PGMT[-1e+03,1e+03];PGMT2[-1e+03,1e+03];TALA[-1e+03,2.09e-15];SBPASE[-1e+03,0];ACCOAC[-1e+03,0];BIOC1[0,1e+03];BIOC2[0,1e+03]"
+    },
+    {
+      "condition": "TTM",
+      "biomass": 0.0,
+      "central_cyclic_flux": "FBP[0,1e+03];FBA[-1e+03,0];FBA3[-1e+03,0];PGMT[-1e+03,1e+03];PGMT2[-1e+03,1e+03];TALA[-1e+03,-1.48e-13];SBPASE[-1e+03,0];ACCOAC[-1e+03,0];BIOC1[0,1e+03];BIOC2[0,1e+03]"
+    },
+    {
+      "condition": "TSM",
+      "biomass": 0.0,
+      "central_cyclic_flux": "FBP[0,1e+03];FBA[-1e+03,0];FBA3[-1e+03,0];PGMT[-1e+03,1e+03];PGMT2[-1e+03,1e+03];TALA[-1e+03,1.75e-13];SBPASE[-1e+03,0];ACCOAC[-1e+03,-7.8e-15];BIOC1[0,1e+03];BIOC2[0,1e+03]"
+    }
+  ],
+  "low_confidence": [
+    {
+      "reaction_id": "BDGK",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": 19077236,
+      "ec": "2.7.1.2",
+      "equation": "atp_c + glc_DASH_B_c <=> adp_c + g6p_DASH_B_c + h_c",
+      "reversible": true,
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "HCO3tpp",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": "",
+      "ec": "",
+      "equation": "h2co3_p <=> h_c + hco3_c",
+      "reversible": true,
+      "subsystem": "Transport, Inner Membrane"
+    },
+    {
+      "reaction_id": "MALS",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": "",
+      "ec": "2.3.3.9",
+      "equation": "accoa_c + glx_c + h2o_c --> coa_c + h_c + mal_DASH_L_c",
+      "reversible": false,
+      "subsystem": "Anaplerotic Reactions"
+    },
+    {
+      "reaction_id": "MACPD",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": "",
+      "ec": "2.3.1.38",
+      "equation": "h_c + malACP_c --> acACP_c + co2_c",
+      "reversible": false,
+      "subsystem": "(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)"
+    },
+    {
+      "reaction_id": "ACOATA",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": "",
+      "ec": "2.3.1.38",
+      "equation": "ACP_c + accoa_c --> acACP_c + coa_c",
+      "reversible": false,
+      "subsystem": "(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)"
+    },
+    {
+      "reaction_id": "GLXCL",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": "",
+      "ec": "4.1.1.47",
+      "equation": "2.0 glx_c + h_c <=> 2h3oppan_c + co2_c",
+      "reversible": true,
+      "subsystem": "Glyoxylate Metabolism"
+    },
+    {
+      "reaction_id": "GLYCK",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": "",
+      "ec": "2.7.1.31",
+      "equation": "atp_c + glyc_DASH_R_c <=> 3pg_c + adp_c + h_c",
+      "reversible": true,
+      "subsystem": "Glyoxylate Metabolism"
+    },
+    {
+      "reaction_id": "GLXR",
+      "confidence": 2,
+      "gpr": "",
+      "pmid": "",
+      "ec": "1.1.99.14",
+      "equation": "glx_c + h_c + nadph_c --> glyclt_c + nadp_c",
+      "reversible": false,
+      "subsystem": "(Alternate Carbon Metabolism) or (Glycolate Metabolism)"
+    },
+    {
+      "reaction_id": "NADTRHD",
+      "confidence": 1,
+      "gpr": "",
+      "pmid": "",
+      "ec": "",
+      "equation": "h_p + nadh_c + nadp_c --> h_c + nad_c + nadph_c",
+      "reversible": false,
+      "subsystem": "Oxidative Phosphorylation"
+    }
+  ],
+  "reversible_watchlist": [
+    {
+      "reaction_id": "PGI1",
+      "equation": "g6p_DASH_B_c <=> f6p_DASH_B_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_2924",
+      "ec": "5.3.1.9",
+      "pmid": 19077236,
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "FBA",
+      "equation": "fdp_c <=> dhap_c + g3p_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_1802",
+      "ec": "4.1.2.13",
+      "pmid": 19077236,
+      "subsystem": "(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "FBA3",
+      "equation": "dhap_c + e4p_c <=> s17bp_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_1676 and AFE_3248)",
+      "ec": "4.1.2.13",
+      "pmid": 19077236,
+      "subsystem": "(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "TPI",
+      "equation": "g3p_c <=> dhap_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_2633",
+      "ec": "5.3.1.1",
+      "pmid": 19077236,
+      "subsystem": "(Glycolysis/Gluconeogenesis) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "PGM1",
+      "equation": "3pg_c <=> 2pg_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_1815 or AFE_0155 or AFE_0526 or AFE_0621)",
+      "ec": "5.4.2.1",
+      "pmid": 19077236,
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "PGMT",
+      "equation": "g1p_DASH_B_c <=> g6p_DASH_B_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_2324",
+      "ec": "5.4.2.6",
+      "pmid": 19077236,
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "PGMT2",
+      "equation": "g1p_c <=> g6p_DASH_A_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_2324",
+      "ec": "5.4.2.2",
+      "pmid": 19077236,
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "ENO",
+      "equation": "2pg_c <=> h2o_c + pep_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_1800 or AFE_0849)",
+      "ec": "4.2.1.11",
+      "pmid": 19077236,
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "BDGK",
+      "equation": "atp_c + glc_DASH_B_c <=> adp_c + g6p_DASH_B_c + h_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 1,
+      "gpr": "",
+      "ec": "2.7.1.2",
+      "pmid": 19077236,
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "MTRP",
+      "equation": "maltttr_c + pi_c <=> g1p_c + malttr_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_0527",
+      "ec": "2.4.1.1",
+      "pmid": "",
+      "subsystem": "Glycolysis/Gluconeogenesis"
+    },
+    {
+      "reaction_id": "PGL",
+      "equation": "6pgl_c + h2o_c <=> 6pgc_c + h_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_2833",
+      "ec": "3.1.1.31",
+      "pmid": 19077236,
+      "subsystem": "Pentose Phosphate Pathway"
+    },
+    {
+      "reaction_id": "RPE",
+      "equation": "ru5p_DASH_D_c <=> xu5p_DASH_D_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_3247",
+      "ec": "5.1.3.1",
+      "pmid": "",
+      "subsystem": "(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "TKT1",
+      "equation": "e4p_c + xu5p_DASH_D_c <=> f6p_DASH_B_c + g3p_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_1843 and AFE_3252)",
+      "ec": "2.2.1.1",
+      "pmid": 19077236,
+      "subsystem": "(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "TKT2",
+      "equation": "g3p_c + s7p_c <=> r5p_c + xu5p_DASH_D_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_1843 and AFE_3252)",
+      "ec": "2.2.1.1",
+      "pmid": 19077236,
+      "subsystem": "(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "TALA",
+      "equation": "g3p_c + s7p_c <=> e4p_c + f6p_DASH_B_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_0419",
+      "ec": "2.2.1.2",
+      "pmid": 19077236,
+      "subsystem": "Pentose Phosphate Pathway"
+    },
+    {
+      "reaction_id": "RUBISCO",
+      "equation": "co2_c + h2o_c + rb15bp_c <=> 2.0 3pg_c + 2.0 h_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 3,
+      "gpr": "(AFE_2155 or AFE_0434 or (AFE_3051 and AFE_3052) or (AFE_1690 and AFE_1691))",
+      "ec": "4.1.1.39",
+      "pmid": "",
+      "subsystem": "(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "SBPASE",
+      "equation": "h2o_c + s17bp_c <=> pi_c + s7p_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_3253",
+      "ec": "3.1.3.37",
+      "pmid": 19077236,
+      "subsystem": "(Pentose Phosphate Pathway) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "GLYCH",
+      "equation": "glyclt_c + o2_c <=> glx_c + h2o2_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_1663 and AFE_1664 and AFE_1665)",
+      "ec": "1.1.2.4",
+      "pmid": 19077236,
+      "subsystem": "(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle)"
+    },
+    {
+      "reaction_id": "HCO3E",
+      "equation": "co2_c + h2o_c <=> h_c + hco3_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_0287",
+      "ec": "4.2.1.1",
+      "pmid": 19077236,
+      "subsystem": "(CO2 fixation) or (Rubisco Shunt) or (Calvin-Benson-Bassham Cycle) "
+    },
+    {
+      "reaction_id": "HCO3tpp",
+      "equation": "h2co3_p <=> h_c + hco3_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 1,
+      "gpr": "",
+      "ec": "",
+      "pmid": "",
+      "subsystem": "Transport, Inner Membrane"
+    },
+    {
+      "reaction_id": "ACONT1",
+      "equation": "cit_c <=> acon_DASH_C_c + h2o_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_0423",
+      "ec": "4.2.1.3",
+      "pmid": "",
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "ACONT2",
+      "equation": "acon_DASH_C_c + h2o_c <=> icit_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_0423",
+      "ec": "4.2.1.3",
+      "pmid": "",
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "ICDHyr",
+      "equation": "icit_c + nadp_c <=> akg_c + co2_c + nadph_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_0424",
+      "ec": "1.1.1.42",
+      "pmid": "",
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "ICITRED",
+      "equation": "icit_c + nadp_c <=> h_c + nadph_c + osuc_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_0424",
+      "ec": "1.1.1.42",
+      "pmid": "",
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "SUCOAS",
+      "equation": "atp_c + coa_c + succ_c <=> adp_c + pi_c + succoa_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_0427 and AFE_0425)",
+      "ec": "6.2.1.5",
+      "pmid": 19077236,
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "SUCD",
+      "equation": "fum_c + h_c + nadh_c <=> nad_c + succ_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_2550",
+      "ec": "",
+      "pmid": 19077236,
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "FUM",
+      "equation": "mal_DASH_L_c <=> fum_c + h2o_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_2673",
+      "ec": "4.2.1.2",
+      "pmid": 19077236,
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "MDH",
+      "equation": "mal_DASH_L_c + nad_c <=> h_c + nadh_c + oaa_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "AFE_3000",
+      "ec": "1.1.1.37",
+      "pmid": 19077236,
+      "subsystem": "Citric Acid Cycle"
+    },
+    {
+      "reaction_id": "ACCOAC",
+      "equation": "accoa_c + atp_c + hco3_c <=> adp_c + h_c + malcoa_c + pi_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 2,
+      "gpr": "(AFE_1462 or AFE_0196 or AFE_0195 or AFE_2067)",
+      "ec": "6.4.1.2",
+      "pmid": "",
+      "subsystem": "(Membrane Lipid Metabolism) or (Fatty Acid Biosynthesis)"
+    },
+    {
+      "reaction_id": "MCOATA",
+      "equation": "ACP_c + malcoa_c <=> coa_c + malACP_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 3,
+      "gpr": "AFE_1907",
+      "ec": "2.3.1.39",
+      "pmid": 238956,
+      "subsystem": "(Membrane Lipid Metabolism) or (Fatty acid biosynthesis)"
+    },
+    {
+      "reaction_id": "GLXCL",
+      "equation": "2.0 glx_c + h_c <=> 2h3oppan_c + co2_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 1,
+      "gpr": "",
+      "ec": "4.1.1.47",
+      "pmid": "",
+      "subsystem": "Glyoxylate Metabolism"
+    },
+    {
+      "reaction_id": "GLYCK",
+      "equation": "atp_c + glyc_DASH_R_c <=> 3pg_c + adp_c + h_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 1,
+      "gpr": "",
+      "ec": "2.7.1.31",
+      "pmid": "",
+      "subsystem": "Glyoxylate Metabolism"
+    },
+    {
+      "reaction_id": "3OAS28",
+      "equation": "h_c + malACP_c + ppcoa_c <=> 3oxpenACP_c + co2_c + coa_c",
+      "lb": -1000.0,
+      "ub": 1000.0,
+      "confidence": 3,
+      "gpr": "AFE_1906",
+      "ec": "2.3.1.180",
+      "pmid": 238956,
+      "subsystem": "(Cell Envelope Biosynthesis) or (Fatty acid biosynthesis)"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+scenario	minimum_KI_count	solution_id	E1_candidate_ids	donor_source_reactions	solver_status	search_reaction_ids	max_cost_tested	host_sha256	biomass	glucose_uptake	rubisco_flux	co2_flux	fe2_flux	o2_flux	glucose_off_max_biomass	biomass_glucose_on_off_delta
+reference	0	S00			optimal		0	026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3	0.7302586898902741	-4.674279012799262	2.3235531651840797	0.0	-1000.0	-243.4956541283347	0.05207638710273988	0.6781823027875342

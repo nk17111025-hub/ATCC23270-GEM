@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/apixml?fn=genes-of-protein%26id=GCF_000021485:AFE_RS04805-MONOMER%26detail=NONE'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>apixml</service_name>
+    <query>fn=genes-of-protein&amp;id=GCF_000021485:AFE_RS04805-MONOMER&amp;detail=NONE</query>
+    <num_results>1</num_results>
+  </metadata>
+  <Gene resource='getxml?GCF_000021485:AFE_RS04805' orgid='GCF_000021485' frameid='AFE_RS04805'/></ptools-xml>

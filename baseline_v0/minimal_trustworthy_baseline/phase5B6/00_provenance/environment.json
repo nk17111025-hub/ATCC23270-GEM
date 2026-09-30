@@ -1,0 +1,9 @@
+{
+  "python": "3.14.6",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "solver": "scipy.optimize.milp (HiGHS)",
+  "os": "Windows-11-10.0.26200-SP0",
+  "cwd": "D:\\嗜酸氧化亚铁硫杆菌",
+  "generated_at": "2026-09-27T00:31:31+08:00"
+}

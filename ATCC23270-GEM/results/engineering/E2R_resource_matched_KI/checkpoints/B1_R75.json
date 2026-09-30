@@ -1,0 +1,44 @@
+{
+  "biomass_multiplier": 1.0,
+  "biomass_threshold": 0.052076387102740346,
+  "fingerprint": "f0961cac81f343d0fe238200e8762fd0773ea156d80b66ff21b7c1cb5c50793b",
+  "full_pool_status": "not_needed",
+  "host_sha256": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+  "minimum_KI_count": 0,
+  "rubisco_cap": 0.593508718134599,
+  "rubisco_fraction": 0.75,
+  "runtime_seconds": 0.32150983810424805,
+  "scenario_id": "B1_R75",
+  "solutions": [
+    {
+      "candidate_ids": [],
+      "delta_biomass": 0.07213676975241122,
+      "glucose_off": {
+        "biomass": 0.01427188619034121,
+        "co2": -0.5480999720182805,
+        "fe2": -57.49800291161122,
+        "glucose": 0.0,
+        "o2": -13.699286324777216,
+        "rubisco": 0.593508718135,
+        "status": "optimal"
+      },
+      "phenotype": {
+        "biomass": 0.08640865594275243,
+        "co2": -0.3185737563015416,
+        "fe2": -147.0120779685701,
+        "glucose": -0.5,
+        "o2": -35.664806828855895,
+        "rubisco": 0.5935089648007544,
+        "status": "optimal"
+      },
+      "reaction_ids": [],
+      "selected_KI_count": 0,
+      "solution_id": "S00",
+      "source_reactions": []
+    }
+  ],
+  "solver_status": "zero_KI_feasible",
+  "stage": "coarse",
+  "status": "zero_KI_feasible",
+  "zero_KI_status": "optimal"
+}

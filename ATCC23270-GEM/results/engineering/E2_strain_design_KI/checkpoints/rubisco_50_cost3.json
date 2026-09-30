@@ -1,0 +1,40 @@
+{
+  "constraint_factor": 0.5,
+  "error": null,
+  "full_pool_glucose_off": {
+    "co2_flux": -2.0,
+    "fe2_flux": -0.01000000000000026,
+    "glucose_uptake": 0.0,
+    "max_biomass": 0.05374048269501471,
+    "o2_flux": 0.0,
+    "rubisco_flux": 1.16177658259198,
+    "status": "optimal"
+  },
+  "full_pool_phenotype": {
+    "biomass": 0.8073345138899527,
+    "co2_flux": -2.0,
+    "fe2_flux": -0.10823126493208705,
+    "glucose_uptake": -4.67427901279927,
+    "o2_flux": 0.0,
+    "rubisco_flux": 1.16177658259198,
+    "status": "optimal"
+  },
+  "glucose_use_proof_pass": true,
+  "glucose_viability_threshold": 0.5842069519122025,
+  "host_sha256": "026352372d0b04d2cc1518b0e37d92075f7af7f5112b94eb48d6302fc680f3a3",
+  "input_fingerprint": "31928a1535576e59d95eddeebb7e8bf2aa8d846f8d54cafff3adac72821ce48c",
+  "max_cost": 3,
+  "phenotype": null,
+  "phenotype_constraints": [
+    "Ex_bio_LSQBKT_e_RSQBKT_ >= 0.584206951912",
+    "Ex_glc_DASH_B_LSQBKT_e_RSQBKT_ <= -1.1685697532",
+    "Ex_fe2_LSQBKT_e_RSQBKT_ <= -0.01",
+    "RUBISCO >= 0",
+    "RUBISCO <= 1.16177658259"
+  ],
+  "runtime_seconds": 4.083797216415405,
+  "scenario": "rubisco_50",
+  "solutions": [],
+  "solutions_found": 0,
+  "status": "infeasible"
+}

@@ -1,0 +1,4 @@
+reaction	classification	note
+G6PDH_NAD	POSSIBLY_NATIVE	model has NADP-G6PDH2 only; NAD isoform absent
+NADH16	POTENTIAL_MODEL_OMISSION	NADHI is reverse-ETC only
+ICL/ME/PC/PPCK/PPS/PPDK/GND/PFL/NADHox	LIKELY_HETEROLOGOUS	absent from GEM

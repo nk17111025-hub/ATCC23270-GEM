@@ -1,0 +1,8 @@
+﻿来源: https://biocyc.org/GCF_000021485/organism-summary
+获取方式: 浏览器与官方页面原始响应保存
+获取时间: 2026-09-23T09:06:45+08:00
+HTTP状态: 200（页面在浏览器中正常显示）
+Content-Type: text/html
+文件大小: 77421
+SHA256: 321F5EC1F9FBC0C538D3172EBB5A5B1523750937CC1F727FBAA9E2110F07B181
+PGDB版本: 30.0

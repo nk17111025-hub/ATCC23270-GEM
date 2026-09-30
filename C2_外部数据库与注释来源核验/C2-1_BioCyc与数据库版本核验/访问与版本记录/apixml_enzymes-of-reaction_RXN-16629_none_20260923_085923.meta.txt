@@ -1,0 +1,8 @@
+﻿来源: https://websvc.biocyc.org/apixml?fn=enzymes-of-reaction&id=GCF_000021485:RXN-16629&detail=none
+获取时间: 2026-09-23T08:59:55.0976382+08:00
+HTTP状态: 200
+Content-Type: text/xml
+
+文件大小: 534
+SHA256: 25844531CA666EE8F7097C831D24F7E84B899E924CC9C4388146F24598F82128
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\apixml_enzymes-of-reaction_RXN-16629_none_20260923_085923.headers.txt

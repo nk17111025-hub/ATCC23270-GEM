@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-09-23 Asia/Shanghai",
+  "candidate_count": 30,
+  "layer_counts": {
+    "宿主本底候选": 14,
+    "2024异源工程": 4,
+    "2024工程/假设层": 12
+  },
+  "semantic_rows_from_A0": 29,
+  "bdgk_split": 2,
+  "engineering_ectoine": 4,
+  "engineering_hypothesis_other_new": 12,
+  "D3-1-R": "未落盘；来源覆盖与验收不得标PASS",
+  "formal_model_changed": false
+}

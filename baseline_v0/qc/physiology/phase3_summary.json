@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-09-25T21:09:19+08:00",
+  "positive_growth": {
+    "FIM": 0.05207638710273945,
+    "TTM": 0.052076389647167654,
+    "TSM": 0.05207638710274137
+  },
+  "carbon_disabled_growth": {
+    "FIM": 0.0,
+    "TTM": 0.0,
+    "TSM": 0.0
+  },
+  "rubisco_disabled_growth": {
+    "FIM": 0.0,
+    "TTM": 0.0,
+    "TSM": 0.0
+  },
+  "donor_disabled_growth": {
+    "FIM": 0.0,
+    "TTM": 0.0,
+    "TSM": 0.0
+  },
+  "no_acceptor_growth": {
+    "FIM": 0.0,
+    "TTM": 0.0,
+    "TSM": 0.0
+  },
+  "free_atp": {
+    "FIM": 0.0,
+    "TTM": 0.0,
+    "TSM": 0.0
+  }
+}

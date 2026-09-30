@@ -1,0 +1,5 @@
+item	status	note
+glucose -> pyruvate	SOLVED	ED gives pyruvate (max 2.0 mmol/gDW/h)
+glucose -> GAP	SOLVED	ED gives GAP (max 2.0)
+glucose -> 3PG	UNRESOLVED	needs gluconeogenesis (pyruvate/GAP -> 3PG)
+full biomass	UNRESOLVED	3PG/serine/glycine and anaplerosis still block

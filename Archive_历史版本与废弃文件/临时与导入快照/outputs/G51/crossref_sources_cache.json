@@ -1,0 +1,5374 @@
+{
+  "10.1007/s00253-014-5830-4": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ],
+      "date-time": "2026-06-24T23:57:02Z",
+      "timestamp": 1782345422020,
+      "version": "3.54.5"
+    },
+    "reference-count": 53,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "17",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              6,
+              4
+            ]
+          ],
+          "date-time": "2014-06-04T00:00:00Z",
+          "timestamp": 1401840000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Appl Microbiol Biotechnol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00253-014-5830-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2014-06-03T03:43:02Z",
+      "timestamp": 1401766982000
+    },
+    "page": "7511-7522",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 29,
+    "title": [
+      "Identification and characterization of an ETHE1-like sulfur dioxygenase in extremely acidophilic Acidithiobacillus spp."
+    ],
+    "prefix": "10.1007",
+    "volume": "98",
+    "author": [
+      {
+        "given": "Huiyan",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shuangshuang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiangmei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiuting",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qing",
+        "family": "Wen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jianqun",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "5830_CR1",
+        "author": "A Bauermeister",
+        "year": "2013",
+        "unstructured": "Bauermeister A, Rettberg P, Flemming HC (2013) Growth of the acidophilic iron–sulfur bacterium Acidithiobacillus ferrooxidans under Mars-like geochemical conditions. Planet Space Sci. doi: 10.1016/j.pss.2013.09.009",
+        "journal-title": "Planet Space Sci"
+      },
+      {
+        "issue": "8",
+        "key": "5830_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "2015",
+        "DOI": "10.1111/j.1462-2920.2009.01923.x",
+        "volume": "11",
+        "author": "K Bilecen",
+        "year": "2009",
+        "unstructured": "Bilecen K, Yildiz FH (2009) Identification of a calcium-controlled negative regulatory system affecting Vibrio cholerae biofilm formation. Environ Microbiol 11(8):2015–2029. doi: 10.1111/j.1462-2920.2009.01923.x",
+        "journal-title": "Environ Microbiol"
+      },
+      {
+        "issue": "2",
+        "key": "5830_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "621",
+        "DOI": "10.1128/AEM.71.2.621-628.2005",
+        "volume": "71",
+        "author": "Z Chen",
+        "year": "2005",
+        "unstructured": "Chen Z, Jiang C, She Q, Liu S, Zhou P (2005) Key role of cysteine residues in catalysis and subcellular localization of sulfur oxygenase-reductase of Acidianus tengchongensis. Appl Environ Microbiol 71(2):621–628. doi: 10.1128/AEM.71.2.621-628.2005",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "issue": "3",
+        "key": "5830_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "688",
+        "DOI": "10.1007/s00253-006-0691-0",
+        "volume": "74",
+        "author": "Z Chen",
+        "year": "2007",
+        "unstructured": "Chen Z, Liu Y, Wu J, She Q, Jiang C, Liu S (2007) Novel bacterial sulfur oxygenase reductases from bioreactors treating gold-bearing concentrates. Appl Microbiol Biotechnol 74(3):688–698. doi: 10.1007/s00253-006-0691-0",
+        "journal-title": "Appl Microbiol Biotechnol"
+      },
+      {
+        "issue": "9",
+        "key": "5830_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "e39470",
+        "DOI": "10.1371/journal.pone.0039470",
+        "volume": "7",
+        "author": "L Chen",
+        "year": "2012",
+        "unstructured": "Chen L, Ren Y, Lin J, Liu X, Pang X, Lin J (2012) Acidithiobacillus caldus sulfur oxidation model based on transcriptome analysis between the wild type and sulfur oxygenase reductase defective mutant. PLoS One 7(9):e39470. doi: 10.1371/journal.pone.0039470",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "4",
+        "key": "5830_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1016/0167-7012(89)90015-8",
+        "volume": "10",
+        "author": "A Das",
+        "year": "1989",
+        "unstructured": "Das A, Bhattacharyya S, Banerjee P (1989) Purification of Thiobacillus ferrooxidans cultures by single colony isolation and influences of agarose on the colony morphology. J Microbiol Methods 10(4):281–287. doi: 10.1016/0167-7012(89)90015-8",
+        "journal-title": "J Microbiol Methods"
+      },
+      {
+        "issue": "7",
+        "key": "5830_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "748",
+        "DOI": "10.1002/bies.200900018",
+        "volume": "31",
+        "author": "Y Davidov",
+        "year": "2009",
+        "unstructured": "Davidov Y, Jurkevitch E (2009) Predation between prokaryotes and the origin of eukaryotes. Bioessays 31(7):748–757. doi: 10.1002/bies.200900018",
+        "journal-title": "Bioessays"
+      },
+      {
+        "issue": "2–3",
+        "key": "5830_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1016/0378-1119(87)90316-7",
+        "volume": "51",
+        "author": "J Davison",
+        "year": "1987",
+        "unstructured": "Davison J, Heusterspreute M, Chevalier N, Ha-Thi V, Brunei F (1987) Vectors with restriction site banks V. pJRD215, a wide-host-range cosmid vector with multiple cloning sites. Gene 51(2–3):275–280. doi: 10.1016/0378-1119(87)90316-7",
+        "journal-title": "Gene"
+      },
+      {
+        "issue": "10",
+        "key": "5830_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "2620",
+        "DOI": "10.1111/j.1462-2920.2012.02749.x",
+        "volume": "14",
+        "author": "M Dopson",
+        "year": "2012",
+        "unstructured": "Dopson M, Johnson DB (2012) Biodiversity, metabolism and applications of acidophilic sulfur-metabolizing microorganisms. Environ Microbiol 14(10):2620–2631. doi: 10.1111/j.1462-2920.2012.02749.x",
+        "journal-title": "Environ Microbiol"
+      },
+      {
+        "issue": "7",
+        "key": "5830_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "2873",
+        "DOI": "10.1128/AEM.67.7.2873-2882.2001",
+        "volume": "67",
+        "author": "CG Friedrich",
+        "year": "2001",
+        "unstructured": "Friedrich CG, Rother D, Bardischewsky F, Quentmeier A, Fischer J (2001) Oxidation of reduced inorganic sulfur compounds by bacteria: emergence of a common mechanism? Appl Environ Microbiol 67(7):2873–2882. doi: 10.1128/AEM.67.7.2873-2882.2001",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "issue": "3",
+        "key": "5830_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.mib.2005.04.005",
+        "volume": "8",
+        "author": "CG Friedrich",
+        "year": "2005",
+        "unstructured": "Friedrich CG, Bardischewsky F, Rother D, Quentmeier A, Fischer J (2005) Prokaryotic sulfur oxidation. Curr Opin Microbiol 8(3):253–259. doi: 10.1016/j.mib.2005.04.005",
+        "journal-title": "Curr Opin Microbiol"
+      },
+      {
+        "key": "5830_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1385/1-59259-890-0:571",
+        "volume-title": "The proteomics protocols handbook",
+        "author": "E Gasteiger",
+        "year": "2005",
+        "unstructured": "Gasteiger E, Hoogland C, Gattiker A, Duvaud S, Wilkins MR, Appel RD, Bairoch A (2005) Protein identification and analysis tools on the ExPASy server. In: Walker JM (ed) The proteomics protocols handbook. Humana Press, Totowa, pp 571–601"
+      },
+      {
+        "issue": "6",
+        "key": "5830_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "2318",
+        "DOI": "10.1128/AEM.66.6.2318-2324.2000",
+        "volume": "66",
+        "author": "N Guiliani",
+        "year": "2000",
+        "unstructured": "Guiliani N, Jerez CA (2000) Molecular cloning, sequencing, and expression of omp-40, the gene coding for the major outer membrane protein from the acidophilic bacterium Thiobacillus ferrooxidans. Appl Environ Microbiol 66(6):2318–2324. doi: 10.1128/AEM.66.6.2318-2324.2000",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "key": "5830_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "26148",
+        "DOI": "10.1074/jbc.M111.234039",
+        "volume": "286",
+        "author": "BG Guimarães",
+        "year": "2011",
+        "unstructured": "Guimarães BG, Barbosa RL, Soprano AS, Campos BM, de Souza TA, Tonoli CC, Leme AF, Murakami MT, Benedetti CE (2011) Plant pathogenic bacteria utilize biofilm growth-associated repressor (BigR), a novel winged-helix redox switch, to control hydrogen sulfide detoxification under hypoxia. J Biol Chem 286:26148–26157. doi: 10.1074/jbc.M111.234039",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "issue": "13",
+        "key": "5830_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "3352",
+        "DOI": "10.1111/j.1742-4658.2008.06482.x",
+        "volume": "275",
+        "author": "TM Hildebrandt",
+        "year": "2008",
+        "unstructured": "Hildebrandt TM, Grieshaber MK (2008) Three enzymatic activities catalyze the oxidation of sulfide to thiosulfate in mammalian and invertebrate mitochondria. FEBS J 275(13):3352–3361. doi: 10.1111/j.1742-4658.2008.06482.x",
+        "journal-title": "FEBS J"
+      },
+      {
+        "issue": "1",
+        "key": "5830_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1104/pp.112.201855",
+        "volume": "160",
+        "author": "MM Holdorf",
+        "year": "2012",
+        "unstructured": "Holdorf MM, Owen HA, Lieber SR, Yuan L, Adams N, Dabney-Smith C, Makaroff CA (2012) Arabidopsis ETHE1 encodes a sulfur dioxygenase that is essential for embryo and endosperm development. Plant Physiol 160(1):226–236. doi: 10.1104/pp.112.201855",
+        "journal-title": "Plant Physiol"
+      },
+      {
+        "issue": "1",
+        "key": "5830_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "429",
+        "DOI": "10.1128/AEM.58.1.429-430.1992",
+        "volume": "58",
+        "author": "S Jin",
+        "year": "1992",
+        "unstructured": "Jin S, Yan W, Wang Z (1992) Transfer of IncP plasmids to extremely acidophilic Thiobacillus thiooxidans. Appl Environ Microbiol 58(1):429–430",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "key": "5830_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "44561",
+        "DOI": "10.1074/jbc.M112.407411",
+        "volume": "287",
+        "author": "O Kabil",
+        "year": "2012",
+        "unstructured": "Kabil O, Banerjee R (2012) Characterization of patient mutations in human persulfide dioxygenase (ETHE1) involved in H2S catabolism. J Biol Chem 287:44561–44567. doi: 10.1074/jbc.M112.407411",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "issue": "1",
+        "key": "5830_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1128/AEM.02251-12",
+        "volume": "79",
+        "author": "M Kikumoto",
+        "year": "2013",
+        "unstructured": "Kikumoto M, Nogami S, Kanao T, Takada J, Kamimura K (2013) Tetrathionate-forming thiosulfate dehydrogenase from the acidophilic, chemolithoautotrophic bacterium Acidithiobacillus ferrooxidans. Appl Environ Microbiol 79(1):113–120. doi: 10.1128/AEM.02251-12",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "issue": "6",
+        "key": "5830_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1531",
+        "DOI": "10.1111/j.1462-2920.2010.02182.x",
+        "volume": "12",
+        "author": "JD King",
+        "year": "2010",
+        "unstructured": "King JD, Vinogradov E, Tran V, Lam JS (2010) Biosynthesis of uronamide sugars in Pseudomonas aeruginosa O6 and Escherichia coli O121 O antigens. Environ Microbiol 12(6):1531–1544. doi: 10.1111/j.1462-2920.2010.02182.x",
+        "journal-title": "Environ Microbiol"
+      },
+      {
+        "issue": "3",
+        "key": "5830_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1638",
+        "DOI": "10.1128/jb.171.3.1638-1643.1989",
+        "volume": "171",
+        "author": "A Kletzin",
+        "year": "1989",
+        "unstructured": "Kletzin A (1989) Coupled enzymatic production of sulfite, thiosulfate, and hydrogen sulfide from sulfur: purification and properties of a sulfur oxygenase reductase from the facultatively anaerobic archaebacterium Desulfurolobus ambivalens. J Bacteriol 171(3):1638–1643",
+        "journal-title": "J Bacteriol"
+      },
+      {
+        "issue": "3",
+        "key": "5830_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/S0167-7012(00)00154-8",
+        "volume": "41",
+        "author": "Å Kolmert",
+        "year": "2000",
+        "unstructured": "Kolmert Å, Wikström P, Hallberg KB (2000) A fast and simple turbidimetric method for the determination of sulfate in sulfate-reducing bacterial cultures. J Microbiol Methods 41(3):179–184. doi: 10.1016/S0167-7012(00)00154-8",
+        "journal-title": "J Microbiol Methods"
+      },
+      {
+        "issue": "21",
+        "key": "5830_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "2947",
+        "DOI": "10.1093/bioinformatics/btm404",
+        "volume": "23",
+        "author": "MA Larkin",
+        "year": "2007",
+        "unstructured": "Larkin MA, Blackshields G, Brown NP, Chenna R, McGettigan PA, McWilliam H, Valentin F, Wallace IM, Wilm A, Lopez R, Thompson JD, Gibson TJ, Higgins DG (2007) Clustal W and Clustal X version 2.0. Bioinformatics 23(21):2947–2948. doi: 10.1093/bioinformatics/btm404",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5830_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1007/978-3-540-72682-1_17",
+        "volume-title": "Microbial sulfur metabolism",
+        "author": "S Liu",
+        "year": "2008",
+        "unstructured": "Liu S (2008) Archaeal and bacterial sulfur oxygenase-reductases: Genetic diversity and physiological function. In: Dahl C, Friedrich CG (eds) Microbial sulfur metabolism. Springer, Berlin, pp 217–224"
+      },
+      {
+        "issue": "3",
+        "key": "5830_CR25",
+        "first-page": "382",
+        "volume": "44",
+        "author": "Y Liu",
+        "year": "2004",
+        "unstructured": "Liu Y, Qi F, Lin J, Tian K, Yan W (2004) Isolation and phylogenetic analysis of a moderately thermophilic acidophilic sulfur oxidizing bacterium. Acta Microbiol Sin 44(3):382–385",
+        "journal-title": "Acta Microbiol Sin"
+      },
+      {
+        "key": "5830_CR26",
+        "author": "H Liu",
+        "year": "2014",
+        "unstructured": "Liu H, Xin Y, Xun L (2014) Distribution, diversity and activities of sulfur dioxygenases in heterotrophic bacteria. Appl Environ Microbiol. doi: 10.1128/AEM.03281-13",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "key": "5830_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.3389/fmicb.2011.00017",
+        "volume": "2",
+        "author": "S Mangold",
+        "year": "2011",
+        "unstructured": "Mangold S, Valdés J, Holmes DS, Dopson M (2011) Sulfur metabolism in the extreme acidophile Acidithiobacillus caldus. Front Microbiol 2:17. doi: 10.3389/fmicb.2011.00017",
+        "journal-title": "Front Microbiol"
+      },
+      {
+        "issue": "9",
+        "key": "5830_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "964",
+        "DOI": "10.1107/S0907444906020592",
+        "volume": "62",
+        "author": "JG McCoy",
+        "year": "2006",
+        "unstructured": "McCoy JG, Bingman CA, Bitto E, Holdorf MM, Makaroff CA, Phillips GN (2006) Structure of an ETHE1-like protein from Arabidopsis thaliana. Acta Crystallogr D Biol Crystallogr 62(9):964–970. doi: 10.1107/S0907444906020592",
+        "journal-title": "Acta Crystallogr D Biol Crystallogr"
+      },
+      {
+        "issue": "6",
+        "key": "5830_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1139/o82-076",
+        "volume": "60",
+        "author": "P Nicholls",
+        "year": "1982",
+        "unstructured": "Nicholls P, Kim JK (1982) Sulphide as an inhibitor and electron donor for the cytochrome c oxidase system. Can J Biochem 60(6):613–623. doi: 10.1139/o82-076",
+        "journal-title": "Can J Biochem"
+      },
+      {
+        "issue": "7",
+        "key": "5830_CR30",
+        "doi-asserted-by": "crossref",
+        "first-page": "881",
+        "DOI": "10.1007/s00360-012-0654-y",
+        "volume": "182",
+        "author": "KR Olson",
+        "year": "2012",
+        "unstructured": "Olson KR (2012) Mitochondrial adaptations to utilize hydrogen sulfide for energy and signaling. J Comp Physiol B 182(7):881–897. doi: 10.1007/s00360-012-0654-y",
+        "journal-title": "J Comp Physiol B"
+      },
+      {
+        "issue": "10",
+        "key": "5830_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "2892",
+        "DOI": "10.1128/jb.176.10.2892-2897.1994",
+        "volume": "176",
+        "author": "J Peng",
+        "year": "1994",
+        "unstructured": "Peng J, Yan W, Bao X (1994) Plasmid and transposon transfer to Thiobacillus ferrooxidans. J Bacteriol 176(10):2892–2897",
+        "journal-title": "J Bacteriol"
+      },
+      {
+        "key": "5830_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "785",
+        "DOI": "10.1038/nmeth.1701",
+        "volume": "8",
+        "author": "TN Petersen",
+        "year": "2011",
+        "unstructured": "Petersen TN, Brunak S, von Heijne G, Nielsen H (2011) SignalP 4.0: discriminating signal peptides from transmembrane regions. Nat Methods 8:785–786. doi: 10.1038/nmeth.1701",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "5830_CR33",
+        "doi-asserted-by": "crossref",
+        "first-page": "394",
+        "DOI": "10.1186/1471-2164-10-394",
+        "volume": "10",
+        "author": "R Quatrini",
+        "year": "2009",
+        "unstructured": "Quatrini R, Appia-Ayme C, Denis Y, Jedlicki E, Holmes DS, Bonnefoy V (2009) Extending the models for iron and sulfur oxidation in the extreme acidophile Acidithiobacillus ferrooxidans. BMC Genomics 10:394. doi: 10.1186/1471-2164-10-394",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "5830_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "777",
+        "DOI": "10.1016/S1572-4409(99)80080-7",
+        "volume": "9",
+        "author": "DE Rawlings",
+        "year": "1999",
+        "unstructured": "Rawlings DE, Coram NJ, Gardner MN, Deane SM (1999) Thiobacillus caldus and Leptospirillum ferrooxidans are widely distributed in continuous flow biooxidation tanks used to treat a variety of metal containing ores and concentrates. Process Metall 9:777–786. doi: 10.1016/S1572-4409(99)80080-7",
+        "journal-title": "Process Metall"
+      },
+      {
+        "issue": "7",
+        "key": "5830_CR35",
+        "doi-asserted-by": "crossref",
+        "first-page": "1699",
+        "DOI": "10.1099/mic.0.26212-0",
+        "volume": "149",
+        "author": "T Rohwerder",
+        "year": "2003",
+        "unstructured": "Rohwerder T, Sand W (2003) The sulfane sulfur of persulfides is the actual substrate of the sulfur-oxidizing enzymes from Acidithiobacillus and Acidiphilium spp. Microbiology 149(7):1699–1710. doi: 10.1099/mic.0.26212-0",
+        "journal-title": "Microbiology"
+      },
+      {
+        "issue": "4",
+        "key": "5830_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1002/elsc.200720204",
+        "volume": "7",
+        "author": "T Rohwerder",
+        "year": "2007",
+        "unstructured": "Rohwerder T, Sand W (2007) Oxidation of inorganic sulfur compounds in acidophilic prokaryotes. Eng Life Sci 7(4):301–309. doi: 10.1002/elsc.200720204",
+        "journal-title": "Eng Life Sci"
+      },
+      {
+        "issue": "3–4",
+        "key": "5830_CR37",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1080/17415990802146972",
+        "volume": "29",
+        "author": "T Rohwerder",
+        "year": "2008",
+        "unstructured": "Rohwerder T, Sand W (2008) Properties of thiols required for sulfur dioxygenase activity at acidic pH. J Sulfur Chem 29(3–4):293–302. doi: 10.1080/17415990802146972",
+        "journal-title": "J Sulfur Chem"
+      },
+      {
+        "issue": "3",
+        "key": "5830_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1007/s00253-003-1448-7",
+        "volume": "63",
+        "author": "T Rohwerder",
+        "year": "2003",
+        "unstructured": "Rohwerder T, Gehrke T, Kinzler K, Sand W (2003) Bioleaching review: Part A. Progress in bioleaching: fundamentals and mechanisms of bacterial metal sulfide oxidation. Appl Microbiol Biotechnol 63(3):239–248. doi: 10.1007/s00253-003-1448-7",
+        "journal-title": "Appl Microbiol Biotechnol"
+      },
+      {
+        "issue": "1",
+        "key": "5830_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1007/s002530051495",
+        "volume": "52",
+        "author": "A Schippers",
+        "year": "1999",
+        "unstructured": "Schippers A, Rohwerder T, Sand W (1999) Intermediary sulfur compounds in pyrite oxidation: implications for bioleaching and biodepyritization of coal. Appl Microbiol Biotechnol 52(1):104–110. doi: 10.1007/s002530051495",
+        "journal-title": "Appl Microbiol Biotechnol"
+      },
+      {
+        "issue": "5",
+        "key": "5830_CR40",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1139/o68-069",
+        "volume": "46",
+        "author": "M Silver",
+        "year": "1968",
+        "unstructured": "Silver M, Lundgren DG (1968) Sulfur-oxidizing enzyme of Ferrobacillus ferrooxidans (Thiobacillus ferrooxidans). Can J Biochem 46(5):457–461. doi: 10.1139/o68-069",
+        "journal-title": "Can J Biochem"
+      },
+      {
+        "key": "5830_CR41",
+        "doi-asserted-by": "crossref",
+        "first-page": "784",
+        "DOI": "10.1038/nbt1183-784",
+        "volume": "1",
+        "author": "R Simon",
+        "year": "1983",
+        "unstructured": "Simon R, Priefer U, Pühler A (1983) A broad host range mobilization system for in vivo genetic engineering: transposon mutagenesis in gram negative bacteria. Nat Biotechnol 1:784–791. doi: 10.1038/nbt1183-784",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "issue": "11",
+        "key": "5830_CR42",
+        "doi-asserted-by": "crossref",
+        "first-page": "4916",
+        "DOI": "10.1128/jb.169.11.4916-4922.1987",
+        "volume": "169",
+        "author": "T Sugio",
+        "year": "1987",
+        "unstructured": "Sugio T, Mizunashi W, Inagaki K, Tano T (1987) Purification and some properties of sulfur: ferric ion oxidoreductase from Thiobacillus ferrooxidans. J Bacteriol 169(11):4916–4922",
+        "journal-title": "J Bacteriol"
+      },
+      {
+        "issue": "2",
+        "key": "5830_CR43",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1016/S0005-2728(89)80429-3",
+        "volume": "973",
+        "author": "T Sugio",
+        "year": "1989",
+        "unstructured": "Sugio T, Katagiri T, Inagaki K, Tano T (1989) Actual substrate for elemental sulfur oxidation by sulfur: ferric ion oxidoreductase purified from Thiobacillus ferrooxidans. Biochim Biophys Acta 973(2):250–256. doi: 10.1016/S0005-2728(89)80429-3",
+        "journal-title": "Biochim Biophys Acta"
+      },
+      {
+        "issue": "2",
+        "key": "5830_CR44",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1007/s00792-002-0304-5",
+        "volume": "7",
+        "author": "C Sun",
+        "year": "2003",
+        "unstructured": "Sun C, Chen Z, He Z, Zhou P, Liu S (2003) Purification and properties of the sulfur oxygenase/reductase from the acidothermophilic archaeon, Acidianus strain S5. Extremophiles 7(2):131–134. doi: 10.1007/s00792-002-0304-5",
+        "journal-title": "Extremophiles"
+      },
+      {
+        "issue": "2",
+        "key": "5830_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1016/0304-4165(65)90341-7",
+        "volume": "104",
+        "author": "I Suzuki",
+        "year": "1965",
+        "unstructured": "Suzuki I (1965) Oxidation of elemental sulfur by an enzyme system of Thiobacillus thiooxidans. Biochim Biophys Acta 104(2):359–371. doi: 10.1016/0304-4165(65)90341-7",
+        "journal-title": "Biochim Biophys Acta"
+      },
+      {
+        "issue": "2",
+        "key": "5830_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1073/pnas.45.2.239",
+        "volume": "45",
+        "author": "I Suzuki",
+        "year": "1959",
+        "unstructured": "Suzuki I, Werkman C (1959) Glutathione and sulfur oxidation by Thiobacillus thiooxidans. Proc Natl Acad Sci U S A 45(2):239–244",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "issue": "2",
+        "key": "5830_CR47",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1086/381653",
+        "volume": "74",
+        "author": "V Tiranti",
+        "year": "2004",
+        "unstructured": "Tiranti V, D’Adamo P, Briem E, Ferrari G, Mineri R, Lamantea E, Mandel H, Balestri P, Garcia-Silva MT, Vollmer B, Rinaldo P, Hahn SH, Leonard J, Rahman S, Dionisi-Vici C, Garavaglia B, Gasparini P, Zeviani M (2004) Ethylmalonic encephalopathy is caused by mutations in ETHE1, a gene encoding a mitochondrial matrix protein. Am J Hum Genet 74(2):239–252. doi: 10.1086/381653",
+        "journal-title": "Am J Hum Genet"
+      },
+      {
+        "key": "5830_CR48",
+        "doi-asserted-by": "crossref",
+        "first-page": "200",
+        "DOI": "10.1038/nm.1907",
+        "volume": "15",
+        "author": "V Tiranti",
+        "year": "2009",
+        "unstructured": "Tiranti V, Viscomi C, Hildebrandt T, Di Meo I, Mineri R, Tiveron C, Levitt MD, Prelle A, Fagiolari G, Rimoldi M, Zeviani M (2009) Loss of ETHE1, a mitochondrial dioxygenase, causes fatal sulfide toxicity in ethylmalonic encephalopathy. Nat Med 15:200–205. doi: 10.1038/nm.1907",
+        "journal-title": "Nat Med"
+      },
+      {
+        "key": "5830_CR49",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1186/1471-2164-9-597",
+        "volume": "9",
+        "author": "J Valdés",
+        "year": "2008",
+        "unstructured": "Valdés J, Pedroso I, Quatrini R, Dodson RJ, Tettelin H, Blake R, Eisen JA, Holmes DS (2008) Acidithiobacillus ferrooxidans metabolism: from genome sequence to industrial applications. BMC Genomics 9:597. doi: 10.1186/1471-2164-9-597",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "5830_CR50",
+        "doi-asserted-by": "crossref",
+        "first-page": "2735",
+        "DOI": "10.1271/bbb.70332",
+        "volume": "71",
+        "author": "S Wakai",
+        "year": "2007",
+        "unstructured": "Wakai S, Tsujita M, Kikumoto M, Manchur MA, Kanao T, Kamimura K (2007) Purification and characterization of sulfide:quinone oxidoreductase form an acidophilic iron-oxidizing bacterium, Acidithiobacillus ferrooxidans. Biosci Biotechnol Biochem 71:2735–2742. doi: 10.1271/bbb.70332",
+        "journal-title": "Biosci Biotechnol Biochem"
+      },
+      {
+        "issue": "6",
+        "key": "5830_CR51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1826",
+        "DOI": "10.1128/AEM.07230-11",
+        "volume": "78",
+        "author": "H Wang",
+        "year": "2012",
+        "unstructured": "Wang H, Liu X, Liu S, Yu Y, Lin J, Lin J, Pang X, Zhao J (2012) Development of a markerless gene replacement system for Acidithiobacillus ferrooxidans and construction of a pfkB mutant. Appl Environ Microbiol 78(6):1826–1835. doi: 10.1128/AEM.07230-11",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "issue": "13",
+        "key": "5830_CR52",
+        "doi-asserted-by": "crossref",
+        "first-page": "1608",
+        "DOI": "10.1093/bioinformatics/btq249",
+        "volume": "26",
+        "author": "NY Yu",
+        "year": "2010",
+        "unstructured": "Yu NY, Wagner JR, Laird MR, Melli G, Rey S, Lo R, Dao P, Sahinalp SC, Ester M, Foster LJ, Brinkman FSL (2010) PSORTb 3.0: improved protein subcellular localization prediction with refined localization subcategories and predictive capabilities for all prokaryotes. Bioinformatics 26(13):1608–1615. doi: 10.1093/bioinformatics/btq249",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "issue": "12",
+        "key": "5830_CR53",
+        "doi-asserted-by": "crossref",
+        "first-page": "e81885",
+        "DOI": "10.1371/journal.pone.0081885",
+        "volume": "8",
+        "author": "L Zhang",
+        "year": "2013",
+        "unstructured": "Zhang L, Liu X, Liu J, Zhang Z (2013) Characteristics and function of sulfur dioxygenase in echiuran worm Urechis unicinctus. PLoS One 8(12):e81885. doi: 10.1371/journal.pone.0081885",
+        "journal-title": "PLoS One"
+      }
+    ],
+    "container-title": [
+      "Applied Microbiology and Biotechnology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00253-014-5830-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s00253-014-5830-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00253-014-5830-4",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2024-05-27T07:47:43Z",
+      "timestamp": 1716796063000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s00253-014-5830-4"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          4
+        ]
+      ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+      "issue": "17",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "5830"
+    ],
+    "URL": "https://doi.org/10.1007/s00253-014-5830-4",
+    "relation": {},
+    "ISSN": [
+      "0175-7598",
+      "1432-0614"
+    ],
+    "issn-type": [
+      {
+        "value": "0175-7598",
+        "type": "print"
+      },
+      {
+        "value": "1432-0614",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          4
+        ]
+      ]
+    }
+  },
+  "10.1016/j.jbiotec.2007.08.030": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ],
+      "date-time": "2026-06-24T23:56:45Z",
+      "timestamp": 1782345405052,
+      "version": "3.54.5"
+    },
+    "reference-count": 31,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2007-10-01T00:00:00Z",
+          "timestamp": 1191196800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Biotechnology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jbiotec.2007.08.030",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2007-08-22T11:13:20Z",
+      "timestamp": 1187781200000
+    },
+    "page": "16-22",
+    "source": "Crossref",
+    "is-referenced-by-count": 67,
+    "title": [
+      "Identification of a gene encoding a tetrathionate hydrolase in Acidithiobacillus ferrooxidans"
+    ],
+    "prefix": "10.1016",
+    "volume": "132",
+    "author": [
+      {
+        "given": "Tadayoshi",
+        "family": "Kanao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kazuo",
+        "family": "Kamimura",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tsuyoshi",
+        "family": "Sugio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "4781",
+        "DOI": "10.1128/AEM.65.11.4781-4787.1999",
+        "article-title": "Characterization of an operon encoding two c-type cytochromes, an aa3-type cytochrome oxidase, and rusticyanin in Thiobacillus ferrooxidans ATCC 33020",
+        "volume": "65",
+        "author": "Appia-Ayme",
+        "year": "1999",
+        "journal-title": "Appl. Env. Microbiol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1111/j.1574-6976.1993.tb00261.x",
+        "article-title": "Enzymes of aerobic respiration on iron",
+        "volume": "11",
+        "author": "Blake",
+        "year": "1993",
+        "journal-title": "FEMS Microbiol. Rev."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "114",
+        "DOI": "10.1016/j.bbabio.2004.02.008",
+        "article-title": "Apparent redundancy of electron transfer pathways via bc1 complexes and terminal oxidases in the extremophilic chemolithoautotrophic Acidithiobacillus ferrooxidans",
+        "volume": "1656",
+        "author": "Brasseur",
+        "year": "2004",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "272",
+        "DOI": "10.1046/j.1432-1033.2003.03926.x",
+        "article-title": "Localization, purification and properties of a tetrathionate hydrolase from Acidithiobacillus caldus",
+        "volume": "271",
+        "author": "Bugaytsova",
+        "year": "2004",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/S0168-1656(99)00097-8",
+        "article-title": "A novel gene encoding a sulfur-regulated outer membrane protein in Thiobacillus ferrooxidans",
+        "volume": "72",
+        "author": "Buonfiglio",
+        "year": "1999",
+        "journal-title": "J. Biotechnol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "678",
+        "DOI": "10.1111/j.1432-1033.1997.00678.x",
+        "article-title": "Isolation of the tetrathionate hydrolase from Thiobacillus acidophilus",
+        "volume": "243",
+        "author": "de Jong",
+        "year": "1997",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1099/00221287-143-2-499",
+        "article-title": "Polythionate degradation by tetrathionate hydrolase of Thiobacillus ferrooxidans",
+        "volume": "143",
+        "author": "de Jong",
+        "year": "1997",
+        "journal-title": "Microbiology"
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "7205",
+        "DOI": "10.1021/bi992846p",
+        "article-title": "Characterization of a new dihemic c4-type cytochrome isolated from Thiobacillus ferrooxidans",
+        "volume": "39",
+        "author": "Giudici-Orticoni",
+        "year": "2000",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "424",
+        "DOI": "10.1139/w01-024",
+        "article-title": "Sulfite oxidation by iron-grown cells of Thiobacillus ferrooxidans at pH 3 possibly involves free radicals, iron, and cytochrome oxidase",
+        "volume": "47",
+        "author": "Harahuc",
+        "year": "2001",
+        "journal-title": "Can. J. Microbiol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1016/j.jbiotec.2005.01.014",
+        "article-title": "Use of immobilized cytochrome c as a ligand for affinity chromatography of thiosulfate dehydrogenase from Acidithiobacillus ferrooxidans",
+        "volume": "117",
+        "author": "Janiczek",
+        "year": "2005",
+        "journal-title": "J. Biotechnol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1080/10826060701199015",
+        "article-title": "Purification and some properties of thiosulfate dehydrogenase from Acidithiobacillus ferrooxidans",
+        "volume": "37",
+        "author": "Janiczek",
+        "year": "2007",
+        "journal-title": "Prep. Biochem. Biotechnol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "898",
+        "DOI": "10.1021/ac60276a029",
+        "article-title": "Cyanolysis and spectrophotometric estimation of trithionate in mixture with thiosulfate and tetrathionate",
+        "volume": "41",
+        "author": "Kelly",
+        "year": "1969",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1023/A:1000135707181",
+        "article-title": "Oxidative metabolism of inorganic sulfur compounds by bacteria",
+        "volume": "71",
+        "author": "Kelly",
+        "year": "1997",
+        "journal-title": "Antonie Van Leeuwenhoek"
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1007/BF00245285",
+        "article-title": "Oxidation of reduced sulfur compounds by intact cells of Thiobacillus acidophillus",
+        "volume": "157",
+        "author": "Meulenberg",
+        "year": "1992",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/S0021-9673(00)00221-1",
+        "article-title": "Determination of thiosulfate, thiocyanate and polythionates in a mixture by ion-pair chromatography with ultraviolet absorbance detection",
+        "volume": "884",
+        "author": "Miura",
+        "year": "2000",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1147",
+        "DOI": "10.1111/j.1365-2958.2004.04193.x",
+        "article-title": "Coupling of the pathway of sulphur oxidation to dioxygen reduction: characterization of a novel membrane-bound thiosulphate:quinone oxidoreductase",
+        "volume": "53",
+        "author": "Müller",
+        "year": "2004",
+        "journal-title": "Mol. Microbiol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1080/00032717508058238",
+        "article-title": "Colorimetric determination of microgram quantities of thiosulfate and tetrathionate",
+        "volume": "8",
+        "author": "Nor",
+        "year": "1975",
+        "journal-title": "Anal. Lett."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1837",
+        "DOI": "10.1128/AEM.68.4.1837-1845.2002",
+        "article-title": "An exported rhodanese-like protein is induced during growth of Acidithiobacillus ferrooxidans in metal sulfides and different sulfur compounds",
+        "volume": "68",
+        "author": "Ramírez",
+        "year": "2002",
+        "journal-title": "Appl. Env. Microbiol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "4491",
+        "DOI": "10.1128/AEM.70.8.4491-4498.2004",
+        "article-title": "Differential protein expression during growth of Acidithiobacillus ferrooxidans on ferrous iron, sulfur compounds, or metal sulfides",
+        "volume": "70",
+        "author": "Ramírez",
+        "year": "2004",
+        "journal-title": "Appl. Env. Microbiol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1146/annurev.micro.56.012302.161052",
+        "article-title": "Heavy metal mining using microbes",
+        "volume": "56",
+        "author": "Rawlings",
+        "year": "2002",
+        "journal-title": "Annu. Rev. Microbiol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1186/1475-2859-4-13",
+        "article-title": "Characteristics and adaptability of iron- and sulfur-oxidizing microorganisms used for the recovery of metals from minerals and their concentrates",
+        "volume": "4",
+        "author": "Rawlings",
+        "year": "2005",
+        "journal-title": "Microb. Cell Fact."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1699",
+        "DOI": "10.1099/mic.0.26212-0",
+        "article-title": "The sulfane sulfur of persulfides is the actual substrate of the sulfur-oxidizing enzymes from Acidithiobacillus and Acidiphilium spp.",
+        "volume": "149",
+        "author": "Rohwerder",
+        "year": "2003",
+        "journal-title": "Microbiology"
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1007/s00253-003-1448-7",
+        "article-title": "Bioleaching review part A: progress in bioleaching: fundamentals and mechanisms of bacterial metal sulfide oxidation",
+        "volume": "63",
+        "author": "Rohwerder",
+        "year": "2003",
+        "journal-title": "Appl. Microbiol. Biotechnol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "4916",
+        "DOI": "10.1128/jb.169.11.4916-4922.1987",
+        "article-title": "Purification and some properties of sulfur:ferric ion oxidoreductase from Thiobacillus ferrooxidans",
+        "volume": "169",
+        "author": "Sugio",
+        "year": "1987",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "4189",
+        "DOI": "10.1128/jb.174.12.4189-4192.1992",
+        "article-title": "Purification and some properties of sulfite:ferric ion oxidoreductase from Thiobacillus ferrooxidans",
+        "volume": "174",
+        "author": "Sugio",
+        "year": "1992",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1016/0922-338X(96)88813-1",
+        "article-title": "Isolation and identification of an iron-oxidizing bacterium which can grow on tetrathionate medium and the properties of a tetrathionate-decomposing enzyme isolated from the bacterium",
+        "volume": "82",
+        "author": "Sugio",
+        "year": "1996",
+        "journal-title": "J. Ferment. Bioeng."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "224",
+        "DOI": "10.1271/bbb.60.224",
+        "article-title": "Purification and some properties of tetrathionate decomposing enzyme from Thiobacillus thiooxidans",
+        "volume": "60",
+        "author": "Tano",
+        "year": "1996",
+        "journal-title": "Biosci. Biotechnol. Biochem."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "2519",
+        "DOI": "10.1271/bbb.68.2519",
+        "article-title": "Involvement of sulfide:quinone oxidoreductase in sulfur oxidation of an acidophilic iron-oxidizing bacterium, Acidithiobacillus ferrooxidans NASF-1",
+        "volume": "68",
+        "author": "Wakai",
+        "year": "2004",
+        "journal-title": "Biosci. Biotechnol. Biochem."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/S0378-1097(02)00514-1",
+        "article-title": "Cytochromes c of Acidithiobacillus ferrooxidans",
+        "volume": "209",
+        "author": "Yarzábal",
+        "year": "2002",
+        "journal-title": "FEMS Microbiol. Lett."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "313",
+        "DOI": "10.1128/JB.184.1.313-317.2002",
+        "article-title": "The high-molecular-weight cytochrome c Cyc2 of Acidithiobacillus ferrooxidans is an outer membrane protein",
+        "volume": "184",
+        "author": "Yarzábal",
+        "year": "2002",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1016/j.jbiotec.2007.08.030_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "2113",
+        "DOI": "10.1099/mic.0.26966-0",
+        "article-title": "Regulation of the expression of the Acidithiobacillus ferrooxidans rus operon encoding two cytochromes c, a cytochrome oxidase and rusticyanin",
+        "volume": "150",
+        "author": "Yarzábal",
+        "year": "2004",
+        "journal-title": "Microbiology"
+      }
+    ],
+    "container-title": [
+      "Journal of Biotechnology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0168165607014964?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0168165607014964?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2020-04-26T01:36:51Z",
+      "timestamp": 1587865011000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0168165607014964"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          10
+        ]
+      ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0168165607014964"
+    ],
+    "URL": "https://doi.org/10.1016/j.jbiotec.2007.08.030",
+    "relation": {},
+    "ISSN": [
+      "0168-1656"
+    ],
+    "issn-type": [
+      {
+        "value": "0168-1656",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          10
+        ]
+      ]
+    }
+  },
+  "10.1021/bi00136a016": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          19
+        ]
+      ],
+      "date-time": "2026-05-19T17:06:26Z",
+      "timestamp": 1779210386614,
+      "version": "3.51.4"
+    },
+    "reference-count": 0,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "21",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Biochemistry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1992,
+          6,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1021/bi00136a016",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2005-03-16T19:39:40Z",
+      "timestamp": 1111001980000
+    },
+    "page": "5022-5032",
+    "source": "Crossref",
+    "is-referenced-by-count": 63,
+    "title": [
+      "Purification and characterization of the purE, purK, and purC gene products: identification of a previously unrecognized energy requirement in the purine biosynthetic pathway"
+    ],
+    "prefix": "10.1021",
+    "volume": "31",
+    "author": [
+      {
+        "given": "E.",
+        "family": "Meyer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "N. J.",
+        "family": "Leonard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Bhat",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Stubbe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. M.",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "316",
+    "published-online": {
+      "date-parts": [
+        [
+          2002,
+          5,
+          1
+        ]
+      ]
+    },
+    "container-title": [
+      "Biochemistry"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://pubs.acs.org/doi/pdf/10.1021/bi00136a016",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          8
+        ]
+      ],
+      "date-time": "2023-03-08T13:03:19Z",
+      "timestamp": 1678280599000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.acs.org/doi/abs/10.1021/bi00136a016"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1992,
+          6,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "21",
+      "published-print": {
+        "date-parts": [
+          [
+            1992,
+            6,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1021/bi00136a016"
+    ],
+    "URL": "https://doi.org/10.1021/bi00136a016",
+    "relation": {},
+    "ISSN": [
+      "0006-2960",
+      "1520-4995"
+    ],
+    "issn-type": [
+      {
+        "value": "0006-2960",
+        "type": "print"
+      },
+      {
+        "value": "1520-4995",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1992,
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  "10.1074/jbc.M113.480368": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          21
+        ]
+      ],
+      "date-time": "2026-09-21T11:47:30Z",
+      "timestamp": 1789991250728,
+      "version": "4.0.1"
+    },
+    "reference-count": 31,
+    "publisher": "Elsevier BV",
+    "issue": "27",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2013-07-01T00:00:00Z",
+          "timestamp": 1372636800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2020-09-07T00:00:00Z",
+          "timestamp": 1599436800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 2625,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "jbc.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Biological Chemistry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1074/jbc.m113.480368",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          25
+        ]
+      ],
+      "date-time": "2013-05-25T05:08:09Z",
+      "timestamp": 1369458489000
+    },
+    "page": "20085-20092",
+    "update-policy": "https://doi.org/10.1074/jbc.f110.005975",
+    "source": "Crossref",
+    "is-referenced-by-count": 55,
+    "title": [
+      "ubiI, a New Gene in Escherichia coli Coenzyme Q Biosynthesis, Is Involved in Aerobic C5-hydroxylation"
+    ],
+    "prefix": "10.1016",
+    "volume": "288",
+    "author": [
+      {
+        "given": "Mahmoud",
+        "family": "Hajj Chehade",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laurent",
+        "family": "Loiseau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Murielle",
+        "family": "Lombard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ludovic",
+        "family": "Pecqueur",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexandre",
+        "family": "Ismail",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Myriam",
+        "family": "Smadja",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Béatrice",
+        "family": "Golinelli-Pimpaneau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Caroline",
+        "family": "Mellot-Draznieks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olivier",
+        "family": "Hamelin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laurent",
+        "family": "Aussel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sylvie",
+        "family": "Kieffer-Jaquinod",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Natty",
+        "family": "Labessan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frédéric",
+        "family": "Barras",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marc",
+        "family": "Fontecave",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fabien",
+        "family": "Pierrel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1074/jbc.M113.480368_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1587",
+        "DOI": "10.1016/j.bbabio.2010.06.007",
+        "article-title": "Occurrence, biosynthesis and function of isoprenoid quinones",
+        "volume": "1797",
+        "author": "Nowicka",
+        "year": "2010",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "74",
+        "DOI": "10.1016/j.bbrc.2010.02.147",
+        "article-title": "Coenzyme Q: biosynthesis and functions",
+        "volume": "396",
+        "author": "Bentinger",
+        "year": "2010",
+        "journal-title": "Biochem. Biophys. Res. Commun"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "S62",
+        "DOI": "10.1016/j.mito.2007.03.007",
+        "article-title": "Endogenous synthesis of coenzyme Q in eukaryotes",
+        "volume": "7",
+        "author": "Tran",
+        "year": "2007",
+        "journal-title": "Mitochondrion"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1111/j.1574-6968.2001.tb10831.x",
+        "article-title": "Ubiquinone biosynthesis in microorganisms",
+        "volume": "203",
+        "author": "Meganathan",
+        "year": "2001",
+        "journal-title": "FEMS Microbiol. Lett"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "144",
+        "DOI": "10.1016/j.abb.2007.08.009",
+        "article-title": "The role of UbiX in Escherichia coli coenzyme Q biosynthesis",
+        "volume": "467",
+        "author": "Gulmezian",
+        "year": "2007",
+        "journal-title": "Arch. Biochem. Biophys"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "21665",
+        "DOI": "10.1074/jbc.274.31.21665",
+        "article-title": "Yeast and rat Coq3 and Escherichia coli UbiG polypeptides catalyze both O-methyltransferase steps in coenzyme Q biosynthesis",
+        "volume": "274",
+        "author": "Poon",
+        "year": "1999",
+        "journal-title": "J. Biol. Chem"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1748",
+        "DOI": "10.1128/jb.179.5.1748-1754.1997",
+        "article-title": "A C-methyltransferase involved in both ubiquinone and menaquinone biosynthesis: isolation and identification of the Escherichia coli ubiE gene",
+        "volume": "179",
+        "author": "Lee",
+        "year": "1997",
+        "journal-title": "J. Bacteriol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1111/j.1574-6968.2000.tb09097.x",
+        "article-title": "Ubiquinone (coenzyme Q) biosynthesis in Escherichia coli: identification of the ubiF gene",
+        "volume": "186",
+        "author": "Kwon",
+        "year": "2000",
+        "journal-title": "FEMS Microbiol. Lett"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "7352",
+        "DOI": "10.1128/jb.174.22.7352-7359.1992",
+        "article-title": "Isolation and characterization of a light-sensitive mutant of Escherichia coli K-12 with a mutation in a gene that is required for the biosynthesis of ubiquinone",
+        "volume": "174",
+        "author": "Nakahigashi",
+        "year": "1992",
+        "journal-title": "J. Bacteriol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "670",
+        "DOI": "10.1016/j.jbiotec.2006.03.044",
+        "article-title": "Flavoprotein monooxygenases, a diverse class of oxidative biocatalysts",
+        "volume": "124",
+        "author": "van Berkel",
+        "year": "2006",
+        "journal-title": "J. Biotechnol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "450",
+        "DOI": "10.1128/jb.99.2.450-458.1969",
+        "article-title": "Biosynthesis of ubiquinone in Escherichia coli K-12: location of genes affecting metabolism of 3-octaprenyl-4-hydroxybenzoic acid and 2-octaprenylphenol",
+        "volume": "99",
+        "author": "Cox",
+        "year": "1969",
+        "journal-title": "J. Bacteriol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "5139",
+        "DOI": "10.1128/JB.182.18.5139-5146.2000",
+        "article-title": "Identification of Escherichia coli ubiB, a gene required for the first monooxygenase step in ubiquinone biosynthesis",
+        "volume": "182",
+        "author": "Poon",
+        "year": "2000",
+        "journal-title": "J. Bacteriol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "9797",
+        "DOI": "10.1021/bi9602932",
+        "article-title": "Complementation of coq3 mutant yeast by mitochondrial targeting of the Escherichia coli UbiG polypeptide: evidence that UbiG catalyzes both O-methylation steps in ubiquinone biosynthesis",
+        "volume": "35",
+        "author": "Hsu",
+        "year": "1996",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "661",
+        "DOI": "10.1016/j.ajhg.2007.12.024",
+        "article-title": "ADCK3, an ancestral kinase, is mutated in a form of recessive ataxia associated with coenzyme Q10 deficiency",
+        "volume": "82",
+        "author": "Lagier-Tourenne",
+        "year": "2008",
+        "journal-title": "Am. J. Hum. Genet"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1016/j.abb.2004.09.029",
+        "article-title": "Protein dynamics and electrostatics in the function of p-hydroxybenzoate hydroxylase",
+        "volume": "433",
+        "author": "Entsch",
+        "year": "2005",
+        "journal-title": "Arch. Biochem. Biophys"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib16",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/msb4100050",
+        "article-title": "Construction of Escherichia coli K-12 in-frame, single-gene knockout mutants: the Keio collection",
+        "volume": "2",
+        "author": "Baba",
+        "year": "2006",
+        "journal-title": "Mol. Syst. Biol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1134",
+        "DOI": "10.1016/j.chembiol.2011.07.008",
+        "article-title": "Coenzyme Q biosynthesis: Coq6 Is required for the C5-hydroxylation reaction and substrate analogs rescue Coq6 deficiency",
+        "volume": "18",
+        "author": "Ozeir",
+        "year": "2011",
+        "journal-title": "Chem. Biol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1006/jmbi.1993.1012",
+        "article-title": "Atomic structures of the human immunophilin FKBP-12 complexes with FK506 and rapamycin",
+        "volume": "229",
+        "author": "Van Duyne",
+        "year": "1993",
+        "journal-title": "J. Mol. Biol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1002/jcc.21334",
+        "article-title": "AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading",
+        "volume": "31",
+        "author": "Trott",
+        "year": "2010",
+        "journal-title": "J. Comput. Chem"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "449",
+        "DOI": "10.1016/j.chembiol.2010.03.014",
+        "article-title": "Involvement of mitochondrial ferredoxin and para-aminobenzoic acid in yeast coenzyme Q biosynthesis",
+        "volume": "17",
+        "author": "Pierrel",
+        "year": "2010",
+        "journal-title": "Chem. Biol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "272",
+        "DOI": "10.1016/S0014-5793(97)00143-9",
+        "article-title": "Aeration-dependent changes in composition of the quinone pool in Escherichia coli: evidence of post-transcriptional regulation of the quinone biosynthesis",
+        "volume": "404",
+        "author": "Shestopalov",
+        "year": "1997",
+        "journal-title": "FEBS Lett"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "4750",
+        "DOI": "10.1021/bi00615a024",
+        "article-title": "Alternative hydroxylases for the aerobic and anaerobic biosynthesis of ubiquinone in Escherichia coli",
+        "volume": "17",
+        "author": "Alexander",
+        "year": "1978",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "23571",
+        "DOI": "10.1074/jbc.M112.360354",
+        "article-title": "Overexpression of the Coq8 kinase in Saccharomyces cerevisiae coq-null mutants allows for accumulation of diagnostic intermediates of the coenzyme Q6 biosynthetic pathway",
+        "volume": "287",
+        "author": "Xie",
+        "year": "2012",
+        "journal-title": "J. Biol. Chem"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "W545",
+        "DOI": "10.1093/nar/gkq366",
+        "article-title": "Dali server: conservation mapping in 3D",
+        "volume": "38",
+        "author": "Holm",
+        "year": "2010",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/0022-2836(89)90158-7",
+        "article-title": "Crystal structure of the p-hydroxybenzoate hydroxylase-substrate complex refined at 1.9 Å resolution: analysis of the enzyme-substrate and enzyme-product complexes",
+        "volume": "208",
+        "author": "Schreuder",
+        "year": "1989",
+        "journal-title": "J. Mol. Biol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "16246",
+        "DOI": "10.1074/jbc.M111.230532",
+        "article-title": "Conformational changes of NADPH-cytochrome P450 oxidoreductase are essential for catalysis and cofactor binding",
+        "volume": "286",
+        "author": "Xia",
+        "year": "2011",
+        "journal-title": "J. Biol. Chem"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1604",
+        "DOI": "10.1126/science.1280857",
+        "article-title": "Phthalate dioxygenase reductase: a modular structure for electron transfer from pyridine nucleotides to [2Fe-2S]",
+        "volume": "258",
+        "author": "Correll",
+        "year": "1992",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "887",
+        "DOI": "10.1128/JB.00730-10",
+        "article-title": "FAD binding by ApbE protein from Salmonella enterica: a new class of FAD-binding proteins",
+        "volume": "193",
+        "author": "Boyd",
+        "year": "2011",
+        "journal-title": "J. Bacteriol"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1545",
+        "DOI": "10.1021/bi00172a035",
+        "article-title": "Changes in the catalytic properties of p-hydroxybenzoate hydroxylase caused by the mutation Asn300Asp",
+        "volume": "33",
+        "author": "Palfey",
+        "year": "1994",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "348",
+        "DOI": "10.1016/j.bbalip.2011.01.009",
+        "article-title": "Expression of the human atypical kinase ADCK3 rescues coenzyme Q biosynthesis and phosphorylation of Coq polypeptides in yeast coq8 mutants",
+        "volume": "1811",
+        "author": "Xie",
+        "year": "2011",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "10.1074/jbc.M113.480368_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "4745",
+        "DOI": "10.1021/bi00615a023",
+        "article-title": "Three hydroxylations incorporating molecular oxygen in the aerobic biosynthesis of ubiquinone in Escherichia coli",
+        "volume": "17",
+        "author": "Alexander",
+        "year": "1978",
+        "journal-title": "Biochemistry"
+      }
+    ],
+    "container-title": [
+      "Journal of Biological Chemistry"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0021925820457163?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0021925820457163?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1074/jbc.M113.480368",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2024-05-11T05:19:33Z",
+      "timestamp": 1715404773000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0021925820457163"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          7
+        ]
+      ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+      "issue": "27",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0021925820457163"
+    ],
+    "URL": "https://doi.org/10.1074/jbc.m113.480368",
+    "relation": {},
+    "ISSN": [
+      "0021-9258"
+    ],
+    "issn-type": [
+      {
+        "value": "0021-9258",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          7
+        ]
+      ]
+    }
+  },
+  "10.1074/jbc.M700374200": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ],
+      "date-time": "2026-09-20T03:24:53Z",
+      "timestamp": 1789874693667,
+      "version": "4.0.1"
+    },
+    "reference-count": 34,
+    "publisher": "Elsevier BV",
+    "issue": "15",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2007-04-01T00:00:00Z",
+          "timestamp": 1175385600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              21
+            ]
+          ],
+          "date-time": "2020-09-21T00:00:00Z",
+          "timestamp": 1600646400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 4922,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Biological Chemistry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1074/jbc.m700374200",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2007-02-18T01:05:40Z",
+      "timestamp": 1171760740000
+    },
+    "page": "11339-11346",
+    "source": "Crossref",
+    "is-referenced-by-count": 37,
+    "title": [
+      "Topology and Active Site of PlsY"
+    ],
+    "prefix": "10.1016",
+    "volume": "282",
+    "author": [
+      {
+        "given": "Ying-Jie",
+        "family": "Lu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kimberly D.",
+        "family": "Grimes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard E.",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charles O.",
+        "family": "Rock",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1074/jbc.M700374200_bib1",
+        "series-title": "Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology",
+        "first-page": "612",
+        "author": "Cronan",
+        "year": "1996"
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1146/annurev.micro.57.030502.090851",
+        "volume": "57",
+        "author": "Cronan",
+        "year": "2003",
+        "journal-title": "Annu. Rev. Microbiol."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "9413",
+        "DOI": "10.1016/S0021-9258(19)70578-X",
+        "volume": "255",
+        "author": "Lightner",
+        "year": "1980",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "11151",
+        "DOI": "10.1016/S0021-9258(19)68570-4",
+        "volume": "256",
+        "author": "Green",
+        "year": "1981",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "765",
+        "DOI": "10.1016/j.molcel.2006.06.030",
+        "volume": "23",
+        "author": "Lu",
+        "year": "2006",
+        "journal-title": "Mol. Cell"
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1065",
+        "DOI": "10.1128/jb.117.3.1065-1076.1974",
+        "volume": "117",
+        "author": "Bell",
+        "year": "1974",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "7147",
+        "DOI": "10.1016/S0021-9258(19)40921-6",
+        "volume": "250",
+        "author": "Bell",
+        "year": "1975",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1944",
+        "DOI": "10.1128/JB.181.6.1944-1946.1999",
+        "volume": "181",
+        "author": "Heath",
+        "year": "1999",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "736",
+        "DOI": "10.1016/S0021-9258(19)70037-4",
+        "volume": "256",
+        "author": "Rock",
+        "year": "1981",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "26584",
+        "DOI": "10.1016/S0021-9258(18)47234-1",
+        "volume": "269",
+        "author": "Heath",
+        "year": "1994",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "10856",
+        "DOI": "10.1016/S0021-9258(17)44354-7",
+        "volume": "258",
+        "author": "Lightner",
+        "year": "1983",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "14688",
+        "DOI": "10.1016/S0021-9258(17)42657-3",
+        "volume": "259",
+        "author": "Green",
+        "year": "1984",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "12455",
+        "DOI": "10.1016/S0021-9258(18)63880-3",
+        "volume": "264",
+        "author": "Scheideler",
+        "year": "1989",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "14321",
+        "DOI": "10.1016/S0021-9258(18)98687-4",
+        "volume": "266",
+        "author": "Scheideler",
+        "year": "1991",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "415",
+        "DOI": "10.1016/S1388-1981(99)00103-1",
+        "volume": "1439",
+        "author": "Ganesh",
+        "year": "1999",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "8204",
+        "DOI": "10.1128/MCB.22.23.8204-8214.2002",
+        "volume": "22",
+        "author": "Hammond",
+        "year": "2002",
+        "journal-title": "Mol. Cell. Biol."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "43182",
+        "DOI": "10.1074/jbc.M107885200",
+        "volume": "276",
+        "author": "Gonzalez-Baro",
+        "year": "2001",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "5764",
+        "DOI": "10.1021/bi982805d",
+        "volume": "38",
+        "author": "Lewin",
+        "year": "1999",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/j.abb.2006.03.009",
+        "volume": "450",
+        "author": "Pellon-Maison",
+        "year": "2006",
+        "journal-title": "Arch. Biochem. Biophys."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "248",
+        "DOI": "10.1016/0003-2697(76)90527-3",
+        "volume": "72",
+        "author": "Bradford",
+        "year": "1976",
+        "journal-title": "Anal. Biochem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1425",
+        "DOI": "10.1128/JB.180.6.1425-1430.1998",
+        "volume": "180",
+        "author": "Heath",
+        "year": "1998",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1074/jbc.M508825200",
+        "volume": "281",
+        "author": "Zhang",
+        "year": "2006",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "5255",
+        "DOI": "10.1093/emboj/17.18.5255",
+        "volume": "17",
+        "author": "Bogdanov",
+        "year": "1998",
+        "journal-title": "EMBO J."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.ymeth.2004.11.002",
+        "volume": "36",
+        "author": "Bogdanov",
+        "year": "2005",
+        "journal-title": "Methods (San Diego)"
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/0022-2836(82)90515-0",
+        "volume": "157",
+        "author": "Kyte",
+        "year": "1982",
+        "journal-title": "J. Mol. Biol."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "378",
+        "DOI": "10.1093/bioinformatics/14.4.378",
+        "volume": "14",
+        "author": "Hirokawa",
+        "year": "1998",
+        "journal-title": "Bioinformatics (Oxf.)"
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1006/jmbi.2000.4315",
+        "volume": "305",
+        "author": "Krogh",
+        "year": "2001",
+        "journal-title": "J. Mol. Biol."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "17353",
+        "DOI": "10.1074/jbc.274.24.17353",
+        "volume": "274",
+        "author": "Wada",
+        "year": "1999",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "430",
+        "DOI": "10.1016/0968-0004(90)90281-F",
+        "volume": "15",
+        "author": "Saraste",
+        "year": "1990",
+        "journal-title": "Trends Biochem. Sci."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1426",
+        "DOI": "10.1093/nar/gkg229",
+        "volume": "31",
+        "author": "Scholz",
+        "year": "2003",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1007/BF00232886",
+        "volume": "26",
+        "author": "Riordan",
+        "year": "1979",
+        "journal-title": "Mol. Cell. Biochem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "7066",
+        "DOI": "10.1074/jbc.M105568200",
+        "volume": "277",
+        "author": "Soti",
+        "year": "2002",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "663",
+        "DOI": "10.1016/S1534-5807(03)00123-0",
+        "volume": "4",
+        "author": "Schujman",
+        "year": "2003",
+        "journal-title": "Dev. Cell"
+      },
+      {
+        "key": "10.1074/jbc.M700374200_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.1111/j.1365-2958.2005.04951.x",
+        "volume": "59",
+        "author": "Lu",
+        "year": "2006",
+        "journal-title": "Mol. Microbiol."
+      }
+    ],
+    "container-title": [
+      "Journal of Biological Chemistry"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S002192582076713X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S002192582076713X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1074/jbc.M700374200",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2021-12-18T16:04:51Z",
+      "timestamp": 1639843491000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S002192582076713X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          4
+        ]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "15",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S002192582076713X"
+    ],
+    "URL": "https://doi.org/10.1074/jbc.m700374200",
+    "relation": {},
+    "ISSN": [
+      "0021-9258"
+    ],
+    "issn-type": [
+      {
+        "value": "0021-9258",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          4
+        ]
+      ]
+    }
+  },
+  "10.1128/AEM.02251-12": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ],
+      "date-time": "2026-06-24T23:57:00Z",
+      "timestamp": 1782345420426,
+      "version": "3.54.5"
+    },
+    "reference-count": 49,
+    "publisher": "American Society for Microbiology",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.asm.org/non-commercial-tdm-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.asm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Appl Environ Microbiol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n          <jats:p>\n            Thiosulfate dehydrogenase is known to play a significant role in thiosulfate oxidation in the acidophilic, obligately chemolithoautotroph,\n            <jats:named-content content-type=\"genus-species\">Acidithiobacillus ferrooxidans</jats:named-content>\n            . Enzyme activity measured using ferricyanide as the electron acceptor was detected in cell extracts of\n            <jats:named-content content-type=\"genus-species\">A. ferrooxidans</jats:named-content>\n            ATCC 23270 grown on tetrathionate or sulfur, but no activity was detected in ferrous iron-grown cells. The enzyme was enriched 63-fold from cell extracts of tetrathionate-grown cells. Maximum enzyme activity (13.8 U mg\n            <jats:sup>−1</jats:sup>\n            ) was observed at pH 2.5 and 70°C. The end product of the enzyme reaction was tetrathionate. The enzyme reduced neither ubiquinone nor horse heart cytochrome\n            <jats:italic>c</jats:italic>\n            , which serves as an electron acceptor. A major protein with a molecular mass of ∼25 kDa was detected in the partially purified preparation. Heme was not detected in the preparation, according to the results of spectroscopic analysis and heme staining. The open reading frame of AFE_0042 was identified by BLAST by using the N-terminal amino acid sequence of the protein. The gene was found within a region that was previously noted for sulfur metabolism-related gene clustering. The recombinant protein produced in\n            <jats:named-content content-type=\"genus-species\">Escherichia coli</jats:named-content>\n            had a molecular mass of ∼25 kDa and showed thiosulfate dehydrogenase activity, with maximum enzyme activity (6.5 U mg\n            <jats:sup>−1</jats:sup>\n            ) observed at pH 2.5 and 50°C.\n          </jats:p>",
+    "DOI": "10.1128/aem.02251-12",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2012-10-13T02:03:21Z",
+      "timestamp": 1350093801000
+    },
+    "page": "113-120",
+    "update-policy": "https://doi.org/10.1128/asmj-crossmark-policy-page",
+    "source": "Crossref",
+    "is-referenced-by-count": 33,
+    "title": [
+      "Tetrathionate-Forming Thiosulfate Dehydrogenase from the Acidophilic, Chemolithoautotrophic Bacterium Acidithiobacillus ferrooxidans"
+    ],
+    "prefix": "10.1128",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Mei",
+        "family": "Kikumoto",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Agricultural and Life Science, Graduate School of Environmental and Life Science, Okayama University, Okayama, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shohei",
+        "family": "Nogami",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Agricultural and Life Science, Graduate School of Environmental and Life Science, Okayama University, Okayama, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tadayoshi",
+        "family": "Kanao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Agricultural and Life Science, Graduate School of Environmental and Life Science, Okayama University, Okayama, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Takada",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemical and Biological Technology, Graduate School of Natural Science and Technology, Okayama University, Okayama, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kazuo",
+        "family": "Kamimura",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Agricultural and Life Science, Graduate School of Environmental and Life Science, Okayama University, Okayama, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "235",
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1475-2859-4-13"
+      },
+      {
+        "key": "e_1_3_3_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biotechadv.2005.09.004"
+      },
+      {
+        "key": "e_1_3_3_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.111/j.1462-2920.2011.02626.x"
+      },
+      {
+        "key": "e_1_3_3_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbabio.2004.02.008"
+      },
+      {
+        "key": "e_1_3_3_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2164-10-394"
+      },
+      {
+        "key": "e_1_3_3_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2164-9-597"
+      },
+      {
+        "key": "e_1_3_3_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10826060701199015"
+      },
+      {
+        "key": "e_1_3_3_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1139/o68-069"
+      },
+      {
+        "key": "e_1_3_3_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1000135707181"
+      },
+      {
+        "key": "e_1_3_3_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/mic.0.26212-0"
+      },
+      {
+        "key": "e_1_3_3_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jb.169.11.4916-4922.1987"
+      },
+      {
+        "key": "e_1_3_3_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jb.174.12.4189-4192.1992"
+      },
+      {
+        "key": "e_1_3_3_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/omi.2005.9.13"
+      },
+      {
+        "key": "e_1_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.68.4.1837-1845.2002"
+      },
+      {
+        "key": "e_1_3_3_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.70.8.4491-4498.2004"
+      },
+      {
+        "key": "e_1_3_3_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1271/bbb.68.2519"
+      },
+      {
+        "key": "e_1_3_3_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1271/bbb.70332"
+      },
+      {
+        "key": "e_1_3_3_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbiotec.2007.08.030"
+      },
+      {
+        "key": "e_1_3_3_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1271/bbb.65.63"
+      },
+      {
+        "key": "e_1_3_3_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00253-003-1448-7"
+      },
+      {
+        "key": "e_1_3_3_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mib.2005.04.005"
+      },
+      {
+        "key": "e_1_3_3_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1574-6976.2009.00187.x"
+      },
+      {
+        "key": "e_1_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1462-2920.2007.01407.x"
+      },
+      {
+        "key": "e_1_3_3_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2011.00017"
+      },
+      {
+        "key": "e_1_3_3_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JB.00843-09"
+      },
+      {
+        "key": "e_1_3_3_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JB.06281-11"
+      },
+      {
+        "key": "e_1_3_3_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JB.188.4.1473-1488.2006"
+      },
+      {
+        "key": "e_1_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JB.05373-11"
+      },
+      {
+        "key": "e_1_3_3_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s002030000241"
+      },
+      {
+        "key": "e_1_3_3_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resmic.2006.12.013"
+      },
+      {
+        "key": "e_1_3_3_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jb.178.1.6-11.1996"
+      },
+      {
+        "key": "e_1_3_3_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1574-6968.1993.tb06443.x"
+      },
+      {
+        "key": "e_1_3_3_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1574-6968.1990.tb04103.x"
+      },
+      {
+        "key": "e_1_3_3_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2011.00116"
+      },
+      {
+        "key": "e_1_3_3_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2958.2006.05408.x"
+      },
+      {
+        "key": "e_1_3_3_37_2",
+        "first-page": "865",
+        "article-title": "Kinetic and energetic aspects of inorganic sulphur compound oxidation by Thiobacillus tepidarius",
+        "volume": "134",
+        "author": "Lu W",
+        "year": "1988",
+        "unstructured": "LuW KellyDP. 1988. Kinetic and energetic aspects of inorganic sulphur compound oxidation by Thiobacillus tepidarius. J. Gen. Microbiol. 134:865–876.",
+        "journal-title": "J. Gen. Microbiol."
+      },
+      {
+        "key": "e_1_3_3_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1271/bbb.65.102"
+      },
+      {
+        "key": "e_1_3_3_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s002030050398"
+      },
+      {
+        "key": "e_1_3_3_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1462-2920.2012.02820.x"
+      },
+      {
+        "key": "e_1_3_3_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2958.2004.04193.x"
+      },
+      {
+        "key": "e_1_3_3_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ac60276a029"
+      },
+      {
+        "key": "e_1_3_3_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0304-4173(82)90007-6"
+      },
+      {
+        "key": "e_1_3_3_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pmic.200500719"
+      },
+      {
+        "key": "e_1_3_3_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/mcp.M700042-MCP200"
+      },
+      {
+        "key": "e_1_3_3_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resmic.2011.02.007"
+      },
+      {
+        "key": "e_1_3_3_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/ijs.0.007120-0"
+      },
+      {
+        "key": "e_1_3_3_48_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1853",
+        "DOI": "10.1099/00207713-51-5-1853",
+        "article-title": "Hydrogenother musmarinus gen. nov., sp. nov., a novel thermophilic hydrogen-oxidizing bacterium, recognition of Calderobacterium hydrogenophilum as a member of the genus Hydrogenobacter and proposal of the reclassification of Hydrogenobacter acidophilus as Hydrogenobaculum acidophilus gen. nov., comb. nov., in the phylum “Hydrogenobacter/Aquifex.”",
+        "volume": "51",
+        "author": "Stöhr R",
+        "year": "2001",
+        "unstructured": "StöhrR WaberskiA VölkerH TindallBJ ThommM. 2001. Hydrogenother musmarinus gen. nov., sp. nov., a novel thermophilic hydrogen-oxidizing bacterium, recognition of Calderobacterium hydrogenophilum as a member of the genus Hydrogenobacter and proposal of the reclassification of Hydrogenobacter acidophilus as Hydrogenobaculum acidophilus gen. nov., comb. nov., in the phylum “Hydrogenobacter/Aquifex.” Int. J. Syst. Evol. Microbiol. 51:1853–1862.",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "e_1_3_3_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.02943-08"
+      },
+      {
+        "key": "e_1_3_3_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000142895"
+      }
+    ],
+    "container-title": [
+      "Applied and Environmental Microbiology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.asm.org/doi/pdf/10.1128/AEM.02251-12",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.asm.org/doi/pdf/10.1128/AEM.02251-12",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          23
+        ]
+      ],
+      "date-time": "2022-02-23T19:51:20Z",
+      "timestamp": 1645645880000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.asm.org/doi/10.1128/AEM.02251-12"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1128/AEM.02251-12"
+    ],
+    "URL": "https://doi.org/10.1128/aem.02251-12",
+    "relation": {},
+    "ISSN": [
+      "0099-2240",
+      "1098-5336"
+    ],
+    "issn-type": [
+      {
+        "value": "0099-2240",
+        "type": "print"
+      },
+      {
+        "value": "1098-5336",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2012-08-06",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2012-10-07",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2013-12-19",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  "10.1128/JB.01472-13": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2026-09-18T03:30:52Z",
+      "timestamp": 1789702252813,
+      "version": "4.0.1"
+    },
+    "reference-count": 44,
+    "publisher": "American Society for Microbiology",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              6,
+              15
+            ]
+          ],
+          "date-time": "2014-06-15T00:00:00Z",
+          "timestamp": 1402790400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.asm.org/non-commercial-tdm-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.asm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "J Bacteriol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          15
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n          <jats:p>\n            <jats:named-content xmlns:xlink=\"http://www.w3.org/1999/xlink\" content-type=\"genus-species\" xlink:type=\"simple\">Acidithiobacillus ferrooxidans</jats:named-content>\n            is a major participant in consortia of microorganisms used for bioleaching. It can obtain energy from the oxidation of Fe\n            <jats:sup>2+</jats:sup>\n            , H\n            <jats:sub>2</jats:sub>\n            , S\n            <jats:sup>0</jats:sup>\n            , and various reduced inorganic sulfur compounds (RISCs). Tetrathionate is a key intermediate during RISC oxidation, hydrolyzed by tetrathionate hydrolase (TetH), and used as sole energy source. In this study, a\n            <jats:italic>tetH</jats:italic>\n            knockout (Δ\n            <jats:italic>tetH</jats:italic>\n            ) mutant and a\n            <jats:italic>tetH</jats:italic>\n            overexpression strain were constructed and characterized. The\n            <jats:italic>tetH</jats:italic>\n            overexpression strain grew better on sulfur and tetrathionate and possessed a higher rate of tetrathionate utilization and TetH activity than the wild type. However, its cell yields on tetrathionate were much lower than those on sulfur. The Δ\n            <jats:italic>tetH</jats:italic>\n            mutant could not grow on tetrathionate but could proliferate on sulfur with a lower cell yield than the wild type's, which indicated that tetrathionate hydrolysis is mediated only by TetH, encoded by\n            <jats:italic>tetH</jats:italic>\n            . The Δ\n            <jats:italic>tetH</jats:italic>\n            mutant could survive in ferrous medium with an Fe\n            <jats:sup>2+</jats:sup>\n            oxidation rate similar to that of the wild type. For the\n            <jats:italic>tetH</jats:italic>\n            overexpression strain, the rate was relatively higher than that of the wild type. The reverse transcription-quantitative PCR (qRT-PCR) results showed that\n            <jats:italic>tetH</jats:italic>\n            and\n            <jats:italic>doxD2</jats:italic>\n            acted synergistically, and\n            <jats:italic>doxD2</jats:italic>\n            was considered important in thiosulfate metabolism. Of the two\n            <jats:italic>sqr</jats:italic>\n            genes, AFE_0267 seemed to play as important a role in sulfide oxidation as AFE_1792. This study not only provides a substantial basis for studying the function of the\n            <jats:italic>tetH</jats:italic>\n            gene but also may serve as a model to clarify other candidate genes involved in sulfur oxidation in this organism.\n          </jats:p>",
+    "DOI": "10.1128/jb.01472-13",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2014-04-12T02:36:55Z",
+      "timestamp": 1397270215000
+    },
+    "page": "2255-2264",
+    "update-policy": "https://doi.org/10.1128/asmj-crossmark-policy-page",
+    "source": "Crossref",
+    "is-referenced-by-count": 45,
+    "title": [
+      "Construction and Characterization of\n            <i>tetH</i>\n            Overexpression and Knockout Strains of Acidithiobacillus ferrooxidans"
+    ],
+    "prefix": "10.1128",
+    "volume": "196",
+    "author": [
+      {
+        "given": "Yangyang",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Microbial Technology, Shandong University, Jinan, People's Republic of China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiangmei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Microbial Technology, Shandong University, Jinan, People's Republic of China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Huiyan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Microbial Technology, Shandong University, Jinan, People's Republic of China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiuting",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Microbial Technology, Shandong University, Jinan, People's Republic of China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jianqun",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Microbial Technology, Shandong University, Jinan, People's Republic of China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "235",
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1462-2920.2011.02626.x"
+      },
+      {
+        "key": "e_1_3_3_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2011.05.001"
+      },
+      {
+        "key": "e_1_3_3_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/mic.0.2006/000067-0"
+      },
+      {
+        "key": "e_1_3_3_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.hydromet.2006.03.030"
+      },
+      {
+        "key": "e_1_3_3_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2164-10-394"
+      },
+      {
+        "key": "e_1_3_3_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2164-9-597"
+      },
+      {
+        "key": "e_1_3_3_8_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1007/BF00245285",
+        "article-title": "Oxidation of reduced sulfur compounds by intact cells of Thiobacillus acidophilus",
+        "volume": "157",
+        "author": "Meulenberg R",
+        "year": "1992",
+        "unstructured": "MeulenbergRPronkJTHazeuWBosPKuenenJG. 1992. Oxidation of reduced sulfur compounds by intact cells of Thiobacillus acidophilus. Arch. Microbiol. 157:161–168.",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "e_1_3_3_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/00221287-143-2-499"
+      },
+      {
+        "key": "e_1_3_3_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1432-1033.1997.00678.x"
+      },
+      {
+        "key": "e_1_3_3_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1432-1033.2003.03926.x"
+      },
+      {
+        "key": "e_1_3_3_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.01497-07"
+      },
+      {
+        "key": "e_1_3_3_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbiotec.2007.08.030"
+      },
+      {
+        "key": "e_1_3_3_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1574-6968.2010.02019.x"
+      },
+      {
+        "key": "e_1_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1271/bbb.90036"
+      },
+      {
+        "key": "e_1_3_3_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2011.00079"
+      },
+      {
+        "key": "e_1_3_3_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1107/S1744309113013419"
+      },
+      {
+        "key": "e_1_3_3_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.00087-09"
+      },
+      {
+        "key": "e_1_3_3_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cbi.2010.02.008"
+      },
+      {
+        "key": "e_1_3_3_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1475-2859-10-3"
+      },
+      {
+        "key": "e_1_3_3_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JB.182.8.2269-2276.2000"
+      },
+      {
+        "key": "e_1_3_3_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.01235-08"
+      },
+      {
+        "key": "e_1_3_3_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.07230-11"
+      },
+      {
+        "key": "e_1_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jb.77.5.642-647.1959"
+      },
+      {
+        "key": "e_1_3_3_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jb.176.10.2892-2897.1994"
+      },
+      {
+        "key": "e_1_3_3_26_2",
+        "volume-title": "Molecular cloning: a laboratory manual",
+        "author": "Sambrook J",
+        "year": "1989",
+        "unstructured": "SambrookJFritschEFManiatisT. 1989. Molecular cloning: a laboratory manual, 2nd ed. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_3_27_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1002/jctb.280440302",
+        "article-title": "A new spectrophotometric method for the determination of ferrous iron in the presence of ferric iron",
+        "volume": "44",
+        "author": "Herrera L",
+        "year": "1989",
+        "unstructured": "HerreraLRuizPAguillonJCFehrmannA. 1989. A new spectrophotometric method for the determination of ferrous iron in the presence of ferric iron. J. Chem. Technol. Biotechnol. 44:171–181.",
+        "journal-title": "J. Chem. Technol. Biotechnol."
+      },
+      {
+        "key": "e_1_3_3_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ac60276a029"
+      },
+      {
+        "key": "e_1_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00032717508058238"
+      },
+      {
+        "key": "e_1_3_3_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2199-10-63"
+      },
+      {
+        "key": "e_1_3_3_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/29.9.e45"
+      },
+      {
+        "key": "e_1_3_3_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1271/bbb.68.2519"
+      },
+      {
+        "key": "e_1_3_3_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1271/bbb.70332"
+      },
+      {
+        "key": "e_1_3_3_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1107/S1744309109027535"
+      },
+      {
+        "key": "e_1_3_3_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2010.03.018"
+      },
+      {
+        "key": "e_1_3_3_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/mic.0.26212-0"
+      },
+      {
+        "key": "e_1_3_3_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.02251-12"
+      },
+      {
+        "key": "e_1_3_3_38_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1007/978-3-540-34911-2_14",
+        "volume-title": "Biomining",
+        "author": "Holmes D",
+        "year": "2007",
+        "unstructured": "HolmesDBonnefoyV. 2007. Genetic and bioinformatic insights into iron and sulfur oxidation mechanisms of bioleaching organisms, p 281–307. In RawlingsDJohnsonB (ed), Biomining. Springer-Verlag, Berlin, Germany."
+      },
+      {
+        "key": "e_1_3_3_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.hydromet.2008.05.039"
+      },
+      {
+        "key": "e_1_3_3_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.71.8.4297-4306.2005"
+      },
+      {
+        "key": "e_1_3_3_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.00507-09"
+      },
+      {
+        "key": "e_1_3_3_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.02407-06"
+      },
+      {
+        "key": "e_1_3_3_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nbt1183-784"
+      },
+      {
+        "key": "e_1_3_3_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.micres.2013.04.003"
+      },
+      {
+        "key": "e_1_3_3_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0378-1119(96)00289-2"
+      }
+    ],
+    "container-title": [
+      "Journal of Bacteriology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.asm.org/doi/pdf/10.1128/JB.01472-13",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.asm.org/doi/pdf/10.1128/JB.01472-13",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2021-07-29T17:35:26Z",
+      "timestamp": 1627580126000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.asm.org/doi/10.1128/JB.01472-13"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          15
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            6,
+            15
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1128/JB.01472-13"
+    ],
+    "URL": "https://doi.org/10.1128/jb.01472-13",
+    "relation": {},
+    "ISSN": [
+      "0021-9193",
+      "1098-5530"
+    ],
+    "issn-type": [
+      {
+        "value": "0021-9193",
+        "type": "print"
+      },
+      {
+        "value": "1098-5530",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          15
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2013-12-20",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2014-03-28",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2014-05-16",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  "10.3389/fmicb.2019.00603": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2026-05-07T00:36:57Z",
+      "timestamp": 1778114217109,
+      "version": "3.51.4"
+    },
+    "reference-count": 114,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              4
+            ]
+          ],
+          "date-time": "2019-04-04T00:00:00Z",
+          "timestamp": 1554336000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100010751",
+        "name": "Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100010751",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Microbiol."
+    ],
+    "DOI": "10.3389/fmicb.2019.00603",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2019-04-04T04:47:03Z",
+      "timestamp": 1554353223000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Effect of CO2 Concentration on Uptake and Assimilation of Inorganic Carbon in the Extreme Acidophile Acidithiobacillus ferrooxidans"
+    ],
+    "prefix": "10.3389",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Mario",
+        "family": "Esparza",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eugenia",
+        "family": "Jedlicki",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Carolina",
+        "family": "González",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Dopson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David S.",
+        "family": "Holmes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21767/22471-28084.100008",
+        "article-title": "Carbonic anhydrases: nature’s way to balance CO2 concentration.",
+        "volume": "1",
+        "author": "Aggarwal",
+        "year": "2015",
+        "journal-title": "Biochem. Mol. Biol. J."
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "first-page": "511",
+        "DOI": "10.3390/life4030511",
+        "article-title": "Rio tinto: a geochemical and mineralogical terrestrial analogue of Mars.",
+        "volume": "4",
+        "author": "Amils",
+        "year": "2014",
+        "journal-title": "Life"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.1016/j.hydromet.2006.03.029",
+        "article-title": "Microarray and bioinformatic analyses suggest models for carbon metabolism in the autotroph Acidithiobacillus ferrooxidans.",
+        "volume": "83",
+        "author": "Appia-Ayme",
+        "year": "2006",
+        "journal-title": "Hydrometallurgy"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1525",
+        "DOI": "10.1093/jxb/erm297",
+        "article-title": "Multiple Rubisco forms in proteobacteria: their functional significance in relation to CO2 acquisition by the CBB cycle.",
+        "volume": "59",
+        "author": "Badger",
+        "year": "2008",
+        "journal-title": "J. Exp. Bot."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0052742",
+        "article-title": "Evolution in a changing environment.",
+        "volume": "8",
+        "author": "Baronchelli",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "7001",
+        "DOI": "10.1128/JB.06267-11",
+        "article-title": "Complete genome sequence of the aerobic marine methanotroph Methylomonas methanica MC09.",
+        "volume": "193",
+        "author": "Boden",
+        "year": "2011",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2017.01303",
+        "article-title": "Unraveling RubisCO form I and form II regulation in an uncultured organism from a deep-sea hydrothermal vent via metagenomic and mutagenesis studies.",
+        "volume": "8",
+        "author": "Bohnke",
+        "year": "2017",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1597",
+        "DOI": "10.1111/j.1462-2920.2011.02626.x",
+        "article-title": "Genomic insights into microbial oxidation and iron homeostasis in extremely acidic environments.",
+        "volume": "14",
+        "author": "Bonnefoy",
+        "year": "2012",
+        "journal-title": "Environ. Microbiol."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "4054",
+        "DOI": "10.1128/JB.00151-10",
+        "article-title": "Carbonic anhydrase is essential for Streptococcus pneumoniae growth in environmental ambient air.",
+        "volume": "192",
+        "author": "Burghout",
+        "year": "2010",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/life5010348",
+        "article-title": "Regulation of CO2 concentrating mechanism in cyanobacteria.",
+        "volume": "5",
+        "author": "Burnap",
+        "year": "2015",
+        "journal-title": "Life"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1016/j.meteno.2016.03.003",
+        "article-title": "Acidithiobacillus ferrooxidans’s comprehensive model driven analysis of the electron transfer metabolism and synthetic strain design for biomining applications.",
+        "volume": "3",
+        "author": "Campodonico",
+        "year": "2016",
+        "journal-title": "Metab. Eng. Commun."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "179",
+        "DOI": "10.21775/9781910190333.11",
+        "article-title": "“Progress in acidophile genomics,” in",
+        "author": "Cardenas",
+        "year": "2016",
+        "journal-title": "Acidophiles: Life in Extremely Acidic Environments"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "605",
+        "DOI": "10.1007/s00253-010-2795-9",
+        "article-title": "Lessons from the genomes of extremely acidophilic bacteria and archaea with special emphasis on bioleaching microorganisms.",
+        "volume": "88",
+        "author": "Cardenas",
+        "year": "2010",
+        "journal-title": "Appl. Microbiol. Biotechnol."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "607",
+        "DOI": "10.1007/BF00650756",
+        "article-title": "The system carbon dioxide-water and the Krichevsky-Kasarnovsky equation.",
+        "volume": "21",
+        "author": "Carroll",
+        "year": "1992",
+        "journal-title": "J. Solution Chem."
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "540",
+        "DOI": "10.1093/oxfordjournals.molbev.a026334",
+        "article-title": "Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis.",
+        "volume": "17",
+        "author": "Castresana",
+        "year": "2000",
+        "journal-title": "Mol. Biol. Evol."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "2103",
+        "DOI": "10.1007/s11274-008-9715-5",
+        "article-title": "Response of Acidithiobacillus ferrooxidans ATCC 23270 gene expression to acid stress.",
+        "volume": "24",
+        "author": "Chao",
+        "year": "2008",
+        "journal-title": "World J. Microbiol. Biotechnol."
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1579",
+        "DOI": "10.1038/ismej.2014.245",
+        "article-title": "Comparative metagenomic and metatranscriptomic analyses of microbial communities in acid mine drainage.",
+        "volume": "9",
+        "author": "Chen",
+        "year": "2015",
+        "journal-title": "ISME J."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0041286",
+        "article-title": "Regulation of the cyanobacterial CO2-concentrating mechanism involves internal sensing of NADP+ and α-ketogutarate levels by transcription factor CcmR.",
+        "volume": "7",
+        "author": "Daley",
+        "year": "2012",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "3488",
+        "DOI": "10.1128/JB.00442-15",
+        "article-title": "CbbR, the master regulator for microbial carbon dioxide fixation.",
+        "volume": "197",
+        "author": "Dangel",
+        "year": "2015",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1164",
+        "DOI": "10.1093/bioinformatics/btr088",
+        "article-title": "ProtTest 3: fast selection of best-fit models of protein evolution.",
+        "volume": "27",
+        "author": "Darriba",
+        "year": "2011",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "5761",
+        "DOI": "10.1128/JB.187.16.5761-5766.2005",
+        "article-title": "The carbon-concentrating mechanism of the hydrothermal vent chemolithoautotroph Thiomicrospira crunogena.",
+        "volume": "187",
+        "author": "Dobrinski",
+        "year": "2005",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "811",
+        "DOI": "10.1002/bit.21628",
+        "article-title": "Silicate mineral dissolution during heap bioleaching.",
+        "volume": "99",
+        "author": "Dopson",
+        "year": "2008",
+        "journal-title": "Biotechnol. Bioeng."
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "2620",
+        "DOI": "10.1111/j.1462-2920.2012.02749.x",
+        "article-title": "Biodiversity, metabolism and applications of acidophilic sulfur- metabolizing micro-organisms.",
+        "volume": "14",
+        "author": "Dopson",
+        "year": "2012",
+        "journal-title": "Environ. Microbiol."
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "288",
+        "DOI": "10.1016/j.hydromet.2008.11.004",
+        "article-title": "Silicate mineral dissolution in the presence of acidophilic microorganisms: implications for heap bioleaching.",
+        "volume": "96",
+        "author": "Dopson",
+        "year": "2009",
+        "journal-title": "Hydrometallurgy"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "8026",
+        "DOI": "10.1128/JB.186.23.8026-8035.2004",
+        "article-title": "Effector-mediated interaction of CbbRI and CbbRII regulators with target sequences in Rhodobacter capsulatus.",
+        "volume": "186",
+        "author": "Dubbs",
+        "year": "2004",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1946",
+        "DOI": "10.1104/pp.107.103341",
+        "article-title": "Long-term response toward inorganic carbon limitation in wild type and glycolate turnover mutants of the cyanobacterium Synechocystis sp. strain PCC 6803.",
+        "volume": "144",
+        "author": "Eisenhut",
+        "year": "2007",
+        "journal-title": "Plant Physiol."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "207",
+        "DOI": "10.4028/www.scientific.net/AMR.71-73.207",
+        "article-title": "Gene organization and CO2-responsive expression of four cbb operons in the biomining bacterium Acidithiobacillus ferrooxidans.",
+        "volume": "7",
+        "author": "Esparza",
+        "year": "2009",
+        "journal-title": "Adv. Mater. Res."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2180-10-229",
+        "article-title": "Genes and pathways for CO2 fixation in the obligate, chemolithoautotrophic acidophile, Acidithiobacillus ferrooxidans.",
+        "volume": "10",
+        "author": "Esparza",
+        "year": "2010",
+        "journal-title": "BMC Microbiol."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/femsle/fnv1108",
+        "article-title": "Expression and activity of the Calvin–Benson–Bassham cycle transcriptional regulator CbbR from Acidithiobacillus ferrooxidans in Ralstonia eutropha.",
+        "volume": "362",
+        "author": "Esparza",
+        "year": "2015",
+        "journal-title": "FEMS Microbiol. Lett."
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "169",
+        "DOI": "10.1159/000085789",
+        "article-title": "Carbonic anhydrases fused to anion transporters of the SulP family: evidence for a novel type of bicarbonate transporter.",
+        "volume": "8",
+        "author": "Felce",
+        "year": "2004",
+        "journal-title": "J. Mol. Microbiol. Biotechnol."
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-007-7359-2",
+        "author": "Frost",
+        "year": "2014",
+        "journal-title": "Carbonic Anhydrase: Mechanism, Regulation, Links to Disease, and Industrial Applications."
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1845",
+        "DOI": "10.1002/elps.200800720",
+        "article-title": "Quantifying Western blots: pitfalls of densitometry.",
+        "volume": "30",
+        "author": "Gassmann",
+        "year": "2009",
+        "journal-title": "Electrophoresis"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "1187",
+        "DOI": "10.1111/mmi.12338",
+        "article-title": "A functional glycogen biosynthesis pathway in Lactobacillus acidophilus: expression and analysis of the glg operon.",
+        "volume": "89",
+        "author": "Goh",
+        "year": "2013",
+        "journal-title": "Mol. Microbiol."
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "3689",
+        "DOI": "10.1093/jxb/erx278",
+        "article-title": "Overcoming adversity through diversity: aquatic carbon concentrating mechanisms.",
+        "volume": "68",
+        "author": "Griffiths",
+        "year": "2017",
+        "journal-title": "J. Exp. Bot."
+      },
+      {
+        "key": "B35",
+        "first-page": "12",
+        "article-title": "An RT-PCR artifact in the characterization of bacterial operons.",
+        "volume": "3",
+        "author": "Guacucano",
+        "year": "2000",
+        "journal-title": "Electron. J. Biotechnol."
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "2019",
+        "DOI": "10.1128/AEM.03400-12",
+        "article-title": "RubisCO gene clusters found in a metagenome microarray from acid mine drainage.",
+        "volume": "79",
+        "author": "Guo",
+        "year": "2013",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "779",
+        "DOI": "10.1085/jgp.69.6.779",
+        "article-title": "Diffusion of carbon dioxide through lipid bilayer membranes: effects of carbonic anhydrase, bicarbonate, and unstirred layers.",
+        "volume": "69",
+        "author": "Gutknecht",
+        "year": "1977",
+        "journal-title": "J. Gen. Physiol."
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.1111/1574-6968.12290",
+        "article-title": "Aerobic and anaerobic oxidation of hydrogen by acidophilic bacteria.",
+        "volume": "349",
+        "author": "Hedrich",
+        "year": "2013",
+        "journal-title": "FEMS Microbiol. Lett."
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "153",
+        "DOI": "10.21775/9781910190333.10",
+        "article-title": "“Distribution of acidophilic microorganisms in natural and man-made acidic enviroments,” in",
+        "author": "Hedrich",
+        "year": "2016",
+        "journal-title": "Acidophiles: Life in Extremely Acidic Environments"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "115",
+        "DOI": "10.1007/s00284-001-0094-5",
+        "article-title": "Two copies of form I RuBisCO genes in Acidithiobacillus ferrooxidans ATCC 23270.",
+        "volume": "45",
+        "author": "Heinhorst",
+        "year": "2002",
+        "journal-title": "Curr. Microbiol."
+      },
+      {
+        "key": "B41",
+        "article-title": "TMbase – a database of membrane spanning proteins segments.",
+        "volume": "374",
+        "author": "Hofmann",
+        "year": "1993",
+        "journal-title": "Biol. Chem. Hoppe Seyler"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1083",
+        "DOI": "10.1093/molbev/msq292",
+        "article-title": "Comparative genomic analysis of fruiting body formation in Myxococcales.",
+        "volume": "28",
+        "author": "Huntley",
+        "year": "2011",
+        "journal-title": "Mol. Biol. Evol."
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1111/j.1574-6941.2011.01293.x",
+        "article-title": "Geomicrobiology of extremely acidic subsurface environments.",
+        "volume": "81",
+        "author": "Johnson",
+        "year": "2012",
+        "journal-title": "FEMS Microbiol. Ecol."
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "1350",
+        "DOI": "10.1128/JB.06418-11",
+        "article-title": "Further unraveling the regulatory twist by elucidating metabolic coinducer-mediated CbbR-cbbI promoter interactions in Rhodopseudomonas palustris CGA010.",
+        "volume": "194",
+        "author": "Joshi",
+        "year": "2012",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "772",
+        "DOI": "10.1093/molbev/mst010",
+        "article-title": "MAFFT multiple sequence alignment software version 7: improvements in performance and usability.",
+        "volume": "30",
+        "author": "Katoh",
+        "year": "2013",
+        "journal-title": "Mol. Biol. Evol."
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.1038/nature01902",
+        "article-title": "High CO2 levels in the Proterozoic atmosphere estimated from analyses of individual microfossils.",
+        "volume": "425",
+        "author": "Kaufman",
+        "year": "2003",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "340",
+        "DOI": "10.1016/j.csbj.2017.05.001",
+        "article-title": "Exploring components of the CO2-concentrating mechanism in alkaliphilic cyanobacteria through genome-based analysis.",
+        "volume": "15",
+        "author": "Klanchui",
+        "year": "2017",
+        "journal-title": "Comput. Struct. Biotechnol. J."
+      },
+      {
+        "key": "B48",
+        "article-title": "“Analysis of variance ANOVA,” in",
+        "author": "Kotz",
+        "year": "2014",
+        "journal-title": "Encyclopedia of Statistical Sciences"
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "first-page": "567",
+        "DOI": "10.1006/jmbi.2000.4315",
+        "article-title": "Predicting transmembrane protein topology with a hidden markov model: application to complete genomes.",
+        "volume": "305",
+        "author": "Krogh",
+        "year": "2001",
+        "journal-title": "J. Mol. Biol."
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.1111/j.1574-6976.1997.tb00348.x",
+        "article-title": "Organization and regulation of cbb CO2 assimilation genes in autotrophic bacteria.",
+        "volume": "21",
+        "author": "Kusian",
+        "year": "1997",
+        "journal-title": "FEMS Microbiol. Rev."
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "first-page": "5018",
+        "DOI": "10.1128/JB.184.18.5018-5026.2002",
+        "article-title": "Carbonic anhydrase is essential for growth of Ralstonia eutropha at ambient CO2 concentrations.",
+        "volume": "184",
+        "author": "Kusian",
+        "year": "2002",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "first-page": "2947",
+        "DOI": "10.1093/bioinformatics/btm404",
+        "article-title": "Clustal W and Clustal X version 2.0.",
+        "volume": "23",
+        "author": "Larkin",
+        "year": "2007",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "B53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2164-9-581",
+        "article-title": "Comparative genomic analysis of carbon and nitrogen assimilation mechanisms in three indigenous bioleaching bacteria: predictions and validations.",
+        "volume": "9",
+        "author": "Levican",
+        "year": "2008",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "first-page": "857",
+        "DOI": "10.1007/s00203-011-0723-8",
+        "article-title": "The co-culture of Acidithiobacillus ferrooxidans and Acidiphilium acidophilum enhances the growth, iron oxidation, and CO2 fixation.",
+        "volume": "193",
+        "author": "Liu",
+        "year": "2011",
+        "journal-title": "Arch. Microbiol."
+      },
+      {
+        "key": "B55",
+        "doi-asserted-by": "publisher",
+        "first-page": "1748",
+        "DOI": "10.1099/mic.0.066357-0",
+        "article-title": "Three functional beta-carbonic anhydrases in Pseudomonas aeruginosa PAO1: role in survival in ambient air.",
+        "volume": "159",
+        "author": "Lotlikar",
+        "year": "2013",
+        "journal-title": "Microbiology"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2016.01365",
+        "article-title": "Insights into the quorum sensing regulon of the acidophilic Acidithiobacillus ferrooxidans revealed by transcriptomic in the presence of an acyl homoserine lactone superagonist analog.",
+        "volume": "7",
+        "author": "Mamani",
+        "year": "2016",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "first-page": "E5354",
+        "DOI": "10.1073/pnas.1525145113",
+        "article-title": "pH determines the energetic efficiency of the cyanobacterial CO2 concentrating mechanism.",
+        "volume": "113",
+        "author": "Mangan",
+        "year": "2016",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2018.00309",
+        "article-title": "Sulfate transporters in dissimilatory sulfate reducing microorganisms: a comparative genomics analysis.",
+        "volume": "9",
+        "author": "Marietou",
+        "year": "2018",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "crossref",
+        "first-page": "8810",
+        "DOI": "10.1093/nar/gkw737",
+        "article-title": "Network analysis of transcriptomics expands regulatory landscapes in Synechococcus sp. PCC 7002.",
+        "volume": "44",
+        "author": "McClure",
+        "year": "2016",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.1139/m69-024",
+        "article-title": "Growth of Thiobacillus ferrooxidans on various substrates.",
+        "volume": "15",
+        "author": "Mcgoran",
+        "year": "1969",
+        "journal-title": "Can. J. Microbiol."
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "first-page": "6415",
+        "DOI": "10.1128/JB.185.21.6415-6424.2003",
+        "article-title": "Why is carbonic anhydrase essential to Escherichia coli?",
+        "volume": "185",
+        "author": "Merlin",
+        "year": "2003",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "first-page": "592",
+        "DOI": "10.1007/s00253-003-1402-8",
+        "article-title": "A gene homologous to beta-type carbonic anhydrase is essential for the growth of Corynebacterium glutamicum under atmospheric conditions.",
+        "volume": "63",
+        "author": "Mitsuhashi",
+        "year": "2004",
+        "journal-title": "Appl. Microbiol. Biotechnol."
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "first-page": "2687",
+        "DOI": "10.1016/j.bbamem.2012.06.007",
+        "article-title": "Membrane transport metabolons.",
+        "volume": "1818",
+        "author": "Moraes",
+        "year": "2012",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "first-page": "2490",
+        "DOI": "10.1093/bioinformatics/bty121",
+        "article-title": "Parallelization of MAFFT for large-scale multiple sequence alignments.",
+        "volume": "34",
+        "author": "Nakamura",
+        "year": "2018",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "first-page": "268",
+        "DOI": "10.1093/molbev/msu300",
+        "article-title": "IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies.",
+        "volume": "32",
+        "author": "Nguyen",
+        "year": "2015",
+        "journal-title": "Mol. Biol. Evol."
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "first-page": "159",
+        "DOI": "10.1038/newbio230159a0",
+        "article-title": "Ribulose diphosphate carboxylase regulates soybean photorespiration.",
+        "volume": "230",
+        "author": "Ogren",
+        "year": "1971",
+        "journal-title": "Nat. New Biol."
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "first-page": "1891",
+        "DOI": "10.1128/JB.183.6.1891-1898.2001",
+        "article-title": "Involvement of a CbbR homolog in low CO2-induced activation of the bicarbonate transporter operon in cyanobacteria.",
+        "volume": "183",
+        "author": "Omata",
+        "year": "2001",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "first-page": "46",
+        "DOI": "10.1093/pcp/pce005",
+        "article-title": "Changes in carboxysome structure and grouping and in photosynthetic affinity for inorganic carbon in Anabaena strain PCC 7119 (Cyanophyta) in response to modification of CO2 and Na+ supply.",
+        "volume": "42",
+        "author": "Orus",
+        "year": "2001",
+        "journal-title": "Plant Cell Physiol."
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "first-page": "2172",
+        "DOI": "10.1128/AEM.03057-12",
+        "article-title": "Anaerobic sulfur metabolism coupled to dissimilatory iron reduction in the extremophile Acidithiobacillus ferrooxidans.",
+        "volume": "79",
+        "author": "Osorio",
+        "year": "2013",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/ecosalplus.ESP-0015-2014",
+        "article-title": "Glycogen: biosynthesis and regulation.",
+        "volume": "6",
+        "author": "Preiss",
+        "year": "2014",
+        "journal-title": "EcoSal Plus"
+      },
+      {
+        "key": "B71",
+        "doi-asserted-by": "publisher",
+        "first-page": "18228",
+        "DOI": "10.1073/pnas.0405211101",
+        "article-title": "Identification of a SulP-type bicarbonate transporter in marine cyanobacteria.",
+        "volume": "101",
+        "author": "Price",
+        "year": "2004",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "crossref",
+        "first-page": "2063",
+        "DOI": "10.1128/AEM.57.7.2063-2068.1991",
+        "article-title": "Energy transduction by anaerobic ferric iron respiration in Thiobacillus ferrooxidans.",
+        "volume": "57",
+        "author": "Pronk",
+        "year": "1991",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "first-page": "2005",
+        "DOI": "10.1099/mic.0.27581-0",
+        "article-title": "The ferric iron uptake regulator (Fur) from the extreme acidophile Acidithiobacillus ferrooxidans.",
+        "volume": "151",
+        "author": "Quatrini",
+        "year": "2005",
+        "journal-title": "Microbiology"
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "first-page": "2153",
+        "DOI": "10.1093/nar/gkm068",
+        "article-title": "Bioinformatic prediction and experimental verification of Fur-regulated genes in the extreme acidophile Acidithiobacillus ferrooxidans.",
+        "volume": "35",
+        "author": "Quatrini",
+        "year": "2007",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "publisher",
+        "first-page": "300",
+        "DOI": "10.1159/000351342",
+        "article-title": "Cyanobacterial carboxysomes: microcompartments that facilitate CO2 fixation.",
+        "volume": "23",
+        "author": "Rae",
+        "year": "2013",
+        "journal-title": "J. Mol. Microbiol. Biotechnol."
+      },
+      {
+        "key": "B76",
+        "doi-asserted-by": "publisher",
+        "first-page": "689",
+        "DOI": "10.1093/molbev/mss264",
+        "article-title": "A method of alignment masking for refining the phylogenetic signal of multiple sequence alignments.",
+        "volume": "30",
+        "author": "Rajan",
+        "year": "2013",
+        "journal-title": "Mol. Biol. Evol."
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "first-page": "908",
+        "DOI": "10.1139/b91-118",
+        "article-title": "Implications of inorganic carbon utilization: ecology, evolution, and geochemistry.",
+        "volume": "69",
+        "author": "Raven",
+        "year": "1991",
+        "journal-title": "Can. J. Bot."
+      },
+      {
+        "key": "B78",
+        "doi-asserted-by": "publisher",
+        "first-page": "1693",
+        "DOI": "10.1038/ismej.2014.252",
+        "article-title": "Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed.",
+        "volume": "9",
+        "author": "Rocca",
+        "year": "2015",
+        "journal-title": "ISME J."
+      },
+      {
+        "key": "B79",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4020-8815-5_28",
+        "article-title": "“Carbon dioxide metabolism and its regulation in nonsulfur purple photosynthetic bacteria,” in",
+        "author": "Romagnoli",
+        "year": "2009",
+        "journal-title": "The Purple Phototrophic Bacteria. Advances in Photosynthesis and Respiration"
+      },
+      {
+        "key": "B80",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1038/378603a0",
+        "article-title": "Atmospheric carbon dioxide concentrations before 2.2 billion years ago.",
+        "volume": "378",
+        "author": "Rye",
+        "year": "1995",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "B81",
+        "doi-asserted-by": "publisher",
+        "first-page": "D372",
+        "DOI": "10.1093/nar/gkv1103",
+        "article-title": "The Transporter Classification Database (TCDB): recent advances.",
+        "volume": "44",
+        "author": "Saier",
+        "year": "2016",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B82",
+        "doi-asserted-by": "publisher",
+        "first-page": "7730",
+        "DOI": "10.1128/AEM.02295-15",
+        "article-title": "Strains of the harmful cyanobacterium Microcystis aeruginosa differ in gene expression and activity of inorganic carbon uptake systems at elevated CO2 Levels.",
+        "volume": "81",
+        "author": "Sandrini",
+        "year": "2015",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "B83",
+        "doi-asserted-by": "publisher",
+        "first-page": "589",
+        "DOI": "10.1038/ismej.2013.179",
+        "article-title": "Genetic diversity of inorganic carbon uptake systems causes variation in CO2 response of the cyanobacterium Microcystis.",
+        "volume": "8",
+        "author": "Sandrini",
+        "year": "2014",
+        "journal-title": "ISME J."
+      },
+      {
+        "key": "B84",
+        "doi-asserted-by": "publisher",
+        "first-page": "7546",
+        "DOI": "10.1074/jbc.M510464200",
+        "article-title": "The structure of beta-carbonic anhydrase from the carboxysomal shell reveals a distinct subclass with one active site for the price of two.",
+        "volume": "281",
+        "author": "Sawaya",
+        "year": "2006",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "B85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AEM.02096-18",
+        "article-title": "Diversity in CO2-concentrating mechanisms among chemolithoautotrophs from the genera Hydrogenovibrio, Thiomicrorhabdus, and Thiomicrospira, ubiquitous in sulfidic habitats worldwide.",
+        "author": "Scott",
+        "year": "2019",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "B86",
+        "doi-asserted-by": "publisher",
+        "first-page": "22964",
+        "DOI": "10.1074/jbc.M603462200",
+        "article-title": "The role of the STAS domain in the function and biogenesis of a sulfate transporter as probed by random mutagenesis.",
+        "volume": "281",
+        "author": "Shibagaki",
+        "year": "2006",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "B87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep11617",
+        "article-title": "New insight into the role of the Calvin Cycle: reutilization of CO2 emitted through sugar degradation.",
+        "volume": "5",
+        "author": "Shimizu",
+        "year": "2015",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B88",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/S0065-2911(09)05501-5",
+        "article-title": "Cytoplasmic pH measurement and homeostasis in bacteria and archaea.",
+        "volume": "55",
+        "author": "Slonczewski",
+        "year": "2009",
+        "journal-title": "Adv. Microb. Physiol."
+      },
+      {
+        "key": "B89",
+        "doi-asserted-by": "publisher",
+        "first-page": "335",
+        "DOI": "10.1111/j.1574-6976.2000.tb00546.x",
+        "article-title": "Prokaryotic carbonic anhydrases.",
+        "volume": "24",
+        "author": "Smith",
+        "year": "2000",
+        "journal-title": "FEMS Microbiol. Rev."
+      },
+      {
+        "key": "B90",
+        "doi-asserted-by": "publisher",
+        "first-page": "623",
+        "DOI": "10.1128/JB.186.3.623-630.2004",
+        "article-title": "A novel evolutionary lineage of carbonic anhydrase (epsilon class) is a component of the carboxysome shell.",
+        "volume": "186",
+        "author": "So",
+        "year": "2004",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B91",
+        "first-page": "175",
+        "article-title": "A hidden Markov model for predicting transmembrane helices in protein sequences.",
+        "volume": "6",
+        "author": "Sonnhammer",
+        "year": "1998",
+        "journal-title": "Proc. Int. Conf. Intell. Syst. Mol. Biol."
+      },
+      {
+        "key": "B92",
+        "doi-asserted-by": "publisher",
+        "first-page": "376",
+        "DOI": "10.4028/www.scientific.net/AMR.825.376",
+        "article-title": "From mesophilic to moderate thermophilic populations in an industrial heap bioleaching process.",
+        "volume": "825",
+        "author": "Soto",
+        "year": "2013",
+        "journal-title": "Adv. Mater. Res."
+      },
+      {
+        "key": "B93",
+        "doi-asserted-by": "publisher",
+        "first-page": "6418",
+        "DOI": "10.1128/JB.05380-11",
+        "article-title": "Genome sequence of the Arctic methanotroph Methylobacter tundripaludum SV96.",
+        "volume": "193",
+        "author": "Svenning",
+        "year": "2011",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B94",
+        "doi-asserted-by": "publisher",
+        "first-page": "D362",
+        "DOI": "10.1093/nar/gkw937",
+        "article-title": "The STRING database in 2017: quality-controlled protein-protein association networks, made broadly accessible.",
+        "volume": "45",
+        "author": "Szklarczyk",
+        "year": "2017",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B95",
+        "doi-asserted-by": "publisher",
+        "first-page": "1515",
+        "DOI": "10.1093/jxb/erm361",
+        "article-title": "Distinct form I, II, III, and IV Rubisco proteins from the three kingdoms of life provide clues about Rubisco evolution and structure/function relationships.",
+        "volume": "59",
+        "author": "Tabita",
+        "year": "2008",
+        "journal-title": "J. Exp. Bot."
+      },
+      {
+        "key": "B96",
+        "doi-asserted-by": "publisher",
+        "first-page": "355",
+        "DOI": "10.5511/plantbiotechnology.22.355",
+        "article-title": "Carbon metabolism in the Calvin cycle.",
+        "volume": "22",
+        "author": "Tamoi",
+        "year": "2005",
+        "journal-title": "Plant Biotechnol."
+      },
+      {
+        "key": "B97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/min7060106",
+        "article-title": "Microbial diversity and community assembly across environmental gradients in acid mine drainage.",
+        "volume": "7",
+        "author": "Teng",
+        "year": "2017",
+        "journal-title": "Minerals"
+      },
+      {
+        "key": "B98",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1002/bmb.20461",
+        "article-title": "Real-time PCR (qPCR) primer design using free online software.",
+        "volume": "39",
+        "author": "Thornton",
+        "year": "2011",
+        "journal-title": "Biochem. Mol. Biol. Educ."
+      },
+      {
+        "key": "B99",
+        "doi-asserted-by": "publisher",
+        "first-page": "744",
+        "DOI": "10.4319/lo.2000.45.3.0744",
+        "article-title": "Evolutionary and ecological perspectives on carbon acquisition in phytoplankton.",
+        "volume": "45",
+        "author": "Tortell",
+        "year": "2000",
+        "journal-title": "Limnol. Oceanogr."
+      },
+      {
+        "key": "B100",
+        "doi-asserted-by": "publisher",
+        "first-page": "3615",
+        "DOI": "10.1099/mic.0.28056-0",
+        "article-title": "The role of two CbbRs in the transcriptional regulation of three ribulose-1,5-bisphosphate carboxylase/oxygenase genes in Hydrogenovibrio marinus strain MH-110.",
+        "volume": "151",
+        "author": "Toyoda",
+        "year": "2005",
+        "journal-title": "Microbiology"
+      },
+      {
+        "key": "B101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms9883",
+        "article-title": "Identification and characterization of multiple rubisco activases in chemoautotrophic bacteria.",
+        "volume": "6",
+        "author": "Tsai",
+        "year": "2015",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "B102",
+        "doi-asserted-by": "publisher",
+        "first-page": "99",
+        "DOI": "10.2307/3001913",
+        "article-title": "Comparing individual means in the analysis of variance.",
+        "volume": "5",
+        "author": "Tukey",
+        "year": "1949",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "B103",
+        "doi-asserted-by": "publisher",
+        "first-page": "471",
+        "DOI": "10.1016/j.hydromet.2010.03.028",
+        "article-title": "Comparative genomics begins to unravel the ecophysiology of bioleaching.",
+        "volume": "104",
+        "author": "Valdés",
+        "year": "2010",
+        "journal-title": "Hydrometallurgy"
+      },
+      {
+        "key": "B104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2164-9-597",
+        "article-title": "Acidithiobacillus ferrooxidans metabolism: from genome sequence to industrial applications.",
+        "volume": "9",
+        "author": "Valdes",
+        "year": "2008",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "B105",
+        "doi-asserted-by": "publisher",
+        "first-page": "7529",
+        "DOI": "10.1007/s00253-013-4954-2",
+        "article-title": "Progress in bioleaching: fundamentals and mechanisms of bacterial metal sulfide oxidation–part A.",
+        "volume": "97",
+        "author": "Vera",
+        "year": "2013",
+        "journal-title": "Appl. Microbiol. Biotechnol."
+      },
+      {
+        "key": "B106",
+        "doi-asserted-by": "publisher",
+        "first-page": "5224",
+        "DOI": "10.1128/jb.173.16.5224-5229.1991",
+        "article-title": "rbcR [correction of rcbR], a gene coding for a member of the LysR family of transcriptional regulators, is located upstream of the expressed set of ribulose 1,5-bisphosphate carboxylase/oxygenase genes in the photosynthetic bacterium Chromatium vinosum.",
+        "volume": "173",
+        "author": "Viale",
+        "year": "1991",
+        "journal-title": "J. Bacteriol."
+      },
+      {
+        "key": "B107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.0020303",
+        "article-title": "Genomic insights into methanotrophy: the complete genome sequence of Methylococcus capsulatus (Bath).",
+        "volume": "2",
+        "author": "Ward",
+        "year": "2004",
+        "journal-title": "PLoS Biol."
+      },
+      {
+        "key": "B108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fbioe.2016.00095",
+        "article-title": "Toward multiscale models of cyanobacterial growth: a modular approach.",
+        "volume": "4",
+        "author": "Westermark",
+        "year": "2016",
+        "journal-title": "Front. Bioeng. Biotechnol."
+      },
+      {
+        "key": "B109",
+        "doi-asserted-by": "publisher",
+        "first-page": "4013",
+        "DOI": "10.1016/j.jmb.2016.07.015",
+        "article-title": "A PII-like protein regulated by bicarbonate: structural and biochemical studies of the carboxysome-associated CPII protein.",
+        "volume": "428",
+        "author": "Wheatley",
+        "year": "2016",
+        "journal-title": "J. Mol. Biol."
+      },
+      {
+        "key": "B110",
+        "year": "2018",
+        "journal-title": "Bjerrum Plot."
+      },
+      {
+        "key": "B111",
+        "doi-asserted-by": "publisher",
+        "first-page": "2901",
+        "DOI": "10.1099/ijs.0.049270-0",
+        "article-title": "Proposal for a new class within the phylum Proteobacteria, Acidithiobacillia classis nov., with the type order Acidithiobacillales, and emended description of the class Gammaproteobacteria.",
+        "volume": "63",
+        "author": "Williams",
+        "year": "2013",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "B112",
+        "doi-asserted-by": "publisher",
+        "first-page": "1608",
+        "DOI": "10.1093/bioinformatics/btq249",
+        "article-title": "PSORTb 3.0: improved protein subcellular localization prediction with refined localization subcategories and predictive capabilities for all prokaryotes.",
+        "volume": "26",
+        "author": "Yu",
+        "year": "2010",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "B113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12863-016-0330-4",
+        "article-title": "Metagenome-scale analysis yields insights into the structure and function of microbial communities in a copper bioleaching heap.",
+        "volume": "17",
+        "author": "Zhang",
+        "year": "2016",
+        "journal-title": "BMC Genetics"
+      },
+      {
+        "key": "B114",
+        "doi-asserted-by": "publisher",
+        "first-page": "3406",
+        "DOI": "10.1093/nar/gkg595",
+        "article-title": "Mfold web server for nucleic acid folding and hybridization prediction.",
+        "volume": "31",
+        "author": "Zuker",
+        "year": "2003",
+        "journal-title": "Nucleic Acids Res."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Microbiology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/article/10.3389/fmicb.2019.00603/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2020-12-05T12:53:02Z",
+      "timestamp": 1607172782000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/article/10.3389/fmicb.2019.00603/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ]
+    },
+    "references-count": 114,
+    "alternative-id": [
+      "10.3389/fmicb.2019.00603"
+    ],
+    "URL": "https://doi.org/10.3389/fmicb.2019.00603",
+    "relation": {},
+    "ISSN": [
+      "1664-302X"
+    ],
+    "issn-type": [
+      {
+        "value": "1664-302X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ]
+    },
+    "article-number": "603"
+  }
+}

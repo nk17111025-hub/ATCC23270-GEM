@@ -1,0 +1,10 @@
+{
+  "species": true,
+  "strain": true,
+  "taxonomy": true,
+  "taxonomy_id": "243159",
+  "organism_code": "afr",
+  "info_response": "afr\tAcidithiobacillus ferrooxidans ATCC 23270\nT00810\t3147 proteins, 1664 proteins with KOs\n\t1323 RNAs, 93 RNAs with KOs\n\tKanehisa Laboratories\n\nlinked db\tpathway\n\tbrite\n\tmodule\n\tko\n\tgenome\n\tenzyme\n\tncbi-proteinid\n\tuniprot\n",
+  "official_identity_page": "https://www.kegg.jp/kegg-bin/show_organism?org=afr",
+  "taxonomy_evidence": "KEGG official organism page visibly identifies TAX:243159; current page was reviewed in in-app browser on 2026-09-23"
+}

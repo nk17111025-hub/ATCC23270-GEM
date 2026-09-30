@@ -1,0 +1,10 @@
+﻿来源: https://websvc.biocyc.org/apixml
+函数: reactions-of-enzyme
+对象: GCF_000021485:AFE_RS08840-MONOMER
+detail: full
+获取时间: 2026-09-23T08:43:08.0499767+08:00
+HTTP状态: 200
+Content-Type: text/xml
+文件大小: 35814
+SHA256: 4BC2E2C0AB652ECBD6D4D337AD5D1F075ECA026D49DEF351E9FEFEB66777BAB5
+响应头文件: D:\嗜酸氧化亚铁硫杆菌\03_BioCyc\C2-1\访问与版本记录\apixml_reactions-of-enzyme_AFE_RS08840-MONOMER_full_20260923_084224.headers.txt

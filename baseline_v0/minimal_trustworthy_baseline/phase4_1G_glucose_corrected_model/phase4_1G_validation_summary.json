@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-09-26T11:45:59+08:00",
+  "frozen_v1_sha256": "bd9715e6d2419a5bd718ae728721626f9d2ecb0bf566b9bf7198fe5d3689af8c",
+  "frozen_v1_sha256_match": true,
+  "glucokinase_locus": {
+    "legacy_locus": "AFE_2841",
+    "old_refseq": "AFE_RS13045",
+    "current_locus": "RU820_RS13140",
+    "protein": "WP_012537424.1",
+    "resolution": "GLUCOKINASE_CANDIDATE_ONLY",
+    "bdgk_gpr": "GLUCOKINASE_GPR_UNRESOLVED"
+  },
+  "corrections": {
+    "BDGK": {
+      "lb": "0",
+      "reason": "forward-only (block reverse ATP-generating glucose formation)"
+    },
+    "G6PDH2": {
+      "lb": "-1000",
+      "reason": "open oxidative PPP direction (G6PDH EC 1.1.1.49)"
+    },
+    "GAPD1": {
+      "lb": "-1000",
+      "reason": "open glycolytic direction (type-I GAPDH reversible)"
+    },
+    "GAPD2": {
+      "lb": "-1000",
+      "reason": "open glycolytic direction (AFE_3251 NADP variant)"
+    },
+    "PGK": {
+      "lb": "-1000",
+      "reason": "open glycolytic direction (reviewed reversible PGK)"
+    },
+    "glucose_uptake": "ADD provisional native uptake; NATIVE_GLUCOSE_UPTAKE_GPR_UNRESOLVED (T0/TH)"
+  },
+  "baseline_regression": {
+    "FIM": 0.052076387,
+    "TTM": 0.052076387,
+    "TSM": 0.052076387,
+    "pass": true,
+    "free_ATP_NADH_NADPH": 0.0
+  },
+  "glucose_result": {
+    "biomass_increases": true,
+    "FeS_oxidation_retained": true,
+    "oxidative_PPP_used": false,
+    "lower_EMP_glycolysis_used": false,
+    "RUBISCO_dependent": true,
+    "RUBISCO_KO": "infeasible",
+    "detour_disappears": false
+  },
+  "artifact_flags": [
+    "NADTRHD large flux up to ~9.3 (confidence 1, no GPR) at high glucose",
+    "glucose growth is RUBISCO/CO2-fixation dependent, not heterotrophic",
+    "Fe2 uptake saturates -1000 bound at high glucose (energy-limited)",
+    "no glyoxylate-shunt activation (MALS=0); no free ATP/NADH/NADPH cycle"
+  ],
+  "final_status": "PHASE4_1G_PASS_WITH_TRANSPORT_UNCERTAINTY",
+  "candidate_model_sha": {
+    "T0": "3b7d6fda5f5b1b30369f65db44a2036c919401470a43b2be35792207afc50345",
+    "TH": "ea404ac16cdeb42b90ea2581f6592d8e7aa28dc4b9553707be9a770f88428933"
+  }
+}

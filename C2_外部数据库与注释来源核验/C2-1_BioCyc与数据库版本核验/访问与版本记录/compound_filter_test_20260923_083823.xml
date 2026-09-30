@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ptools-xml ptools-version='30.0' xml:base='http://BioCyc.org/xmlquery?%5bc:c%3c-GCF_000021485^^compounds,#c^reactions%3e0%5d'>
+  <metadata>
+    <url>http://BioCyc.org/</url>
+    <service_name>xmlquery</service_name>
+    <query>[c:c&lt;-GCF_000021485^^compounds,#c^reactions&gt;0]</query>
+    <num_results>0</num_results>
+    <error>An error has occurred during the execution of the query.
+Function genExp-&gt;code detected the following error: the given attribute name  REACTIONS  for operator  ^  in expression  (c ^ reactions)  is not a queryable attribute for class  Compounds.
+</error>
+  </metadata>
+</ptools-xml>

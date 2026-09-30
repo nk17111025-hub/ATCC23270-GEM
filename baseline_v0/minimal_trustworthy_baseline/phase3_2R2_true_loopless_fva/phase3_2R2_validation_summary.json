@@ -1,0 +1,35 @@
+{
+  "v1_sha256": "bd9715e6d2419a5bd718ae728721626f9d2ecb0bf566b9bf7198fe5d3689af8c",
+  "reference_growth": {
+    "FIM": 0.05207638710273945,
+    "TTM": 0.05207638540658722,
+    "TSM": 0.05207638710274027
+  },
+  "conditions": 3,
+  "fractions": [
+    1.0,
+    0.95
+  ],
+  "priority_reactions_requested": 18,
+  "priority_reactions_present": 18,
+  "standard_fva_contexts_completed": 6,
+  "fastSNP_contexts_attempted": 6,
+  "fastSNP_contexts_completed": 0,
+  "cycleFreeFlux_fallback_contexts": 6,
+  "rows_with_valid_fastSNP_bounds": 0,
+  "rows_with_valid_cycleFreeFlux_bounds": 108,
+  "bound_consistency_failures": 7,
+  "blockers": 0,
+  "watch_items": [
+    "BDGK",
+    "ACCOAC",
+    "NADTRHD",
+    "MALS",
+    "GLXCL",
+    "GLYCK",
+    "GLXR",
+    "MDH",
+    "FUM"
+  ],
+  "note": "fastSNP (MILP) loopless FVA computationally prohibitive with GLPK; cycleFreeFlux (Saa-Nielsen convex) loopless FVA completed all 6 contexts and provides loopless min/max bounds."
+}

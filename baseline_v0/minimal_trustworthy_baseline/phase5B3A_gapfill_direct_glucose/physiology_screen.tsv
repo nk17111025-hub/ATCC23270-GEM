@@ -1,0 +1,2 @@
+solution	biomass	glucose	fe2	fe2_frac_WT	o2	o2_frac_WT	co2	h2	flag	note
+R10_G6PDH_NAD_FIM	0.068064	-0.4357	-113.29	0.689	-27.716	0.717	0.0	0.0	PHYSIOLOGY_OK	glucose 0.44, Fe2 69% WT, O2 72% WT, CO2=0, H2=0, no free-energy loop

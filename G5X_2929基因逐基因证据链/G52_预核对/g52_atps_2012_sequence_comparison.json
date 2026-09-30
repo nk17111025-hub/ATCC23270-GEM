@@ -1,0 +1,82 @@
+{
+  "paper_doi": "10.6026/97320630008695",
+  "paper_assayed_gene_accession": "FM177944.1",
+  "current_locus": "RU820_RS02615",
+  "current_wp": "WP_012536192.1",
+  "legacy_afe": "AFE_0539",
+  "old_and_current_cds_length_nt": 1674,
+  "old_and_current_protein_length_aa": 557,
+  "nt_differences": [
+    {
+      "position_1_based": 45,
+      "FM177944": "T",
+      "current": "C"
+    },
+    {
+      "position_1_based": 121,
+      "FM177944": "A",
+      "current": "C"
+    },
+    {
+      "position_1_based": 200,
+      "FM177944": "T",
+      "current": "C"
+    },
+    {
+      "position_1_based": 268,
+      "FM177944": "C",
+      "current": "A"
+    },
+    {
+      "position_1_based": 1009,
+      "FM177944": "T",
+      "current": "C"
+    },
+    {
+      "position_1_based": 1020,
+      "FM177944": "C",
+      "current": "T"
+    },
+    {
+      "position_1_based": 1434,
+      "FM177944": "T",
+      "current": "C"
+    }
+  ],
+  "aa_differences": [
+    {
+      "position_1_based": 41,
+      "FM177944": "I",
+      "current": "L"
+    },
+    {
+      "position_1_based": 67,
+      "FM177944": "F",
+      "current": "S"
+    },
+    {
+      "position_1_based": 90,
+      "FM177944": "R",
+      "current": "S"
+    },
+    {
+      "position_1_based": 337,
+      "FM177944": "W",
+      "current": "R"
+    }
+  ],
+  "protein_identity": 0.992819,
+  "same_length_current_proteins_ranked": [
+    {
+      "wp": "WP_012536192.1",
+      "mismatches": 4
+    },
+    {
+      "wp": "WP_012536673.1",
+      "mismatches": 525
+    }
+  ],
+  "experimental_result": "Crude E. coli extracts expressing cloned ATCC 23270 atpS formed ATP from APS and pyrophosphate; induced extract versus controls.",
+  "evidence_boundary": "Direct assay is of a near-identical, same-strain historical allele, not the exact current WP sequence. APS kinase domain activity and SFAT2 were not assayed.",
+  "sequence_source": "https://www.ebi.ac.uk/ena/browser/view/FM177944"
+}

@@ -1,0 +1,4 @@
+证据ID	对象	基因或反应	来源记录ID	菌株	证据类型	官方链接	文献ID	检索日期	证据结论	限制
+E-D3-001	organism	afe	KEGG-afe-info	Acidithiobacillus ferrooxidans ATCC 53993	官方数据库记录	https://rest.kegg.jp/info/afe		2026-09-22	可核实为 ATCC 53993 记录	菌株不匹配，不能外推 ATCC 23270
+E-D3-002	反应规范化接口	RHEA:10000 等 5 条样例	RHEA-query-limit5	未指定菌株	官方数据库查询结果	https://www.rhea-db.org/rhea/		2026-09-22	字段和交叉引用接口可用	样例未证明 ATCC 23270 存在该反应
+E-D3-003	同株基因清单	GCF_049532655.1	B1-current-assembly	Acidithiobacillus ferrooxidans ATCC 23270	NCBI 同株组装记录	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049532655.1/		2026-09-22	B1 已真实落盘	D3 未重新下载或改写 B1

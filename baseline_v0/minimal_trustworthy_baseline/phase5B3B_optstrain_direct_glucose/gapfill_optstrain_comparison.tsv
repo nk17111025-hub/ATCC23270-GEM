@@ -1,0 +1,6 @@
+reaction	gapfill_5B3A	optstrain_5B3B	classification
+G6PDH_NAD (NAD-G6PDH)	found (R10)	found (R10+R25)	CONSENSUS
+ICL	found (R10, degenerate pre-fix)	found (R25)	PARTIAL_CONSENSUS
+PEPCK/PEPS/PPDK/PC/ME	found (pre-fix)	found (R25)	PARTIAL_CONSENSUS
+PFL	not in 5B3A universe	found (R10, minor)	OPTSTRAIN_ONLY
+NADHDH	found (pre-fix, zero flux)	found (R25, minor)	LOW_VALUE

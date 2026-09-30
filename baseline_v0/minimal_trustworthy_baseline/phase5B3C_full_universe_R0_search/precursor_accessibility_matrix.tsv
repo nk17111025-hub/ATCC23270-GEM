@@ -1,0 +1,5 @@
+precursor	R0_accessibility
+3PG/serine/glycine	INACCESSIBLE (no Rubisco)
+pyruvate/acetyl-CoA	theoretically reachable via ED but global infeasibility blocks growth
+R5P/nucleotides	reachable via PPP but global infeasibility blocks growth
+OAA/alpha-KG	reachable via anaplerosis/TCA but global infeasibility blocks growth

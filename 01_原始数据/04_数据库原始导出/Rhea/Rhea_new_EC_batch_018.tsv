@@ -1,0 +1,13 @@
+Reaction identifier	Equation	EC number	ChEBI identifier	Cross-reference (KEGG)	Cross-reference (MetaCyc)
+RHEA:13185	4 porphobilinogen + H2O = hydroxymethylbilane + 4 NH4(+)	EC:2.5.1.61	CHEBI:58126;CHEBI:15377;CHEBI:57845;CHEBI:28938	KEGG:R00084	MetaCyc:OHMETHYLBILANESYN-RXN
+RHEA:14053	D-arabinose 5-phosphate + phosphoenolpyruvate + H2O = 3-deoxy-alpha-D-manno-2-octulosonate-8-phosphate + phosphate	EC:2.5.1.55	CHEBI:57693;CHEBI:58702;CHEBI:15377;CHEBI:85985;CHEBI:43474	KEGG:R03254	MetaCyc:KDO-8PSYNTH-RXN
+RHEA:14717	D-erythrose 4-phosphate + phosphoenolpyruvate + H2O = 7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate + phosphate	EC:2.5.1.54	CHEBI:16897;CHEBI:58702;CHEBI:15377;CHEBI:58394;CHEBI:43474	KEGG:R01826	MetaCyc:DAHPSYN-RXN
+RHEA:18681	phosphoenolpyruvate + UDP-N-acetyl-alpha-D-glucosamine = UDP-N-acetyl-3-O-(1-carboxyvinyl)-alpha-D-glucosamine + phosphate	EC:2.5.1.7	CHEBI:58702;CHEBI:57705;CHEBI:68483;CHEBI:43474	KEGG:R00660	MetaCyc:UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN
+RHEA:20772	2 6,7-dimethyl-8-(1-D-ribityl)lumazine + H(+) = 5-amino-6-(D-ribitylamino)uracil + riboflavin	EC:2.5.1.9	CHEBI:58201;CHEBI:15378;CHEBI:15934;CHEBI:57986	KEGG:R00066	MetaCyc:RIBOFLAVIN-SYN-RXN
+RHEA:21080	L-methionine + ATP + H2O = S-adenosyl-L-methionine + phosphate + diphosphate	EC:2.5.1.6	CHEBI:57844;CHEBI:30616;CHEBI:15377;CHEBI:59789;CHEBI:43474;CHEBI:33019	KEGG:R00177	MetaCyc:S-ADENMETSYN-RXN
+RHEA:25888	iminosuccinate + dihydroxyacetone phosphate = quinolinate + phosphate + 2 H2O + H(+)	EC:2.5.1.72	CHEBI:77875;CHEBI:57642;CHEBI:29959;CHEBI:43474;CHEBI:15377;CHEBI:15378	KEGG:R04292	MetaCyc:QUINOLINATE-SYNTHA-RXN
+RHEA:26152	(2S)-2-hydroxy-3-oxobutyl phosphate + 5-amino-6-(D-ribitylamino)uracil = 6,7-dimethyl-8-(1-D-ribityl)lumazine + phosphate + 2 H2O + H(+)	EC:2.5.1.78	CHEBI:58830;CHEBI:15934;CHEBI:58201;CHEBI:43474;CHEBI:15377;CHEBI:15378	KEGG:R04457	MetaCyc:LUMAZINESYN-RXN
+RHEA:26482	adenosine(37) in tRNA + dimethylallyl diphosphate = N(6)-dimethylallyladenosine(37) in tRNA + diphosphate	EC:2.5.1.75	CHEBI:74411;CHEBI:57623;CHEBI:74415;CHEBI:33019	KEGG:R01122	MetaCyc:RXN0-6274
+RHEA:27551	8 isopentenyl diphosphate + (2E,6E)-farnesyl diphosphate = di-trans,octa-cis-undecaprenyl diphosphate + 8 diphosphate	EC:2.5.1.31	CHEBI:128769;CHEBI:175763;CHEBI:58405;CHEBI:33019	KEGG:R06447	MetaCyc:RXN-8999
+RHEA:27798	5 isopentenyl diphosphate + (2E,6E)-farnesyl diphosphate = all-trans-octaprenyl diphosphate + 5 diphosphate	EC:2.5.1.90	CHEBI:128769;CHEBI:175763;CHEBI:57711;CHEBI:33019	KEGG:R09248	MetaCyc:RXN-8992
+RHEA:31547	2 (2E,6E)-farnesyl diphosphate = 15-cis-4,4'-diapophytoene + 2 diphosphate	EC:2.5.1.96	CHEBI:175763;CHEBI:62738;CHEBI:33019	KEGG:R07652	MetaCyc:RXN-12321

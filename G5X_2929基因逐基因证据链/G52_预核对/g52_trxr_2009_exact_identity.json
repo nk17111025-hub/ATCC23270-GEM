@@ -1,0 +1,17 @@
+{
+  "locus": "RU820_RS01820",
+  "wp": "WP_009566072.1",
+  "legacy_afe": "AFE_0375",
+  "paper_doi": "10.1007/s00284-009-9390-2",
+  "paper_strain": "ATCC 23270",
+  "current_cds_length_nt": 972,
+  "forward_gene_specific_tail": "GATCCGAAAAGTGTCATCGATGAAAAAC",
+  "forward_match_0_based": 6,
+  "forward_mismatches": 0,
+  "reverse_gene_specific_tail": "GCCCTCTTGTTGCTGCTCCAGCCAACGCTCC",
+  "reverse_complement_match_0_based": 938,
+  "reverse_mismatches": 0,
+  "both_primer_ends_match_current_cds": true,
+  "paper_experiment": "Recombinant TrxR directly reduced oxidized thioredoxin with NADPH; Cys142/Cys145 mutants lost most activity.",
+  "evidence_boundary": "Exact primer ends link the assayed ATCC 23270 gene to the current CDS; published assay does not repair the 2016 TRDR charge imbalance."
+}

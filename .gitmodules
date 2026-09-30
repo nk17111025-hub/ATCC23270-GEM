@@ -1,0 +1,9 @@
+[submodule "ATCC23270-GEM/external/straindesign"]
+	path = ATCC23270-GEM/external/straindesign
+	url = https://github.com/klamt-lab/straindesign.git
+[submodule "ATCC23270-GEM/external/gapseq"]
+	path = ATCC23270-GEM/external/gapseq
+	url = https://github.com/jotech/gapseq.git
+[submodule "ATCC23270-GEM/external/optstrain-reference"]
+	path = ATCC23270-GEM/external/optstrain-reference
+	url = https://github.com/Ernir/optstrain.git

@@ -1,0 +1,294 @@
+﻿总序号	RU820	WP	查询ID	命中数	DOI候选	PMID候选	查询URL	状态
+1759	RU820_RS09280	WP_012536905.1	AFE_2008	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2008&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1760	RU820_RS09285	WP_012607289.1	AFE_2009	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2009&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1761	RU820_RS09290	WP_012536907.1	AFE_2011	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2011&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1762	RU820_RS09295	WP_257245768.1	AFE_2012	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2012&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1763	RU820_RS09300	WP_012536908.1	AFE_2013	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2013&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1764	RU820_RS09305	WP_012536909.1	AFE_2014	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2014&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1765	RU820_RS09310	WP_009567649.1	AFE_2015	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2015&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1766	RU820_RS09320	WP_012536910.1	AFE_2017	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2017&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1767	RU820_RS09325	WP_009565650.1	AFE_2018	1	10.3389/fbioe.2018.00157	30420950	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2018&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1768	RU820_RS09330	WP_009565651.1	AFE_2019	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2019&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1769	RU820_RS09335	WP_012536911.1	WP_012536911.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536911.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1770	RU820_RS09340	WP_012536912.1	AFE_2021	2	10.3389/fmicb.2019.00592;10.3390/genes11080844	30984136;32722087	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2021&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1771	RU820_RS09345	WP_012536913.1	AFE_2022	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2022&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1772	RU820_RS09350	WP_307871269.1	WP_307871269.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_307871269.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1773	RU820_RS09355	WP_012536915.1	AFE_2024	2	10.1128/aem.03057-12;10.3389/fmicb.2016.01365	23354702;27683573	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2024&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1774	RU820_RS09360	WP_012536916.1	AFE_2025	4	10.3389/fmicb.2016.01365;10.1128/aem.03057-12;10.3389/fmicb.2019.00592;10.1128/aem.07230-11	27683573;23354702;30984136;22210219	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2025&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1775	RU820_RS09365	WP_012536917.1	AFE_2026	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2026&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1776	RU820_RS09370	WP_012607292.1	AFE_2027	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2027&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1777	RU820_RS09375	WP_012536919.1	AFE_2028	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2028&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1778	RU820_RS09380	WP_012536920.1	AFE_2029	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2029&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1779	RU820_RS09385	WP_012536921.1	AFE_2031	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2031&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1780	RU820_RS09390	WP_012536922.1	AFE_2032	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2032&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1781	RU820_RS09395	WP_009561000.1	AFE_2033	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2033&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1782	RU820_RS09400	WP_012536923.1	AFE_2034	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2034&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1783	RU820_RS09405	WP_012607294.1	AFE_2035	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2035&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1784	RU820_RS09410	WP_009566498.1	AFE_2036	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2036&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1785	RU820_RS09415	WP_012536925.1	AFE_2037	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2037&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1786	RU820_RS09420	WP_009566496.1	AFE_2040	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2040&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1787	RU820_RS09425	WP_012536926.1	AFE_2041	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2041&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1788	RU820_RS09430	WP_012607299.1	AFE_2043	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2043&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1789	RU820_RS09435	WP_012536928.1	AFE_2044	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2044&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1790	RU820_RS09440	WP_012536929.1	AFE_2045	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2045&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1791	RU820_RS09450	WP_012536930.1	AFE_2047	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2047&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1792	RU820_RS09455	WP_012536932.1	AFE_2050	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2050&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1793	RU820_RS09460	WP_009564632.1	WP_009564632.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009564632.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1794	RU820_RS09465	WP_012536933.1	AFE_2052	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2052&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1795	RU820_RS09470	WP_012536934.1	AFE_2053	1	10.1128/aem.03057-12	23354702	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2053&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1796	RU820_RS09475	WP_012536935.1	AFE_2054	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2054&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1797	RU820_RS09485	WP_012536936.1	AFE_2056	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2056&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1798	RU820_RS09490	WP_012536937.1	AFE_2057	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2057&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1799	RU820_RS09495	WP_009561802.1	AFE_2058	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2058&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1800	RU820_RS09500	WP_012536938.1	AFE_2059	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2059&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1801	RU820_RS09505	WP_012536939.1	AFE_2060	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2060&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1802	RU820_RS09510	WP_225487043.1	AFE_2061	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2061&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1803	RU820_RS09515	WP_225487044.1	AFE_2062	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2062&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1804	RU820_RS09520	WP_012536942.1	AFE_2063	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2063&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1805	RU820_RS09525	WP_012607305.1	WP_012607305.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607305.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1806	RU820_RS09530	WP_012536944.1	AFE_2065	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2065&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1807	RU820_RS09535	WP_012536945.1	AFE_2066	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2066&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1808	RU820_RS09540	WP_012536946.1	AFE_2067	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2067&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1809	RU820_RS09545	WP_009567136.1	AFE_2068	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2068&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1810	RU820_RS09550	WP_012536947.1	AFE_2069	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2069&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1811	RU820_RS09555	WP_012536948.1	AFE_2070	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2070&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1812	RU820_RS09560	WP_012536949.1	AFE_2071	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2071&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1813	RU820_RS09565	WP_009564641.1	AFE_2072	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2072&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1814	RU820_RS09570	WP_012536950.1	AFE_2074	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2074&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1815	RU820_RS09575	WP_012536951.1	AFE_2075	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2075&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1816	RU820_RS09580	WP_009567445.1	AFE_2076	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2076&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1817	RU820_RS09585	WP_012536952.1	AFE_2077	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2077&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1818	RU820_RS09590	WP_012536953.1	AFE_2078	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2078&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1819	RU820_RS09595	WP_012536954.1	AFE_2079	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2079&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1820	RU820_RS09600	WP_012536955.1	AFE_2080	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2080&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1821	RU820_RS09605	WP_012536956.1	AFE_2081	1	10.3389/fmicb.2016.01365	27683573	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2081&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1822	RU820_RS09610	WP_225487046.1	AFE_2082	1	10.3389/fmicb.2016.01365	27683573	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2082&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1823	RU820_RS09615	WP_226833834.1	AFE_2083	1	10.3389/fmicb.2016.01365	27683573	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2083&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1824	RU820_RS09620	WP_012536959.1	AFE_2084	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2084&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1825	RU820_RS09625	WP_012536960.1	AFE_2085	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2085&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1826	RU820_RS09630	WP_009567699.1	AFE_2086	1	10.3389/fmicb.2019.00592	30984136	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2086&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1827	RU820_RS09635	WP_009567700.1	AFE_2088	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2088&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1828	RU820_RS09640	WP_157293215.1	AFE_2089	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2089&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1829	RU820_RS09645	WP_009567117.1	AFE_2090	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2090&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1830	RU820_RS09650	WP_012536962.1	AFE_2091	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2091&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1831	RU820_RS09655	WP_012536963.1	WP_012536963.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536963.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1832	RU820_RS09660	WP_012536964.1	AFE_2093	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2093&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1833	RU820_RS09665	WP_012536965.1	AFE_2094	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2094&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1834	RU820_RS09670	WP_012607314.1	AFE_2095	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2095&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1835	RU820_RS09680	WP_012536966.1	AFE_2096	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2096&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1836	RU820_RS09685	WP_012536967.1	AFE_2097	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2097&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1837	RU820_RS09690	WP_074874203.1	WP_074874203.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_074874203.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1838	RU820_RS09695	WP_148208624.1	WP_148208624.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_148208624.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1839	RU820_RS09700	WP_012536969.1	WP_012536969.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012536969.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1840	RU820_RS09710	WP_041647398.1	WP_041647398.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041647398.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1841	RU820_RS09715	WP_012536971.1	AFE_2103	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2103&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1842	RU820_RS09720	WP_012536972.1	AFE_2104	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2104&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1843	RU820_RS09725	WP_012536973.1	AFE_2105	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2105&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1844	RU820_RS09730	WP_012536974.1	AFE_2106	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2106&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1845	RU820_RS09735	WP_325064125.1	AFE_2107	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2107&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1846	RU820_RS09740	WP_229129717.1	WP_229129717.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_229129717.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1847	RU820_RS09745	WP_041646221.1	WP_041646221.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_041646221.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1848	RU820_RS09750	WP_012536979.1	AFE_2111	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2111&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1849	RU820_RS09755	WP_012536980.1	AFE_2112	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2112&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1850	RU820_RS09760	WP_012536981.1	AFE_2113	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2113&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1851	RU820_RS09765	WP_012536982.1	AFE_2114	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2114&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1852	RU820_RS09770	WP_012536983.1	AFE_2115	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2115&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1853	RU820_RS09775	WP_012536984.1	AFE_2116	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2116&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1854	RU820_RS09780	WP_012607322.1	WP_012607322.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012607322.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1855	RU820_RS09785	WP_012536985.1	AFE_2118	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2118&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1856	RU820_RS09790	WP_012536986.1	AFE_2119	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2119&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1857	RU820_RS09795	WP_012536987.1	AFE_2120	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2120&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1858	RU820_RS09800	WP_009566461.1	AFE_2121	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2121&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1859	RU820_RS09805	WP_012536988.1	AFE_2122	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2122&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1860	RU820_RS09810	WP_012536989.1	AFE_2123	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2123&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1861	RU820_RS09815	WP_226833836.1	AFE_2124	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2124&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1862	RU820_RS09820	WP_012607324.1	AFE_2125	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2125&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1863	RU820_RS09825	WP_012536992.1	AFE_2126	1	10.1007/s12223-013-0244-8	23564605	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2126&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1864	RU820_RS09830	WP_012536993.1	AFE_2127	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2127&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1865	RU820_RS09840	WP_012536995.1	AFE_2129	1	10.1371/journal.pone.0112226	25384039	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2129&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1866	RU820_RS09845	WP_009567455.1	AFE_2130	1	10.1371/journal.pone.0112226	25384039	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2130&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1867	RU820_RS09850	WP_257246597.1	WP_257246597.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_257246597.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1868	RU820_RS09855	WP_012536996.1	AFE_2131	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2131&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1869	RU820_RS09860	WP_009566247.1	AFE_2132	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2132&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1870	RU820_RS09865	WP_009566245.1	AFE_2133	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2133&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1871	RU820_RS09870	WP_225487052.1	AFE_2134	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2134&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1872	RU820_RS09875	WP_009566240.1	AFE_2135	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2135&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1873	RU820_RS09880	WP_012536999.1	AFE_2136	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2136&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1874	RU820_RS09885	WP_012537000.1	AFE_2137	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2137&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1875	RU820_RS09890	WP_012537001.1	AFE_2138	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2138&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1876	RU820_RS09895	WP_009564309.1	AFE_2139	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2139&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1877	RU820_RS09900	WP_012607327.1	AFE_2140	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2140&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1878	RU820_RS09910	WP_012537003.1	AFE_2142	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2142&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1879	RU820_RS09915	WP_236608965.1	AFE_2143	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2143&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1880	RU820_RS09920	WP_012537004.1	AFE_2144	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2144&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1881	RU820_RS09925	WP_009567014.1	AFE_2145	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2145&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1882	RU820_RS09930	WP_012537005.1	AFE_2146	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2146&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1883	RU820_RS09935	WP_009567059.1	AFE_2147	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2147&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1884	RU820_RS09940	WP_009567060.1	AFE_2148	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2148&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1885	RU820_RS09945	WP_012537006.1	AFE_2149	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2149&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1886	RU820_RS09950	WP_012537007.1	AFE_2150	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2150&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1887	RU820_RS09955	WP_012537008.1	AFE_2151	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2151&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1888	RU820_RS09960	WP_041646305.1	AFE_2152	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2152&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1889	RU820_RS09965	WP_012537010.1	AFE_2153	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2153&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1890	RU820_RS09970	WP_012537011.1	AFE_2154	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2154&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1891	RU820_RS09975	WP_012537012.1	AFE_2155	5	10.3389/fbioe.2020.543807;10.1128/aem.03057-12;10.3389/fmicb.2019.00603;10.1038/ncomms9883;10.1128/aem.07230-11	33330409;23354702;31019493;26567524;22210219	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2155&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1892	RU820_RS09980	WP_012537013.1	AFE_2156	3	10.3389/fbioe.2020.543807;10.3389/fmicb.2019.00603;10.1038/ncomms9883	33330409;31019493;26567524	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2156&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1893	RU820_RS09985	WP_012537014.1	AFE_2157	4	10.3389/fbioe.2020.543807;10.3389/fmicb.2019.00603;10.1038/ncomms9883;10.1186/1471-2164-10-394	33330409;31019493;26567524;19703284	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2157&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1894	RU820_RS09990	WP_012537015.1	AFE_2158	1	10.3389/fmicb.2019.00603	31019493	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2158&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1895	RU820_RS09995	WP_012537016.1	AFE_2159	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2159&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1896	RU820_RS10000	WP_009561663.1	AFE_2160	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2160&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1897	RU820_RS10005	WP_012537017.1	AFE_2161	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2161&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1898	RU820_RS10010	WP_012537020.1	AFE_2163	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2163&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1899	RU820_RS10015	WP_012537021.1	AFE_2165	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2165&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1900	RU820_RS10020	WP_012607330.1	AFE_2166	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2166&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1901	RU820_RS10025	WP_012537023.1	AFE_2167	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2167&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1902	RU820_RS10030	WP_226833838.1	AFE_2169	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2169&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1903	RU820_RS10035	WP_012537025.1	AFE_2170	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2170&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1904	RU820_RS10040	WP_009560702.1	AFE_2171	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2171&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1905	RU820_RS10045	WP_012537027.1	AFE_2172	1	10.1186/1471-2180-11-259	22151959	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2172&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1906	RU820_RS10050	WP_012537028.1	AFE_2173	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2173&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1907	RU820_RS10055	WP_012537029.1	AFE_2174	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2174&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1908	RU820_RS10060	WP_012607334.1	AFE_2175	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2175&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1909	RU820_RS10065	WP_012537031.1	AFE_2176	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2176&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1910	RU820_RS10070	WP_012537032.1	AFE_2177	1	10.1128/aem.03057-12	23354702	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2177&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1911	RU820_RS10075	WP_012537033.1	AFE_2178	1	10.1128/aem.03057-12	23354702	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2178&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1912	RU820_RS10080	WP_012537034.1	AFE_2179	1	10.1128/aem.03057-12	23354702	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2179&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1913	RU820_RS10085	WP_157293223.1	AFE_2181	1	10.1128/aem.03057-12	23354702	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2181&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1914	RU820_RS10090	WP_012537035.1	WP_012537035.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537035.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1915	RU820_RS10095	WP_012537036.1	AFE_2183	1	10.3389/fmicb.2019.00592	30984136	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2183&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1916	RU820_RS10100	WP_012537037.1	AFE_2184	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2184&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1917	RU820_RS10105	WP_012537038.1	AFE_2185	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2185&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1918	RU820_RS10110	WP_009561052.1	AFE_2186	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2186&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1919	RU820_RS10115	WP_225487053.1	AFE_2187	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2187&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1920	RU820_RS10120	WP_009567470.1	AFE_2188	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2188&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1921	RU820_RS10125	WP_009567471.1	WP_009567471.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009567471.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1922	RU820_RS10130	WP_012607340.1	AFE_2190	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2190&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1923	RU820_RS10135	WP_226833839.1	AFE_2192	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2192&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1924	RU820_RS10140	WP_012537042.1	AFE_2193	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2193&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1925	RU820_RS10145	WP_012537043.1	AFE_2194	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2194&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1926	RU820_RS10150	WP_009567357.1	AFE_2195	1	10.3389/fmicb.2019.00592	30984136	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2195&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1927	RU820_RS10155	WP_012537044.1	AFE_2196	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2196&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1928	RU820_RS10160	WP_009568772.1	WP_009568772.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009568772.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1929	RU820_RS10165	WP_012537045.1	AFE_2199	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2199&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1930	RU820_RS10170	WP_012607345.1	AFE_2200	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2200&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1931	RU820_RS10175	WP_009567190.1	AFE_2201	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2201&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1932	RU820_RS10180	WP_012537047.1	AFE_2203	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2203&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1933	RU820_RS10185	WP_012537048.1	WP_012537048.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537048.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1934	RU820_RS10190	WP_012537049.1	AFE_2204	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2204&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1935	RU820_RS10195	WP_012537050.1	AFE_2205	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2205&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1936	RU820_RS10200	WP_012537051.1	AFE_2206	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2206&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1937	RU820_RS10205	WP_012537052.1	AFE_2207	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2207&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1938	RU820_RS10210	WP_180830382.1	AFE_2209	1	10.3389/fmicb.2016.01365	27683573	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2209&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1939	RU820_RS10215	WP_009560977.1	AFE_2210	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2210&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1940	RU820_RS10220	WP_012537054.1	AFE_2211	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2211&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1941	RU820_RS10225	WP_012537055.1	AFE_2212	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2212&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1942	RU820_RS10235	WP_009565188.1	AFE_2214	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2214&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1943	RU820_RS10240	WP_012537056.1	AFE_2215	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2215&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1944	RU820_RS10245	WP_009565186.1	AFE_2217	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2217&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1945	RU820_RS10250	WP_012537057.1	AFE_2216	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2216&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1946	RU820_RS10255	WP_009565185.1	AFE_2218	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2218&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1947	RU820_RS10260	WP_012537058.1	AFE_2219	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2219&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1948	RU820_RS10265	WP_012537059.1	AFE_2220	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2220&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1949	RU820_RS10270	WP_012537060.1	AFE_2221	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2221&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1950	RU820_RS10275	WP_012537061.1	AFE_2222	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2222&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1951	RU820_RS10280	WP_012537062.1	AFE_2223	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2223&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1952	RU820_RS10285	WP_012537063.1	AFE_2224	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2224&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1953	RU820_RS10290	WP_012537064.1	AFE_2225	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2225&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1954	RU820_RS10295	WP_012537065.1	WP_012537065.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537065.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1955	RU820_RS10300	WP_012537066.1	WP_012537066.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537066.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1956	RU820_RS10305	WP_009569096.1	AFE_2227	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2227&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1957	RU820_RS10310	WP_009569097.1	AFE_2228	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2228&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1958	RU820_RS10315	WP_012537067.1	AFE_2229	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2229&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1959	RU820_RS10320	WP_009569099.1	AFE_2231	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2231&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1960	RU820_RS10325	WP_012537068.1	AFE_2232	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2232&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1961	RU820_RS10330	WP_012537069.1	AFE_2233	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2233&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1962	RU820_RS10335	WP_423364961.1	WP_423364961.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_423364961.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1963	RU820_RS10340	WP_012537071.1	AFE_2235	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2235&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1964	RU820_RS10345	WP_012537072.1	AFE_2238	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2238&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1965	RU820_RS10350	WP_012537073.1	AFE_2239	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2239&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1966	RU820_RS10355	WP_009566795.1	AFE_2240	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2240&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1967	RU820_RS10360	WP_012607358.1	AFE_2241	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2241&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1968	RU820_RS10365	WP_225487057.1	AFE_2242	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2242&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1969	RU820_RS10370	WP_012607360.1	AFE_2245	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2245&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1970	RU820_RS10375	WP_012537078.1	AFE_2246	1	10.3389/fmicb.2019.00592	30984136	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2246&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1971	RU820_RS10380	WP_012537079.1	AFE_2248	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2248&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1972	RU820_RS10385	WP_012537080.1	AFE_2250	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2250&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1973	RU820_RS10390	WP_012537081.1	AFE_2251	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2251&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1974	RU820_RS10395	WP_012537082.1	WP_012537082.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537082.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1975	RU820_RS10400	WP_012537083.1	AFE_2254	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2254&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1976	RU820_RS10405	WP_009568258.1	AFE_2255	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2255&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1977	RU820_RS10410	WP_012537084.1	AFE_2256	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2256&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1978	RU820_RS10415	WP_009562360.1	AFE_2257	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2257&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1979	RU820_RS10420	WP_009562361.1	AFE_2258	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2258&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1980	RU820_RS10425	WP_009562362.1	AFE_2259	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2259&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1981	RU820_RS10430	WP_012537086.1	AFE_2260	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2260&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1982	RU820_RS10435	WP_009561285.1	AFE_2261	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2261&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1983	RU820_RS10440	WP_012537087.1	AFE_2262	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2262&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1984	RU820_RS10445	WP_012537088.1	AFE_2263	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2263&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1985	RU820_RS10450	WP_012537089.1	AFE_2264	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2264&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1986	RU820_RS10455	WP_009567670.1	AFE_2265	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2265&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1987	RU820_RS10460	WP_009561437.1	AFE_2266	1	10.1074/mcp.m700042-mcp200	17911085	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2266&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1988	RU820_RS10465	WP_012607367.1	AFE_2267	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2267&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1989	RU820_RS10470	WP_012537091.1	AFE_2268	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2268&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1990	RU820_RS10475	WP_012537092.1	AFE_2269	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2269&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1991	RU820_RS10480	WP_009564717.1	AFE_2270	1	10.3389/fmicb.2019.00592	30984136	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2270&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1992	RU820_RS10485	WP_111122613.1	AFE_2271	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2271&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1993	RU820_RS10490	WP_012537094.1	AFE_2272	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2272&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1994	RU820_RS10495	WP_012537095.1	AFE_2273	1	10.3389/fmicb.2016.01365	27683573	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2273&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1995	RU820_RS10500	WP_012537096.1	AFE_2274	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2274&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1996	RU820_RS10505	WP_012607369.1	AFE_2275	1	10.3389/fmicb.2016.01365	27683573	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2275&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1997	RU820_RS10510	WP_009561136.1	AFE_2276	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2276&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1998	RU820_RS10515	WP_012537098.1	AFE_2277	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2277&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+1999	RU820_RS10520	WP_009566199.1	AFE_2278	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2278&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2000	RU820_RS10525	WP_012537099.1	AFE_2279	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2279&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2001	RU820_RS10530	WP_012537100.1	AFE_2280	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2280&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2002	RU820_RS10535	WP_012537101.1	AFE_2281	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2281&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2003	RU820_RS10540	WP_009560733.1	AFE_2282	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2282&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2004	RU820_RS10545	WP_009560734.1	AFE_2283	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2283&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2005	RU820_RS10550	WP_009560735.1	AFE_2284	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2284&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2006	RU820_RS10555	WP_009560736.1	AFE_2285	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2285&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2007	RU820_RS10560	WP_009560737.1	AFE_2286	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2286&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2008	RU820_RS10565	WP_012537102.1	AFE_2287	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2287&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2009	RU820_RS10570	WP_012537103.1	AFE_2288	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2288&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2010	RU820_RS10575	WP_009563788.1	WP_009563788.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_009563788.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2011	RU820_RS10580	WP_158303827.1	WP_158303827.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_158303827.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2012	RU820_RS10585	WP_012537105.1	AFE_2292	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2292&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2013	RU820_RS10590	WP_157293199.1	AFE_2294	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2294&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2014	RU820_RS10595	WP_009565776.1	AFE_2295	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2295&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2015	RU820_RS10600	WP_012607374.1	AFE_2296	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2296&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2016	RU820_RS10605	WP_012537106.1	AFE_2297	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2297&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2017	RU820_RS10610	WP_012537107.1	AFE_2298	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2298&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2018	RU820_RS10615	WP_012537108.1	AFE_2299	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2299&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2019	RU820_RS10620	WP_012537109.1	AFE_2300	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2300&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2020	RU820_RS10625	WP_012537110.1	AFE_2301	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2301&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2021	RU820_RS10630	WP_012537111.1	AFE_2302	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2302&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2022	RU820_RS10635	WP_012537112.1	AFE_2303	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2303&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2023	RU820_RS10640	WP_009567932.1	AFE_2304	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2304&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2024	RU820_RS10645	WP_012537114.1	AFE_2305	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2305&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2025	RU820_RS10650	WP_229129720.1	AFE_2306	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2306&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2026	RU820_RS10655	WP_009567937.1	AFE_2307	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2307&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2027	RU820_RS10660	WP_225487058.1	AFE_2309	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2309&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2028	RU820_RS10670	WP_012537116.1	AFE_2312	1	10.3390/ijms23073580	35408938	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2312&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2029	RU820_RS10675	WP_041646431.1	AFE_2313	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2313&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2030	RU820_RS10680	WP_009568083.1	AFE_2314	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2314&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2031	RU820_RS10690	WP_012537117.1	AFE_2316	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2316&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2032	RU820_RS10695	WP_012607383.1	AFE_2318	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2318&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2033	RU820_RS10700	WP_009566809.1	AFE_2319	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2319&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2034	RU820_RS10705	WP_012537119.1	AFE_2320	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2320&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2035	RU820_RS10710	WP_012537120.1	AFE_2321	1	10.1016/j.jbc.2024.107703	39173952	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2321&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2036	RU820_RS10715	WP_012537121.1	AFE_2322	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2322&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2037	RU820_RS10720	WP_012537122.1	AFE_2323	1	10.1016/j.jbc.2024.107703	39173952	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2323&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2038	RU820_RS10725	WP_012537123.1	AFE_2324	4	10.1016/j.jbc.2024.107703;10.1128/aem.03057-12;10.1128/aem.07230-11;10.1186/1471-2164-10-394	39173952;23354702;22210219;19703284	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2324&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2039	RU820_RS10730	WP_009561011.1	AFE_2325	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2325&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2040	RU820_RS10740	WP_012537124.1	AFE_2327	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2327&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2041	RU820_RS10745	WP_012537125.1	AFE_2328	1	10.3389/fmicb.2019.00592	30984136	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2328&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2042	RU820_RS10750	WP_012537126.1	AFE_2330	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2330&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2043	RU820_RS10755	WP_012537127.1	AFE_2333	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2333&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2044	RU820_RS10760	WP_012537128.1	AFE_2332	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2332&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2045	RU820_RS10770	WP_012537129.1	WP_012537129.1	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=WP_012537129.1&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2046	RU820_RS10775	WP_012537130.1	AFE_2337	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2337&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2047	RU820_RS10780	WP_012537131.1	AFE_2338	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2338&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2048	RU820_RS10785	WP_012537132.1	AFE_2339	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2339&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2049	RU820_RS10790	WP_009564692.1	AFE_2340	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2340&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2050	RU820_RS10795	WP_012537133.1	AFE_2342	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2342&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文
+2051	RU820_RS10800	WP_012537134.1	AFE_2341	0			https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AFE_2341&format=json&pageSize=20&resultType=core	候选待逐篇核实；零命中不证明无论文

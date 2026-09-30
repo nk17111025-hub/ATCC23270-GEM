@@ -1,0 +1,13 @@
+afr	Acidithiobacillus ferrooxidans ATCC 23270
+T00810	3147 proteins, 1664 proteins with KOs
+	1323 RNAs, 93 RNAs with KOs
+	Kanehisa Laboratories
+
+linked db	pathway
+	brite
+	module
+	ko
+	genome
+	enzyme
+	ncbi-proteinid
+	uniprot

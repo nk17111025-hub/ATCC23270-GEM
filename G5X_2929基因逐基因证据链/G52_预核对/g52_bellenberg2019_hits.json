@@ -1,0 +1,290 @@
+[
+  {
+    "afe": "AFE_0366",
+    "locus": "RU820_RS01775",
+    "wp": "WP_012536110.1",
+    "page": 1,
+    "wp_exact": true,
+    "snippet": "AFE_0366 WP_012536110.1 glutathione-disulfide reductase -0.03 0.98"
+  },
+  {
+    "afe": "AFE_0423",
+    "locus": "RU820_RS02050",
+    "wp": "WP_012536129.1",
+    "page": 1,
+    "wp_exact": true,
+    "snippet": "AFE_0423 WP_012536129.1 aconitate hydratase 0.77 0.01"
+  },
+  {
+    "afe": "AFE_0424",
+    "locus": "RU820_RS02055",
+    "wp": "WP_012606555.1",
+    "page": 1,
+    "wp_exact": false,
+    "snippet": "AFE_0424 WP_012536130.1 isocitrate dehydrogenase (NADP(+)) -0.28 0.15"
+  },
+  {
+    "afe": "AFE_0425",
+    "locus": "RU820_RS02060",
+    "wp": "WP_009564695.1",
+    "page": 1,
+    "wp_exact": true,
+    "snippet": "AFE_0425 WP_009564695.1 succinyl-CoA ligase subunit beta -0.24 0.26"
+  },
+  {
+    "afe": "AFE_0427",
+    "locus": "RU820_RS02070",
+    "wp": "WP_012536131.1",
+    "page": 1,
+    "wp_exact": true,
+    "snippet": "AFE_0427 WP_012536131.1 succinyl-CoA synthetase subunit alpha 0.48 0.13"
+  },
+  {
+    "afe": "AFE_0492",
+    "locus": "RU820_RS02385",
+    "wp": "WP_009566885.1",
+    "page": 1,
+    "wp_exact": true,
+    "snippet": "AFE_0492 WP_009566885.1 inorganic pyrophosphatase -0.16 0.84"
+  },
+  {
+    "afe": "AFE_0536",
+    "locus": "RU820_RS02600",
+    "wp": "WP_012536189.1",
+    "page": 1,
+    "wp_exact": true,
+    "snippet": "AFE_0536 WP_012536189.1 phosphoribulokinase -0.97 0.03"
+  },
+  {
+    "afe": "AFE_0539",
+    "locus": "RU820_RS02615",
+    "wp": "WP_012536192.1",
+    "page": 1,
+    "wp_exact": true,
+    "snippet": "AFE_0539 WP_012536192.1 adenylyl-sulfate kinase -1,79 0.01"
+  },
+  {
+    "afe": "AFE_0545",
+    "locus": "RU820_RS02640",
+    "wp": "WP_225487408.1",
+    "page": 1,
+    "wp_exact": false,
+    "snippet": "AFE_0545 WP_012536195.1 thiol:disulfide interchange protein 2.21 0.00"
+  },
+  {
+    "afe": "AFE_0363",
+    "locus": "RU820_RS01760",
+    "wp": "WP_012536107.1",
+    "page": 6,
+    "wp_exact": true,
+    "snippet": "AFE_0363 WP_012536107.1 peroxiredoxin 2.68 0.00"
+  },
+  {
+    "afe": "AFE_0545",
+    "locus": "RU820_RS02640",
+    "wp": "WP_225487408.1",
+    "page": 6,
+    "wp_exact": false,
+    "snippet": "AFE_0545 WP_012536195.1 thiol:disulfide interchange protein 2.21 0.00"
+  },
+  {
+    "afe": "AFE_0590",
+    "locus": "RU820_RS02850",
+    "wp": "WP_009564993.1",
+    "page": 6,
+    "wp_exact": true,
+    "snippet": "AFE_0590 WP_009564993.1 cold-shock protein 2.13 0.05"
+  },
+  {
+    "afe": "AFE_0450",
+    "locus": "RU820_RS02180",
+    "wp": "WP_012536142.1",
+    "page": 6,
+    "wp_exact": true,
+    "snippet": "AFE_0450 WP_012536142.1 DNA repair protein RecN 1.79 0.00"
+  },
+  {
+    "afe": "AFE_0553",
+    "locus": "RU820_RS02675",
+    "wp": "WP_012536200.1",
+    "page": 7,
+    "wp_exact": true,
+    "snippet": "AFE_0553 WP_012536200.1 thioredoxin family protein 1.33 0.22"
+  },
+  {
+    "afe": "AFE_0366",
+    "locus": "RU820_RS01775",
+    "wp": "WP_012536110.1",
+    "page": 8,
+    "wp_exact": true,
+    "snippet": "AFE_0366 WP_012536110.1 glutathione-disulfide reductase -0.03 0.98"
+  },
+  {
+    "afe": "AFE_0375",
+    "locus": "RU820_RS01820",
+    "wp": "WP_009566072.1",
+    "page": 8,
+    "wp_exact": true,
+    "snippet": "AFE_0375 WP_009566072.1 thioredoxin-disulfide reductase -0.12 0.87"
+  },
+  {
+    "afe": "AFE_0542",
+    "locus": "RU820_RS02625",
+    "wp": "WP_012536194.1",
+    "page": 8,
+    "wp_exact": true,
+    "snippet": "AFE_0542 WP_012536194.1 molecular chaperone GroEL -0.12 0.58"
+  },
+  {
+    "afe": "AFE_0543",
+    "locus": "RU820_RS02630",
+    "wp": "WP_009567579.1",
+    "page": 8,
+    "wp_exact": true,
+    "snippet": "AFE_0543 WP_009567579.1 molecular chaperone GroES -0.83 0.12"
+  },
+  {
+    "afe": "AFE_0367",
+    "locus": "RU820_RS01780",
+    "wp": "WP_009566864.1",
+    "page": 8,
+    "wp_exact": true,
+    "snippet": "AFE_0367 WP_009566864.1 glutathione amide-dependent peroxidase -2.41 0.00"
+  },
+  {
+    "afe": "AFE_0590",
+    "locus": "RU820_RS02850",
+    "wp": "WP_009564993.1",
+    "page": 9,
+    "wp_exact": true,
+    "snippet": "AFE_0590 WP_009564993.1 cold-shock protein 2.13 0.05"
+  },
+  {
+    "afe": "AFE_0429",
+    "locus": "RU820_RS02080",
+    "wp": "WP_009566205.1",
+    "page": 9,
+    "wp_exact": true,
+    "snippet": "AFE_0429 WP_009566205.1 nitrogen regulatory protein P-II 2.00 0.00"
+  },
+  {
+    "afe": "AFE_0314",
+    "locus": "RU820_RS01520",
+    "wp": "WP_012536079.1",
+    "page": 9,
+    "wp_exact": true,
+    "snippet": "AFE_0314 WP_012536079.1 transcription termination/antitermination protein NusG -1.07 0.01"
+  },
+  {
+    "afe": "AFE_0391",
+    "locus": "RU820_RS01900",
+    "wp": "WP_012536117.1",
+    "page": 9,
+    "wp_exact": true,
+    "snippet": "AFE_0391 WP_012536117.1 translation initiation factor IF-2 -2.45 0.00"
+  },
+  {
+    "afe": "AFE_0353",
+    "locus": "RU820_RS01710",
+    "wp": "WP_012536098.1",
+    "page": 9,
+    "wp_exact": true,
+    "snippet": "AFE_0353 WP_012536098.1 30S ribosomal protein S4 -5.47 0.00"
+  },
+  {
+    "afe": "AFE_0532",
+    "locus": "RU820_RS02585",
+    "wp": "WP_012536187.1",
+    "page": 12,
+    "wp_exact": true,
+    "snippet": "AFE_0532 WP_012536187.1 S-adenosylmethionine synthase 0.71 0.02 sahA"
+  },
+  {
+    "afe": "AFE_0534",
+    "locus": "RU820_RS02590",
+    "wp": "WP_009567191.1",
+    "page": 12,
+    "wp_exact": true,
+    "snippet": "AFE_0534 WP_009567191.1 adenosylhomocysteinase -0.51 0.02 metF"
+  },
+  {
+    "afe": "AFE_0535",
+    "locus": "RU820_RS02595",
+    "wp": "WP_012536188.1",
+    "page": 12,
+    "wp_exact": true,
+    "snippet": "AFE_0535 WP_012536188.1 methylenetetrahydrofolate reductase [NAD(P)H] 1.57 0.01 cbbP"
+  },
+  {
+    "afe": "AFE_0536",
+    "locus": "RU820_RS02600",
+    "wp": "WP_012536189.1",
+    "page": 12,
+    "wp_exact": true,
+    "snippet": "AFE_0536 WP_012536189.1 phosphoribulokinase -0.97 0.03 Putative operon cbb5 cbbM"
+  },
+  {
+    "afe": "AFE_0442",
+    "locus": "RU820_RS02140",
+    "wp": "WP_012536140.1",
+    "page": 13,
+    "wp_exact": true,
+    "snippet": "AFE_0442 WP_012536140.1 NAD(P)-dependent oxidoreductase 1.12 0.03"
+  },
+  {
+    "afe": "AFE_0524",
+    "locus": "RU820_RS02545",
+    "wp": "WP_012536181.1",
+    "page": 13,
+    "wp_exact": true,
+    "snippet": "AFE_0524 WP_012536181.1 peptidase S41 -1.18 0.01"
+  },
+  {
+    "afe": "AFE_0377",
+    "locus": "RU820_RS01830",
+    "wp": "WP_009566070.1",
+    "page": 13,
+    "wp_exact": true,
+    "snippet": "AFE_0377 WP_009566070.1 outer membrane lipoprotein carrier protein LolA -1.71 0.00"
+  },
+  {
+    "afe": "AFE_0451",
+    "locus": "RU820_RS02185",
+    "wp": "WP_012606559.1",
+    "page": 14,
+    "wp_exact": true,
+    "snippet": "AFE_0451 WP_012606559.1 NAD kinase 2.67 0.02"
+  },
+  {
+    "afe": "AFE_0419",
+    "locus": "RU820_RS02030",
+    "wp": "WP_012536126.1",
+    "page": 14,
+    "wp_exact": true,
+    "snippet": "AFE_0419 WP_012536126.1 transaldolase 1.74 0.00"
+  },
+  {
+    "afe": "AFE_0629",
+    "locus": "RU820_RS03035",
+    "wp": "WP_009560936.1",
+    "page": 15,
+    "wp_exact": true,
+    "snippet": "AFE_0629 WP_009560936.1 ribose-5-phosphate isomerase 0.99 0.02"
+  },
+  {
+    "afe": "AFE_0434",
+    "locus": "RU820_RS02105",
+    "wp": "WP_012536136.1",
+    "page": 15,
+    "wp_exact": true,
+    "snippet": "AFE_0434 WP_012536136.1 2,3-diketo-5-methylthiopentyl-1- phosphate enolase 0.95 0.06"
+  },
+  {
+    "afe": "AFE_0420",
+    "locus": "RU820_RS02035",
+    "wp": "WP_009562995.1",
+    "page": 16,
+    "wp_exact": true,
+    "snippet": "AFE_0420 WP_009562995.1 SCP-2 sterol transfer family protein -1.14 0.00"
+  }
+]

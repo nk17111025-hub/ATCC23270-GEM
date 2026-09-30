@@ -1,0 +1,66 @@
+[
+  {
+    "AFE": "AFE_2522",
+    "RU820": "RU820_RS11605",
+    "WP": "WP_012537238.1",
+    "given_annotation": "carbohydrate porin",
+    "uniprot_query": "gene_exact:AFE_2522 AND taxonomy_id:243159",
+    "uniprot_hits": "B7J756\tunreviewed\tCarbohydrate-selective porin, OprB family\tAFE_2522\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t418\t\t\t\t\t\tOprB family\tcarbohydrate transport [GO:0008643]\tWP_012537238.1;"
+  },
+  {
+    "AFE": "AFE_2250",
+    "RU820": "RU820_RS10385",
+    "WP": "WP_012537080.1",
+    "given_annotation": "carbohydrate porin",
+    "uniprot_query": "gene_exact:AFE_2250 AND taxonomy_id:243159",
+    "uniprot_hits": "B7J5N7\tunreviewed\tCarbohydrate-selective porin, OprB family\tAFE_2250\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t373\t\t\t\t\t\tOprB family\tcarbohydrate transport [GO:0008643]\tWP_012537080.1;"
+  },
+  {
+    "AFE": "AFE_2312",
+    "RU820": "RU820_RS10670",
+    "WP": "WP_012537116.1",
+    "given_annotation": "sugar porter MFS",
+    "uniprot_query": "gene_exact:AFE_2312 AND taxonomy_id:243159",
+    "uniprot_hits": "B7J682\tunreviewed\tSugar transporter family protein\tAFE_2312\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t452\t\t\t\t\tDOMAIN 18..441; /note=\"Major facilitator superfamily (MFS) profile\"; /evidence=\"ECO:0000259|PROSITE:PS50850\"\tMajor facilitator superfamily, Sugar transporter (TC 2.A.1.1) family\t\tWP_012537116.1;"
+  },
+  {
+    "AFE": "AFE_1971",
+    "RU820": "RU820_RS09115",
+    "WP": "WP_012536876.1",
+    "given_annotation": "MFS transporter",
+    "uniprot_query": "gene_exact:AFE_1971 AND taxonomy_id:243159",
+    "uniprot_hits": "B7JC66\tunreviewed\tTransporter, putative\tAFE_1971\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t387\t\t\t\t\tDOMAIN 9..359; /note=\"Major facilitator superfamily associated\"; /evidence=\"ECO:0000259|Pfam:PF12832\"\t\t\tWP_012536876.1;"
+  },
+  {
+    "AFE": "AFE_2841",
+    "RU820": "RU820_RS13140",
+    "WP": "WP_012537424.1",
+    "given_annotation": "ROK family protein",
+    "uniprot_query": "gene_exact:AFE_2841 AND taxonomy_id:243159",
+    "uniprot_hits": "B7J934\tunreviewed\tROK family protein\tAFE_2841\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t315\t\t\t\t\t\tROK (NagC/XylR) family\t\tWP_012537424.1;"
+  },
+  {
+    "AFE": "AFE_2025",
+    "RU820": "RU820_RS09360",
+    "WP": "WP_012536916.1",
+    "given_annotation": "G6PDH zwf",
+    "uniprot_query": "gene_exact:AFE_2025 AND taxonomy_id:243159",
+    "uniprot_hits": "B7J4N6\tunreviewed\tGlucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49)\tzwf AFE_2025\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t487\t1.1.1.49\tCATALYTIC ACTIVITY: Reaction=D-glucose 6-phosphate + NADP(+) = 6-phospho-D-glucono-1,5-lactone + NADPH + H(+); Xref=Rhea:RHEA:15841, ChEBI:CHEBI:15378, ChEBI:CHEBI:57783, ChEBI:CHEBI:57955, ChEBI:CHEBI:58349, ChEBI:CHEBI:61548; EC=1.1.1.49; Evidence={ECO:0000256|HAMAP-Rule:MF_00966};\tFUNCTION: Catalyzes the oxidation of glucose 6-phosphate to 6-phosphogluconolactone. {ECO:0000256|HAMAP-Rule:MF_00966}.\tCAUTION: Lacks conserved residue(s) required for the propagation of feature annotation. {ECO:0000256|HAMAP-Rule:MF_00966}.\tDOMAIN 9..186; /note=\"Glucose-6-phosphate dehydrogenase NAD-binding\"; /evidence=\"ECO:0000259|Pfam:PF00479\"; DOMAIN 188..484; /note=\"Glucose-6-phosphate dehydrogenase C-terminal\"; /evidence=\"ECO:0000259|Pfam:PF02781\"\tGlucose-6-phosphate dehydrogenase family\tglucose metabolic process [GO:0006006]; pentose-phosphate shunt, oxidative branch [GO:0009051]\tWP_012536916.1;"
+  },
+  {
+    "AFE": "AFE_3251",
+    "RU820": "RU820_RS15125",
+    "WP": "WP_009567621.1",
+    "given_annotation": "gap",
+    "uniprot_query": "gene_exact:AFE_3251 AND taxonomy_id:243159",
+    "uniprot_hits": "B7JBC9\tunreviewed\tGlyceraldehyde-3-phosphate dehydrogenase, type I (EC 1.2.1.-)\tgap AFE_3251\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t338\t1.2.1.-\t\t\t\tDOMAIN 3..156; /note=\"Glyceraldehyde 3-phosphate dehydrogenase NAD(P) binding\"; /evidence=\"ECO:0000259|SMART:SM00846\"\tGlyceraldehyde-3-phosphate dehydrogenase family\tglucose metabolic process [GO:0006006]\tWP_009567621.1;"
+  },
+  {
+    "AFE": "AFE_3250",
+    "RU820": "RU820_RS15120",
+    "WP": "WP_012537677.1",
+    "given_annotation": "pgk",
+    "uniprot_query": "gene_exact:AFE_3250 AND taxonomy_id:243159",
+    "uniprot_hits": "B7JBC8\treviewed\tPhosphoglycerate kinase (EC 2.7.2.3)\tpgk AFE_3250\tAcidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))\t401\t2.7.2.3\tCATALYTIC ACTIVITY: Reaction=(2R)-3-phosphoglycerate + ATP = (2R)-3-phospho-glyceroyl phosphate + ADP; Xref=Rhea:RHEA:14801, ChEBI:CHEBI:30616, ChEBI:CHEBI:57604, ChEBI:CHEBI:58272, ChEBI:CHEBI:456216; EC=2.7.2.3; Evidence={ECO:0000255|HAMAP-Rule:MF_00145};\t\t\t\tPhosphoglycerate kinase family\tgluconeogenesis [GO:0006094]; glycolytic process [GO:0006096]\tWP_012537677.1;"
+  }
+]
