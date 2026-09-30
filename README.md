@@ -4,4 +4,4 @@
 
 主要计算结果位于 `ATCC23270-GEM/results/engineering/`。第三方工具以 Git 子模块记录，克隆时使用 `git clone --recurse-submodules`。E3.0 所用 StrainDesign 本地兼容性补丁保存在 `patches/straindesign_E3_solver_status.patch`。
 
-本仓库公开。虚拟环境、`node_modules` 和临时同步缓存可从依赖重新生成，未纳入版本记录。
+Google Docs 链接文件（`.gdoc`）旁保存了对应的 `.docx` 正文导出版本。本仓库公开。虚拟环境、`node_modules` 和临时同步缓存可从依赖重新生成，未纳入版本记录。
